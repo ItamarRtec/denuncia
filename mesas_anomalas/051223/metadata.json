@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051223",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.608360+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTACIONAMIENTO 1 - UNIVERSIDAD DE LIMA",
+    "codigo_local": "35747",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 218,
+    "total_votos_validos": 201,
+    "porcentaje_participacion": 72.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413075232-05'00'",
+    "mod_date_raw": "D:20260413075232-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "fab7a46db7d917531e55b7edb63f32252dc65b309cac2caf1d02d0a9c1f18a6b",
+  "pdf_size_bytes": 855567,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:01:54+00:00",
+    "pdf_created_utc": "2026-04-13T12:52:32+00:00",
+    "delta_pdf_vs_fr_seconds": 39038.0,
+    "delta_pdf_vs_fr_hours": 10.84388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:02:11.040000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T12:52:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:53:24+00:00",
+    "delta_primer_humano_vs_fr_h": 10.849166666666667,
+    "delta_ultimo_humano_vs_fr_h": 10.858333333333333,
+    "agente_utc": "2026-04-13T02:01:49+00:00",
+    "delta_agente_vs_fr_h": -0.001388888888888889,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FREYRE ARMESTAR luis Augusto FIR 10551070 sw d0da83d80e20436d45ee0776990757d600505008",
+        "dni": "10551070",
+        "signing_time_utc": "2026-04-13T12:52:51+00:00",
+        "delta_vs_fr_h": 10.849166666666667
+      },
+      {
+        "name": "GALVEZ RODRIGUEZ lewis Benjamin FIR 10809388 sw 2bc56364bc0d72e9029a3ebebf54156eb5732aac",
+        "dni": "10809388",
+        "signing_time_utc": "2026-04-13T12:53:15+00:00",
+        "delta_vs_fr_h": 10.855833333333333
+      },
+      {
+        "name": "FLORES EZETA carlos Manuel FIR 10555110 sw d6a87aa45b3ec974bdd87c94d3935685acd0da02",
+        "dni": "10555110",
+        "signing_time_utc": "2026-04-13T12:53:24+00:00",
+        "delta_vs_fr_h": 10.858333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:01:54+00:00"
+    }
+  ]
+}

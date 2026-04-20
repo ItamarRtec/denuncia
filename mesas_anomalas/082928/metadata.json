@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "082928",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.687832+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE PARROQUIAL SAN JOSE",
+    "codigo_local": "4854",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 279,
+    "total_votos_validos": 270,
+    "porcentaje_participacion": 93.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090602-05'00'",
+    "mod_date_raw": "D:20260413090602-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "48d229ad293b2992368aee175562ff0223342b443ec66de2523deeca3b1275d7",
+  "pdf_size_bytes": 881790,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:42:45+00:00",
+    "pdf_created_utc": "2026-04-13T14:06:02+00:00",
+    "delta_pdf_vs_fr_seconds": 40997.0,
+    "delta_pdf_vs_fr_hours": 11.388055555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:58:30.321000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:06:13+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:07:20+00:00",
+    "delta_primer_humano_vs_fr_h": 11.391111111111112,
+    "delta_ultimo_humano_vs_fr_h": 11.409722222222221,
+    "agente_utc": "2026-04-13T02:42:39+00:00",
+    "delta_agente_vs_fr_h": -0.0016666666666666668,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "POLO MEDINA juana Margarita FIR 25598767 sw 1ce313e7d4a6d569f74fba99ae3972170868e3d2",
+        "dni": "25598767",
+        "signing_time_utc": "2026-04-13T14:06:13+00:00",
+        "delta_vs_fr_h": 11.391111111111112
+      },
+      {
+        "name": "QUISPE QUENALLATA efrain Leoncio FIR 25741481 sw 23c23ea56c699d504506662b68552a68027098c6",
+        "dni": "25741481",
+        "signing_time_utc": "2026-04-13T14:06:26+00:00",
+        "delta_vs_fr_h": 11.394722222222223
+      },
+      {
+        "name": "PORRAS SANCHEZ eduardo Raul FIR 08560445 sw 72a85a2994d54e47bba92d85f44d71cfc49527fc",
+        "dni": "08560445",
+        "signing_time_utc": "2026-04-13T14:06:39+00:00",
+        "delta_vs_fr_h": 11.398333333333333
+      },
+      {
+        "name": "RAMOS MORALES fernando Lucio FIR 76305362 sw 78c40cf52e2f8b84bf2d36b2fcac87365061110c",
+        "dni": "76305362",
+        "signing_time_utc": "2026-04-13T14:07:06+00:00",
+        "delta_vs_fr_h": 11.405833333333334
+      },
+      {
+        "name": "RESASCO SATALAYA sara Elke FIR 44088368 sw b51dde8ba23e89627ac62531f8acdfb817c87943",
+        "dni": "44088368",
+        "signing_time_utc": "2026-04-13T14:07:20+00:00",
+        "delta_vs_fr_h": 11.409722222222221
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:42:45+00:00"
+    }
+  ]
+}

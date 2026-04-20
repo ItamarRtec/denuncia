@@ -1,0 +1,293 @@
+{
+  "signatures": [
+    {
+      "name": "URQUIZA HUAMANCULI carmen Marcela FIR 41944180 sw ed0811a5e90a4f6f9863ba0ac4c74fa008ad1280",
+      "dni": "41944180",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:41:10+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_001,2.5.4.5=PNOPE-41944180,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=CARMEN MARCELA,2.5.4.4=URQUIZA HUAMANCULI,CN=URQUIZA HUAMANCULI carmen Marcela FIR 41944180 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae8f6640dbcc9",
+          "not_before": "2026-04-12T12:08:34+00:00",
+          "not_after": "2026-04-13T12:08:34+00:00"
+        }
+      ]
+    },
+    {
+      "name": "TRILLO MARTINEZ consuelo Marina FIR 00229556 sw d464f1b960a5de31bb00b26c582f12e26da1a7ea",
+      "dni": "00229556",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:41:32+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_002,2.5.4.5=PNOPE-00229556,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=CONSUELO MARINA,2.5.4.4=TRILLO MARTINEZ,CN=TRILLO MARTINEZ consuelo Marina FIR 00229556 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae8f670d48cea",
+          "not_before": "2026-04-12T12:12:08+00:00",
+          "not_after": "2026-04-13T12:12:08+00:00"
+        }
+      ]
+    },
+    {
+      "name": "TUESTA TRIGOSO josue Elmer FIR 76214137 sw c92c8377d30a36a54c1e28db56f0e08bafa84620",
+      "dni": "76214137",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:41:45+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_003,2.5.4.5=PNOPE-76214137,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=JOSUE ELMER,2.5.4.4=TUESTA TRIGOSO,CN=TUESTA TRIGOSO josue Elmer FIR 76214137 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae8f6780704cb",
+          "not_before": "2026-04-12T12:14:09+00:00",
+          "not_after": "2026-04-13T12:14:09+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "FABIAN MALLQUI ketty FIR 72931784 sw 74a7ba58ecd43993aa4029a0a4aae2ee07d87506",
+      "dni": "72931784",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:43:02+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_004,2.5.4.5=PNOPE-72931784,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=KETTY,2.5.4.4=FABIAN MALLQUI,CN=FABIAN MALLQUI ketty FIR 72931784 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae8f6819b26e4",
+          "not_before": "2026-04-12T12:16:49+00:00",
+          "not_after": "2026-04-13T12:16:49+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "MIRANDA URBANO raul Carlos FIR 25795562 sw 41a130b45a1728b92b4520134da13013f1b1c36e",
+      "dni": "25795562",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:43:39+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_006,2.5.4.5=PNOPE-25795562,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=RAUL CARLOS,2.5.4.4=MIRANDA URBANO,CN=MIRANDA URBANO raul Carlos FIR 25795562 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae9010627098e",
+          "not_before": "2026-04-13T00:49:43+00:00",
+          "not_after": "2026-04-14T00:49:43+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "SALCEDO CHINCHAY thalia Mercedes FIR 60795660 sw 2c74e27f33a0b27403402bea74f194f286c3f147",
+      "dni": "60795660",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:44:01+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_005,2.5.4.5=PNOPE-60795660,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=THALIA MERCEDES,2.5.4.4=SALCEDO CHINCHAY,CN=SALCEDO CHINCHAY thalia Mercedes FIR 60795660 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae8f688aee77d",
+          "not_before": "2026-04-12T12:18:48+00:00",
+          "not_after": "2026-04-13T12:18:48+00:00"
+        }
+      ]
+    },
+    {
+      "name": "RAMOS BLAS doris Violeta FIR 25643273 sw 80e42a34689ba000d1cba53965c81721ca5c7470",
+      "dni": "25643273",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T02:44:26+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x40495915fd65fe6fa57f",
+          "not_before": "2026-03-20T01:01:39+00:00",
+          "not_after": "2026-06-18T01:01:38+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082788_007,2.5.4.5=PNOPE-25643273,C=PE,L=CARMEN DE LA LEGUA - REYNOSO,ST=CALLAO-CALLAO,2.5.4.42=DORIS VIOLETA,2.5.4.4=RAMOS BLAS,CN=RAMOS BLAS doris Violeta FIR 25643273 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082788,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2ce12ae90277840b4f",
+          "not_before": "2026-04-13T02:33:00+00:00",
+          "not_after": "2026-04-14T02:33:00+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "dni": null,
+      "reason": "Firma de agente automatizado - STAE",
+      "signing_time_utc": "2026-04-13T01:31:14+00:00",
+      "is_agent_automatizado": true,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x198ef35c16ee1c4035d5",
+          "not_before": "2023-07-25T22:19:25+00:00",
+          "not_after": "2031-07-23T22:19:25+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x6edcf0f960afa72486506b16869fcd4cc60db53a",
+          "not_before": "2022-08-10T16:30:58+00:00",
+          "not_after": "2038-08-06T16:30:57+00:00"
+        },
+        {
+          "subject": "CN=AGENTE AUTOMATIZADO STAE,OU=20291973851,OU=EREP_ONPE_001_4_20251125173454331_20291973851,2.5.4.97=NTRPE-20291973851,O=OFICINA NACIONAL DE PROCESOS ELECTORALES,L=CERCADO DE LIMA,ST=LIMA-LIMA,C=PE",
+          "issuer": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x5e4178402bfacd81d7b6",
+          "not_before": "2025-11-28T23:24:36+00:00",
+          "not_after": "2026-11-28T23:24:35+00:00"
+        }
+      ]
+    }
+  ]
+}

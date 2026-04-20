@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045013",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.249279+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "CEBE 4 MIRAFLORES",
+    "codigo_local": "2979",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 224,
+    "total_votos_validos": 214,
+    "porcentaje_participacion": 74.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412231146-05'00'",
+    "mod_date_raw": "D:20260412231146-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a78ef57f0980a42beed7f5e7081d2911f3b6b7fe487bfa20262c78b2ec36736c",
+  "pdf_size_bytes": 856212,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:07:47+00:00",
+    "pdf_created_utc": "2026-04-13T04:11:46+00:00",
+    "delta_pdf_vs_fr_seconds": 7439.0,
+    "delta_pdf_vs_fr_hours": 2.066388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:06:00.917000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T04:12:42+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:13:27+00:00",
+    "delta_primer_humano_vs_fr_h": 2.0819444444444444,
+    "delta_ultimo_humano_vs_fr_h": 2.0944444444444446,
+    "agente_utc": "2026-04-13T02:07:45+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BORLETTI DEL SOLAR ezio FIR 46800205 sw 9b8081082c9b5906bfe862353b908356a2d59d1f",
+        "dni": "46800205",
+        "signing_time_utc": "2026-04-13T04:12:42+00:00",
+        "delta_vs_fr_h": 2.0819444444444444
+      },
+      {
+        "name": "BYRNE MANSILLA carlos Dante FIR 07803350 sw aaa69163c6e7dbb6a19114b9226f13676be64633",
+        "dni": "07803350",
+        "signing_time_utc": "2026-04-13T04:13:01+00:00",
+        "delta_vs_fr_h": 2.087222222222222
+      },
+      {
+        "name": "DIAZ MEDINA paola Elizabeth FIR 43213897 sw a7962aae61990c6b35b1445cd23c8be403702db1",
+        "dni": "43213897",
+        "signing_time_utc": "2026-04-13T04:13:27+00:00",
+        "delta_vs_fr_h": 2.0944444444444446
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:07:47+00:00"
+    }
+  ]
+}

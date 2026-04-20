@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "059099",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.782886+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN BORJA",
+    "ubigeo": "140140",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7089 ROMEO LUNA VICTORIA",
+    "codigo_local": "3496",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 229,
+    "total_votos_validos": 215,
+    "porcentaje_participacion": 76.589
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413080739-05'00'",
+    "mod_date_raw": "D:20260413080739-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7d1dc7923ca0bf4c63501b25944ee2878751b92a45adc0b350d476a03fc6d940",
+  "pdf_size_bytes": 831418,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:44:10+00:00",
+    "pdf_created_utc": "2026-04-13T13:07:39+00:00",
+    "delta_pdf_vs_fr_seconds": 37409.0,
+    "delta_pdf_vs_fr_hours": 10.391388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:01:51.121000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:09:23+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:10:07+00:00",
+    "delta_primer_humano_vs_fr_h": 10.420277777777779,
+    "delta_ultimo_humano_vs_fr_h": 10.4325,
+    "agente_utc": "2026-04-13T02:38:36+00:00",
+    "delta_agente_vs_fr_h": -0.09277777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ITAKURA TAMAKI hitomi FIR 10609444 sw 6f2f68ead954b441558632ee52c336f6976a96a6",
+        "dni": "10609444",
+        "signing_time_utc": "2026-04-13T13:09:23+00:00",
+        "delta_vs_fr_h": 10.420277777777779
+      },
+      {
+        "name": "KANASHIRO YAMANIHA alejandro FIR 40738512 sw 972d18a92bc263998fe3c0c1b9bf6a721e78b82c",
+        "dni": "40738512",
+        "signing_time_utc": "2026-04-13T13:09:51+00:00",
+        "delta_vs_fr_h": 10.428055555555556
+      },
+      {
+        "name": "KAMISATO GUSHI iris Cristina FIR 09533340 sw ced5c6f7daf2e4f31bd9a7a3f7df248336e11650",
+        "dni": "09533340",
+        "signing_time_utc": "2026-04-13T13:10:07+00:00",
+        "delta_vs_fr_h": 10.4325
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:44:10+00:00"
+    }
+  ]
+}

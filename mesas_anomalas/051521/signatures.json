@@ -1,0 +1,182 @@
+{
+  "signatures": [
+    {
+      "name": "SUAREZ VELARDE carla Hortencia FIR 44388996 sw dad37a73906f910589470dd660e5bb1f0a72d8ee",
+      "dni": "44388996",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T07:08:21+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1a4b3f1fc851bf58189c",
+          "not_before": "2026-03-26T04:13:21+00:00",
+          "not_after": "2026-06-24T04:13:20+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-051521_003,2.5.4.5=PNOPE-44388996,C=PE,L=SANTIAGO DE SURCO,ST=LIMA-LIMA,2.5.4.42=CARLA HORTENCIA,2.5.4.4=SUAREZ VELARDE,CN=SUAREZ VELARDE carla Hortencia FIR 44388996 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1bedffec901283018b",
+          "not_before": "2026-04-12T13:15:38+00:00",
+          "not_after": "2026-04-13T13:15:38+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "SOTO CEBRIAN jorge Alejandro FIR 08808091 sw 54ecab83aaf1f7a378e59ebadfb3e1c166bdeec3",
+      "dni": "08808091",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T07:08:40+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1a4b3f1fc851bf58189c",
+          "not_before": "2026-03-26T04:13:21+00:00",
+          "not_after": "2026-06-24T04:13:20+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-051521_001,2.5.4.5=PNOPE-08808091,C=PE,L=SANTIAGO DE SURCO,ST=LIMA-LIMA,2.5.4.42=JORGE ALEJANDRO,2.5.4.4=SOTO CEBRIAN,CN=SOTO CEBRIAN jorge Alejandro FIR 08808091 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1bedffec8ffdfbecc1",
+          "not_before": "2026-04-12T13:09:53+00:00",
+          "not_after": "2026-04-13T13:09:53+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "SUBAUSTE URIBE claudia Celia FIR 07904007 sw 7e41bbc1bfea4831a8580ad578aa11b905a2de4e",
+      "dni": "07904007",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T07:09:03+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1a4b3f1fc851bf58189c",
+          "not_before": "2026-03-26T04:13:21+00:00",
+          "not_after": "2026-06-24T04:13:20+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-051521_002,2.5.4.5=PNOPE-07904007,C=PE,L=SANTIAGO DE SURCO,ST=LIMA-LIMA,2.5.4.42=CLAUDIA CELIA,2.5.4.4=SUBAUSTE URIBE,CN=SUBAUSTE URIBE claudia Celia FIR 07904007 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1bedffec900bb0551a",
+          "not_before": "2026-04-12T13:13:43+00:00",
+          "not_after": "2026-04-13T13:13:43+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "AGURTO SCHROTH camila FIR 43399322 sw 42a98bc2a34f9a10f9b8e9a871c0092c3308ea13",
+      "dni": "43399322",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T07:09:44+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1a4b3f1fc851bf58189c",
+          "not_before": "2026-03-26T04:13:21+00:00",
+          "not_after": "2026-06-24T04:13:20+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-051521_004,2.5.4.5=PNOPE-43399322,C=PE,L=SANTIAGO DE SURCO,ST=LIMA-LIMA,2.5.4.42=CAMILA,2.5.4.4=AGURTO SCHROTH,CN=AGURTO SCHROTH camila FIR 43399322 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 051521,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x1bedffec901a0e094c",
+          "not_before": "2026-04-12T13:17:44+00:00",
+          "not_after": "2026-04-13T13:17:44+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "dni": null,
+      "reason": "Firma de agente automatizado - STAE",
+      "signing_time_utc": "2026-04-13T02:59:33+00:00",
+      "is_agent_automatizado": true,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x198ef35c16ee1c4035d5",
+          "not_before": "2023-07-25T22:19:25+00:00",
+          "not_after": "2031-07-23T22:19:25+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x6edcf0f960afa72486506b16869fcd4cc60db53a",
+          "not_before": "2022-08-10T16:30:58+00:00",
+          "not_after": "2038-08-06T16:30:57+00:00"
+        },
+        {
+          "subject": "CN=AGENTE AUTOMATIZADO STAE,OU=20291973851,OU=EREP_ONPE_001_4_20251125173454331_20291973851,2.5.4.97=NTRPE-20291973851,O=OFICINA NACIONAL DE PROCESOS ELECTORALES,L=CERCADO DE LIMA,ST=LIMA-LIMA,C=PE",
+          "issuer": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x5e4178402bfacd81d7b6",
+          "not_before": "2025-11-28T23:24:36+00:00",
+          "not_after": "2026-11-28T23:24:35+00:00"
+        }
+      ]
+    }
+  ]
+}

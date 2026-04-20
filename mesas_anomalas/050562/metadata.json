@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "050562",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.601010+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO CHAMPAGNAT",
+    "codigo_local": "3195",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 227,
+    "total_votos_validos": 214,
+    "porcentaje_participacion": 75.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413005851-05'00'",
+    "mod_date_raw": "D:20260413005851-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "363b3d027c57a1871bced6469775e524a12e11428b11c0aa1f8c89603b0cb0cc",
+  "pdf_size_bytes": 832896,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:50:01+00:00",
+    "pdf_created_utc": "2026-04-13T05:58:51+00:00",
+    "delta_pdf_vs_fr_seconds": 14930.0,
+    "delta_pdf_vs_fr_hours": 4.147222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:30:56.410000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T05:59:15+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:59:43+00:00",
+    "delta_primer_humano_vs_fr_h": 4.153888888888889,
+    "delta_ultimo_humano_vs_fr_h": 4.161666666666667,
+    "agente_utc": "2026-04-13T01:49:57+00:00",
+    "delta_agente_vs_fr_h": -0.0011111111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ZAMUDIO PARDO FIGUEROA ricardo Gustavo FIR 09868637 sw ca5b77d55df02bbdd569b56cf2a5ce89565725c2",
+        "dni": "09868637",
+        "signing_time_utc": "2026-04-13T05:59:15+00:00",
+        "delta_vs_fr_h": 4.153888888888889
+      },
+      {
+        "name": "WILLIAMZON RELUZ stephany Melissa FIR 72813371 sw d49e6dccd7c962976c49e68c17ae26cbcb3ea005",
+        "dni": "72813371",
+        "signing_time_utc": "2026-04-13T05:59:43+00:00",
+        "delta_vs_fr_h": 4.161666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:50:01+00:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "036207",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.731419+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1150 ABRAHAM ZEA CARREON",
+    "codigo_local": "2655",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 253,
+    "total_votos_validos": 226,
+    "porcentaje_participacion": 84.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083808-05'00'",
+    "mod_date_raw": "D:20260413083808-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3efe98c9e7673f13fd1ecdd751f89be304b48abd6a18b99fd1c9429fe09f195b",
+  "pdf_size_bytes": 857920,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:13:27+00:00",
+    "pdf_created_utc": "2026-04-13T13:38:08+00:00",
+    "delta_pdf_vs_fr_seconds": 37481.0,
+    "delta_pdf_vs_fr_hours": 10.411388888888888,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:58:12.240000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:38:31+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:40:09+00:00",
+    "delta_primer_humano_vs_fr_h": 10.417777777777777,
+    "delta_ultimo_humano_vs_fr_h": 10.445,
+    "agente_utc": "2026-04-13T03:13:25+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ANTICONA VASQUEZ miguel Esteban FIR 10638086 sw c561357341f70b926388310d0ac9bf77753c84d2",
+        "dni": "10638086",
+        "signing_time_utc": "2026-04-13T13:38:31+00:00",
+        "delta_vs_fr_h": 10.417777777777777
+      },
+      {
+        "name": "ARANA CAMARENA steve Adolfo FIR 46885067 sw 7e16a913be6e562740a82277be974bc947383c2e",
+        "dni": "46885067",
+        "signing_time_utc": "2026-04-13T13:38:50+00:00",
+        "delta_vs_fr_h": 10.423055555555555
+      },
+      {
+        "name": "BALDEON DE LA CRUZ carlos Benjamin FIR 40284492 sw 252a997ad2fcefec8491261030141c73155c5e8a",
+        "dni": "40284492",
+        "signing_time_utc": "2026-04-13T13:39:07+00:00",
+        "delta_vs_fr_h": 10.427777777777777
+      },
+      {
+        "name": "RAMIREZ MORALES cesar Augusto FIR 08530099 sw caffc7819a60f447210bbf4cc5ee4e07b13c66e5",
+        "dni": "08530099",
+        "signing_time_utc": "2026-04-13T13:40:09+00:00",
+        "delta_vs_fr_h": 10.445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:13:27+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045177",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.606390+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO INMACULADO CORAZON",
+    "codigo_local": "2991",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 216,
+    "total_votos_validos": 207,
+    "porcentaje_participacion": 72.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413062257-05'00'",
+    "mod_date_raw": "D:20260413062257-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "105d41582a8279c09d75cd29a864e8b802e514bc0a66536539b952945de98434",
+  "pdf_size_bytes": 830155,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:08:21+00:00",
+    "pdf_created_utc": "2026-04-13T11:22:57+00:00",
+    "delta_pdf_vs_fr_seconds": 33276.0,
+    "delta_pdf_vs_fr_hours": 9.243333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:35:46.785000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T11:23:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T11:24:25+00:00",
+    "delta_primer_humano_vs_fr_h": 9.2575,
+    "delta_ultimo_humano_vs_fr_h": 9.267777777777777,
+    "agente_utc": "2026-04-13T02:08:19+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FLORES MORENO jackeline Rossin FIR 44360471 sw 354bbd9ac8faa49f049770ba1c181b4af21a32f0",
+        "dni": "44360471",
+        "signing_time_utc": "2026-04-13T11:23:48+00:00",
+        "delta_vs_fr_h": 9.2575
+      },
+      {
+        "name": "FLORES CASTRO nicolas Elias FIR 76333926 sw ba642f000786dcd9991ec0d76003748decab177c",
+        "dni": "76333926",
+        "signing_time_utc": "2026-04-13T11:24:07+00:00",
+        "delta_vs_fr_h": 9.262777777777778
+      },
+      {
+        "name": "FLORES MAYER vanessa Yovanna FIR 40275580 sw e45b09b1858934b964f035b31c800a7109a5064c",
+        "dni": "40275580",
+        "signing_time_utc": "2026-04-13T11:24:25+00:00",
+        "delta_vs_fr_h": 9.267777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:08:21+00:00"
+    }
+  ]
+}

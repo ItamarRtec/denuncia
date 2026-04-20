@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "043349",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.728996+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA MOLINA",
+    "ubigeo": "140110",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP COOP. SERV. EDUC. ING. CARLOS LISSON BEINGOLEA LTDA.",
+    "codigo_local": "2924",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 258,
+    "total_votos_validos": 245,
+    "porcentaje_participacion": 86.288
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224652-05'00'",
+    "mod_date_raw": "D:20260412224652-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "375b2db7266e7862766a22cbfb6525bfa9dd5ddf3fe0ab8249d625e6b053220c",
+  "pdf_size_bytes": 855842,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:08:48+00:00",
+    "pdf_created_utc": "2026-04-13T03:46:52+00:00",
+    "delta_pdf_vs_fr_seconds": 5884.0,
+    "delta_pdf_vs_fr_hours": 1.6344444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:12:33.029000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:47:12+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:50:11+00:00",
+    "delta_primer_humano_vs_fr_h": 1.64,
+    "delta_ultimo_humano_vs_fr_h": 1.6897222222222221,
+    "agente_utc": "2026-04-13T02:08:21+00:00",
+    "delta_agente_vs_fr_h": -0.0075,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VENTURA VILLANUEVA evelio FIR 10221537 sw b2c54e08b2d264aa32dce57124119e439c929f28",
+        "dni": "10221537",
+        "signing_time_utc": "2026-04-13T03:47:12+00:00",
+        "delta_vs_fr_h": 1.64
+      },
+      {
+        "name": "VILLA PALACIOS sabrina Alexandra FIR 46410122 sw 7300e006000cd4caf0c144e7a8facac07a0d07fb",
+        "dni": "46410122",
+        "signing_time_utc": "2026-04-13T03:48:25+00:00",
+        "delta_vs_fr_h": 1.6602777777777777
+      },
+      {
+        "name": "VILLAFANA OTAROLA flor De Maria FIR 10063992 sw 5fa8a93a57318767b1a74851a12e47b1ef23af44",
+        "dni": "10063992",
+        "signing_time_utc": "2026-04-13T03:49:27+00:00",
+        "delta_vs_fr_h": 1.6775
+      },
+      {
+        "name": "LLALLICO QUISPE paola Jessica FIR 70277707 sw 64a2d6118555e47fec871a6ec8752856ba813aa4",
+        "dni": "70277707",
+        "signing_time_utc": "2026-04-13T03:50:11+00:00",
+        "delta_vs_fr_h": 1.6897222222222221
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:08:48+00:00"
+    }
+  ]
+}

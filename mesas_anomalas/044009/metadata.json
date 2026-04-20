@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "044009",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.967605+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LINCE",
+    "ubigeo": "140111",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "PARQUE SANTOS DUMONT",
+    "codigo_local": "53022",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 250,
+    "total_votos_validos": 238,
+    "porcentaje_participacion": 83.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215709-05'00'",
+    "mod_date_raw": "D:20260412215709-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "884b8b334b60f80d8eaf005200801b4dfd92ac3819faa50301a6caaa0fb572a0",
+  "pdf_size_bytes": 881240,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:38:43+00:00",
+    "pdf_created_utc": "2026-04-13T02:57:09+00:00",
+    "delta_pdf_vs_fr_seconds": 4706.0,
+    "delta_pdf_vs_fr_hours": 1.3072222222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:46:43.207000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:57:38+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:58:42+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3152777777777778,
+    "delta_ultimo_humano_vs_fr_h": 1.3330555555555557,
+    "agente_utc": "2026-04-13T01:38:41+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ORELLANO ESPINOZA lizbeth Esther FIR 76745726 sw d2cb7d597df623cd8742c89a85dfd3d706f08f2b",
+        "dni": "76745726",
+        "signing_time_utc": "2026-04-13T02:57:38+00:00",
+        "delta_vs_fr_h": 1.3152777777777778
+      },
+      {
+        "name": "ORTIZ SUAREZ vladimir Oscar FIR 07611594 sw 68bfb84e77f31bec00c5dce76b9f829b2a55e98b",
+        "dni": "07611594",
+        "signing_time_utc": "2026-04-13T02:57:57+00:00",
+        "delta_vs_fr_h": 1.3205555555555555
+      },
+      {
+        "name": "MIRANDA YAMAMOTO ana Maria FIR 07628752 sw 840b182fc56734ed41dccddc2938a82022ed4caa",
+        "dni": "07628752",
+        "signing_time_utc": "2026-04-13T02:58:07+00:00",
+        "delta_vs_fr_h": 1.3233333333333333
+      },
+      {
+        "name": "FLORES RAMIREZ jorge Alberto FIR 08884187 sw eaa22fcfa2ee8530693c9af8b14a8ba8e1d73d19",
+        "dni": "08884187",
+        "signing_time_utc": "2026-04-13T02:58:25+00:00",
+        "delta_vs_fr_h": 1.3283333333333334
+      },
+      {
+        "name": "GAVINO ROMERO maria Isabel FIR 42558785 sw 1e1bf725901174ace2c3ea9b45f3bc931658e4b7",
+        "dni": "42558785",
+        "signing_time_utc": "2026-04-13T02:58:42+00:00",
+        "delta_vs_fr_h": 1.3330555555555557
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:38:43+00:00"
+    }
+  ]
+}

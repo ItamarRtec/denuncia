@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055585",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.778545+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6078 SANTA ROSA",
+    "codigo_local": "13865",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 233,
+    "total_votos_validos": 219,
+    "porcentaje_participacion": 77.926
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413024805-05'00'",
+    "mod_date_raw": "D:20260413024805-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2f6f35cb35a4c0cacb5a3c31b301888ed16539ea94e9823dcbb945afbaae1667",
+  "pdf_size_bytes": 830854,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:06:59+00:00",
+    "pdf_created_utc": "2026-04-13T07:48:05+00:00",
+    "delta_pdf_vs_fr_seconds": 16866.0,
+    "delta_pdf_vs_fr_hours": 4.685,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:15:02.559000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T08:21:53+00:00",
+    "ultimo_humano_utc": "2026-04-13T08:22:12+00:00",
+    "delta_primer_humano_vs_fr_h": 5.248333333333333,
+    "delta_ultimo_humano_vs_fr_h": 5.253611111111111,
+    "agente_utc": "2026-04-13T03:06:59+00:00",
+    "delta_agente_vs_fr_h": 0.0,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ROMAN HUAMAN carmen Victoria FIR 09694256 sw 2b42f59bccc275f486dbfa47f954b87618a9b5b9",
+        "dni": "09694256",
+        "signing_time_utc": "2026-04-13T08:21:53+00:00",
+        "delta_vs_fr_h": 5.248333333333333
+      },
+      {
+        "name": "SIANCAS GARCIA jorge Luis FIR 42217656 sw c52c438c309cf1a79c318725cfbfbfdbfb8c47d0",
+        "dni": "42217656",
+        "signing_time_utc": "2026-04-13T08:22:03+00:00",
+        "delta_vs_fr_h": 5.251111111111111
+      },
+      {
+        "name": "REYMER FERNANDEZ sonia Yvonne FIR 08350674 sw 40532c39f4b4c4ab1eb9a1e369e7ca973ce37469",
+        "dni": "08350674",
+        "signing_time_utc": "2026-04-13T08:22:12+00:00",
+        "delta_vs_fr_h": 5.253611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:06:59+00:00"
+    }
+  ]
+}

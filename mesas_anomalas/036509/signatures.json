@@ -1,0 +1,145 @@
+{
+  "signatures": [
+    {
+      "name": "MIRABAL PILLACA jean Pool FIR 60777591 sw e5db2a3ab2ffce26d754f3d1e20031186ebb307a",
+      "dni": "60777591",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T13:45:51+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 036509,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0xe444b7cfeb77eaa8039",
+          "not_before": "2026-03-24T15:50:13+00:00",
+          "not_after": "2026-06-22T15:50:12+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-036509_003,2.5.4.5=PNOPE-60777591,C=PE,L=LIMA,ST=LIMA-LIMA,2.5.4.42=JEAN POOL,2.5.4.4=MIRABAL PILLACA,CN=MIRABAL PILLACA jean Pool FIR 60777591 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 036509,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x13caaa8c0348f0bf5b",
+          "not_before": "2026-04-13T13:45:20+00:00",
+          "not_after": "2026-04-14T13:45:20+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "MONTALVAN CABEZAS david Fernando FIR 07949764 sw b3bab8f7fca2b8ef8176136458d20a960592f993",
+      "dni": "07949764",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T13:49:04+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 036509,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0xe444b7cfeb77eaa8039",
+          "not_before": "2026-03-24T15:50:13+00:00",
+          "not_after": "2026-06-22T15:50:12+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-036509_002,2.5.4.5=PNOPE-07949764,C=PE,L=LIMA,ST=LIMA-LIMA,2.5.4.42=DAVID FERNANDO,2.5.4.4=MONTALVAN CABEZAS,CN=MONTALVAN CABEZAS david Fernando FIR 07949764 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 036509,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x13caaa8c0353fc3762",
+          "not_before": "2026-04-13T13:48:25+00:00",
+          "not_after": "2026-04-14T13:48:25+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "MORALES HUANCA candy Yesica FIR 44174967 sw e8e1fd7f03bb32a94efa77cf7ec0cb4634122955",
+      "dni": "44174967",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T13:51:22+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 036509,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0xe444b7cfeb77eaa8039",
+          "not_before": "2026-03-24T15:50:13+00:00",
+          "not_after": "2026-06-22T15:50:12+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-036509_001,2.5.4.5=PNOPE-44174967,C=PE,L=LIMA,ST=LIMA-LIMA,2.5.4.42=CANDY YESICA,2.5.4.4=MORALES HUANCA,CN=MORALES HUANCA candy Yesica FIR 44174967 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 036509,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x13caaa8c035ca51301",
+          "not_before": "2026-04-13T13:50:50+00:00",
+          "not_after": "2026-04-14T13:50:50+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "dni": null,
+      "reason": "Firma de agente automatizado - STAE",
+      "signing_time_utc": "2026-04-13T02:48:21+00:00",
+      "is_agent_automatizado": true,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x198ef35c16ee1c4035d5",
+          "not_before": "2023-07-25T22:19:25+00:00",
+          "not_after": "2031-07-23T22:19:25+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x6edcf0f960afa72486506b16869fcd4cc60db53a",
+          "not_before": "2022-08-10T16:30:58+00:00",
+          "not_after": "2038-08-06T16:30:57+00:00"
+        },
+        {
+          "subject": "CN=AGENTE AUTOMATIZADO STAE,OU=20291973851,OU=EREP_ONPE_001_4_20251125173454331_20291973851,2.5.4.97=NTRPE-20291973851,O=OFICINA NACIONAL DE PROCESOS ELECTORALES,L=CERCADO DE LIMA,ST=LIMA-LIMA,C=PE",
+          "issuer": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x5e4178402bfacd81d7b6",
+          "not_before": "2025-11-28T23:24:36+00:00",
+          "not_after": "2026-11-28T23:24:35+00:00"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "053157",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.206934+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE PARROQUIAL NUESTRO SALVADOR",
+    "codigo_local": "18293",
+    "total_electores_habiles": 296,
+    "total_votos_emitidos": 228,
+    "total_votos_validos": 196,
+    "porcentaje_participacion": 77.027
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004442-05'00'",
+    "mod_date_raw": "D:20260413004442-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4ae552500ffe6298d0c8765a0bd3de978346cb440bd2fffc0c4950a74453d706",
+  "pdf_size_bytes": 830172,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:55:01+00:00",
+    "pdf_created_utc": "2026-04-13T05:44:42+00:00",
+    "delta_pdf_vs_fr_seconds": 13781.0,
+    "delta_pdf_vs_fr_hours": 3.8280555555555558,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:50:37.577000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:44:57+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:45:32+00:00",
+    "delta_primer_humano_vs_fr_h": 3.832222222222222,
+    "delta_ultimo_humano_vs_fr_h": 3.8419444444444446,
+    "agente_utc": "2026-04-13T01:54:59+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "NEIRA GARCIA franklin Zidani FIR 76114916 sw d0092473fd12a002bf5f5f5abfcc6acd2e4acea2",
+        "dni": "76114916",
+        "signing_time_utc": "2026-04-13T05:44:57+00:00",
+        "delta_vs_fr_h": 3.832222222222222
+      },
+      {
+        "name": "OCAMPO PAREDES kathery FIR 72381802 sw 6f5b831de76e7b7e6b0116ca6b5b1693bcdebd38",
+        "dni": "72381802",
+        "signing_time_utc": "2026-04-13T05:45:14+00:00",
+        "delta_vs_fr_h": 3.8369444444444443
+      },
+      {
+        "name": "NAVAS YACHI natiniel Naomi FIR 72566582 sw 489264068c21586ddb7afd8b1283fcad2f19b51b",
+        "dni": "72566582",
+        "signing_time_utc": "2026-04-13T05:45:32+00:00",
+        "delta_vs_fr_h": 3.8419444444444446
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:55:01+00:00"
+    }
+  ]
+}

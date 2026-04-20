@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "051044",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.355156+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD RICARDO PALMA",
+    "codigo_local": "3221",
+    "total_electores_habiles": 297,
+    "total_votos_emitidos": 221,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 74.411
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085957-05'00'",
+    "mod_date_raw": "D:20260413085957-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "96b1fba505726f68955f2a9721c6c14ca0202b5cebc9c4e597c078bf797d8f84",
+  "pdf_size_bytes": 830729,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:31:36+00:00",
+    "pdf_created_utc": "2026-04-13T13:59:57+00:00",
+    "delta_pdf_vs_fr_seconds": 41301.0,
+    "delta_pdf_vs_fr_hours": 11.4725,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:47:27.056000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T14:00:19+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:00:56+00:00",
+    "delta_primer_humano_vs_fr_h": 11.47861111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.488888888888889,
+    "agente_utc": "2026-04-13T02:24:23+00:00",
+    "delta_agente_vs_fr_h": -0.12027777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "WILLIAMS GUERRERO martin Alberto FIR 25588517 sw 09c3999af64ad890cebd4cf23e6cab7c5c94764f",
+        "dni": "25588517",
+        "signing_time_utc": "2026-04-13T14:00:19+00:00",
+        "delta_vs_fr_h": 11.47861111111111
+      },
+      {
+        "name": "WU LARA eduardo Jose FIR 07458980 sw 64eb2cec20fb90cb891f271a771818afc3b7edf7",
+        "dni": "07458980",
+        "signing_time_utc": "2026-04-13T14:00:56+00:00",
+        "delta_vs_fr_h": 11.488888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:31:36+00:00"
+    }
+  ]
+}

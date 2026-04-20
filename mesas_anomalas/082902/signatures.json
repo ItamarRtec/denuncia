@@ -1,0 +1,145 @@
+{
+  "signatures": [
+    {
+      "name": "ARTEAGA AGUIRRE nicol Darlyn FIR 75152360 sw b1b9a671e249cf3f14b909bbd324a4afac9c54b6",
+      "dni": "75152360",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T03:29:10+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082902,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x7a00d33d587ea503eb60",
+          "not_before": "2026-03-20T14:44:40+00:00",
+          "not_after": "2026-06-18T14:44:39+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082902_001,2.5.4.5=PNOPE-75152360,C=PE,L=LA PERLA,ST=CALLAO-CALLAO,2.5.4.42=NICOL DARLYN,2.5.4.4=ARTEAGA AGUIRRE,CN=ARTEAGA AGUIRRE nicol Darlyn FIR 75152360 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082902,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2cf0fd00ec738441c9",
+          "not_before": "2026-04-12T12:29:41+00:00",
+          "not_after": "2026-04-13T12:29:41+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "ANDRADE POLAR johvany Narciso FIR 25660990 sw cb424b91514fb3863eab28423f89b9195262256f",
+      "dni": "25660990",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T03:29:32+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082902,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x7a00d33d587ea503eb60",
+          "not_before": "2026-03-20T14:44:40+00:00",
+          "not_after": "2026-06-18T14:44:39+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082902_002,2.5.4.5=PNOPE-25660990,C=PE,L=LA PERLA,ST=CALLAO-CALLAO,2.5.4.42=JOHVANY NARCISO,2.5.4.4=ANDRADE POLAR,CN=ANDRADE POLAR johvany Narciso FIR 25660990 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082902,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2cf0fd00ec797ffae2",
+          "not_before": "2026-04-12T12:31:21+00:00",
+          "not_after": "2026-04-13T12:31:21+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "ALBURQUEQUE LADINES raul Humberto FIR 25704808 sw 6e8e20e8c1e389ab33678ebad93db3ea1d6b5242",
+      "dni": "25704808",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T03:29:41+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082902,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x7a00d33d587ea503eb60",
+          "not_before": "2026-03-20T14:44:40+00:00",
+          "not_after": "2026-06-18T14:44:39+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-082902_003,2.5.4.5=PNOPE-25704808,C=PE,L=LA PERLA,ST=CALLAO-CALLAO,2.5.4.42=RAUL HUMBERTO,2.5.4.4=ALBURQUEQUE LADINES,CN=ALBURQUEQUE LADINES raul Humberto FIR 25704808 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 082902,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x2cf0fd00ec7ef954fb",
+          "not_before": "2026-04-12T12:32:53+00:00",
+          "not_after": "2026-04-13T12:32:53+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "dni": null,
+      "reason": "Firma de agente automatizado - STAE",
+      "signing_time_utc": "2026-04-13T01:00:29+00:00",
+      "is_agent_automatizado": true,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x198ef35c16ee1c4035d5",
+          "not_before": "2023-07-25T22:19:25+00:00",
+          "not_after": "2031-07-23T22:19:25+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x6edcf0f960afa72486506b16869fcd4cc60db53a",
+          "not_before": "2022-08-10T16:30:58+00:00",
+          "not_after": "2038-08-06T16:30:57+00:00"
+        },
+        {
+          "subject": "CN=AGENTE AUTOMATIZADO STAE,OU=20291973851,OU=EREP_ONPE_001_4_20251125173454331_20291973851,2.5.4.97=NTRPE-20291973851,O=OFICINA NACIONAL DE PROCESOS ELECTORALES,L=CERCADO DE LIMA,ST=LIMA-LIMA,C=PE",
+          "issuer": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x5e4178402bfacd81d7b6",
+          "not_before": "2025-11-28T23:24:36+00:00",
+          "not_after": "2026-11-28T23:24:35+00:00"
+        }
+      ]
+    }
+  ]
+}

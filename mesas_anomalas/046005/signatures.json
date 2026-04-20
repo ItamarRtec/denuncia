@@ -1,0 +1,182 @@
+{
+  "signatures": [
+    {
+      "name": "CHAVEZ MOSQUEIRA lenin FIR 26723924 sw f514bb88bfd5f858881c522981b1a777e5a28ba8",
+      "dni": "26723924",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T01:01:21+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x44e4fafa03d1b59b8c45",
+          "not_before": "2026-03-19T20:27:25+00:00",
+          "not_after": "2026-06-17T20:27:24+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-046005_001,2.5.4.5=PNOPE-26723924,C=PE,L=PUEBLO LIBRE,ST=LIMA-LIMA,2.5.4.42=LENIN,2.5.4.4=CHAVEZ MOSQUEIRA,CN=CHAVEZ MOSQUEIRA lenin FIR 26723924 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x18f0803ccf5820b231",
+          "not_before": "2026-04-12T12:19:45+00:00",
+          "not_after": "2026-04-13T12:19:45+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "BAUTISTA ALZAMORA stanley FIR 40122480 sw 94ab0d966408e97fdc334ed76a3966c58d7c1a72",
+      "dni": "40122480",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T01:01:34+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x44e4fafa03d1b59b8c45",
+          "not_before": "2026-03-19T20:27:25+00:00",
+          "not_after": "2026-06-17T20:27:24+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-046005_002,2.5.4.5=PNOPE-40122480,C=PE,L=PUEBLO LIBRE,ST=LIMA-LIMA,2.5.4.42=STANLEY,2.5.4.4=BAUTISTA ALZAMORA,CN=BAUTISTA ALZAMORA stanley FIR 40122480 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x18f0803ccf5fb625ea",
+          "not_before": "2026-04-12T12:21:52+00:00",
+          "not_after": "2026-04-13T12:21:52+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "CORDOVA PACHECO jean Carlo FIR 44099862 sw 013262f3b21324099bfaf0124532eddce4aad6a9",
+      "dni": "44099862",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T01:01:46+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x44e4fafa03d1b59b8c45",
+          "not_before": "2026-03-19T20:27:25+00:00",
+          "not_after": "2026-06-17T20:27:24+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-046005_003,2.5.4.5=PNOPE-44099862,C=PE,L=PUEBLO LIBRE,ST=LIMA-LIMA,2.5.4.42=JEAN CARLO,2.5.4.4=CORDOVA PACHECO,CN=CORDOVA PACHECO jean Carlo FIR 44099862 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x18f0803ccf64be4f73",
+          "not_before": "2026-04-12T12:23:16+00:00",
+          "not_after": "2026-04-13T12:23:16+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "VARGAS REPETTO rossicela Johana FIR 74987704 sw 320d706ccefaafc0da17005983e7ef85ce3be1ae",
+      "dni": "74987704",
+      "reason": "FIRMADO DIGITALMENTE",
+      "signing_time_utc": "2026-04-13T01:02:18+00:00",
+      "is_agent_automatizado": false,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x44e4fafa03d1b59b8c45",
+          "not_before": "2026-03-19T20:27:25+00:00",
+          "not_after": "2026-06-17T20:27:24+00:00"
+        },
+        {
+          "subject": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x39cbefaa8501941c15f4def011d13cad86a3466c",
+          "not_before": "2022-07-07T19:47:47+00:00",
+          "not_after": "2047-07-01T19:47:46+00:00"
+        },
+        {
+          "subject": "OU=EREP_ONPE_ELECTORAL_EG2026-046005_004,2.5.4.5=PNOPE-74987704,C=PE,L=PUEBLO LIBRE,ST=LIMA-LIMA,2.5.4.42=ROSSICELA JOHANA,2.5.4.4=VARGAS REPETTO,CN=VARGAS REPETTO rossicela Johana FIR 74987704 sw",
+          "issuer": "CN=ECEP-ONPE-ELECTORAL CA EG2026 Mesa 046005,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x18f0803cd8642d5f4c",
+          "not_before": "2026-04-12T23:07:22+00:00",
+          "not_after": "2026-04-13T23:07:22+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE-ELECTORAL CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x5d48ed160e3183de4551d33e7228c37858cc8cf5",
+          "not_before": "2022-08-10T16:38:11+00:00",
+          "not_after": "2038-08-06T16:38:10+00:00"
+        }
+      ]
+    },
+    {
+      "name": "",
+      "dni": null,
+      "reason": "Firma de agente automatizado - STAE",
+      "signing_time_utc": "2026-04-13T00:46:58+00:00",
+      "is_agent_automatizado": true,
+      "certs": [
+        {
+          "subject": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x198ef35c16ee1c4035d5",
+          "not_before": "2023-07-25T22:19:25+00:00",
+          "not_after": "2031-07-23T22:19:25+00:00"
+        },
+        {
+          "subject": "CN=ECEP-ONPE CA ROOT 5,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "issuer": "CN=ECERNEP PERU CA ROOT 5,O=Entidad de Certificación Nacional para el Estado Peruano,C=PE",
+          "serial_hex": "0x6edcf0f960afa72486506b16869fcd4cc60db53a",
+          "not_before": "2022-08-10T16:30:58+00:00",
+          "not_after": "2038-08-06T16:30:57+00:00"
+        },
+        {
+          "subject": "CN=AGENTE AUTOMATIZADO STAE,OU=20291973851,OU=EREP_ONPE_001_4_20251125173454331_20291973851,2.5.4.97=NTRPE-20291973851,O=OFICINA NACIONAL DE PROCESOS ELECTORALES,L=CERCADO DE LIMA,ST=LIMA-LIMA,C=PE",
+          "issuer": "CN=ECEP-ONPE CA Clase 4,O=Oficina Nacional de Procesos Electorales,C=PE",
+          "serial_hex": "0x5e4178402bfacd81d7b6",
+          "not_before": "2025-11-28T23:24:36+00:00",
+          "not_after": "2026-11-28T23:24:35+00:00"
+        }
+      ]
+    }
+  ]
+}

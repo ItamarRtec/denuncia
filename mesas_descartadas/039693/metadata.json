@@ -1,0 +1,63 @@
+{
+  "codigo_mesa": "039693",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.206337+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 8190 DEMOCRACIA Y LIBERTAD",
+    "codigo_local": "12899",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 234,
+    "total_votos_validos": 200,
+    "porcentaje_participacion": 78.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412233149-05'00'",
+    "mod_date_raw": "D:20260412233149-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0c1c4875024d08c4f7708e1b150529ae7a7b6e5239c12023859ffa6ee7abd521",
+  "pdf_size_bytes": 831074,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T03:28:47.293000+00:00",
+    "pdf_created_utc": "2026-04-13T04:31:49+00:00",
+    "delta_create_upload_seconds": -3781.7,
+    "delta_create_upload_hours": -1.0504722222222223,
+    "delta_create_upload_days": -0.04376967592592593
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T04:32:17+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:32:30+00:00",
+    "delta_primer_humano_h": 1.0582519444444445,
+    "delta_ultimo_humano_h": 1.0618630555555555,
+    "delta_agente_h": 1.0546408333333332,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "CHUCOS HUAYTA liliam FIR 40590273 sw c82b0a10730ad24218e38b186bae626c28e54eff",
+        "dni": "40590273",
+        "signing_time_utc": "2026-04-13T04:32:17+00:00"
+      },
+      {
+        "name": "CASTILLO VERGARAY camilo Pascual FIR 41186088 sw e4614ec93c9d115ead0458665502b66748bc9e24",
+        "dni": "41186088",
+        "signing_time_utc": "2026-04-13T04:32:30+00:00"
+      }
+    ]
+  }
+}

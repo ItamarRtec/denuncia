@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "040405",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.802090+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "CEBE LUIS BRAILE",
+    "codigo_local": "2826",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 252,
+    "total_votos_validos": 225,
+    "porcentaje_participacion": 84.281
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215002-05'00'",
+    "mod_date_raw": "D:20260412215002-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "faedddba7d1334fa8eca50f95f4bf29e152272d3339b27104b2474081c8a0788",
+  "pdf_size_bytes": 830436,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:07:30+00:00",
+    "pdf_created_utc": "2026-04-13T02:50:02+00:00",
+    "delta_pdf_vs_fr_seconds": 6152.0,
+    "delta_pdf_vs_fr_hours": 1.708888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:50:28.204000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:50:19+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:50:52+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7136111111111112,
+    "delta_ultimo_humano_vs_fr_h": 1.7227777777777777,
+    "agente_utc": "2026-04-13T01:07:28+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "OBREGON ALBA maria Eugenia FIR 09975719 sw 8c44b3572f5f867adb8737d07e1c6c31b7ad3109",
+        "dni": "09975719",
+        "signing_time_utc": "2026-04-13T02:50:19+00:00",
+        "delta_vs_fr_h": 1.7136111111111112
+      },
+      {
+        "name": "PIMENTEL VARGAS nelson Nel FIR 42899608 sw ae8083f66be715a610d449ee60d9501924a5f73c",
+        "dni": "42899608",
+        "signing_time_utc": "2026-04-13T02:50:33+00:00",
+        "delta_vs_fr_h": 1.7175
+      },
+      {
+        "name": "PAJUELO JARA angel Yvan FIR 08146687 sw b9ba92a4920d86b0241c9c6dbaa00513a1e6111b",
+        "dni": "08146687",
+        "signing_time_utc": "2026-04-13T02:50:52+00:00",
+        "delta_vs_fr_h": 1.7227777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:07:30+00:00"
+    }
+  ]
+}

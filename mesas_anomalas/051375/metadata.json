@@ -1,0 +1,91 @@
+{
+  "codigo_mesa": "051375",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.708774+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS SURCO - AMBROSIO",
+    "codigo_local": "52886",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 215,
+    "total_votos_validos": 197,
+    "porcentaje_participacion": 71.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413074844-05'00'",
+    "mod_date_raw": "D:20260413074844-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3633c8076d8d4108aced0579aaef1263a2c1a1cfca737399166057b52328e693",
+  "pdf_size_bytes": 855760,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T08:48:17+00:00",
+    "pdf_created_utc": "2026-04-13T12:48:44+00:00",
+    "delta_pdf_vs_fr_seconds": 14427.0,
+    "delta_pdf_vs_fr_hours": 4.0075,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:19:43.287000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:49:10+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:50:04+00:00",
+    "delta_primer_humano_vs_fr_h": 4.014722222222222,
+    "delta_ultimo_humano_vs_fr_h": 4.029722222222222,
+    "agente_utc": "2026-04-13T01:16:15+00:00",
+    "delta_agente_vs_fr_h": -7.533888888888889,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DE LA TORRE CALLE ada Luisa FIR 22067657 sw c9229b85cc1a7280d2483a2a81657ad02bde3215",
+        "dni": "22067657",
+        "signing_time_utc": "2026-04-13T12:49:10+00:00",
+        "delta_vs_fr_h": 4.014722222222222
+      },
+      {
+        "name": "DIAZ GARCIA marco Antonio FIR 42479673 sw 7a22ca3aee2fde89b05c275bf785d13c5ce17a04",
+        "dni": "42479673",
+        "signing_time_utc": "2026-04-13T12:49:28+00:00",
+        "delta_vs_fr_h": 4.019722222222223
+      },
+      {
+        "name": "DE LA CRUZ CHARUN karina Lucia FIR 42146910 sw 1097f7d336d1d0feb9835af6b7a6ca21b7103f2d",
+        "dni": "42146910",
+        "signing_time_utc": "2026-04-13T12:49:42+00:00",
+        "delta_vs_fr_h": 4.023611111111111
+      },
+      {
+        "name": "DIAZ GONZALES luis Alberto FIR 10022775 sw a0c8de0031f92dc685133bdba728b41dd09c90d2",
+        "dni": "10022775",
+        "signing_time_utc": "2026-04-13T12:50:04+00:00",
+        "delta_vs_fr_h": 4.029722222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T08:48:17+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:16:17+00:00"
+    }
+  ]
+}

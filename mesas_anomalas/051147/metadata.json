@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "051147",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.447884+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "POLIDEPORTIVO SAGITARIO",
+    "codigo_local": "18054",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 285,
+    "total_votos_validos": 277,
+    "porcentaje_participacion": 95.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083552-05'00'",
+    "mod_date_raw": "D:20260413083552-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2db2f3da53546e710218b9aa25e473831f4acee7e2049bed73e1546651bd8bf2",
+  "pdf_size_bytes": 856661,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:49:22+00:00",
+    "pdf_created_utc": "2026-04-13T13:35:52+00:00",
+    "delta_pdf_vs_fr_seconds": 42390.0,
+    "delta_pdf_vs_fr_hours": 11.775,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:49:35.690000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:36:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:40:19+00:00",
+    "delta_primer_humano_vs_fr_h": 11.79138888888889,
+    "delta_ultimo_humano_vs_fr_h": 11.849166666666667,
+    "agente_utc": "2026-04-13T01:49:19+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BARDALES GOICOCHEA ian Franco FIR 70253461 sw 8177394410b8d2c60b6a614cd5b1eaa73388fd85",
+        "dni": "70253461",
+        "signing_time_utc": "2026-04-13T13:36:51+00:00",
+        "delta_vs_fr_h": 11.79138888888889
+      },
+      {
+        "name": "BONILLA FARFAN bruno FIR 76952903 sw 6167a369e0abb841939667a2c8a0fe75ae5194a0",
+        "dni": "76952903",
+        "signing_time_utc": "2026-04-13T13:37:10+00:00",
+        "delta_vs_fr_h": 11.796666666666667
+      },
+      {
+        "name": "CABRERA URTEAGA debora Daniela FIR 70866060 sw 7eba25712f2f7aab111dbcfd1f8a45132cdb09d6",
+        "dni": "70866060",
+        "signing_time_utc": "2026-04-13T13:37:36+00:00",
+        "delta_vs_fr_h": 11.803888888888888
+      },
+      {
+        "name": "AQUIJE SOTO ivan Antonio FIR 08505925 sw ad2f72d239b6cef4cee8c949380b5b3692bbfc17",
+        "dni": "08505925",
+        "signing_time_utc": "2026-04-13T13:40:19+00:00",
+        "delta_vs_fr_h": 11.849166666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:49:22+00:00"
+    }
+  ]
+}

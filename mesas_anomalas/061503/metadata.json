@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "061503",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.231964+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LOS OLIVOS",
+    "ubigeo": "140142",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "CEPD EL BUEN PASTOR",
+    "codigo_local": "54427",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 233,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 77.926
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224801-05'00'",
+    "mod_date_raw": "D:20260412224801-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8cd4a22c1234bcfb17f4e149077d7c71eddd20aad6fac71825db610acf89953c",
+  "pdf_size_bytes": 829880,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:10:30+00:00",
+    "pdf_created_utc": "2026-04-13T03:48:01+00:00",
+    "delta_pdf_vs_fr_seconds": 5851.0,
+    "delta_pdf_vs_fr_hours": 1.6252777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:24:38.386000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:48:54+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:49:14+00:00",
+    "delta_primer_humano_vs_fr_h": 1.64,
+    "delta_ultimo_humano_vs_fr_h": 1.6455555555555557,
+    "agente_utc": "2026-04-13T02:09:52+00:00",
+    "delta_agente_vs_fr_h": -0.010555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TOMAS RAMOS alessandra Mercedes FIR 70502903 sw 0a97d6a257252c3f0398ad7f6e1b49e215d1891a",
+        "dni": "70502903",
+        "signing_time_utc": "2026-04-13T03:48:54+00:00",
+        "delta_vs_fr_h": 1.64
+      },
+      {
+        "name": "TUMIALAN CALVAY antonio Efrain FIR 71324432 sw 7225c16d520c6889a4a87088a0c5ffe8a77c13c2",
+        "dni": "71324432",
+        "signing_time_utc": "2026-04-13T03:49:14+00:00",
+        "delta_vs_fr_h": 1.6455555555555557
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:10:30+00:00"
+    }
+  ]
+}

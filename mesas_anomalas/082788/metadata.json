@@ -1,0 +1,104 @@
+{
+  "codigo_mesa": "082788",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.690137+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CARMEN DE LA LEGUA - REYNOSO",
+    "ubigeo": "240104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE RAUL PORRAS BARRENECHEA",
+    "codigo_local": "4840",
+    "total_electores_habiles": 290,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 215,
+    "porcentaje_participacion": 84.483
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412214055-05'00'",
+    "mod_date_raw": "D:20260412214055-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "34bbd22762b040598f75ebcf1d877b2f45e12b2ee84ac51468f0e5c564562d77",
+  "pdf_size_bytes": 931471,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:31:17+00:00",
+    "pdf_created_utc": "2026-04-13T02:40:55+00:00",
+    "delta_pdf_vs_fr_seconds": 4178.0,
+    "delta_pdf_vs_fr_hours": 1.1605555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:04:39.221000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 8,
+  "firmas_summary": {
+    "n_humanos": 7,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:41:10+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:44:26+00:00",
+    "delta_primer_humano_vs_fr_h": 1.1647222222222222,
+    "delta_ultimo_humano_vs_fr_h": 1.2191666666666667,
+    "agente_utc": "2026-04-13T01:31:14+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "URQUIZA HUAMANCULI carmen Marcela FIR 41944180 sw ed0811a5e90a4f6f9863ba0ac4c74fa008ad1280",
+        "dni": "41944180",
+        "signing_time_utc": "2026-04-13T02:41:10+00:00",
+        "delta_vs_fr_h": 1.1647222222222222
+      },
+      {
+        "name": "TRILLO MARTINEZ consuelo Marina FIR 00229556 sw d464f1b960a5de31bb00b26c582f12e26da1a7ea",
+        "dni": "00229556",
+        "signing_time_utc": "2026-04-13T02:41:32+00:00",
+        "delta_vs_fr_h": 1.1708333333333334
+      },
+      {
+        "name": "TUESTA TRIGOSO josue Elmer FIR 76214137 sw c92c8377d30a36a54c1e28db56f0e08bafa84620",
+        "dni": "76214137",
+        "signing_time_utc": "2026-04-13T02:41:45+00:00",
+        "delta_vs_fr_h": 1.1744444444444444
+      },
+      {
+        "name": "FABIAN MALLQUI ketty FIR 72931784 sw 74a7ba58ecd43993aa4029a0a4aae2ee07d87506",
+        "dni": "72931784",
+        "signing_time_utc": "2026-04-13T02:43:02+00:00",
+        "delta_vs_fr_h": 1.1958333333333333
+      },
+      {
+        "name": "MIRANDA URBANO raul Carlos FIR 25795562 sw 41a130b45a1728b92b4520134da13013f1b1c36e",
+        "dni": "25795562",
+        "signing_time_utc": "2026-04-13T02:43:39+00:00",
+        "delta_vs_fr_h": 1.2061111111111111
+      },
+      {
+        "name": "SALCEDO CHINCHAY thalia Mercedes FIR 60795660 sw 2c74e27f33a0b27403402bea74f194f286c3f147",
+        "dni": "60795660",
+        "signing_time_utc": "2026-04-13T02:44:01+00:00",
+        "delta_vs_fr_h": 1.2122222222222223
+      },
+      {
+        "name": "RAMOS BLAS doris Violeta FIR 25643273 sw 80e42a34689ba000d1cba53965c81721ca5c7470",
+        "dni": "25643273",
+        "signing_time_utc": "2026-04-13T02:44:26+00:00",
+        "delta_vs_fr_h": 1.2191666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:31:17+00:00"
+    }
+  ]
+}

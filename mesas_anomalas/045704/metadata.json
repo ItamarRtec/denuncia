@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045704",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.930464+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PACHACÁMAC",
+    "ubigeo": "140116",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP CHARLES FINNEY",
+    "codigo_local": "13539",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 191,
+    "total_votos_validos": 172,
+    "porcentaje_participacion": 63.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085502-05'00'",
+    "mod_date_raw": "D:20260413085502-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a4dd4c5166230735ce2a59415cb2b1eee93984fed7a22befcc942f191d6fea93",
+  "pdf_size_bytes": 831450,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:22:04+00:00",
+    "pdf_created_utc": "2026-04-13T13:55:02+00:00",
+    "delta_pdf_vs_fr_seconds": 41578.0,
+    "delta_pdf_vs_fr_hours": 11.549444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:47:53.269000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:55:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:56:04+00:00",
+    "delta_primer_humano_vs_fr_h": 11.556666666666667,
+    "delta_ultimo_humano_vs_fr_h": 11.566666666666666,
+    "agente_utc": "2026-04-13T02:20:00+00:00",
+    "delta_agente_vs_fr_h": -0.034444444444444444,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SANTOS ZAVALETA giancarlo Antonio FIR 72901451 sw cb3c9519e648628bad166eb778839d7b6d963c3c",
+        "dni": "72901451",
+        "signing_time_utc": "2026-04-13T13:55:28+00:00",
+        "delta_vs_fr_h": 11.556666666666667
+      },
+      {
+        "name": "SANCHEZ TANDAYPAN gianella Jimena FIR 60977928 sw d6609d3ca5779c9bcaf0d2fd4fdc5da3be11859e",
+        "dni": "60977928",
+        "signing_time_utc": "2026-04-13T13:55:40+00:00",
+        "delta_vs_fr_h": 11.56
+      },
+      {
+        "name": "SANCHEZ ESPIRITU jilmer Nelson FIR 20644555 sw 86e705094664f1ad91a1d11fa40e151232e327a1",
+        "dni": "20644555",
+        "signing_time_utc": "2026-04-13T13:56:04+00:00",
+        "delta_vs_fr_h": 11.566666666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:22:04+00:00"
+    }
+  ]
+}

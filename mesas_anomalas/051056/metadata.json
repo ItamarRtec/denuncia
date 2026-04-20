@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051056",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.099359+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6097 MATEO PUMACAHUA",
+    "codigo_local": "5120",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 220,
+    "total_votos_validos": 199,
+    "porcentaje_participacion": 73.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413073820-05'00'",
+    "mod_date_raw": "D:20260413073820-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7fafd4d4b7a85ba39e1ec766a6a77dadafe70d5c3a27db8ee155fad3a4722696",
+  "pdf_size_bytes": 831344,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:46:10+00:00",
+    "pdf_created_utc": "2026-04-13T12:38:20+00:00",
+    "delta_pdf_vs_fr_seconds": 39130.0,
+    "delta_pdf_vs_fr_hours": 10.869444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:39:12.104000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:39:02+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:39:39+00:00",
+    "delta_primer_humano_vs_fr_h": 10.88111111111111,
+    "delta_ultimo_humano_vs_fr_h": 10.891388888888889,
+    "agente_utc": "2026-04-13T01:46:08+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BALTAZAR DURAN carlos Wilmer FIR 10553322 sw d08b0693e0192b987136ebfb488c38f7e9032818",
+        "dni": "10553322",
+        "signing_time_utc": "2026-04-13T12:39:02+00:00",
+        "delta_vs_fr_h": 10.88111111111111
+      },
+      {
+        "name": "AYBAR QUISPE dina Marisol FIR 40863713 sw c2349261aacabd6988f5a10cb1fc28e40afa5e92",
+        "dni": "40863713",
+        "signing_time_utc": "2026-04-13T12:39:23+00:00",
+        "delta_vs_fr_h": 10.886944444444444
+      },
+      {
+        "name": "ASTO GUILLERMO reyna Marleny FIR 09881147 sw bf67f8a62c24acb1401ad3517a7561d40dfc3c52",
+        "dni": "09881147",
+        "signing_time_utc": "2026-04-13T12:39:39+00:00",
+        "delta_vs_fr_h": 10.891388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:46:10+00:00"
+    }
+  ]
+}

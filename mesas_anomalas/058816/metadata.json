@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "058816",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.662691+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN LUIS",
+    "ubigeo": "140138",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE LOS EDUCADORES",
+    "codigo_local": "3482",
+    "total_electores_habiles": 295,
+    "total_votos_emitidos": 239,
+    "total_votos_validos": 211,
+    "porcentaje_participacion": 81.017
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413082356-05'00'",
+    "mod_date_raw": "D:20260413082356-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7926d94a82e9e0a71786cbe8c4c1bcca818fcc217bcc7eda19d870ee846f3c87",
+  "pdf_size_bytes": 907827,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:48:05+00:00",
+    "pdf_created_utc": "2026-04-13T13:23:56+00:00",
+    "delta_pdf_vs_fr_seconds": 38151.0,
+    "delta_pdf_vs_fr_hours": 10.5975,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:42:27.749000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 7,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:24:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:25:59+00:00",
+    "delta_primer_humano_vs_fr_h": 10.60361111111111,
+    "delta_ultimo_humano_vs_fr_h": 10.631666666666666,
+    "agente_utc": "2026-04-13T02:42:55+00:00",
+    "delta_agente_vs_fr_h": -0.08611111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MORCCOLLA SEGOVIA isabel FIR 40756689 sw bfeb49137323bfec9fdbd7bff00676157e464e1f",
+        "dni": "40756689",
+        "signing_time_utc": "2026-04-13T13:24:18+00:00",
+        "delta_vs_fr_h": 10.60361111111111
+      },
+      {
+        "name": "MUNAYLLA SALAZAR daniel Fernando FIR 76631156 sw 4a1c97b715a478c24253d4781fcd24829e77aec8",
+        "dni": "76631156",
+        "signing_time_utc": "2026-04-13T13:24:30+00:00",
+        "delta_vs_fr_h": 10.606944444444444
+      },
+      {
+        "name": "NISHIMAZURUGA LIMA miguel Junior FIR 47961514 sw fcb58ab7b8949d73775408cf4bb28e1cba137fc6",
+        "dni": "47961514",
+        "signing_time_utc": "2026-04-13T13:24:40+00:00",
+        "delta_vs_fr_h": 10.609722222222222
+      },
+      {
+        "name": "RAMOS AGAPITO rafael Alex FIR 06792265 sw 6109230f55bc915b314f483a266c9b92094df958",
+        "dni": "06792265",
+        "signing_time_utc": "2026-04-13T13:25:33+00:00",
+        "delta_vs_fr_h": 10.624444444444444
+      },
+      {
+        "name": "MENDOZA MICHUY roger Manuel FIR 08425421 sw 44613c1921aee4377320459bf29abe47f3f2c8b5",
+        "dni": "08425421",
+        "signing_time_utc": "2026-04-13T13:25:59+00:00",
+        "delta_vs_fr_h": 10.631666666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:48:05+00:00"
+    }
+  ]
+}

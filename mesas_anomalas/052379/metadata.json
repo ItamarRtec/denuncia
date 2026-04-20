@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "052379",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.884778+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6152 STELLA MARIS",
+    "codigo_local": "3260",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 211,
+    "porcentaje_participacion": 81.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412214132-05'00'",
+    "mod_date_raw": "D:20260412214132-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "87d2dccda26eb38dd9af2f34fc63a3f93715deffd678d5d52c60696b31579d77",
+  "pdf_size_bytes": 830440,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:48:50+00:00",
+    "pdf_created_utc": "2026-04-13T02:41:32+00:00",
+    "delta_pdf_vs_fr_seconds": 3162.0,
+    "delta_pdf_vs_fr_hours": 0.8783333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:36:03.332000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:43:23+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:45:33+00:00",
+    "delta_primer_humano_vs_fr_h": 0.9091666666666667,
+    "delta_ultimo_humano_vs_fr_h": 0.9452777777777778,
+    "agente_utc": "2026-04-13T01:48:48+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ ROJAS catalina FIR 09938694 sw 0a2fa5cab2af7fc90f6b36a50e5548fd3e64b522",
+        "dni": "09938694",
+        "signing_time_utc": "2026-04-13T02:43:23+00:00",
+        "delta_vs_fr_h": 0.9091666666666667
+      },
+      {
+        "name": "VELASCO ASCONA willian Marcos FIR 10429539 sw 1daa5956db4abe6bf97721644ec82576c98fe24b",
+        "dni": "10429539",
+        "signing_time_utc": "2026-04-13T02:45:17+00:00",
+        "delta_vs_fr_h": 0.9408333333333333
+      },
+      {
+        "name": "VASQUEZ PALOMINO jean Pieer FIR 47204701 sw 0dd35b240d301e3beb969fbef4d5a19d5531c258",
+        "dni": "47204701",
+        "signing_time_utc": "2026-04-13T02:45:33+00:00",
+        "delta_vs_fr_h": 0.9452777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:48:50+00:00"
+    }
+  ]
+}

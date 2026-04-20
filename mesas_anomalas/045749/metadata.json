@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045749",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.639190+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PACHACÁMAC",
+    "ubigeo": "140116",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7258",
+    "codigo_local": "54002",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 168,
+    "total_votos_validos": 147,
+    "porcentaje_participacion": 73.043
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090114-05'00'",
+    "mod_date_raw": "D:20260413090114-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "299d12997046b0d512bafa01108c316861e591bc1df0a362bbf5abf8993a11ba",
+  "pdf_size_bytes": 855456,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:44:03+00:00",
+    "pdf_created_utc": "2026-04-13T14:01:14+00:00",
+    "delta_pdf_vs_fr_seconds": 40631.0,
+    "delta_pdf_vs_fr_hours": 11.286388888888888,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:11:41.634000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:01:31+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:02:29+00:00",
+    "delta_primer_humano_vs_fr_h": 11.29111111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.307222222222222,
+    "agente_utc": "2026-04-13T02:43:59+00:00",
+    "delta_agente_vs_fr_h": -0.0011111111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARANA ESPINOZA maria Antonieta FIR 07267442 sw ab1da0552f1028ad7a094ea87f8af8dd283b7642",
+        "dni": "07267442",
+        "signing_time_utc": "2026-04-13T14:01:31+00:00",
+        "delta_vs_fr_h": 11.29111111111111
+      },
+      {
+        "name": "ALBITES MINAYA efrain FIR 33257529 sw e2e4666f6fa84c34b5176f22d74bf0288f6d6003",
+        "dni": "33257529",
+        "signing_time_utc": "2026-04-13T14:01:44+00:00",
+        "delta_vs_fr_h": 11.294722222222223
+      },
+      {
+        "name": "ANTONIO UNOCC honorato FIR 23462156 sw f755b6c5afecf2ccf81769fdfb3abafab2b53ae5",
+        "dni": "23462156",
+        "signing_time_utc": "2026-04-13T14:02:04+00:00",
+        "delta_vs_fr_h": 11.300277777777778
+      },
+      {
+        "name": "GALVAN JAUREGUI rigoberta FIR 40908215 sw 219a041d62a1272c32af994a5f85462547a3a32a",
+        "dni": "40908215",
+        "signing_time_utc": "2026-04-13T14:02:29+00:00",
+        "delta_vs_fr_h": 11.307222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:44:03+00:00"
+    }
+  ]
+}

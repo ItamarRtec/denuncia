@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045158",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.933447+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE FEDERICO VILLARREAL",
+    "codigo_local": "2989",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 203,
+    "total_votos_validos": 196,
+    "porcentaje_participacion": 67.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413074314-05'00'",
+    "mod_date_raw": "D:20260413074314-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "271d5f5743bb130180c775a37402a884dd162fcadba281789b4fa387cb171414",
+  "pdf_size_bytes": 856735,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:41:39+00:00",
+    "pdf_created_utc": "2026-04-13T12:43:14+00:00",
+    "delta_pdf_vs_fr_seconds": 39695.0,
+    "delta_pdf_vs_fr_hours": 11.026388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:46:46.024000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:43:31+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:44:48+00:00",
+    "delta_primer_humano_vs_fr_h": 11.03111111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.0525,
+    "agente_utc": "2026-04-13T01:41:37+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MONAR MIGUEL DE PRIEGO camille Antoine FIR 72389975 sw c60d431e29e5b69a7fbf858f2a40d00e56675035",
+        "dni": "72389975",
+        "signing_time_utc": "2026-04-13T12:43:31+00:00",
+        "delta_vs_fr_h": 11.03111111111111
+      },
+      {
+        "name": "MEHNERT SALAZAR claus Dieter FIR 10806048 sw 9effd8ea11b70b08f59195f74e56cab3c9d82d5f",
+        "dni": "10806048",
+        "signing_time_utc": "2026-04-13T12:43:45+00:00",
+        "delta_vs_fr_h": 11.035
+      },
+      {
+        "name": "MAYURI PIZARRO carlos Armando FIR 07860967 sw 97151df0484000d7cdee7a5f9853b99fb8c298ec",
+        "dni": "07860967",
+        "signing_time_utc": "2026-04-13T12:43:57+00:00",
+        "delta_vs_fr_h": 11.038333333333334
+      },
+      {
+        "name": "QUISPE CALDERON adolfo Romulo FIR 06218630 sw 1a9db1407d143b0df4a93851fbad07a8159006f8",
+        "dni": "06218630",
+        "signing_time_utc": "2026-04-13T12:44:48+00:00",
+        "delta_vs_fr_h": 11.0525
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:41:39+00:00"
+    }
+  ]
+}

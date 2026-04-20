@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "046005",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.972689+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUEBLO LIBRE",
+    "ubigeo": "140117",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 04 NIÑO JESUS DE PRAGA",
+    "codigo_local": "50932",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 235,
+    "total_votos_validos": 220,
+    "porcentaje_participacion": 78.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412200038-05'00'",
+    "mod_date_raw": "D:20260412200038-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a8fe3091f90633aa4884da7757b8f3f20bfc0e46883fef7b0eef8fc62f894cfa",
+  "pdf_size_bytes": 856740,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:46:59+00:00",
+    "pdf_created_utc": "2026-04-13T01:00:38+00:00",
+    "delta_pdf_vs_fr_seconds": 819.0,
+    "delta_pdf_vs_fr_hours": 0.2275,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T00:55:20.379000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T01:01:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T01:02:18+00:00",
+    "delta_primer_humano_vs_fr_h": 0.23944444444444443,
+    "delta_ultimo_humano_vs_fr_h": 0.25527777777777777,
+    "agente_utc": "2026-04-13T00:46:58+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CHAVEZ MOSQUEIRA lenin FIR 26723924 sw f514bb88bfd5f858881c522981b1a777e5a28ba8",
+        "dni": "26723924",
+        "signing_time_utc": "2026-04-13T01:01:21+00:00",
+        "delta_vs_fr_h": 0.23944444444444443
+      },
+      {
+        "name": "BAUTISTA ALZAMORA stanley FIR 40122480 sw 94ab0d966408e97fdc334ed76a3966c58d7c1a72",
+        "dni": "40122480",
+        "signing_time_utc": "2026-04-13T01:01:34+00:00",
+        "delta_vs_fr_h": 0.24305555555555555
+      },
+      {
+        "name": "CORDOVA PACHECO jean Carlo FIR 44099862 sw 013262f3b21324099bfaf0124532eddce4aad6a9",
+        "dni": "44099862",
+        "signing_time_utc": "2026-04-13T01:01:46+00:00",
+        "delta_vs_fr_h": 0.24638888888888888
+      },
+      {
+        "name": "VARGAS REPETTO rossicela Johana FIR 74987704 sw 320d706ccefaafc0da17005983e7ef85ce3be1ae",
+        "dni": "74987704",
+        "signing_time_utc": "2026-04-13T01:02:18+00:00",
+        "delta_vs_fr_h": 0.25527777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:46:59+00:00"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "codigo_mesa": "040113",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.351385+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2077 SAN MARTIN DE PORRES",
+    "codigo_local": "2799",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 253,
+    "total_votos_validos": 216,
+    "porcentaje_participacion": 84.615
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413081220-05'00'",
+    "mod_date_raw": "D:20260413081220-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3f3bc1dac28c13a54bbe06c0a604acf2a1634129a5d5de73149ab3f2d2c68459",
+  "pdf_size_bytes": 831741,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:33:58+00:00",
+    "pdf_created_utc": "2026-04-13T13:12:20+00:00",
+    "delta_pdf_vs_fr_seconds": 31102.0,
+    "delta_pdf_vs_fr_hours": 8.639444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:27:09.546000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:13:06+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:13:31+00:00",
+    "delta_primer_humano_vs_fr_h": 8.652222222222223,
+    "delta_ultimo_humano_vs_fr_h": 8.659166666666666,
+    "agente_utc": "2026-04-13T01:31:58+00:00",
+    "delta_agente_vs_fr_h": -3.033333333333333,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BAYONA VILCHEZ cristina Olivia FIR 80521454 sw 07a891abfdd92573a36f8cc9d12a6c05f2e2ae47",
+        "dni": "80521454",
+        "signing_time_utc": "2026-04-13T13:13:06+00:00",
+        "delta_vs_fr_h": 8.652222222222223
+      },
+      {
+        "name": "BRAVO CASTREJON dimicia Luzmila FIR 09476384 sw e2b9267ff7b2f2392387f8fa89324983ceb03164",
+        "dni": "09476384",
+        "signing_time_utc": "2026-04-13T13:13:31+00:00",
+        "delta_vs_fr_h": 8.659166666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:33:58+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:32:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "060748",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.586800+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LOS OLIVOS",
+    "ubigeo": "140142",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2078 NUESTRA SEÑORA DE LOURDES",
+    "codigo_local": "3546",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 251,
+    "total_votos_validos": 233,
+    "porcentaje_participacion": 83.946
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413030933-05'00'",
+    "mod_date_raw": "D:20260413030933-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c389c121126c8d7475faa0011dd0e367c6aa0470fe1f41887fa39b480da2e2ff",
+  "pdf_size_bytes": 829720,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:55:43+00:00",
+    "pdf_created_utc": "2026-04-13T08:09:33+00:00",
+    "delta_pdf_vs_fr_seconds": 22430.0,
+    "delta_pdf_vs_fr_hours": 6.230555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:27:39.721000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T08:10:17+00:00",
+    "ultimo_humano_utc": "2026-04-13T08:10:40+00:00",
+    "delta_primer_humano_vs_fr_h": 6.2427777777777775,
+    "delta_ultimo_humano_vs_fr_h": 6.2491666666666665,
+    "agente_utc": "2026-04-13T01:55:40+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PINTO CHALLAPA yeny FIR 41166497 sw 156fdaf2fa48c8be6654a0bf81c12ecce073cba3",
+        "dni": "41166497",
+        "signing_time_utc": "2026-04-13T08:10:17+00:00",
+        "delta_vs_fr_h": 6.2427777777777775
+      },
+      {
+        "name": "PISCO DEL AGUILA klid FIR 42627357 sw 627db3e2ac9a05cf5ca518000c1911833d737557",
+        "dni": "42627357",
+        "signing_time_utc": "2026-04-13T08:10:30+00:00",
+        "delta_vs_fr_h": 6.246388888888889
+      },
+      {
+        "name": "PEREZ QUISPE celestino FIR 25729391 sw c6207dc545b33ee109f047898159e80e74e84bef",
+        "dni": "25729391",
+        "signing_time_utc": "2026-04-13T08:10:40+00:00",
+        "delta_vs_fr_h": 6.2491666666666665
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:55:43+00:00"
+    }
+  ]
+}

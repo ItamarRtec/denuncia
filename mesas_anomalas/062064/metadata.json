@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "062064",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.977944+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SACO OLIVEROS HELICOIDAL",
+    "codigo_local": "14114",
+    "total_electores_habiles": 293,
+    "total_votos_emitidos": 238,
+    "total_votos_validos": 218,
+    "porcentaje_participacion": 81.229
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091923-05'00'",
+    "mod_date_raw": "D:20260413091923-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a10be0b590899231ff616be81715201259386a3697d87b0451151a1e09c81fe7",
+  "pdf_size_bytes": 831609,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:39:59+00:00",
+    "pdf_created_utc": "2026-04-13T14:19:23+00:00",
+    "delta_pdf_vs_fr_seconds": 38364.0,
+    "delta_pdf_vs_fr_hours": 10.656666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T11:53:25.274000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T14:19:56+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:20:06+00:00",
+    "delta_primer_humano_vs_fr_h": 10.665833333333333,
+    "delta_ultimo_humano_vs_fr_h": 10.668611111111112,
+    "agente_utc": "2026-04-13T03:39:57+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PALOMINO CHICCHON katherine Jhunnet FIR 70018693 sw 8da2f0144f0897856f15b5f370230ca19459ed0f",
+        "dni": "70018693",
+        "signing_time_utc": "2026-04-13T14:19:56+00:00",
+        "delta_vs_fr_h": 10.665833333333333
+      },
+      {
+        "name": "PANDURO LOPE dagni Yuli FIR 73054194 sw 6f90b00afc1c0d04cf2484f0fcb1349f3ad1df18",
+        "dni": "73054194",
+        "signing_time_utc": "2026-04-13T14:20:06+00:00",
+        "delta_vs_fr_h": 10.668611111111112
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:39:59+00:00"
+    }
+  ]
+}

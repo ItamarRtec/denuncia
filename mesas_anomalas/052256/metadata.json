@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "052256",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.846073+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6060 JULIO C TELLO",
+    "codigo_local": "3253",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 240,
+    "total_votos_validos": 207,
+    "porcentaje_participacion": 80.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413122547-05'00'",
+    "mod_date_raw": "D:20260413122547-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "cb36e3635926662cd5761b11dea807d42e16466216754704996430b0068deb33",
+  "pdf_size_bytes": 830964,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T05:55:33+00:00",
+    "pdf_created_utc": "2026-04-13T17:25:47+00:00",
+    "delta_pdf_vs_fr_seconds": 41414.0,
+    "delta_pdf_vs_fr_hours": 11.50388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:46:22.889000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T17:26:11+00:00",
+    "ultimo_humano_utc": "2026-04-13T17:26:46+00:00",
+    "delta_primer_humano_vs_fr_h": 11.510555555555555,
+    "delta_ultimo_humano_vs_fr_h": 11.520277777777778,
+    "agente_utc": "2026-04-13T05:55:30+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SALAZAR POLO abigail FIR 46541313 sw ebbecdc639e0c0b7448fb7a562d2013eb96d0383",
+        "dni": "46541313",
+        "signing_time_utc": "2026-04-13T17:26:11+00:00",
+        "delta_vs_fr_h": 11.510555555555555
+      },
+      {
+        "name": "SAAVEDRA CUNYARACHE leonardi FIR 40296976 sw b3382c0ff91f5458141a9c38a74e49dc1f7eb530",
+        "dni": "40296976",
+        "signing_time_utc": "2026-04-13T17:26:32+00:00",
+        "delta_vs_fr_h": 11.516388888888889
+      },
+      {
+        "name": "ROSAS CORAQUILLO percy Victorio FIR 75081652 sw 093f9806f9b06f81fd18e24d9ac715e434665b78",
+        "dni": "75081652",
+        "signing_time_utc": "2026-04-13T17:26:46+00:00",
+        "delta_vs_fr_h": 11.520277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T05:55:33+00:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "049982",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:57.508519+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTO DOMINGO EL APOSTOL",
+    "codigo_local": "3168",
+    "total_electores_habiles": 298,
+    "total_votos_emitidos": 244,
+    "total_votos_validos": 224,
+    "porcentaje_participacion": 81.879
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412234540-05'00'",
+    "mod_date_raw": "D:20260412234540-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e5e82ff5fb5e89ce2b86584d1b30482e2ec189724c1a7c4aa25a99598b7deacc",
+  "pdf_size_bytes": 831179,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:02:03+00:00",
+    "pdf_created_utc": "2026-04-13T04:45:40+00:00",
+    "delta_pdf_vs_fr_seconds": 9817.0,
+    "delta_pdf_vs_fr_hours": 2.7269444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:53:01.989000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T04:46:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:46:34+00:00",
+    "delta_primer_humano_vs_fr_h": 2.7375,
+    "delta_ultimo_humano_vs_fr_h": 2.7419444444444445,
+    "agente_utc": "2026-04-13T02:02:01+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "NASSAR  khaled Abdelmoneim Ahmed FIR 48181780 sw 9e931902dd69a89d3fb075c30428df13f4f2e734",
+        "dni": "48181780",
+        "signing_time_utc": "2026-04-13T04:46:18+00:00",
+        "delta_vs_fr_h": 2.7375
+      },
+      {
+        "name": "MURO VARGAS elizabeth Julia FIR 09077587 sw e29a06ebd3b38db681a41302bad3e53db2cf1b51",
+        "dni": "09077587",
+        "signing_time_utc": "2026-04-13T04:46:34+00:00",
+        "delta_vs_fr_h": 2.7419444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:02:03+00:00"
+    }
+  ]
+}

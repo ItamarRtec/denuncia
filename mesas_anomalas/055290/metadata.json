@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "055290",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.686844+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE DE ACCION CONJUNTA PADRE ILUMINATO",
+    "codigo_local": "3375",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 234,
+    "total_votos_validos": 202,
+    "porcentaje_participacion": 78.261
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413084136-05'00'",
+    "mod_date_raw": "D:20260413084136-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "09aac3838a2bf0357aa53e9e39473b072ef2b2cd0e12534c32b057175b6c09b6",
+  "pdf_size_bytes": 831478,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:22:41+00:00",
+    "pdf_created_utc": "2026-04-13T13:41:36+00:00",
+    "delta_pdf_vs_fr_seconds": 40735.0,
+    "delta_pdf_vs_fr_hours": 11.315277777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:56:44.245000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:43:04+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:43:17+00:00",
+    "delta_primer_humano_vs_fr_h": 11.339722222222223,
+    "delta_ultimo_humano_vs_fr_h": 11.343333333333334,
+    "agente_utc": "2026-04-13T02:21:24+00:00",
+    "delta_agente_vs_fr_h": -0.021388888888888888,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ESTELA CUBAS orlando FIR 09584262 sw c3f3bc6999d450b97a4324db7b134f3cfa78b3e7",
+        "dni": "09584262",
+        "signing_time_utc": "2026-04-13T13:43:04+00:00",
+        "delta_vs_fr_h": 11.339722222222223
+      },
+      {
+        "name": "ESPINOZA TORRES rori Jhander FIR 09586284 sw c7097aaf0bc421b1d2b24fed198cb9475bea6077",
+        "dni": "09586284",
+        "signing_time_utc": "2026-04-13T13:43:17+00:00",
+        "delta_vs_fr_h": 11.343333333333334
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:22:41+00:00"
+    }
+  ]
+}

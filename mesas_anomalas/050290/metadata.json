@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050290",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.054834+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO SACO OLIVEROS DE SAN MIGUEL",
+    "codigo_local": "52595",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 227,
+    "total_votos_validos": 212,
+    "porcentaje_participacion": 75.92
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413000518-05'00'",
+    "mod_date_raw": "D:20260413000518-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "63708522ba89478fc86a71db65d7acac22ab27aa82e238c4b1bda54df31c4a4a",
+  "pdf_size_bytes": 830536,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:36+00:00",
+    "pdf_created_utc": "2026-04-13T05:05:18+00:00",
+    "delta_pdf_vs_fr_seconds": 12702.0,
+    "delta_pdf_vs_fr_hours": 3.5283333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:21:01.159000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:06:01+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:06:37+00:00",
+    "delta_primer_humano_vs_fr_h": 3.540277777777778,
+    "delta_ultimo_humano_vs_fr_h": 3.5502777777777776,
+    "agente_utc": "2026-04-13T01:33:33+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CARCAMO CONDORI raquel Erica FIR 09862185 sw d32394a9e45543384d12c7261b6eb3f849322085",
+        "dni": "09862185",
+        "signing_time_utc": "2026-04-13T05:06:01+00:00",
+        "delta_vs_fr_h": 3.540277777777778
+      },
+      {
+        "name": "CANALES ESPINOLA mirella FIR 18167539 sw 4607c8ec62594cb334874a1772d9373be443069c",
+        "dni": "18167539",
+        "signing_time_utc": "2026-04-13T05:06:22+00:00",
+        "delta_vs_fr_h": 3.546111111111111
+      },
+      {
+        "name": "CADENA MATIAS ximena FIR 76569347 sw 3debab2e40da1ab72c98efc974e2ee8c9a025b1d",
+        "dni": "76569347",
+        "signing_time_utc": "2026-04-13T05:06:37+00:00",
+        "delta_vs_fr_h": 3.5502777777777776
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:36+00:00"
+    }
+  ]
+}

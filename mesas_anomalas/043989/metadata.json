@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "043989",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.845337+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LINCE",
+    "ubigeo": "140111",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEE 1070 MELITON CARVAJAL - ESTADIO",
+    "codigo_local": "35741",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 212,
+    "total_votos_validos": 195,
+    "porcentaje_participacion": 70.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413084134-05'00'",
+    "mod_date_raw": "D:20260413084134-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a596f7c14a337cddd31f2e3db1d215387a891042ad9e44fa8d8830d5a2ecaed6",
+  "pdf_size_bytes": 831259,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:02:00+00:00",
+    "pdf_created_utc": "2026-04-13T13:41:34+00:00",
+    "delta_pdf_vs_fr_seconds": 41974.0,
+    "delta_pdf_vs_fr_hours": 11.659444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T09:40:26.219000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:42:49+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:43:04+00:00",
+    "delta_primer_humano_vs_fr_h": 11.680277777777778,
+    "delta_ultimo_humano_vs_fr_h": 11.684444444444445,
+    "agente_utc": "2026-04-13T02:01:30+00:00",
+    "delta_agente_vs_fr_h": -0.008333333333333333,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VILLARREAL SERNAQUE christhian Jhosep FIR 03684748 sw 78a2dcfa1ac28289c13bf1fe8000519b7258e57c",
+        "dni": "03684748",
+        "signing_time_utc": "2026-04-13T13:42:49+00:00",
+        "delta_vs_fr_h": 11.680277777777778
+      },
+      {
+        "name": "VIVAS TAYPE marcos Omar FIR 75608038 sw 03bbbeb1b4c01799cceb74f6bd80bec5159bd271",
+        "dni": "75608038",
+        "signing_time_utc": "2026-04-13T13:43:04+00:00",
+        "delta_vs_fr_h": 11.684444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:02:00+00:00"
+    }
+  ]
+}

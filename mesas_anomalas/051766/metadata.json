@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051766",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.235027+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE EMBLEMATICA RICARDO PALMA",
+    "codigo_local": "3232",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 244,
+    "total_votos_validos": 218,
+    "porcentaje_participacion": 81.605
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413000546-05'00'",
+    "mod_date_raw": "D:20260413000546-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "1c67f99f1596d1fdaab18c754b9582d9ba54e22a38e0b0f85d4e146594133e59",
+  "pdf_size_bytes": 831038,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:51:01+00:00",
+    "pdf_created_utc": "2026-04-13T05:05:46+00:00",
+    "delta_pdf_vs_fr_seconds": 11685.0,
+    "delta_pdf_vs_fr_hours": 3.245833333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:26:38.911000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:06:00+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:06:36+00:00",
+    "delta_primer_humano_vs_fr_h": 3.249722222222222,
+    "delta_ultimo_humano_vs_fr_h": 3.2597222222222224,
+    "agente_utc": "2026-04-13T01:50:59+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MONTERO AMESQUITA maria Isabel FIR 08880434 sw 27f0b351cb5a828e404d46e7ffda3412665d6391",
+        "dni": "08880434",
+        "signing_time_utc": "2026-04-13T05:06:00+00:00",
+        "delta_vs_fr_h": 3.249722222222222
+      },
+      {
+        "name": "MORANTE ALVAN jorge Daniel FIR 44633211 sw 2257fdd849089d7692aa8a9ed337957b96074575",
+        "dni": "44633211",
+        "signing_time_utc": "2026-04-13T05:06:19+00:00",
+        "delta_vs_fr_h": 3.255
+      },
+      {
+        "name": "MURILLO VILCHEZ elizabeth Jessica FIR 29648813 sw 0118b815e46306a8644213bd4e72e8eb970a69c9",
+        "dni": "29648813",
+        "signing_time_utc": "2026-04-13T05:06:36+00:00",
+        "delta_vs_fr_h": 3.2597222222222224
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:51:01+00:00"
+    }
+  ]
+}

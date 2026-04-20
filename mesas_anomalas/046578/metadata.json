@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "046578",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.586170+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUENTE PIEDRA",
+    "ubigeo": "140119",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2076 ABRAHAM LINCOLN",
+    "codigo_local": "5101",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 256,
+    "total_votos_validos": 234,
+    "porcentaje_participacion": 85.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413021453-05'00'",
+    "mod_date_raw": "D:20260413021453-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3109e0fbf25c5a958b12c0fdab09b457e11cd7a7e0f77b66296e1168e0ba49db",
+  "pdf_size_bytes": 856400,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:25:58+00:00",
+    "pdf_created_utc": "2026-04-13T07:14:53+00:00",
+    "delta_pdf_vs_fr_seconds": 17335.0,
+    "delta_pdf_vs_fr_hours": 4.815277777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:07:10.975000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T07:15:16+00:00",
+    "ultimo_humano_utc": "2026-04-13T07:16:25+00:00",
+    "delta_primer_humano_vs_fr_h": 4.821666666666666,
+    "delta_ultimo_humano_vs_fr_h": 4.840833333333333,
+    "agente_utc": "2026-04-13T02:24:58+00:00",
+    "delta_agente_vs_fr_h": -0.016666666666666666,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "NOMBERTO BALLENA joan Alex FIR 47467480 sw b2b09e239ff045de2fbc74db12b38e7930c050ca",
+        "dni": "47467480",
+        "signing_time_utc": "2026-04-13T07:15:16+00:00",
+        "delta_vs_fr_h": 4.821666666666666
+      },
+      {
+        "name": "MURGA MIGUEL herlin Brandon FIR 74723695 sw bbb078dfe8f4afd47abde9031e08760600799a49",
+        "dni": "74723695",
+        "signing_time_utc": "2026-04-13T07:15:36+00:00",
+        "delta_vs_fr_h": 4.827222222222222
+      },
+      {
+        "name": "OLIVOS GARCIA rosario Teresa FIR 10195620 sw f2856eb7b4543d30954b03a805cf29826054a3a4",
+        "dni": "10195620",
+        "signing_time_utc": "2026-04-13T07:15:50+00:00",
+        "delta_vs_fr_h": 4.831111111111111
+      },
+      {
+        "name": "GOMERO ESPINOZA eusebio Fortunato FIR 32298596 sw a836ba3f14dd67bd0fcf9e02f6f5a395ac9dca77",
+        "dni": "32298596",
+        "signing_time_utc": "2026-04-13T07:16:25+00:00",
+        "delta_vs_fr_h": 4.840833333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:25:58+00:00"
+    }
+  ]
+}

@@ -1,0 +1,2193 @@
+{
+  "captured_at_utc": "2026-04-19T22:54:08.987377+00:00",
+  "endpoint": "https://resultadoelectoral.onpe.gob.pe/presentacion-backend/actas/buscar/mesa?codigoMesa=058788&idEleccion=10",
+  "raw_response": {
+    "codigo_mesa": "058788",
+    "payload": {
+      "success": true,
+      "message": "",
+      "data": [
+        {
+          "id": 5878814013810,
+          "idMesa": 58788,
+          "codigoMesa": "058788",
+          "numeroCopia": null,
+          "idUbigeoEleccion": null,
+          "idEleccion": 10,
+          "idAmbitoGeografico": 1,
+          "idUbigeo": 140138,
+          "centroPoblado": "",
+          "nombreLocalVotacion": "IE 1216 MIGUEL GRAU SEMINARIO",
+          "codigoLocalVotacion": "3481",
+          "totalElectoresHabiles": 300,
+          "totalVotosEmitidos": 259,
+          "totalVotosValidos": 242,
+          "totalAsistentes": 259,
+          "porcentajeParticipacionCiudadana": 86.333,
+          "estadoActa": "D",
+          "estadoComputo": "N",
+          "codigoEstadoActa": "C",
+          "descripcionEstadoActa": "Contabilizada",
+          "detalle": [
+            {
+              "adAgrupacionPolitica": 1,
+              "adPosicion": 22,
+              "adCodigo": "00000001",
+              "adDescripcion": "ALIANZA PARA EL PROGRESO",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 2,
+              "adPosicion": 24,
+              "adCodigo": "00000002",
+              "adDescripcion": "AHORA NACIÓN - AN",
+              "adEstado": 1,
+              "adVotos": 17,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 7.025,
+              "adPorcentajeVotosEmitidos": 6.564,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 3,
+              "adPosicion": 1,
+              "adCodigo": "00000003",
+              "adDescripcion": "ALIANZA ELECTORAL VENCEREMOS",
+              "adEstado": 1,
+              "adVotos": 2,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.826,
+              "adPorcentajeVotosEmitidos": 0.772,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 4,
+              "adPosicion": 28,
+              "adCodigo": "00000004",
+              "adDescripcion": "PERÚ MODERNO",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 5,
+              "adPosicion": 19,
+              "adCodigo": "00000005",
+              "adDescripcion": "FE EN EL PERÚ",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 6,
+              "adPosicion": 4,
+              "adCodigo": "00000006",
+              "adDescripcion": "FRENTE POPULAR AGRÍCOLA FÍA DEL PERÚ",
+              "adEstado": 20,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 7,
+              "adPosicion": 27,
+              "adCodigo": "00000007",
+              "adDescripcion": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 8,
+              "adPosicion": 21,
+              "adCodigo": "00000008",
+              "adDescripcion": "FUERZA POPULAR",
+              "adEstado": 1,
+              "adVotos": 41,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 16.942,
+              "adPorcentajeVotosEmitidos": 15.83,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 9,
+              "adPosicion": 35,
+              "adCodigo": "00000009",
+              "adDescripcion": "FUERZA Y LIBERTAD",
+              "adEstado": 1,
+              "adVotos": 1,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.413,
+              "adPorcentajeVotosEmitidos": 0.386,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 10,
+              "adPosicion": 16,
+              "adCodigo": "00000010",
+              "adDescripcion": "JUNTOS POR EL PERÚ",
+              "adEstado": 1,
+              "adVotos": 8,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 3.306,
+              "adPorcentajeVotosEmitidos": 3.089,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 11,
+              "adPosicion": 25,
+              "adCodigo": "00000011",
+              "adDescripcion": "LIBERTAD POPULAR",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 12,
+              "adPosicion": 32,
+              "adCodigo": "00000012",
+              "adDescripcion": "PARTIDO APRISTA PERUANO",
+              "adEstado": 1,
+              "adVotos": 3,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 1.24,
+              "adPorcentajeVotosEmitidos": 1.158,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 13,
+              "adPosicion": 14,
+              "adCodigo": "00000013",
+              "adDescripcion": "PARTIDO CIUDADANOS POR EL PERÚ",
+              "adEstado": 20,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 14,
+              "adPosicion": 3,
+              "adCodigo": "00000014",
+              "adDescripcion": "PARTIDO CÍVICO OBRAS",
+              "adEstado": 1,
+              "adVotos": 18,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 7.438,
+              "adPorcentajeVotosEmitidos": 6.95,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 15,
+              "adPosicion": 36,
+              "adCodigo": "00000015",
+              "adDescripcion": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 16,
+              "adPosicion": 6,
+              "adCodigo": "00000016",
+              "adDescripcion": "PARTIDO DEL BUEN GOBIERNO",
+              "adEstado": 1,
+              "adVotos": 38,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 15.702,
+              "adPorcentajeVotosEmitidos": 14.672,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 17,
+              "adPosicion": 34,
+              "adCodigo": "00000017",
+              "adDescripcion": "PARTIDO DEMÓCRATA UNIDO PERÚ",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 18,
+              "adPosicion": 5,
+              "adCodigo": "00000018",
+              "adDescripcion": "PARTIDO DEMÓCRATA VERDE",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 19,
+              "adPosicion": 18,
+              "adCodigo": "00000019",
+              "adDescripcion": "PARTIDO DEMOCRATICO FEDERAL",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 20,
+              "adPosicion": 31,
+              "adCodigo": "00000020",
+              "adDescripcion": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
+              "adEstado": 1,
+              "adVotos": 2,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.826,
+              "adPorcentajeVotosEmitidos": 0.772,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 21,
+              "adPosicion": 12,
+              "adCodigo": "00000021",
+              "adDescripcion": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+              "adEstado": 1,
+              "adVotos": 3,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 1.24,
+              "adPorcentajeVotosEmitidos": 1.158,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 22,
+              "adPosicion": 38,
+              "adCodigo": "00000022",
+              "adDescripcion": "PARTIDO MORADO",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 23,
+              "adPosicion": 11,
+              "adCodigo": "00000023",
+              "adDescripcion": "PARTIDO PAÍS PARA TODOS",
+              "adEstado": 1,
+              "adVotos": 18,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 7.438,
+              "adPorcentajeVotosEmitidos": 6.95,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 24,
+              "adPosicion": 2,
+              "adCodigo": "00000024",
+              "adDescripcion": "PARTIDO PATRIÓTICO DEL PERÚ",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 25,
+              "adPosicion": 23,
+              "adCodigo": "00000025",
+              "adDescripcion": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 26,
+              "adPosicion": 20,
+              "adCodigo": "00000026",
+              "adDescripcion": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
+              "adEstado": 1,
+              "adVotos": 3,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 1.24,
+              "adPorcentajeVotosEmitidos": 1.158,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 27,
+              "adPosicion": 13,
+              "adCodigo": "00000027",
+              "adDescripcion": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 28,
+              "adPosicion": 7,
+              "adCodigo": "00000028",
+              "adDescripcion": "PARTIDO POLÍTICO PERÚ ACCIÓN",
+              "adEstado": 1,
+              "adVotos": 1,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.413,
+              "adPorcentajeVotosEmitidos": 0.386,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 29,
+              "adPosicion": 29,
+              "adCodigo": "00000029",
+              "adDescripcion": "PARTIDO POLÍTICO PERÚ PRIMERO",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 30,
+              "adPosicion": 8,
+              "adCodigo": "00000030",
+              "adDescripcion": "PARTIDO POLÍTICO PRIN",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 31,
+              "adPosicion": 10,
+              "adCodigo": "00000031",
+              "adDescripcion": "PARTIDO SICREO",
+              "adEstado": 1,
+              "adVotos": 2,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.826,
+              "adPorcentajeVotosEmitidos": 0.772,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 32,
+              "adPosicion": 17,
+              "adCodigo": "00000032",
+              "adDescripcion": "PODEMOS PERÚ",
+              "adEstado": 1,
+              "adVotos": 2,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.826,
+              "adPorcentajeVotosEmitidos": 0.772,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 33,
+              "adPosicion": 15,
+              "adCodigo": "00000033",
+              "adDescripcion": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
+              "adEstado": 1,
+              "adVotos": 8,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 3.306,
+              "adPorcentajeVotosEmitidos": 3.089,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 34,
+              "adPosicion": 9,
+              "adCodigo": "00000034",
+              "adDescripcion": "PROGRESEMOS",
+              "adEstado": 1,
+              "adVotos": 2,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.826,
+              "adPorcentajeVotosEmitidos": 0.772,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 35,
+              "adPosicion": 33,
+              "adCodigo": "00000035",
+              "adDescripcion": "RENOVACIÓN POPULAR",
+              "adEstado": 1,
+              "adVotos": 69,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 28.512,
+              "adPorcentajeVotosEmitidos": 26.641,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 36,
+              "adPosicion": 30,
+              "adCodigo": "00000036",
+              "adDescripcion": "SALVEMOS AL PERÚ",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.0,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 37,
+              "adPosicion": 26,
+              "adCodigo": "00000037",
+              "adDescripcion": "UN CAMINO DIFERENTE",
+              "adEstado": 1,
+              "adVotos": 1,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 0.413,
+              "adPorcentajeVotosEmitidos": 0.386,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 38,
+              "adPosicion": 37,
+              "adCodigo": "00000038",
+              "adDescripcion": "UNIDAD NACIONAL",
+              "adEstado": 1,
+              "adVotos": 3,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": 1.24,
+              "adPorcentajeVotosEmitidos": 1.158,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": null,
+                  "lista": null,
+                  "votos": 0,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 80,
+              "adPosicion": 80,
+              "adCodigo": "80",
+              "adDescripcion": "VOTOS EN BLANCO",
+              "adEstado": 1,
+              "adVotos": 13,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": 5.019,
+              "adGrafico": 0,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 81,
+              "adPosicion": 81,
+              "adCodigo": "81",
+              "adDescripcion": "VOTOS NULOS",
+              "adEstado": 1,
+              "adVotos": 4,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": 1.544,
+              "adGrafico": 0,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 82,
+              "adPosicion": 82,
+              "adCodigo": "82",
+              "adDescripcion": "VOTOS IMPUGNADOS",
+              "adEstado": 1,
+              "adVotos": 0,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": 0.0,
+              "adGrafico": 1,
+              "candidato": []
+            }
+          ],
+          "lineaTiempo": [
+            {
+              "codigoEstadoActa": "C",
+              "descripcionEstadoActa": "Contabilizada",
+              "descripcionEstadoActaResolucion": null,
+              "fechaRegistro": 1776046363000
+            }
+          ]
+        },
+        {
+          "id": 5878814013815,
+          "idMesa": 58788,
+          "codigoMesa": "058788",
+          "numeroCopia": null,
+          "idUbigeoEleccion": null,
+          "idEleccion": 15,
+          "idAmbitoGeografico": 1,
+          "idUbigeo": 140138,
+          "centroPoblado": "",
+          "nombreLocalVotacion": "IE 1216 MIGUEL GRAU SEMINARIO",
+          "codigoLocalVotacion": "3481",
+          "totalElectoresHabiles": 300,
+          "totalVotosEmitidos": null,
+          "totalVotosValidos": null,
+          "totalAsistentes": null,
+          "porcentajeParticipacionCiudadana": 0.0,
+          "estadoActa": "A",
+          "estadoComputo": "N",
+          "codigoEstadoActa": "P",
+          "descripcionEstadoActa": "Pendiente",
+          "detalle": [],
+          "lineaTiempo": []
+        },
+        {
+          "id": 5878814013814,
+          "idMesa": 58788,
+          "codigoMesa": "058788",
+          "numeroCopia": null,
+          "idUbigeoEleccion": null,
+          "idEleccion": 14,
+          "idAmbitoGeografico": 1,
+          "idUbigeo": 140138,
+          "centroPoblado": "",
+          "nombreLocalVotacion": "IE 1216 MIGUEL GRAU SEMINARIO",
+          "codigoLocalVotacion": "3481",
+          "totalElectoresHabiles": 300,
+          "totalVotosEmitidos": null,
+          "totalVotosValidos": null,
+          "totalAsistentes": null,
+          "porcentajeParticipacionCiudadana": 0.0,
+          "estadoActa": "A",
+          "estadoComputo": "N",
+          "codigoEstadoActa": "P",
+          "descripcionEstadoActa": "Pendiente",
+          "detalle": [],
+          "lineaTiempo": []
+        },
+        {
+          "id": 5878814013813,
+          "idMesa": 58788,
+          "codigoMesa": "058788",
+          "numeroCopia": null,
+          "idUbigeoEleccion": null,
+          "idEleccion": 13,
+          "idAmbitoGeografico": 1,
+          "idUbigeo": 140138,
+          "centroPoblado": "",
+          "nombreLocalVotacion": "IE 1216 MIGUEL GRAU SEMINARIO",
+          "codigoLocalVotacion": "3481",
+          "totalElectoresHabiles": 300,
+          "totalVotosEmitidos": null,
+          "totalVotosValidos": null,
+          "totalAsistentes": null,
+          "porcentajeParticipacionCiudadana": 0.0,
+          "estadoActa": "A",
+          "estadoComputo": "N",
+          "codigoEstadoActa": "P",
+          "descripcionEstadoActa": "Pendiente",
+          "detalle": [],
+          "lineaTiempo": []
+        },
+        {
+          "id": 5878814013812,
+          "idMesa": 58788,
+          "codigoMesa": "058788",
+          "numeroCopia": null,
+          "idUbigeoEleccion": null,
+          "idEleccion": 12,
+          "idAmbitoGeografico": 1,
+          "idUbigeo": 140138,
+          "centroPoblado": "",
+          "nombreLocalVotacion": "IE 1216 MIGUEL GRAU SEMINARIO",
+          "codigoLocalVotacion": "3481",
+          "totalElectoresHabiles": 300,
+          "totalVotosEmitidos": null,
+          "totalVotosValidos": null,
+          "totalAsistentes": null,
+          "porcentajeParticipacionCiudadana": 0.0,
+          "estadoActa": "I",
+          "estadoComputo": "N",
+          "codigoEstadoActa": "E",
+          "descripcionEstadoActa": "Para envío al JEE",
+          "detalle": [
+            {
+              "adAgrupacionPolitica": 1,
+              "adPosicion": 22,
+              "adCodigo": "00000001",
+              "adDescripcion": "ALIANZA PARA EL PROGRESO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 2,
+              "adPosicion": 24,
+              "adCodigo": "00000002",
+              "adDescripcion": "AHORA NACIÓN - AN",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 89,
+                  "lista": 1,
+                  "votos": 5,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 90,
+                  "lista": 2,
+                  "votos": 4,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 3,
+              "adPosicion": 1,
+              "adCodigo": "00000003",
+              "adDescripcion": "ALIANZA ELECTORAL VENCEREMOS",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 4,
+              "adPosicion": 28,
+              "adCodigo": "00000004",
+              "adDescripcion": "PERÚ MODERNO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 5,
+              "adPosicion": 19,
+              "adCodigo": "00000005",
+              "adDescripcion": "FE EN EL PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 6,
+              "adPosicion": 4,
+              "adCodigo": "00000006",
+              "adDescripcion": "FRENTE POPULAR AGRÍCOLA FÍA DEL PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 1432,
+                  "lista": 6,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 1438,
+                  "lista": 12,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 7,
+              "adPosicion": 27,
+              "adCodigo": "00000007",
+              "adDescripcion": "AVANZA PAÍS - PARTIDO DE INTEGRACIÓN SOCIAL",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 8,
+              "adPosicion": 21,
+              "adCodigo": "00000008",
+              "adDescripcion": "FUERZA POPULAR",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 1609,
+                  "lista": 1,
+                  "votos": 3,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 1610,
+                  "lista": 2,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 1611,
+                  "lista": 3,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 1613,
+                  "lista": 5,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 1616,
+                  "lista": 8,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 9,
+              "adPosicion": 35,
+              "adCodigo": "00000009",
+              "adDescripcion": "FUERZA Y LIBERTAD",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 1855,
+                  "lista": 1,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 10,
+              "adPosicion": 16,
+              "adCodigo": "00000010",
+              "adDescripcion": "JUNTOS POR EL PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 2118,
+                  "lista": 1,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 2119,
+                  "lista": 2,
+                  "votos": 2,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 2120,
+                  "lista": 3,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 11,
+              "adPosicion": 25,
+              "adCodigo": "00000011",
+              "adDescripcion": "LIBERTAD POPULAR",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 2366,
+                  "lista": 11,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 12,
+              "adPosicion": 32,
+              "adCodigo": "00000012",
+              "adDescripcion": "PARTIDO APRISTA PERUANO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 3002,
+                  "lista": 1,
+                  "votos": 3,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3003,
+                  "lista": 2,
+                  "votos": 2,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 13,
+              "adPosicion": 14,
+              "adCodigo": "00000013",
+              "adDescripcion": "PARTIDO CIUDADANOS POR EL PERÚ",
+              "adEstado": 20,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 14,
+              "adPosicion": 3,
+              "adCodigo": "00000014",
+              "adDescripcion": "PARTIDO CÍVICO OBRAS",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 3334,
+                  "lista": 2,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3337,
+                  "lista": 5,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3338,
+                  "lista": 6,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3339,
+                  "lista": 7,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3333,
+                  "lista": 1,
+                  "votos": 2,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 15,
+              "adPosicion": 36,
+              "adCodigo": "00000015",
+              "adDescripcion": "PARTIDO DE LOS TRABAJADORES Y EMPRENDEDORES PTE - PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 16,
+              "adPosicion": 6,
+              "adCodigo": "00000016",
+              "adDescripcion": "PARTIDO DEL BUEN GOBIERNO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 3433,
+                  "lista": 1,
+                  "votos": 2,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3434,
+                  "lista": 2,
+                  "votos": 2,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3435,
+                  "lista": 3,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 3445,
+                  "lista": 13,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 17,
+              "adPosicion": 34,
+              "adCodigo": "00000017",
+              "adDescripcion": "PARTIDO DEMÓCRATA UNIDO PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 18,
+              "adPosicion": 5,
+              "adCodigo": "00000018",
+              "adDescripcion": "PARTIDO DEMÓCRATA VERDE",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 19,
+              "adPosicion": 18,
+              "adCodigo": "00000019",
+              "adDescripcion": "PARTIDO DEMOCRATICO FEDERAL",
+              "adEstado": 20,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 20,
+              "adPosicion": 31,
+              "adCodigo": "00000020",
+              "adDescripcion": "PARTIDO DEMOCRÁTICO SOMOS PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 21,
+              "adPosicion": 12,
+              "adCodigo": "00000021",
+              "adDescripcion": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+              "adEstado": 20,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 22,
+              "adPosicion": 38,
+              "adCodigo": "00000022",
+              "adDescripcion": "PARTIDO MORADO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 23,
+              "adPosicion": 11,
+              "adCodigo": "00000023",
+              "adDescripcion": "PARTIDO PAÍS PARA TODOS",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 5510,
+                  "lista": 1,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 5511,
+                  "lista": 2,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 24,
+              "adPosicion": 2,
+              "adCodigo": "00000024",
+              "adDescripcion": "PARTIDO PATRIÓTICO DEL PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 25,
+              "adPosicion": 23,
+              "adCodigo": "00000025",
+              "adDescripcion": "PARTIDO POLÍTICO COOPERACIÓN POPULAR",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 26,
+              "adPosicion": 20,
+              "adCodigo": "00000026",
+              "adDescripcion": "PARTIDO POLÍTICO INTEGRIDAD DEMOCRÁTICA",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 5846,
+                  "lista": 1,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 5847,
+                  "lista": 2,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 27,
+              "adPosicion": 13,
+              "adCodigo": "00000027",
+              "adDescripcion": "PARTIDO POLÍTICO NACIONAL PERÚ LIBRE",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 28,
+              "adPosicion": 7,
+              "adCodigo": "00000028",
+              "adDescripcion": "PARTIDO POLÍTICO PERÚ ACCIÓN",
+              "adEstado": 20,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 29,
+              "adPosicion": 29,
+              "adCodigo": "00000029",
+              "adDescripcion": "PARTIDO POLÍTICO PERÚ PRIMERO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 7666,
+                  "lista": 5,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 30,
+              "adPosicion": 8,
+              "adCodigo": "00000030",
+              "adDescripcion": "PARTIDO POLÍTICO PRIN",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 31,
+              "adPosicion": 10,
+              "adCodigo": "00000031",
+              "adDescripcion": "PARTIDO SICREO",
+              "adEstado": 20,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 32,
+              "adPosicion": 17,
+              "adCodigo": "00000032",
+              "adDescripcion": "PODEMOS PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 33,
+              "adPosicion": 15,
+              "adCodigo": "00000033",
+              "adDescripcion": "PRIMERO LA GENTE – COMUNIDAD, ECOLOGÍA, LIBERTAD Y PROGRESO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 6311,
+                  "lista": 3,
+                  "votos": 2,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 6317,
+                  "lista": 9,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 6310,
+                  "lista": 2,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 34,
+              "adPosicion": 9,
+              "adCodigo": "00000034",
+              "adDescripcion": "PROGRESEMOS",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 7404,
+                  "lista": 8,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 35,
+              "adPosicion": 33,
+              "adCodigo": "00000035",
+              "adDescripcion": "RENOVACIÓN POPULAR",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 6667,
+                  "lista": 1,
+                  "votos": 10,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 6668,
+                  "lista": 2,
+                  "votos": 7,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 6669,
+                  "lista": 3,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 6672,
+                  "lista": 6,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                },
+                {
+                  "id": 6676,
+                  "lista": 10,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 36,
+              "adPosicion": 30,
+              "adCodigo": "00000036",
+              "adDescripcion": "SALVEMOS AL PERÚ",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 37,
+              "adPosicion": 26,
+              "adCodigo": "00000037",
+              "adDescripcion": "UN CAMINO DIFERENTE",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": [
+                {
+                  "id": 6902,
+                  "lista": 2,
+                  "votos": 1,
+                  "posicionOpcionVoto": null,
+                  "codigoOpcionVoto": null,
+                  "descripcionOpcionVoto": null,
+                  "posicion": null,
+                  "porcentajeVotosValidos": null,
+                  "porcentajeVotosEmitidos": null
+                }
+              ]
+            },
+            {
+              "adAgrupacionPolitica": 38,
+              "adPosicion": 37,
+              "adCodigo": "00000038",
+              "adDescripcion": "UNIDAD NACIONAL",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 80,
+              "adPosicion": 80,
+              "adCodigo": "80",
+              "adDescripcion": "VOTOS EN BLANCO",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 0,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 81,
+              "adPosicion": 81,
+              "adCodigo": "81",
+              "adDescripcion": "VOTOS NULOS",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 0,
+              "candidato": []
+            },
+            {
+              "adAgrupacionPolitica": 82,
+              "adPosicion": 82,
+              "adCodigo": "82",
+              "adDescripcion": "VOTOS IMPUGNADOS",
+              "adEstado": 1,
+              "adVotos": null,
+              "adTotalVotosValidos": 0,
+              "adCargo": null,
+              "adPorcentajeVotosValidos": null,
+              "adPorcentajeVotosEmitidos": null,
+              "adGrafico": 1,
+              "candidato": []
+            }
+          ],
+          "lineaTiempo": [
+            {
+              "codigoEstadoActa": "H",
+              "descripcionEstadoActa": "Observada",
+              "descripcionEstadoActaResolucion": "Acta con error aritmético",
+              "fechaRegistro": 1776320768000
+            },
+            {
+              "codigoEstadoActa": "E",
+              "descripcionEstadoActa": "Para envío al JEE",
+              "descripcionEstadoActaResolucion": "Acta con error aritmético",
+              "fechaRegistro": 1776522320000
+            }
+          ]
+        }
+      ]
+    },
+    "hash": "d9dc976d7c91519f66b2ffd4102d6ad6e5550e7ff7fcf29c9264c7fcdf62df8f",
+    "fetched_at": "2026-04-19T16:13:13.204953+00:00"
+  }
+}

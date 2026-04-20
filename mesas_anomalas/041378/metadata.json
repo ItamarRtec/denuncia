@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "041378",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.512883+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP MARIA GORETTI DEL ALAMO",
+    "codigo_local": "54413",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 223,
+    "total_votos_validos": 193,
+    "porcentaje_participacion": 74.582
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085846-05'00'",
+    "mod_date_raw": "D:20260413085846-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "281cd151be87593f1f88ae4c2168dbb7d8bc51fdcc590cf12acfd8d9cedfe83f",
+  "pdf_size_bytes": 830224,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:15:18+00:00",
+    "pdf_created_utc": "2026-04-13T13:58:46+00:00",
+    "delta_pdf_vs_fr_seconds": 38608.0,
+    "delta_pdf_vs_fr_hours": 10.724444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:04:13.966000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:59:11+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:59:43+00:00",
+    "delta_primer_humano_vs_fr_h": 10.731388888888889,
+    "delta_ultimo_humano_vs_fr_h": 10.740277777777777,
+    "agente_utc": "2026-04-13T03:15:16+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VALVERDE HIDALGO marisol Estrella FIR 77599914 sw e3b270d65c2b0a2ea37e854247fcb36ca0d96eba",
+        "dni": "77599914",
+        "signing_time_utc": "2026-04-13T13:59:11+00:00",
+        "delta_vs_fr_h": 10.731388888888889
+      },
+      {
+        "name": "TORRES ORE marlene FIR 09479718 sw 3cecc7d41e5089b69f9e4de4ec31b37cf6d53d6a",
+        "dni": "09479718",
+        "signing_time_utc": "2026-04-13T13:59:34+00:00",
+        "delta_vs_fr_h": 10.737777777777778
+      },
+      {
+        "name": "VALDIVIA GAVILAN leonel Anibal FIR 76023551 sw 0c986ac360533ea47ce90afe7788571fae3479e3",
+        "dni": "76023551",
+        "signing_time_utc": "2026-04-13T13:59:43+00:00",
+        "delta_vs_fr_h": 10.740277777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:15:18+00:00"
+    }
+  ]
+}

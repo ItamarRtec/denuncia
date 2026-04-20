@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "051693",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.908266+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "CEBE ESPECIAL SURQUILLO",
+    "codigo_local": "3224",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 260,
+    "total_votos_validos": 250,
+    "porcentaje_participacion": 86.957
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413082537-05'00'",
+    "mod_date_raw": "D:20260413082537-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2a58bd0f9aed41d5d382db31b9da999aaedaba0ddb2bed799bf0de5143e31972",
+  "pdf_size_bytes": 857595,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:40:54+00:00",
+    "pdf_created_utc": "2026-04-13T13:25:37+00:00",
+    "delta_pdf_vs_fr_seconds": 42283.0,
+    "delta_pdf_vs_fr_hours": 11.745277777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:38:18.365000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:26:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:27:57+00:00",
+    "delta_primer_humano_vs_fr_h": 11.759444444444444,
+    "delta_ultimo_humano_vs_fr_h": 11.784166666666666,
+    "agente_utc": "2026-04-13T01:40:52+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ VALDEIGLESIAS facundo Alejandro FIR 70743532 sw d37f62481f52769a4796dfe225a67406a665e094",
+        "dni": "70743532",
+        "signing_time_utc": "2026-04-13T13:26:28+00:00",
+        "delta_vs_fr_h": 11.759444444444444
+      },
+      {
+        "name": "TREVEJO MENDEZ amelia Mariela FIR 09303821 sw b44937e2af47f20a52e6f9393b3304d2c5c13c12",
+        "dni": "09303821",
+        "signing_time_utc": "2026-04-13T13:26:39+00:00",
+        "delta_vs_fr_h": 11.7625
+      },
+      {
+        "name": "ULLOA MARTINEZ dafne Carmen FIR 40098226 sw 046d41a89be3de85a0d1826a1603e833794805b2",
+        "dni": "40098226",
+        "signing_time_utc": "2026-04-13T13:26:49+00:00",
+        "delta_vs_fr_h": 11.765277777777778
+      },
+      {
+        "name": "TAPULLIMA SANANCINA luis Miguel FIR 76196297 sw 6e5549d737ae79b701627b3808eeb1a95a500018",
+        "dni": "76196297",
+        "signing_time_utc": "2026-04-13T13:27:57+00:00",
+        "delta_vs_fr_h": 11.784166666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:40:54+00:00"
+    }
+  ]
+}

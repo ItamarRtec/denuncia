@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050660",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.591324+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7058 MARIA DE FATIMA",
+    "codigo_local": "3201",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 254,
+    "total_votos_validos": 236,
+    "porcentaje_participacion": 84.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413003126-05'00'",
+    "mod_date_raw": "D:20260413003126-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "45e16abb3ad755586f8f2b14fff5792d6b1edc6e6e66e9e37ddbedf2318e4bf0",
+  "pdf_size_bytes": 831348,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:56:50+00:00",
+    "pdf_created_utc": "2026-04-13T05:31:26+00:00",
+    "delta_pdf_vs_fr_seconds": 16476.0,
+    "delta_pdf_vs_fr_hours": 4.576666666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:50:31.602000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:31:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:32:15+00:00",
+    "delta_primer_humano_vs_fr_h": 4.581388888888889,
+    "delta_ultimo_humano_vs_fr_h": 4.590277777777778,
+    "agente_utc": "2026-04-13T00:56:48+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "IZURIETA MANRIQUE daphnee Grace FIR 29664229 sw 546d44feec0e95126097827138e035c9c817b10e",
+        "dni": "29664229",
+        "signing_time_utc": "2026-04-13T05:31:43+00:00",
+        "delta_vs_fr_h": 4.581388888888889
+      },
+      {
+        "name": "LOPEZ HUAMAN edwin Abdias FIR 76159141 sw 128aea166d482c834dfaac3aefa6f3de34aec8bb",
+        "dni": "76159141",
+        "signing_time_utc": "2026-04-13T05:31:58+00:00",
+        "delta_vs_fr_h": 4.585555555555556
+      },
+      {
+        "name": "LA TORRE CORDOVA elizabeth Aurora FIR 29560352 sw 0600118fc40cc21fced0763eac650359dd6f3a0e",
+        "dni": "29560352",
+        "signing_time_utc": "2026-04-13T05:32:15+00:00",
+        "delta_vs_fr_h": 4.590277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:56:50+00:00"
+    }
+  ]
+}

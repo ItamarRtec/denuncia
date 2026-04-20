@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "059307",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.099590+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN BORJA",
+    "ubigeo": "140140",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP AMADO DE DIOS - PRIMARIA",
+    "codigo_local": "53289",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 217,
+    "total_votos_validos": 206,
+    "porcentaje_participacion": 72.575
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224422-05'00'",
+    "mod_date_raw": "D:20260412224422-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "f1487b87ce61dcc708f983c10900274bf0cf16463b1a5ee25cab37357b547f4c",
+  "pdf_size_bytes": 856076,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:02:55+00:00",
+    "pdf_created_utc": "2026-04-13T03:44:22+00:00",
+    "delta_pdf_vs_fr_seconds": 9687.0,
+    "delta_pdf_vs_fr_hours": 2.6908333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:48:24.828000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:44:38+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:45:19+00:00",
+    "delta_primer_humano_vs_fr_h": 2.6952777777777777,
+    "delta_ultimo_humano_vs_fr_h": 2.7066666666666666,
+    "agente_utc": "2026-04-13T01:02:53+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CALDERON CUSIMAYTA rodrigo FIR 23943965 sw 07d9547fac59e36540b911efaad17bfcf412f533",
+        "dni": "23943965",
+        "signing_time_utc": "2026-04-13T03:44:38+00:00",
+        "delta_vs_fr_h": 2.6952777777777777
+      },
+      {
+        "name": "CHAVEZ NAVARRO milton Enrique FIR 07474426 sw 955da5d6c5fe6c6ee5f2fbb69a8c782be8d3ae56",
+        "dni": "07474426",
+        "signing_time_utc": "2026-04-13T03:44:51+00:00",
+        "delta_vs_fr_h": 2.698888888888889
+      },
+      {
+        "name": "CHIA ARAUCO edith Karin FIR 10023443 sw a12fda034b53c41107e94bdda7e2c0ae907c3606",
+        "dni": "10023443",
+        "signing_time_utc": "2026-04-13T03:45:03+00:00",
+        "delta_vs_fr_h": 2.7022222222222223
+      },
+      {
+        "name": "CHAPILLIQUEN MIROQUESADA flor Maria FIR 10000499 sw 99640d743d9f654268d0cf29e0c4332894eba530",
+        "dni": "10000499",
+        "signing_time_utc": "2026-04-13T03:45:19+00:00",
+        "delta_vs_fr_h": 2.7066666666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:02:55+00:00"
+    }
+  ]
+}

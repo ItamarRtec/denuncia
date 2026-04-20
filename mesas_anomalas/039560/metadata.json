@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "039560",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.875179+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 8188 FE Y ESPERANZA",
+    "codigo_local": "5093",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 221,
+    "porcentaje_participacion": 81.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004718-05'00'",
+    "mod_date_raw": "D:20260413004718-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "1b0e2fbb9042fd5e1789ea29b07f846fd1f5f33ac9d66b76d19db1ff56878245",
+  "pdf_size_bytes": 855295,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:43:22+00:00",
+    "pdf_created_utc": "2026-04-13T05:47:18+00:00",
+    "delta_pdf_vs_fr_seconds": 14636.0,
+    "delta_pdf_vs_fr_hours": 4.065555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:37:52.172000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:47:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:50:43+00:00",
+    "delta_primer_humano_vs_fr_h": 4.073888888888889,
+    "delta_ultimo_humano_vs_fr_h": 4.1225,
+    "agente_utc": "2026-04-13T01:43:20+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "HUAMAN HUGO iris FIR 40437025 sw 7d7ef96e30e1a4c1d82ddaa2f4272da544a673e5",
+        "dni": "40437025",
+        "signing_time_utc": "2026-04-13T05:47:48+00:00",
+        "delta_vs_fr_h": 4.073888888888889
+      },
+      {
+        "name": "KOR  nathan Thomas FIR 46740013 sw 4bcea40d08cfca85092976097872d02d725d275e",
+        "dni": "46740013",
+        "signing_time_utc": "2026-04-13T05:48:06+00:00",
+        "delta_vs_fr_h": 4.078888888888889
+      },
+      {
+        "name": "LEYVA BARZOLA genoveva Regina FIR 45467095 sw 94887587b79c4022b225ff1ba53bf24d19139732",
+        "dni": "45467095",
+        "signing_time_utc": "2026-04-13T05:48:23+00:00",
+        "delta_vs_fr_h": 4.083611111111111
+      },
+      {
+        "name": "FERNANDEZ CAMPOS julia Rumalda FIR 10207276 sw 546060d237f86c468c82d8bffb419611324a14ae",
+        "dni": "10207276",
+        "signing_time_utc": "2026-04-13T05:50:43+00:00",
+        "delta_vs_fr_h": 4.1225
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:43:22+00:00"
+    }
+  ]
+}

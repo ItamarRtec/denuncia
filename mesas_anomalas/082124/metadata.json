@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082124",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.302915+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CALLAO",
+    "ubigeo": "240101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP DIVINO MAESTRO",
+    "codigo_local": "52998",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 199,
+    "total_votos_validos": 154,
+    "porcentaje_participacion": 66.555
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223015-05'00'",
+    "mod_date_raw": "D:20260412223015-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "caec9d7028729bb8660149e69b0b56c4e8bc3571d3518d394f416769a4154c88",
+  "pdf_size_bytes": 882695,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:43:25+00:00",
+    "pdf_created_utc": "2026-04-13T03:30:15+00:00",
+    "delta_pdf_vs_fr_seconds": 6410.0,
+    "delta_pdf_vs_fr_hours": 1.7805555555555554,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:17:16.337000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 3,
+    "primer_humano_utc": "2026-04-13T03:31:25+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:32:51+00:00",
+    "delta_primer_humano_vs_fr_h": 1.8,
+    "delta_ultimo_humano_vs_fr_h": 1.823888888888889,
+    "agente_utc": "2026-04-13T01:43:22+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PFLUCKER GUTTY patricia Beatriz FIR 19239051 sw 881cbe4b7b5cd20847d4aadbf0be3dca9be1e693",
+        "dni": "19239051",
+        "signing_time_utc": "2026-04-13T03:31:25+00:00",
+        "delta_vs_fr_h": 1.8
+      },
+      {
+        "name": "ZEVALLOS CHUMBIRAY patricia Milagros FIR 80236694 sw 6f6e0d86732a37cdcc53ed1beedadf579217d752",
+        "dni": "80236694",
+        "signing_time_utc": "2026-04-13T03:31:48+00:00",
+        "delta_vs_fr_h": 1.8063888888888888
+      },
+      {
+        "name": "CABALLERO CASTRO yolanda FIR 25478798 sw ce4696d48cb77c086d72bd5793b201fd2fb76073",
+        "dni": "25478798",
+        "signing_time_utc": "2026-04-13T03:32:51+00:00",
+        "delta_vs_fr_h": 1.823888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:43:25+00:00"
+    }
+  ]
+}

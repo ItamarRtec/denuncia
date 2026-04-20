@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036052",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.370534+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 0035 NUESTRA SEÑORA DE LA VISITACION",
+    "codigo_local": "2640",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 241,
+    "total_votos_validos": 219,
+    "porcentaje_participacion": 80.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412205939-05'00'",
+    "mod_date_raw": "D:20260412205939-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "af1921d87f0a20e2835dd5eb88fb2a8ea305c7140f98276c12b4176a1d91b93f",
+  "pdf_size_bytes": 830725,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:54:10+00:00",
+    "pdf_created_utc": "2026-04-13T01:59:39+00:00",
+    "delta_pdf_vs_fr_seconds": 3929.0,
+    "delta_pdf_vs_fr_hours": 1.091388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:30:25.800000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T01:59:56+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:00:31+00:00",
+    "delta_primer_humano_vs_fr_h": 1.096111111111111,
+    "delta_ultimo_humano_vs_fr_h": 1.1058333333333332,
+    "agente_utc": "2026-04-13T00:54:08+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "QUIROGA GIRON maria De Jesus FIR 09464589 sw b6683681af85bcbd1daeb66b8e1b56dab8808aab",
+        "dni": "09464589",
+        "signing_time_utc": "2026-04-13T01:59:56+00:00",
+        "delta_vs_fr_h": 1.096111111111111
+      },
+      {
+        "name": "RAMOS AGUILAR lucy Liliam FIR 70864950 sw eacf0461959fe29a2912ee64246fe8726e73eb44",
+        "dni": "70864950",
+        "signing_time_utc": "2026-04-13T02:00:14+00:00",
+        "delta_vs_fr_h": 1.1011111111111112
+      },
+      {
+        "name": "RIOS MELGAREJO elian Samir FIR 73195592 sw 1b96e633caee1ecebfccc43aae4b35bb48ba3518",
+        "dni": "73195592",
+        "signing_time_utc": "2026-04-13T02:00:31+00:00",
+        "delta_vs_fr_h": 1.1058333333333332
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:54:10+00:00"
+    }
+  ]
+}

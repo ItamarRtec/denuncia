@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "036509",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.559701+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE SIMON BOLIVAR",
+    "codigo_local": "4944",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 261,
+    "total_votos_validos": 243,
+    "porcentaje_participacion": 87.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413082217-05'00'",
+    "mod_date_raw": "D:20260413082217-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "884679e0ecdd8a21b4f40a5d6271251785e1917eaa2c785cdc1e0e48ad93370a",
+  "pdf_size_bytes": 831194,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:56:24+00:00",
+    "pdf_created_utc": "2026-04-13T13:22:17+00:00",
+    "delta_pdf_vs_fr_seconds": 37553.0,
+    "delta_pdf_vs_fr_hours": 10.43138888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:12:14.715000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:45:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:51:22+00:00",
+    "delta_primer_humano_vs_fr_h": 10.824166666666667,
+    "delta_ultimo_humano_vs_fr_h": 10.91611111111111,
+    "agente_utc": "2026-04-13T02:48:21+00:00",
+    "delta_agente_vs_fr_h": -0.13416666666666666,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MIRABAL PILLACA jean Pool FIR 60777591 sw e5db2a3ab2ffce26d754f3d1e20031186ebb307a",
+        "dni": "60777591",
+        "signing_time_utc": "2026-04-13T13:45:51+00:00",
+        "delta_vs_fr_h": 10.824166666666667
+      },
+      {
+        "name": "MONTALVAN CABEZAS david Fernando FIR 07949764 sw b3bab8f7fca2b8ef8176136458d20a960592f993",
+        "dni": "07949764",
+        "signing_time_utc": "2026-04-13T13:49:04+00:00",
+        "delta_vs_fr_h": 10.877777777777778
+      },
+      {
+        "name": "MORALES HUANCA candy Yesica FIR 44174967 sw e8e1fd7f03bb32a94efa77cf7ec0cb4634122955",
+        "dni": "44174967",
+        "signing_time_utc": "2026-04-13T13:51:22+00:00",
+        "delta_vs_fr_h": 10.91611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:56:24+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:53:25+00:00"
+    }
+  ]
+}

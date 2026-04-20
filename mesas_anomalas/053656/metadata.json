@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "053656",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.944081+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "JESÚS MARÍA",
+    "ubigeo": "140133",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "PARQUE CACERES",
+    "codigo_local": "55320",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 223,
+    "total_votos_validos": 210,
+    "porcentaje_participacion": 74.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083728-05'00'",
+    "mod_date_raw": "D:20260413083728-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "f121c57cf3d17c8ca52b78477d62b86c807e71ff91aa03d9db1da8b09de1a775",
+  "pdf_size_bytes": 857840,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:07:53+00:00",
+    "pdf_created_utc": "2026-04-13T13:37:28+00:00",
+    "delta_pdf_vs_fr_seconds": 41375.0,
+    "delta_pdf_vs_fr_hours": 11.493055555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:25:40.849000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:38:09+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:38:31+00:00",
+    "delta_primer_humano_vs_fr_h": 11.504444444444445,
+    "delta_ultimo_humano_vs_fr_h": 11.510555555555555,
+    "agente_utc": "2026-04-13T02:07:51+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MENESES DE LA CRUZ deysy Lorena Milagros FIR 43328322 sw 8baf74cd66e4798b6ee3c6e56fa3dd6a8e29fdfa",
+        "dni": "43328322",
+        "signing_time_utc": "2026-04-13T13:38:09+00:00",
+        "delta_vs_fr_h": 11.504444444444445
+      },
+      {
+        "name": "MORENO SHAPIAMA salvador FIR 72480881 sw 72fda625697c582f3190c07caf144afaefedd768",
+        "dni": "72480881",
+        "signing_time_utc": "2026-04-13T13:38:19+00:00",
+        "delta_vs_fr_h": 11.507222222222222
+      },
+      {
+        "name": "MURGA BORJAS flor Violeta FIR 32130793 sw 7bb3b9cc67c4421675519b5e793494e42817d057",
+        "dni": "32130793",
+        "signing_time_utc": "2026-04-13T13:38:31+00:00",
+        "delta_vs_fr_h": 11.510555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:07:53+00:00"
+    }
+  ]
+}

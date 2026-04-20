@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051793",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.019375+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE NUESTRA SEÑORA DE LOURDES",
+    "codigo_local": "3233",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 251,
+    "total_votos_validos": 231,
+    "porcentaje_participacion": 83.946
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413001642-05'00'",
+    "mod_date_raw": "D:20260413001642-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a6baabc94c79d2b69f078c8e05420e436989f378683194ecfa8bf0d7bef1cf49",
+  "pdf_size_bytes": 830882,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:22:45+00:00",
+    "pdf_created_utc": "2026-04-13T05:16:42+00:00",
+    "delta_pdf_vs_fr_seconds": 14037.0,
+    "delta_pdf_vs_fr_hours": 3.8991666666666664,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:55:38.808000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:16:58+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:17:23+00:00",
+    "delta_primer_humano_vs_fr_h": 3.903611111111111,
+    "delta_ultimo_humano_vs_fr_h": 3.9105555555555553,
+    "agente_utc": "2026-04-13T01:22:43+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "RIEGA FALCONI luis Alberto FIR 44652584 sw 309b1f922d001c58c8491f95d692ae3d49cbc475",
+        "dni": "44652584",
+        "signing_time_utc": "2026-04-13T05:16:58+00:00",
+        "delta_vs_fr_h": 3.903611111111111
+      },
+      {
+        "name": "REQUENA RAMIREZ elida Rosaura FIR 40419803 sw 8c66a5cff03c51c2b576ac3c0cd3763f13a8041b",
+        "dni": "40419803",
+        "signing_time_utc": "2026-04-13T05:17:11+00:00",
+        "delta_vs_fr_h": 3.9072222222222224
+      },
+      {
+        "name": "REDUCIENDO MILLA alex Matias FIR 70091994 sw f37d38deda4e5f709775729db20573eae5499360",
+        "dni": "70091994",
+        "signing_time_utc": "2026-04-13T05:17:23+00:00",
+        "delta_vs_fr_h": 3.9105555555555553
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:22:45+00:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "060766",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.217243+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LOS OLIVOS",
+    "ubigeo": "140142",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2087 REPUBLICA ORIENTAL DEL URUGUAY",
+    "codigo_local": "3547",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 263,
+    "total_votos_validos": 244,
+    "porcentaje_participacion": 87.96
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225552-05'00'",
+    "mod_date_raw": "D:20260412225552-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b9dc97606a2b7bd3354d2e71680f6722a3923cfb65aef73a2cc0d6d50b210859",
+  "pdf_size_bytes": 881251,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:42:01+00:00",
+    "pdf_created_utc": "2026-04-13T03:55:52+00:00",
+    "delta_pdf_vs_fr_seconds": 8031.0,
+    "delta_pdf_vs_fr_hours": 2.2308333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:29:46.568000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:56:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:57:06+00:00",
+    "delta_primer_humano_vs_fr_h": 2.2380555555555555,
+    "delta_ultimo_humano_vs_fr_h": 2.251388888888889,
+    "agente_utc": "2026-04-13T01:41:59+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "QUISPE SARAYA yanet FIR 41791681 sw 7acae4729d09f6daac6510c31d5e7294ce944427",
+        "dni": "41791681",
+        "signing_time_utc": "2026-04-13T03:56:18+00:00",
+        "delta_vs_fr_h": 2.2380555555555555
+      },
+      {
+        "name": "REQUEJO PINEDO samira Marisol FIR 72729378 sw 6698fda0a335a288371f10c13d98f8a3d60933e1",
+        "dni": "72729378",
+        "signing_time_utc": "2026-04-13T03:56:29+00:00",
+        "delta_vs_fr_h": 2.241111111111111
+      },
+      {
+        "name": "RAMIREZ OLORTEGUI ronald Dante FIR 42919988 sw 1c3862687cf2c3066765bf2a561eea30d8d10ded",
+        "dni": "42919988",
+        "signing_time_utc": "2026-04-13T03:56:40+00:00",
+        "delta_vs_fr_h": 2.2441666666666666
+      },
+      {
+        "name": "ANCA DELGADO yuli Yvonne FIR 09638717 sw 89c2310930d508d512612131735e6ce96ba90fa7",
+        "dni": "09638717",
+        "signing_time_utc": "2026-04-13T03:57:06+00:00",
+        "delta_vs_fr_h": 2.251388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:42:01+00:00"
+    }
+  ]
+}

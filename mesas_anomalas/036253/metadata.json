@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "036253",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.485775+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1168 HEROES DEL CENEPA",
+    "codigo_local": "2658",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 230,
+    "total_votos_validos": 207,
+    "porcentaje_participacion": 76.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413061331-05'00'",
+    "mod_date_raw": "D:20260413061331-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "89fd4dfe2ffc32edfe02f7ef0aa228c1bdf59687f9dafd815e9e50d0ffc8277e",
+  "pdf_size_bytes": 830736,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:47:51+00:00",
+    "pdf_created_utc": "2026-04-13T11:13:31+00:00",
+    "delta_pdf_vs_fr_seconds": 33940.0,
+    "delta_pdf_vs_fr_hours": 9.427777777777777,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:04:18.969000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T11:13:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T11:14:05+00:00",
+    "delta_primer_humano_vs_fr_h": 9.431111111111111,
+    "delta_ultimo_humano_vs_fr_h": 9.437222222222223,
+    "agente_utc": "2026-04-13T01:16:08+00:00",
+    "delta_agente_vs_fr_h": -0.5286111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TUESTA SANTISTEBAN sandra Nicoll FIR 60736862 sw b68307a1949a75edcdcc38abd9dbbd22199a9103",
+        "dni": "60736862",
+        "signing_time_utc": "2026-04-13T11:13:43+00:00",
+        "delta_vs_fr_h": 9.431111111111111
+      },
+      {
+        "name": "VEGA ABANTO carlos Enrique FIR 08128318 sw 7b386e7c92df3ac55e8047d686312ba8a05798ec",
+        "dni": "08128318",
+        "signing_time_utc": "2026-04-13T11:13:54+00:00",
+        "delta_vs_fr_h": 9.434166666666666
+      },
+      {
+        "name": "TORRES HILARIO rigoberto FIR 09576558 sw 4a6c5d6222a10db1cf9024780cc086a91757ac64",
+        "dni": "09576558",
+        "signing_time_utc": "2026-04-13T11:14:05+00:00",
+        "delta_vs_fr_h": 9.437222222222223
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:47:51+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:16:10+00:00"
+    }
+  ]
+}

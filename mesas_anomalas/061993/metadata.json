@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "061993",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.830712+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP PATRON SAN ISIDRO DE SANTA ANITA",
+    "codigo_local": "7403",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 247,
+    "total_votos_validos": 227,
+    "porcentaje_participacion": 82.609
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225228-05'00'",
+    "mod_date_raw": "D:20260412225228-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "765e9e0e33cfb751fdfa72a8e472cf7cdd2a85cfcf98eaa19e9e894fbc1bbd52",
+  "pdf_size_bytes": 856161,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:34:11+00:00",
+    "pdf_created_utc": "2026-04-13T03:52:28+00:00",
+    "delta_pdf_vs_fr_seconds": 4697.0,
+    "delta_pdf_vs_fr_hours": 1.3047222222222221,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:51:02.256000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:52:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:53:32+00:00",
+    "delta_primer_humano_vs_fr_h": 1.308888888888889,
+    "delta_ultimo_humano_vs_fr_h": 1.3225,
+    "agente_utc": "2026-04-13T02:29:50+00:00",
+    "delta_agente_vs_fr_h": -0.0725,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MONTOYA REYNA gustavo Tobias FIR 09773944 sw 0e015cbab7d21bbba4db0efbaa4fa5d2173d8ef6",
+        "dni": "09773944",
+        "signing_time_utc": "2026-04-13T03:52:43+00:00",
+        "delta_vs_fr_h": 1.308888888888889
+      },
+      {
+        "name": "MONTOYA TANTALEAN mariano FIR 43062631 sw 6f33b5ab1caacbbc40686b15069bf32a0325ee68",
+        "dni": "43062631",
+        "signing_time_utc": "2026-04-13T03:52:57+00:00",
+        "delta_vs_fr_h": 1.3127777777777778
+      },
+      {
+        "name": "MATOS ORTEGA edgardo Gil FIR 09882238 sw b5a631d612100584cf82144d455077cb836cf85f",
+        "dni": "09882238",
+        "signing_time_utc": "2026-04-13T03:53:10+00:00",
+        "delta_vs_fr_h": 1.3163888888888888
+      },
+      {
+        "name": "LAZARO HUAMAN elvis FIR 42961558 sw 6d730fe5ea996ee0da56c8a5c8b8bc80515796da",
+        "dni": "42961558",
+        "signing_time_utc": "2026-04-13T03:53:32+00:00",
+        "delta_vs_fr_h": 1.3225
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:34:11+00:00"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "codigo_mesa": "055060",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.750566+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7059 JOSE ANTONIO ENCINAS FRANCO",
+    "codigo_local": "3358",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 248,
+    "total_votos_validos": 217,
+    "porcentaje_participacion": 82.943
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412210556-05'00'",
+    "mod_date_raw": "D:20260412210556-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7a9701b79eaab920ebad139ff6aa261b41a3cb0164036a30278ef8bb078c724b",
+  "pdf_size_bytes": 830300,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T02:05:03.774000+00:00",
+    "pdf_created_utc": "2026-04-13T02:05:56+00:00",
+    "delta_create_upload_seconds": -52.2,
+    "delta_create_upload_hours": -0.0145,
+    "delta_create_upload_days": -0.0006041666666666667
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T02:06:23+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:06:34+00:00",
+    "delta_primer_humano_h": 0.022007222222222223,
+    "delta_ultimo_humano_h": 0.025062777777777778,
+    "delta_agente_h": 0.018951666666666665,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "YAULILAHUA PAREDES renzo Hipolito FIR 44975162 sw f881791c17ec15266708f3cac71aa847521119b8",
+        "dni": "44975162",
+        "signing_time_utc": "2026-04-13T02:06:23+00:00"
+      },
+      {
+        "name": "VILLANO HUANACO gabriel Ernesto FIR 75510126 sw 211caa55603c4c0e26bcc2d9f7da551eea2e7536",
+        "dni": "75510126",
+        "signing_time_utc": "2026-04-13T02:06:34+00:00"
+      }
+    ]
+  }
+}

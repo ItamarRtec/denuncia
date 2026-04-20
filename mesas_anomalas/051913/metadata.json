@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "051913",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.132395+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTADIO MUNICIPAL CARLOS A. MOSCOSO 2",
+    "codigo_local": "40995",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 224,
+    "total_votos_validos": 199,
+    "porcentaje_participacion": 74.916
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224225-05'00'",
+    "mod_date_raw": "D:20260412224225-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4b7273083418e0daf6e28d0a4dd4216aaaced523c9ec07fff5b37e1c1e929ebf",
+  "pdf_size_bytes": 830501,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:08:37+00:00",
+    "pdf_created_utc": "2026-04-13T03:42:25+00:00",
+    "delta_pdf_vs_fr_seconds": 5628.0,
+    "delta_pdf_vs_fr_hours": 1.5633333333333332,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:31:26.765000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:45:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:46:24+00:00",
+    "delta_primer_humano_vs_fr_h": 1.6205555555555555,
+    "delta_ultimo_humano_vs_fr_h": 1.6297222222222223,
+    "agente_utc": "2026-04-13T02:08:35+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PALACIOS FLORES marilyn Stefanny FIR 72503950 sw 7a735655686f28868721be5a7930ffb6d3785c21",
+        "dni": "72503950",
+        "signing_time_utc": "2026-04-13T03:45:51+00:00",
+        "delta_vs_fr_h": 1.6205555555555555
+      },
+      {
+        "name": "PALACIOS HUERTAS dina Erlinda FIR 16022869 sw f053c13efbbb5713fb2870387e642fd48531979c",
+        "dni": "16022869",
+        "signing_time_utc": "2026-04-13T03:46:24+00:00",
+        "delta_vs_fr_h": 1.6297222222222223
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:08:37+00:00"
+    }
+  ]
+}

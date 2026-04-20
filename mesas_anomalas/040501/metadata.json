@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "040501",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.446958+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE PERUANO SUIZO",
+    "codigo_local": "2836",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 270,
+    "total_votos_validos": 253,
+    "porcentaje_participacion": 90.301
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091145-05'00'",
+    "mod_date_raw": "D:20260413091145-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "176540844cf6b1014193afca297db0e03d91ab9be2f6f6c4495862de4bfc8657",
+  "pdf_size_bytes": 831356,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:55:48+00:00",
+    "pdf_created_utc": "2026-04-13T14:11:45+00:00",
+    "delta_pdf_vs_fr_seconds": 40557.0,
+    "delta_pdf_vs_fr_hours": 11.265833333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:07:37.836000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:12:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:13:13+00:00",
+    "delta_primer_humano_vs_fr_h": 11.284166666666666,
+    "delta_ultimo_humano_vs_fr_h": 11.290277777777778,
+    "agente_utc": "2026-04-13T02:25:06+00:00",
+    "delta_agente_vs_fr_h": -0.5116666666666667,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "RASHUAMAN FLORES ricardo FIR 09004871 sw 59efbbb5d0cbbe13110986ddb422e56e99cd4c0f",
+        "dni": "09004871",
+        "signing_time_utc": "2026-04-13T14:12:51+00:00",
+        "delta_vs_fr_h": 11.284166666666666
+      },
+      {
+        "name": "RIOS FLORES fabiana Andrea FIR 75908045 sw fb9d7016048176a8130ac3a8ea05a98085326907",
+        "dni": "75908045",
+        "signing_time_utc": "2026-04-13T14:13:02+00:00",
+        "delta_vs_fr_h": 11.287222222222223
+      },
+      {
+        "name": "RAMOS BARTUREN juan Diego Ever FIR 74720245 sw 18316835eceaa88ef6c55d1e0e767bdd9795c2ef",
+        "dni": "74720245",
+        "signing_time_utc": "2026-04-13T14:13:13+00:00",
+        "delta_vs_fr_h": 11.290277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:55:48+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:25:08+00:00"
+    }
+  ]
+}

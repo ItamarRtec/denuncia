@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "083612",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.066250+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5141 DIVINO MAESTRO",
+    "codigo_local": "10029",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 188,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092236-05'00'",
+    "mod_date_raw": "D:20260413092236-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c8d0b784acec7a03c24c48c75d554e2c57139983599c42f7908984bb87dfb612",
+  "pdf_size_bytes": 830873,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:41:17+00:00",
+    "pdf_created_utc": "2026-04-13T14:22:36+00:00",
+    "delta_pdf_vs_fr_seconds": 42079.0,
+    "delta_pdf_vs_fr_hours": 11.688611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:55:14.115000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:22:53+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:23:26+00:00",
+    "delta_primer_humano_vs_fr_h": 11.693333333333333,
+    "delta_ultimo_humano_vs_fr_h": 11.7025,
+    "agente_utc": "2026-04-13T02:37:28+00:00",
+    "delta_agente_vs_fr_h": -0.0636111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "RIVERA ARIAS juan Gualberto FIR 09365262 sw 92f44a48aa6fbb5fb483f2e88ad1f16976c50108",
+        "dni": "09365262",
+        "signing_time_utc": "2026-04-13T14:22:53+00:00",
+        "delta_vs_fr_h": 11.693333333333333
+      },
+      {
+        "name": "QUIROZ CORREA jorge Luis FIR 25798357 sw edb6393edb31f463645dacef44528dc0563f15c5",
+        "dni": "25798357",
+        "signing_time_utc": "2026-04-13T14:23:11+00:00",
+        "delta_vs_fr_h": 11.698333333333334
+      },
+      {
+        "name": "RISCO CHAVEZ rossan Estefany FIR 48083247 sw d556be50d170d23f12ee8086593f12e1e73ecf20",
+        "dni": "48083247",
+        "signing_time_utc": "2026-04-13T14:23:26+00:00",
+        "delta_vs_fr_h": 11.7025
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:41:17+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:37:32+00:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "036166",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.167312+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1146 REPUBLICA DE PARAGUAY",
+    "codigo_local": "2651",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 224,
+    "total_votos_validos": 193,
+    "porcentaje_participacion": 74.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413011441-05'00'",
+    "mod_date_raw": "D:20260413011441-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b19c17a45d05f64ea330bbb58f75ee40948919465a029fe6996b4d421342ced5",
+  "pdf_size_bytes": 830280,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:57:09+00:00",
+    "pdf_created_utc": "2026-04-13T06:14:41+00:00",
+    "delta_pdf_vs_fr_seconds": 8252.0,
+    "delta_pdf_vs_fr_hours": 2.292222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:13:49.592000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T06:15:34+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:16:26+00:00",
+    "delta_primer_humano_vs_fr_h": 2.3069444444444445,
+    "delta_ultimo_humano_vs_fr_h": 2.321388888888889,
+    "agente_utc": "2026-04-13T03:57:08+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CATACORA MENDOZA bernardino FIR 43646968 sw 49ef1b955a0b993cb411c3d763f09e004265cd5e",
+        "dni": "43646968",
+        "signing_time_utc": "2026-04-13T06:15:34+00:00",
+        "delta_vs_fr_h": 2.3069444444444445
+      },
+      {
+        "name": "CASTRO CASTRO victor FIR 43367281 sw 9c7979630b3de42957d1949da0cf34662410da6b",
+        "dni": "43367281",
+        "signing_time_utc": "2026-04-13T06:16:26+00:00",
+        "delta_vs_fr_h": 2.321388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:57:09+00:00"
+    }
+  ]
+}

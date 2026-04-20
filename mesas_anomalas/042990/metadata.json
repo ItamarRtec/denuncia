@@ -1,0 +1,98 @@
+{
+  "codigo_mesa": "042990",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.101460+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA VICTORIA",
+    "ubigeo": "140109",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SACO OLIVEROS",
+    "codigo_local": "13171",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 227,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 75.92
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412221523-05'00'",
+    "mod_date_raw": "D:20260412221523-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8e37f577ca3dab524c055b54d3aaf2d84fd85c7dc32fff4d091c998848536bed",
+  "pdf_size_bytes": 906274,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:40:05+00:00",
+    "pdf_created_utc": "2026-04-13T03:15:23+00:00",
+    "delta_pdf_vs_fr_seconds": 5718.0,
+    "delta_pdf_vs_fr_hours": 1.5883333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:42:43.120000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 7,
+  "firmas_summary": {
+    "n_humanos": 6,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:16:45+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:19:25+00:00",
+    "delta_primer_humano_vs_fr_h": 1.6111111111111112,
+    "delta_ultimo_humano_vs_fr_h": 1.6555555555555554,
+    "agente_utc": "2026-04-13T01:40:02+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MORALES MEZA emel FIR 07511673 sw 35d3658765eedd5b99da9ad313f0f7e35b46d6c2",
+        "dni": "07511673",
+        "signing_time_utc": "2026-04-13T03:16:45+00:00",
+        "delta_vs_fr_h": 1.6111111111111112
+      },
+      {
+        "name": "MONTOYA REYES maria Fernanda FIR 72731067 sw 27ad5a87f6cc68b31283c02c95ccc7c2d3c10c1e",
+        "dni": "72731067",
+        "signing_time_utc": "2026-04-13T03:16:59+00:00",
+        "delta_vs_fr_h": 1.615
+      },
+      {
+        "name": "MORE SENMACHE jose Oswaldo FIR 17445734 sw 4d03c7031c589957e26e5ea8c730315eaa748658",
+        "dni": "17445734",
+        "signing_time_utc": "2026-04-13T03:17:11+00:00",
+        "delta_vs_fr_h": 1.6183333333333334
+      },
+      {
+        "name": "MORENO MEJIA elizabeth Zully FIR 07853216 sw b9cebd4ab41d469f699fa4ff2105c442758b4521",
+        "dni": "07853216",
+        "signing_time_utc": "2026-04-13T03:17:51+00:00",
+        "delta_vs_fr_h": 1.6294444444444445
+      },
+      {
+        "name": "SOLIS GRANADOS gloria FIR 07341581 sw b88978d1c2441378d89b0c6c2dfe0516d98cfff9",
+        "dni": "07341581",
+        "signing_time_utc": "2026-04-13T03:18:21+00:00",
+        "delta_vs_fr_h": 1.6377777777777778
+      },
+      {
+        "name": "CAMPOMANES AYAMBO annatoli FIR 43044297 sw 43446f9efbc84e010d64f09c3c81a33310e948e9",
+        "dni": "43044297",
+        "signing_time_utc": "2026-04-13T03:19:25+00:00",
+        "delta_vs_fr_h": 1.6555555555555554
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:40:05+00:00"
+    }
+  ]
+}

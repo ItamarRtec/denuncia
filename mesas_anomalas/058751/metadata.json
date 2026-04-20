@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "058751",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.525588+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN LUIS",
+    "ubigeo": "140138",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1128 SAN LUIS",
+    "codigo_local": "3478",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 209,
+    "porcentaje_participacion": 81.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211427-05'00'",
+    "mod_date_raw": "D:20260412211427-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b60b959d837c437272c1c20ec838999f58c7397c7ca8fa6f79cb16ad2dd4255a",
+  "pdf_size_bytes": 830294,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:28:56+00:00",
+    "pdf_created_utc": "2026-04-13T02:14:27+00:00",
+    "delta_pdf_vs_fr_seconds": 2731.0,
+    "delta_pdf_vs_fr_hours": 0.7586111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:11:10.781000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:14:44+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:15:10+00:00",
+    "delta_primer_humano_vs_fr_h": 0.7633333333333333,
+    "delta_ultimo_humano_vs_fr_h": 0.7705555555555555,
+    "agente_utc": "2026-04-13T01:28:54+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MORALES MARCA orestes Geronimo FIR 09791078 sw 2525a7907d5e8bda246b2b1e122559cd5c954c6c",
+        "dni": "09791078",
+        "signing_time_utc": "2026-04-13T02:14:44+00:00",
+        "delta_vs_fr_h": 0.7633333333333333
+      },
+      {
+        "name": "MURILLO ALVA gisela Maria Luisa FIR 47508247 sw c96070d4098b4eabe7a5dea7cd70de0d7210eda0",
+        "dni": "47508247",
+        "signing_time_utc": "2026-04-13T02:14:57+00:00",
+        "delta_vs_fr_h": 0.7669444444444444
+      },
+      {
+        "name": "MORENO ROQUE irma Esperanza FIR 42932028 sw 4c35d0c1c1bdc42b9cc4c64a382911b0ec36d363",
+        "dni": "42932028",
+        "signing_time_utc": "2026-04-13T02:15:10+00:00",
+        "delta_vs_fr_h": 0.7705555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:28:56+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036811",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.653179+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE ARGENTINA",
+    "codigo_local": "32206",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 224,
+    "total_votos_validos": 200,
+    "porcentaje_participacion": 74.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413072641-05'00'",
+    "mod_date_raw": "D:20260413072641-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0d4bbec5ee6dcdebcdd9cb721257381586baf81265dd521f9717e7227cb1a7a6",
+  "pdf_size_bytes": 830504,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:43:25+00:00",
+    "pdf_created_utc": "2026-04-13T12:26:41+00:00",
+    "delta_pdf_vs_fr_seconds": 38596.0,
+    "delta_pdf_vs_fr_hours": 10.721111111111112,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:28:08.040000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:27:08+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:27:35+00:00",
+    "delta_primer_humano_vs_fr_h": 10.72861111111111,
+    "delta_ultimo_humano_vs_fr_h": 10.73611111111111,
+    "agente_utc": "2026-04-13T01:43:23+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BABILONIA HUERTA mariclaire Vivian FIR 73043577 sw fae3cba21ac21d246fd25b055badf46cf1ee1f25",
+        "dni": "73043577",
+        "signing_time_utc": "2026-04-13T12:27:08+00:00",
+        "delta_vs_fr_h": 10.72861111111111
+      },
+      {
+        "name": "AYLAS LANDA diana Candy FIR 70852690 sw 3596c8abaf901defa15d6b9be217149df4b7347e",
+        "dni": "70852690",
+        "signing_time_utc": "2026-04-13T12:27:24+00:00",
+        "delta_vs_fr_h": 10.733055555555556
+      },
+      {
+        "name": "BOCZ SALAZAR antonia Lizet FIR 62643449 sw 3cc9ca22515155ee64173129417b7f449363f607",
+        "dni": "62643449",
+        "signing_time_utc": "2026-04-13T12:27:35+00:00",
+        "delta_vs_fr_h": 10.73611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:43:25+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "042838",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.611790+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA VICTORIA",
+    "ubigeo": "140109",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE PARROQUIAL REINA DE LAS AMERICAS SECUNDARIA",
+    "codigo_local": "2898",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 248,
+    "total_votos_validos": 231,
+    "porcentaje_participacion": 82.943
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085019-05'00'",
+    "mod_date_raw": "D:20260413085019-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "440b0b2db608366cd02ac9c76406facf1fffd6fecd6d68a220a31f981d8289fe",
+  "pdf_size_bytes": 830052,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:25:13+00:00",
+    "pdf_created_utc": "2026-04-13T13:50:19+00:00",
+    "delta_pdf_vs_fr_seconds": 37506.0,
+    "delta_pdf_vs_fr_hours": 10.418333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:09:34.170000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:50:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:53:02+00:00",
+    "delta_primer_humano_vs_fr_h": 10.422222222222222,
+    "delta_ultimo_humano_vs_fr_h": 10.463611111111112,
+    "agente_utc": "2026-04-13T03:25:12+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ATENCIA VILLACORTA raul FIR 46014555 sw 43d7861e6fd233ce1d7dc8be630c1c6bff01033b",
+        "dni": "46014555",
+        "signing_time_utc": "2026-04-13T13:50:33+00:00",
+        "delta_vs_fr_h": 10.422222222222222
+      },
+      {
+        "name": "BLAS CASAS federico FIR 20723622 sw 078865f2ae48541a519cbd3f0d1a4662ba6d253b",
+        "dni": "20723622",
+        "signing_time_utc": "2026-04-13T13:51:08+00:00",
+        "delta_vs_fr_h": 10.431944444444444
+      },
+      {
+        "name": "BURGA PAREDES claudia Julissa FIR 41706673 sw d51b1314e78ba3db5a744ae012b11097525832af",
+        "dni": "41706673",
+        "signing_time_utc": "2026-04-13T13:53:02+00:00",
+        "delta_vs_fr_h": 10.463611111111112
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:25:13+00:00"
+    }
+  ]
+}

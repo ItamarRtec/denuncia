@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "081450",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.177928+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CALLAO",
+    "ubigeo": "240101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5095 JULIO RAMON RIBEYRO",
+    "codigo_local": "4794",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 265,
+    "total_votos_validos": 239,
+    "porcentaje_participacion": 88.629
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092511-05'00'",
+    "mod_date_raw": "D:20260413092511-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "31845cbe926a5573fcf62b4b1132bc8fa104b3c28c9e57ed0d37c85a44218bbf",
+  "pdf_size_bytes": 856858,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:59:11+00:00",
+    "pdf_created_utc": "2026-04-13T14:25:11+00:00",
+    "delta_pdf_vs_fr_seconds": 37560.0,
+    "delta_pdf_vs_fr_hours": 10.433333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:29:02.648000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:25:34+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:27:11+00:00",
+    "delta_primer_humano_vs_fr_h": 10.439722222222223,
+    "delta_ultimo_humano_vs_fr_h": 10.466666666666667,
+    "agente_utc": "2026-04-13T03:59:08+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TICONA AGUILAR eduardo Manuel FIR 41634902 sw 0f9f57cff380d666f7e3765402440d38cbf636b0",
+        "dni": "41634902",
+        "signing_time_utc": "2026-04-13T14:25:34+00:00",
+        "delta_vs_fr_h": 10.439722222222223
+      },
+      {
+        "name": "VALDIVIA GONZALES joselyn Rosa FIR 72889767 sw a26c1cf685a2d585244c412b7560ec02b134e9fe",
+        "dni": "72889767",
+        "signing_time_utc": "2026-04-13T14:26:05+00:00",
+        "delta_vs_fr_h": 10.448333333333334
+      },
+      {
+        "name": "TORRES CACERES elver Revelino FIR 40621607 sw f5a9d734f93d516c873ef550fbb8bf1fb1a513f3",
+        "dni": "40621607",
+        "signing_time_utc": "2026-04-13T14:26:22+00:00",
+        "delta_vs_fr_h": 10.453055555555556
+      },
+      {
+        "name": "COPA TORRES tony Yohel FIR 44869556 sw f2c4d7d7d3e37dd69c0fb2a8eda8d851fab4b7e1",
+        "dni": "44869556",
+        "signing_time_utc": "2026-04-13T14:27:11+00:00",
+        "delta_vs_fr_h": 10.466666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:59:11+00:00"
+    }
+  ]
+}

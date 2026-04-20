@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051873",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:57.447535+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COMPLEJO DEPORTIVO PAUL HARRIS - MOROCOCHA",
+    "codigo_local": "14161",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 238,
+    "total_votos_validos": 218,
+    "porcentaje_participacion": 79.599
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412230252-05'00'",
+    "mod_date_raw": "D:20260412230252-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0102c6213f08d18a577df8e9a89a4e5185003d7c2f722f8f2971ee46bf91305d",
+  "pdf_size_bytes": 829619,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:31:08+00:00",
+    "pdf_created_utc": "2026-04-13T04:02:52+00:00",
+    "delta_pdf_vs_fr_seconds": 5504.0,
+    "delta_pdf_vs_fr_hours": 1.528888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:45:30.901000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:03:38+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:04:11+00:00",
+    "delta_primer_humano_vs_fr_h": 1.5416666666666667,
+    "delta_ultimo_humano_vs_fr_h": 1.5508333333333333,
+    "agente_utc": "2026-04-13T02:31:05+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FALEN LARA luis Alexei FIR 06171696 sw 21cbb1bb2e68a65933afe94f0cc271b97207ce38",
+        "dni": "06171696",
+        "signing_time_utc": "2026-04-13T04:03:38+00:00",
+        "delta_vs_fr_h": 1.5416666666666667
+      },
+      {
+        "name": "FLORES RAMIREZ jesus Elena FIR 42069295 sw 356140951a2ef06292cde7876cc5be6198d34b83",
+        "dni": "42069295",
+        "signing_time_utc": "2026-04-13T04:03:57+00:00",
+        "delta_vs_fr_h": 1.5469444444444445
+      },
+      {
+        "name": "FLORES LOPEZ leonor Elva FIR 10342677 sw 41685c9df1f12f18eaf34efc4a8df4d0f0b5836d",
+        "dni": "10342677",
+        "signing_time_utc": "2026-04-13T04:04:11+00:00",
+        "delta_vs_fr_h": 1.5508333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:31:08+00:00"
+    }
+  ]
+}

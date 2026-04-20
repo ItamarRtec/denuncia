@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "083099",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.654003+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5086 POLITECNICO DE VENTANILLA",
+    "codigo_local": "4862",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 268,
+    "total_votos_validos": 242,
+    "porcentaje_participacion": 89.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413001305-05'00'",
+    "mod_date_raw": "D:20260413001305-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a9b65e40bb4fc4386b90af4345adeb6c29205ecfabdb2cefa788d31692fe1332",
+  "pdf_size_bytes": 856527,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:24:50+00:00",
+    "pdf_created_utc": "2026-04-13T05:13:05+00:00",
+    "delta_pdf_vs_fr_seconds": 17295.0,
+    "delta_pdf_vs_fr_hours": 4.804166666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T00:40:37.328000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:13:20+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:14:25+00:00",
+    "delta_primer_humano_vs_fr_h": 4.808333333333334,
+    "delta_ultimo_humano_vs_fr_h": 4.826388888888889,
+    "agente_utc": "2026-04-13T00:24:47+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "QUISPE CARTAGENA katherine Zoila FIR 43668328 sw 719df65a37a3944cb2380a4cd1f0f742edc7fe75",
+        "dni": "43668328",
+        "signing_time_utc": "2026-04-13T05:13:20+00:00",
+        "delta_vs_fr_h": 4.808333333333334
+      },
+      {
+        "name": "PEREZ INUMA jose Armando FIR 05265389 sw 7814870f254133b6f20f6b4e05409eea5efd6c6b",
+        "dni": "05265389",
+        "signing_time_utc": "2026-04-13T05:13:33+00:00",
+        "delta_vs_fr_h": 4.811944444444444
+      },
+      {
+        "name": "PARODI SAYAS santosa FIR 07806581 sw 66ba213036cb5dde3673702edf96e096619f2378",
+        "dni": "07806581",
+        "signing_time_utc": "2026-04-13T05:13:48+00:00",
+        "delta_vs_fr_h": 4.816111111111111
+      },
+      {
+        "name": "PANDURO DAVILA herberi FIR 45023850 sw fafce2dc222d170e1a9eac7ce3449378a9268be4",
+        "dni": "45023850",
+        "signing_time_utc": "2026-04-13T05:14:25+00:00",
+        "delta_vs_fr_h": 4.826388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:24:50+00:00"
+    }
+  ]
+}

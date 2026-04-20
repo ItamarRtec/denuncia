@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "043438",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.987051+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA MOLINA",
+    "ubigeo": "140110",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1286 HEROES DEL CENEPA",
+    "codigo_local": "5138",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 277,
+    "total_votos_validos": 273,
+    "porcentaje_participacion": 92.642
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220210-05'00'",
+    "mod_date_raw": "D:20260412220210-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a13ef4d0c5f006b347b6c80f8aea3eb4a32d2f7d94268ad16ba7ab41cb4d2578",
+  "pdf_size_bytes": 856553,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:23+00:00",
+    "pdf_created_utc": "2026-04-13T03:02:10+00:00",
+    "delta_pdf_vs_fr_seconds": 5327.0,
+    "delta_pdf_vs_fr_hours": 1.4797222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:02:19.232000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:02:32+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:03:42+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4858333333333333,
+    "delta_ultimo_humano_vs_fr_h": 1.5052777777777777,
+    "agente_utc": "2026-04-13T01:33:20+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "YOHANN VENEGAS jonathan Santino FIR 70510672 sw eebee09183f083bede711e77edba2f4d76936a44",
+        "dni": "70510672",
+        "signing_time_utc": "2026-04-13T03:02:32+00:00",
+        "delta_vs_fr_h": 1.4858333333333333
+      },
+      {
+        "name": "ZAMORA MOSCOSO luby Tessy FIR 70114012 sw 394d72ab71452b7929f1d984fe99f3b42b5001df",
+        "dni": "70114012",
+        "signing_time_utc": "2026-04-13T03:02:52+00:00",
+        "delta_vs_fr_h": 1.4913888888888889
+      },
+      {
+        "name": "SOBRINO RODRIGUEZ irma Gisella Del Rocio FIR 08162512 sw fdd4ddcb26d60f8e9bff4e192bf57c154ee3fff4",
+        "dni": "08162512",
+        "signing_time_utc": "2026-04-13T03:03:10+00:00",
+        "delta_vs_fr_h": 1.496388888888889
+      },
+      {
+        "name": "BONILLA HERREROS fernando Miguel FIR 31614938 sw 4de3ab546baf394f0c6400ba736708c219f5f1e7",
+        "dni": "31614938",
+        "signing_time_utc": "2026-04-13T03:03:42+00:00",
+        "delta_vs_fr_h": 1.5052777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:23+00:00"
+    }
+  ]
+}

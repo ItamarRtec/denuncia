@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "052077",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.814532+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6019 MARIANO MELGAR",
+    "codigo_local": "3244",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 234,
+    "total_votos_validos": 198,
+    "porcentaje_participacion": 78.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083501-05'00'",
+    "mod_date_raw": "D:20260413083501-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5469065a8fdfcdd94544ed32597b948e2173fded673c6bb24844e976d8f04f47",
+  "pdf_size_bytes": 830668,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:39:50+00:00",
+    "pdf_created_utc": "2026-04-13T13:35:01+00:00",
+    "delta_pdf_vs_fr_seconds": 39311.0,
+    "delta_pdf_vs_fr_hours": 10.919722222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:43:25.362000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:35:15+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:36:36+00:00",
+    "delta_primer_humano_vs_fr_h": 10.92361111111111,
+    "delta_ultimo_humano_vs_fr_h": 10.946111111111112,
+    "agente_utc": "2026-04-13T02:39:48+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CALLUPE HUARCO maribel Yvet FIR 10085755 sw a01ffbed10e44b7abf3f6d4d5a4102be15271557",
+        "dni": "10085755",
+        "signing_time_utc": "2026-04-13T13:35:15+00:00",
+        "delta_vs_fr_h": 10.92361111111111
+      },
+      {
+        "name": "CALZADO ACERO camila Del Pilar FIR 76047219 sw d01fd5936655ff13ce1b853ff391aa630f3c3d68",
+        "dni": "76047219",
+        "signing_time_utc": "2026-04-13T13:36:22+00:00",
+        "delta_vs_fr_h": 10.942222222222222
+      },
+      {
+        "name": "CARBAJAL GALVEZ rigoberto Deyver FIR 10076790 sw 64d2e3893eee72fdf87328ebea9bdee572af566f",
+        "dni": "10076790",
+        "signing_time_utc": "2026-04-13T13:36:36+00:00",
+        "delta_vs_fr_h": 10.946111111111112
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:39:50+00:00"
+    }
+  ]
+}

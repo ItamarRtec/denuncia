@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "062087",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.112669+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SAN LUIS GONZAGA",
+    "codigo_local": "32227",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 261,
+    "total_votos_validos": 235,
+    "porcentaje_participacion": 87.291
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091618-05'00'",
+    "mod_date_raw": "D:20260413091618-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "14cae3c916a5d903ca42e21d0882728cfeba8518e94981fc08739ac6e3a1d9ff",
+  "pdf_size_bytes": 881695,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:51:19+00:00",
+    "pdf_created_utc": "2026-04-13T14:16:18+00:00",
+    "delta_pdf_vs_fr_seconds": 41099.0,
+    "delta_pdf_vs_fr_hours": 11.41638888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:08:33.094000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:20:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:24:06+00:00",
+    "delta_primer_humano_vs_fr_h": 11.487222222222222,
+    "delta_ultimo_humano_vs_fr_h": 11.546388888888888,
+    "agente_utc": "2026-04-13T02:46:51+00:00",
+    "delta_agente_vs_fr_h": -0.07444444444444444,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "HUAYTA QUISPE humberto FIR 10696237 sw d2dc8eefa89838d659e9c2482cc55a6b8539ec72",
+        "dni": "10696237",
+        "signing_time_utc": "2026-04-13T14:20:33+00:00",
+        "delta_vs_fr_h": 11.487222222222222
+      },
+      {
+        "name": "JESUS ZAMUDIO rosa Luz FIR 09780727 sw f66db9e803494dbeab982996557189704cb4043f",
+        "dni": "09780727",
+        "signing_time_utc": "2026-04-13T14:21:55+00:00",
+        "delta_vs_fr_h": 11.51
+      },
+      {
+        "name": "HURTADO TITO felicitas FIR 07536843 sw 87829836ab5c1b4617550fbddacb9d4b6ffd6ef0",
+        "dni": "07536843",
+        "signing_time_utc": "2026-04-13T14:23:14+00:00",
+        "delta_vs_fr_h": 11.531944444444445
+      },
+      {
+        "name": "CCAMACCA LLIUYACC israel FIR 78731487 sw b7dc75d3d841741511409902326f51300c1f1d93",
+        "dni": "78731487",
+        "signing_time_utc": "2026-04-13T14:23:47+00:00",
+        "delta_vs_fr_h": 11.54111111111111
+      },
+      {
+        "name": "PRADO ANCHAYHUA felix FIR 07080207 sw b92412ed64812182d106ce0d822f535b19607ba4",
+        "dni": "07080207",
+        "signing_time_utc": "2026-04-13T14:24:06+00:00",
+        "delta_vs_fr_h": 11.546388888888888
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:51:19+00:00"
+    }
+  ]
+}

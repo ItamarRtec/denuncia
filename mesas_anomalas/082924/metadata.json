@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "082924",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.070597+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE PARROQUIAL SAN JOSE",
+    "codigo_local": "4854",
+    "total_electores_habiles": 244,
+    "total_votos_emitidos": 228,
+    "total_votos_validos": 211,
+    "porcentaje_participacion": 93.443
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085625-05'00'",
+    "mod_date_raw": "D:20260413085625-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "27ab0cdf1bb60362412c1e97b575516ae12446f2403b4a14369379e19fab2183",
+  "pdf_size_bytes": 882119,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:20:00+00:00",
+    "pdf_created_utc": "2026-04-13T13:56:25+00:00",
+    "delta_pdf_vs_fr_seconds": 41785.0,
+    "delta_pdf_vs_fr_hours": 11.606944444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:20:28.926000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:57:03+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:59:05+00:00",
+    "delta_primer_humano_vs_fr_h": 11.6175,
+    "delta_ultimo_humano_vs_fr_h": 11.651388888888889,
+    "agente_utc": "2026-04-13T02:19:57+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARNAO GUTIERREZ herlinda Amelia FIR 25709972 sw 7e5990b538a0f447e3ae9efb2a1387836601161c",
+        "dni": "25709972",
+        "signing_time_utc": "2026-04-13T13:57:03+00:00",
+        "delta_vs_fr_h": 11.6175
+      },
+      {
+        "name": "AYALA LUPUCHE juan Francisco FIR 25594740 sw 37ecc0d96b49e8bd2876e25b4508b66de10f2099",
+        "dni": "25594740",
+        "signing_time_utc": "2026-04-13T13:57:34+00:00",
+        "delta_vs_fr_h": 11.626111111111111
+      },
+      {
+        "name": "BERNAL JIMENEZ gustavo Enrique FIR 48963881 sw 9b46f529a0b8025875b3c16ca0918dcff8070eab",
+        "dni": "48963881",
+        "signing_time_utc": "2026-04-13T13:57:55+00:00",
+        "delta_vs_fr_h": 11.631944444444445
+      },
+      {
+        "name": "MORALES HERNANDEZ rosanna Mercedes FIR 25629942 sw d4843d6e9493f3d71fea6031d0552491f7723a21",
+        "dni": "25629942",
+        "signing_time_utc": "2026-04-13T13:58:39+00:00",
+        "delta_vs_fr_h": 11.644166666666667
+      },
+      {
+        "name": "ROMERO SOLANO jenifer Nicol FIR 73520726 sw 9b267e261f65c718bc00a7eb545210d0b5df46b7",
+        "dni": "73520726",
+        "signing_time_utc": "2026-04-13T13:59:05+00:00",
+        "delta_vs_fr_h": 11.651388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:20:00+00:00"
+    }
+  ]
+}

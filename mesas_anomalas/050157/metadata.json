@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050157",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.860640+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS - SEDE SAN MIGUEL 2",
+    "codigo_local": "14096",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 239,
+    "total_votos_validos": 220,
+    "porcentaje_participacion": 79.933
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412221117-05'00'",
+    "mod_date_raw": "D:20260412221117-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "16640336f44a65e1d6f61a332db5d02ee47d92408050793d146114ab920b5454",
+  "pdf_size_bytes": 830237,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:42:13+00:00",
+    "pdf_created_utc": "2026-04-13T03:11:17+00:00",
+    "delta_pdf_vs_fr_seconds": 5344.0,
+    "delta_pdf_vs_fr_hours": 1.4844444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:33:36.216000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:11:35+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:12:11+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4894444444444443,
+    "delta_ultimo_humano_vs_fr_h": 1.4994444444444444,
+    "agente_utc": "2026-04-13T01:42:11+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ZARATE CANEPA andrea Belen FIR 80992760 sw 389ce418375fa16be735b4ce12d35fd4786224ca",
+        "dni": "80992760",
+        "signing_time_utc": "2026-04-13T03:11:35+00:00",
+        "delta_vs_fr_h": 1.4894444444444443
+      },
+      {
+        "name": "TORRES GRANDEZ jose Eutimio FIR 09278042 sw 2e69f1932e9d950effc8088bfc6ccb473598df68",
+        "dni": "09278042",
+        "signing_time_utc": "2026-04-13T03:11:58+00:00",
+        "delta_vs_fr_h": 1.4958333333333333
+      },
+      {
+        "name": "VIVES HERENCIA jean Pierre FIR 76478184 sw 9cf5117c75c2d072a349bfb2e631da24ed4d874e",
+        "dni": "76478184",
+        "signing_time_utc": "2026-04-13T03:12:11+00:00",
+        "delta_vs_fr_h": 1.4994444444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:42:13+00:00"
+    }
+  ]
+}

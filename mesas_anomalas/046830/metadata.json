@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "046830",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.586693+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUENTE PIEDRA",
+    "ubigeo": "140119",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP JULIO RAMON RIBEYRO",
+    "codigo_local": "13641",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 269,
+    "total_votos_validos": 242,
+    "porcentaje_participacion": 89.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413002514-05'00'",
+    "mod_date_raw": "D:20260413002514-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "d5ebaec1ac41bb521ce9ad5c741585c03e9445fbc9c420987576ba52b97ee17a",
+  "pdf_size_bytes": 856188,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:44:11+00:00",
+    "pdf_created_utc": "2026-04-13T05:25:14+00:00",
+    "delta_pdf_vs_fr_seconds": 9663.0,
+    "delta_pdf_vs_fr_hours": 2.6841666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:42:21.905000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T05:26:05+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:27:01+00:00",
+    "delta_primer_humano_vs_fr_h": 2.6983333333333333,
+    "delta_ultimo_humano_vs_fr_h": 2.713888888888889,
+    "agente_utc": "2026-04-13T02:39:02+00:00",
+    "delta_agente_vs_fr_h": -0.08583333333333333,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SOPLA CHIGNE jhon Eystein FIR 45654553 sw 41e9a70c563c0c68abc686e8e893603c72ea5db5",
+        "dni": "45654553",
+        "signing_time_utc": "2026-04-13T05:26:05+00:00",
+        "delta_vs_fr_h": 2.6983333333333333
+      },
+      {
+        "name": "SEBASTIAN HUATAY jennifer Lizeth FIR 77017176 sw 037c3c1fed72b454b7d6414d5790f1da3e64fe2f",
+        "dni": "77017176",
+        "signing_time_utc": "2026-04-13T05:26:43+00:00",
+        "delta_vs_fr_h": 2.7088888888888887
+      },
+      {
+        "name": "SIFUENTES OLIVEROS nestor Ricardo FIR 20034941 sw 0ee6507fdc5e8460f20ed8f74c73b7c00eb2fd1e",
+        "dni": "20034941",
+        "signing_time_utc": "2026-04-13T05:27:01+00:00",
+        "delta_vs_fr_h": 2.713888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:44:11+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "041482",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.147809+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS SEDE RETABLO",
+    "codigo_local": "54815",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 211,
+    "total_votos_validos": 184,
+    "porcentaje_participacion": 70.569
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213235-05'00'",
+    "mod_date_raw": "D:20260412213235-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0833ea74214f89d420d4c0b7848d289d53196d6c71aa2f2547cbeb315713cc5c",
+  "pdf_size_bytes": 830053,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:04:02+00:00",
+    "pdf_created_utc": "2026-04-13T02:32:35+00:00",
+    "delta_pdf_vs_fr_seconds": 5313.0,
+    "delta_pdf_vs_fr_hours": 1.4758333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:47:42.640000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:33:07+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:33:51+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4847222222222223,
+    "delta_ultimo_humano_vs_fr_h": 1.4969444444444444,
+    "agente_utc": "2026-04-13T01:04:00+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TUPAYACHI YLLA nelly Milagros FIR 76324545 sw 41cc6c20364bf1f4ebe56eb33cc368890c556256",
+        "dni": "76324545",
+        "signing_time_utc": "2026-04-13T02:33:07+00:00",
+        "delta_vs_fr_h": 1.4847222222222223
+      },
+      {
+        "name": "TAPIA PEREZ walter Luis FIR 46892044 sw 19877f73cf6487ec495e6d4418db8f8dcc13345b",
+        "dni": "46892044",
+        "signing_time_utc": "2026-04-13T02:33:31+00:00",
+        "delta_vs_fr_h": 1.4913888888888889
+      },
+      {
+        "name": "TELLO MORI deiby Jefferson FIR 72889644 sw 39e1c7ff18c0f5e4f0d68ee48c452da3a0229fa1",
+        "dni": "72889644",
+        "signing_time_utc": "2026-04-13T02:33:51+00:00",
+        "delta_vs_fr_h": 1.4969444444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:04:02+00:00"
+    }
+  ]
+}

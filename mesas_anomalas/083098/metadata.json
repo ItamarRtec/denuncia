@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "083098",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.044274+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5086 POLITECNICO DE VENTANILLA",
+    "codigo_local": "4862",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 261,
+    "total_votos_validos": 206,
+    "porcentaje_participacion": 87.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412212352-05'00'",
+    "mod_date_raw": "D:20260412212352-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5d0b0d45f8436cdd21a492c20fbab1dd8f50123b2d79be427e6da18444a04acb",
+  "pdf_size_bytes": 831016,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:50:51+00:00",
+    "pdf_created_utc": "2026-04-13T02:23:52+00:00",
+    "delta_pdf_vs_fr_seconds": 5581.0,
+    "delta_pdf_vs_fr_hours": 1.5502777777777779,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:31:39.049000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T02:24:19+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:24:45+00:00",
+    "delta_primer_humano_vs_fr_h": 1.5577777777777777,
+    "delta_ultimo_humano_vs_fr_h": 1.565,
+    "agente_utc": "2026-04-13T00:50:49+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "OSORIO VIERA luis Alberto FIR 40709247 sw 28a936e1d9fbdcdc19a8a69a7f454fafb239ea05",
+        "dni": "40709247",
+        "signing_time_utc": "2026-04-13T02:24:19+00:00",
+        "delta_vs_fr_h": 1.5577777777777777
+      },
+      {
+        "name": "MONTALVAN CALLA mari Martha Lizet FIR 46312400 sw b90267439da17135a91454b6794acb16ee973111",
+        "dni": "46312400",
+        "signing_time_utc": "2026-04-13T02:24:45+00:00",
+        "delta_vs_fr_h": 1.565
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:50:51+00:00"
+    }
+  ]
+}

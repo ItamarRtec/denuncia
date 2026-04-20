@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054905",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.349698+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6037 INCA PACHACUTEC - SECUNDARIA",
+    "codigo_local": "3349",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 229,
+    "total_votos_validos": 200,
+    "porcentaje_participacion": 76.589
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091648-05'00'",
+    "mod_date_raw": "D:20260413091648-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "41f7743c25b8c3ba3a43fc8c6e46922f23db280e3f92f8e6dbd13b34edf09016",
+  "pdf_size_bytes": 831779,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:44:16+00:00",
+    "pdf_created_utc": "2026-04-13T14:16:48+00:00",
+    "delta_pdf_vs_fr_seconds": 41552.0,
+    "delta_pdf_vs_fr_hours": 11.542222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:30:54.038000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:17:24+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:17:49+00:00",
+    "delta_primer_humano_vs_fr_h": 11.552222222222222,
+    "delta_ultimo_humano_vs_fr_h": 11.559166666666666,
+    "agente_utc": "2026-04-13T02:44:14+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VELASQUEZ GRANADOS jordy Mario FIR 47927466 sw 1ca212366a2bf7c7ca1d4fa6b2999d6d30764671",
+        "dni": "47927466",
+        "signing_time_utc": "2026-04-13T14:17:24+00:00",
+        "delta_vs_fr_h": 11.552222222222222
+      },
+      {
+        "name": "VENTOCILLA CORNEJO marlene Janet FIR 09977337 sw fb6861732be0f15a224f054f1914e4945ac6e72a",
+        "dni": "09977337",
+        "signing_time_utc": "2026-04-13T14:17:37+00:00",
+        "delta_vs_fr_h": 11.555833333333334
+      },
+      {
+        "name": "VALENCIA QUISPE miguel Angel FIR 42194893 sw 8881418b4e81d2ed54bbe6e01af9608395b3b540",
+        "dni": "42194893",
+        "signing_time_utc": "2026-04-13T14:17:49+00:00",
+        "delta_vs_fr_h": 11.559166666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:44:16+00:00"
+    }
+  ]
+}

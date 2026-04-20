@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "051301",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.916832+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD DE LIMA 2",
+    "codigo_local": "51521",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 183,
+    "total_votos_validos": 174,
+    "porcentaje_participacion": 61.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413075027-05'00'",
+    "mod_date_raw": "D:20260413075027-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "6c6c8d3a56024360e94d37623017c641097aa48c5d3cb164d0f524099a6e62f6",
+  "pdf_size_bytes": 857114,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:26:05+00:00",
+    "pdf_created_utc": "2026-04-13T12:50:27+00:00",
+    "delta_pdf_vs_fr_seconds": 41062.0,
+    "delta_pdf_vs_fr_hours": 11.40611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:57:43.569000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:50:45+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:51:49+00:00",
+    "delta_primer_humano_vs_fr_h": 11.411111111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.428888888888888,
+    "agente_utc": "2026-04-13T01:26:02+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "GAYOSO KEMPNY rodolfo Samir FIR 10064501 sw 2283fa6370effaae7056d076c214c46aaab0208a",
+        "dni": "10064501",
+        "signing_time_utc": "2026-04-13T12:50:45+00:00",
+        "delta_vs_fr_h": 11.411111111111111
+      },
+      {
+        "name": "GOYCOCHEA ESTRADA mirtha Mercedes FIR 08137231 sw 44d13e1afa3ed11ba3034b3c5bd33829d1814dd2",
+        "dni": "08137231",
+        "signing_time_utc": "2026-04-13T12:51:03+00:00",
+        "delta_vs_fr_h": 11.41611111111111
+      },
+      {
+        "name": "GONZALES CALLE luisa Marleny FIR 02659088 sw f647b35ba0cfa1eb483bfe6f8a56f077a1a14827",
+        "dni": "02659088",
+        "signing_time_utc": "2026-04-13T12:51:24+00:00",
+        "delta_vs_fr_h": 11.421944444444444
+      },
+      {
+        "name": "MARQUEZ CONDESO fernando Luis FIR 44791420 sw 203ce01518b8bc461770a0edd2f42e9b64650d85",
+        "dni": "44791420",
+        "signing_time_utc": "2026-04-13T12:51:49+00:00",
+        "delta_vs_fr_h": 11.428888888888888
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:26:05+00:00"
+    }
+  ]
+}

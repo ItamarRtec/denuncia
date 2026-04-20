@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "057748",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.115040+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP BENJAMIN FRANKLIN",
+    "codigo_local": "18499",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 240,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 80.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412232313-05'00'",
+    "mod_date_raw": "D:20260412232313-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "51a006e450d775ed79efd8509912ff7fc2d12aab5573308eae9b19f7fbddfb82",
+  "pdf_size_bytes": 830599,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:44:28+00:00",
+    "pdf_created_utc": "2026-04-13T04:23:13+00:00",
+    "delta_pdf_vs_fr_seconds": 9525.0,
+    "delta_pdf_vs_fr_hours": 2.6458333333333335,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:28:19.932000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:23:47+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:24:10+00:00",
+    "delta_primer_humano_vs_fr_h": 2.6552777777777776,
+    "delta_ultimo_humano_vs_fr_h": 2.6616666666666666,
+    "agente_utc": "2026-04-13T01:44:26+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SERRANO SALVADOR kely Bheatriz FIR 71608080 sw ee0a597b4c377c321935e371068bc60903bdef29",
+        "dni": "71608080",
+        "signing_time_utc": "2026-04-13T04:23:47+00:00",
+        "delta_vs_fr_h": 2.6552777777777776
+      },
+      {
+        "name": "SURCO CHURA leydi Laura FIR 80654838 sw e7073bee6942c79bebbb556e8d375ad9906e6314",
+        "dni": "80654838",
+        "signing_time_utc": "2026-04-13T04:23:59+00:00",
+        "delta_vs_fr_h": 2.658611111111111
+      },
+      {
+        "name": "TERRY RECCIO lourdes Elizabeth FIR 47889788 sw eb3bfa84ee35ffce38a5cd01ab48f5255c1c6043",
+        "dni": "47889788",
+        "signing_time_utc": "2026-04-13T04:24:10+00:00",
+        "delta_vs_fr_h": 2.6616666666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:44:28+00:00"
+    }
+  ]
+}

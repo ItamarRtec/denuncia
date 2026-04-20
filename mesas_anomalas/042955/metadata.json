@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "042955",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.259113+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA VICTORIA",
+    "ubigeo": "140109",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS - ESCUELA DE OBSTETRICIA Y ESCUELA DE NUTRICIÓN",
+    "codigo_local": "2911",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 241,
+    "total_votos_validos": 197,
+    "porcentaje_participacion": 80.602
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213758-05'00'",
+    "mod_date_raw": "D:20260412213758-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "63141d50751e396939287d08eaf7ec7d7e23e1405da023d44006ffb3fc289aa6",
+  "pdf_size_bytes": 832051,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:37:09+00:00",
+    "pdf_created_utc": "2026-04-13T02:37:58+00:00",
+    "delta_pdf_vs_fr_seconds": 3649.0,
+    "delta_pdf_vs_fr_hours": 1.013611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:06:17.322000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:38:25+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:38:47+00:00",
+    "delta_primer_humano_vs_fr_h": 1.021111111111111,
+    "delta_ultimo_humano_vs_fr_h": 1.0272222222222223,
+    "agente_utc": "2026-04-13T01:37:07+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ FACIO katherine Maria FIR 74988866 sw 65ef86657531f20d3fd404ed0d6efec8915edac7",
+        "dni": "74988866",
+        "signing_time_utc": "2026-04-13T02:38:25+00:00",
+        "delta_vs_fr_h": 1.021111111111111
+      },
+      {
+        "name": "VASQUEZ NINA arturo FIR 07509928 sw c913b12e926844ea50e8b4258d8e35523f15b223",
+        "dni": "07509928",
+        "signing_time_utc": "2026-04-13T02:38:37+00:00",
+        "delta_vs_fr_h": 1.0244444444444445
+      },
+      {
+        "name": "YNFANTES ROJAS fermin Andres FIR 44517201 sw 9fa3a97563ded3b045e27e93c54a2fb78b5abd50",
+        "dni": "44517201",
+        "signing_time_utc": "2026-04-13T02:38:47+00:00",
+        "delta_vs_fr_h": 1.0272222222222223
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:37:09+00:00"
+    }
+  ]
+}

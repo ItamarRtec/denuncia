@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "043415",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.035212+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA MOLINA",
+    "ubigeo": "140110",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL AGRARIA LA MOLINA",
+    "codigo_local": "2926",
+    "total_electores_habiles": 295,
+    "total_votos_emitidos": 216,
+    "total_votos_validos": 206,
+    "porcentaje_participacion": 73.22
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220841-05'00'",
+    "mod_date_raw": "D:20260412220841-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "cef0423c538617981f34fe624403566bdbf7a2fb4d7c73f6a56ea58c2019643f",
+  "pdf_size_bytes": 883006,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:40:37+00:00",
+    "pdf_created_utc": "2026-04-13T03:08:41+00:00",
+    "delta_pdf_vs_fr_seconds": 5284.0,
+    "delta_pdf_vs_fr_hours": 1.4677777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:31:38.190000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:09:00+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:10:07+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4730555555555556,
+    "delta_ultimo_humano_vs_fr_h": 1.4916666666666667,
+    "agente_utc": "2026-04-13T01:40:35+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VALDEIGLESIAS HERRERA karim FIR 09616589 sw 2d6d079bb3febd10823cbd87fd690269d41293f7",
+        "dni": "09616589",
+        "signing_time_utc": "2026-04-13T03:09:00+00:00",
+        "delta_vs_fr_h": 1.4730555555555556
+      },
+      {
+        "name": "VADILLO GALVEZ ricardo Zosimo FIR 07975303 sw 3e8471f53c69e2e7894b424451f6bb8b3123c7a7",
+        "dni": "07975303",
+        "signing_time_utc": "2026-04-13T03:09:14+00:00",
+        "delta_vs_fr_h": 1.4769444444444444
+      },
+      {
+        "name": "VALENZUELA CHADWICK DE JAGUANDE ana Maria Cecilia FIR 08249163 sw ebe3c9955dd9e3b44fb2a37f08aebf507c7b6153",
+        "dni": "08249163",
+        "signing_time_utc": "2026-04-13T03:09:29+00:00",
+        "delta_vs_fr_h": 1.481111111111111
+      },
+      {
+        "name": "PEREZ SANCHEZ juana FIR 08956222 sw d6fcd3f7ea26ff543867888772e15155da37727d",
+        "dni": "08956222",
+        "signing_time_utc": "2026-04-13T03:09:52+00:00",
+        "delta_vs_fr_h": 1.4875
+      },
+      {
+        "name": "CORDOVA LOPEZ linder Andres FIR 44258794 sw f61fc761f39fbd3e2afb73432889f2b74869a895",
+        "dni": "44258794",
+        "signing_time_utc": "2026-04-13T03:10:07+00:00",
+        "delta_vs_fr_h": 1.4916666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:40:37+00:00"
+    }
+  ]
+}

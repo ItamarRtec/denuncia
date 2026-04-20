@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "040422",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.303777+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE FE Y ALEGRIA 10",
+    "codigo_local": "2828",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 252,
+    "total_votos_validos": 220,
+    "porcentaje_participacion": 84.281
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413063927-05'00'",
+    "mod_date_raw": "D:20260413063927-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "10414240ca171e4bf992a8cc2fb35ada1b66ed8dc19a83615688369a1a258fd2",
+  "pdf_size_bytes": 830701,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:26:16+00:00",
+    "pdf_created_utc": "2026-04-13T11:39:27+00:00",
+    "delta_pdf_vs_fr_seconds": 33191.0,
+    "delta_pdf_vs_fr_hours": 9.219722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:22:48.623000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T11:39:53+00:00",
+    "ultimo_humano_utc": "2026-04-13T11:42:52+00:00",
+    "delta_primer_humano_vs_fr_h": 9.226944444444445,
+    "delta_ultimo_humano_vs_fr_h": 9.276666666666667,
+    "agente_utc": "2026-04-13T02:16:54+00:00",
+    "delta_agente_vs_fr_h": -0.15611111111111112,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "HUAYNATE VALLEJO norma Mariela FIR 43274045 sw f16be60a45761d2a7a71d4303179fe03d761206b",
+        "dni": "43274045",
+        "signing_time_utc": "2026-04-13T11:39:53+00:00",
+        "delta_vs_fr_h": 9.226944444444445
+      },
+      {
+        "name": "HUAMAN TTITO maria Purificada FIR 10392037 sw 7811f4a7ede8e8d6a030e55334f90ef15b0e01c8",
+        "dni": "10392037",
+        "signing_time_utc": "2026-04-13T11:42:37+00:00",
+        "delta_vs_fr_h": 9.2725
+      },
+      {
+        "name": "HUAMAN GUZMAN dante Isaias FIR 09980467 sw d836c6557f82cc648f0bc9445b6368e870125a82",
+        "dni": "09980467",
+        "signing_time_utc": "2026-04-13T11:42:52+00:00",
+        "delta_vs_fr_h": 9.276666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:26:16+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:16:56+00:00"
+    }
+  ]
+}

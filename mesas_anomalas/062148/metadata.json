@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "062148",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.259302+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP WILLIAM SHAKESPEARE",
+    "codigo_local": "50549",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 258,
+    "total_votos_validos": 234,
+    "porcentaje_participacion": 86.288
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412233840-05'00'",
+    "mod_date_raw": "D:20260412233840-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "f92550838fb5f5cb55b15ebf4d425504ba7367fb40cc80c9ca97a2895b7f7ede",
+  "pdf_size_bytes": 830832,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:47:56+00:00",
+    "pdf_created_utc": "2026-04-13T04:38:40+00:00",
+    "delta_pdf_vs_fr_seconds": 10244.0,
+    "delta_pdf_vs_fr_hours": 2.8455555555555554,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:12:02.349000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:39:11+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:39:47+00:00",
+    "delta_primer_humano_vs_fr_h": 2.8541666666666665,
+    "delta_ultimo_humano_vs_fr_h": 2.8641666666666667,
+    "agente_utc": "2026-04-13T01:47:54+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MEZA MIRANDA millan FIR 40647319 sw 9309220334e46f595896eaf3db815135b396c457",
+        "dni": "40647319",
+        "signing_time_utc": "2026-04-13T04:39:11+00:00",
+        "delta_vs_fr_h": 2.8541666666666665
+      },
+      {
+        "name": "MEZA VILLANUEVA rosario Beatriz FIR 41875383 sw a4dbdbc74392392e9b56055b53f388125bb17754",
+        "dni": "41875383",
+        "signing_time_utc": "2026-04-13T04:39:28+00:00",
+        "delta_vs_fr_h": 2.858888888888889
+      },
+      {
+        "name": "LUQUE CHOQUEMAMANI eduardo FIR 10181499 sw cc1d596e1fc324c870e9e8a6de41d1c8cfbc3a3d",
+        "dni": "10181499",
+        "signing_time_utc": "2026-04-13T04:39:47+00:00",
+        "delta_vs_fr_h": 2.8641666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:47:56+00:00"
+    }
+  ]
+}

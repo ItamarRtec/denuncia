@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "051120",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.904617+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP COLEGIO DE LA INMACULADA JESUITAS",
+    "codigo_local": "14137",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 249,
+    "total_votos_validos": 243,
+    "porcentaje_participacion": 83.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223436-05'00'",
+    "mod_date_raw": "D:20260412223436-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0c1ef2f481b107d8c8b8d72da7a8352257b5ba518255a8036139ccb163355257",
+  "pdf_size_bytes": 856364,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:52:21+00:00",
+    "pdf_created_utc": "2026-04-13T03:34:36+00:00",
+    "delta_pdf_vs_fr_seconds": 6135.0,
+    "delta_pdf_vs_fr_hours": 1.7041666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:31:06.738000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:35:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:37:11+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7166666666666666,
+    "delta_ultimo_humano_vs_fr_h": 1.7472222222222222,
+    "agente_utc": "2026-04-13T01:52:19+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "URDANETA ALFARO jenny Carolina FIR 49064871 sw f0a04f03439324cf4d8c6cc121d0ea3699d1e1fd",
+        "dni": "49064871",
+        "signing_time_utc": "2026-04-13T03:35:21+00:00",
+        "delta_vs_fr_h": 1.7166666666666666
+      },
+      {
+        "name": "VERA SALAS medalit Maria FIR 04413389 sw 022ae2063ee298d979cace64a1c592254e56d1ad",
+        "dni": "04413389",
+        "signing_time_utc": "2026-04-13T03:35:36+00:00",
+        "delta_vs_fr_h": 1.7208333333333334
+      },
+      {
+        "name": "URIBE FUENTES CASTRO aida Danire FIR 09870462 sw 8e3c4c23b8ff87e49a7c1c66ca90ce97012ebc09",
+        "dni": "09870462",
+        "signing_time_utc": "2026-04-13T03:35:52+00:00",
+        "delta_vs_fr_h": 1.7252777777777777
+      },
+      {
+        "name": "VELIZ VILLENA anggie Geraldine FIR 70686272 sw 81e18bbd384203b87875077923adfae073428494",
+        "dni": "70686272",
+        "signing_time_utc": "2026-04-13T03:37:11+00:00",
+        "delta_vs_fr_h": 1.7472222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:52:21+00:00"
+    }
+  ]
+}

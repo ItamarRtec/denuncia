@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "042498",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.714692+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS - CHORRILLOS LA CAMPIÑA",
+    "codigo_local": "54784",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 247,
+    "total_votos_validos": 221,
+    "porcentaje_participacion": 82.609
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220859-05'00'",
+    "mod_date_raw": "D:20260412220859-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "35fb0f1da97e01e4d9a34b45f3706b2f00737aa79bf5e9a2c43ef914c8d2904d",
+  "pdf_size_bytes": 831190,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:00+00:00",
+    "pdf_created_utc": "2026-04-13T03:08:59+00:00",
+    "delta_pdf_vs_fr_seconds": 5759.0,
+    "delta_pdf_vs_fr_hours": 1.5997222222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:03:35.711000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:17:03+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:17:32+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7341666666666666,
+    "delta_ultimo_humano_vs_fr_h": 1.7422222222222221,
+    "agente_utc": "2026-04-13T01:32:58+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARROYO PORRAS valeria Marcela FIR 70836873 sw 5c6db831725429de6bdf6b94c9eb87fcd93f9405",
+        "dni": "70836873",
+        "signing_time_utc": "2026-04-13T03:17:03+00:00",
+        "delta_vs_fr_h": 1.7341666666666666
+      },
+      {
+        "name": "ARAJA LLAMOCCA edmundo FIR 10632966 sw 18a6f399971f90665346ed079ad42ec72e99e4ab",
+        "dni": "10632966",
+        "signing_time_utc": "2026-04-13T03:17:17+00:00",
+        "delta_vs_fr_h": 1.7380555555555555
+      },
+      {
+        "name": "ANGELES CHIRINOS erika Julissa FIR 42224079 sw 6b29a3916ed60a378dffbf195c746ee48d342fc1",
+        "dni": "42224079",
+        "signing_time_utc": "2026-04-13T03:17:32+00:00",
+        "delta_vs_fr_h": 1.7422222222222221
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:00+00:00"
+    }
+  ]
+}

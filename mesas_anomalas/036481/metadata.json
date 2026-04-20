@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036481",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.275408+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS",
+    "codigo_local": "2674",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 205,
+    "total_votos_validos": 176,
+    "porcentaje_participacion": 68.562
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083010-05'00'",
+    "mod_date_raw": "D:20260413083010-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "565fdbf207a47779d7d5ef512a0974af42ca8da51451949aa78b471914f108b9",
+  "pdf_size_bytes": 831128,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:42:05+00:00",
+    "pdf_created_utc": "2026-04-13T13:30:10+00:00",
+    "delta_pdf_vs_fr_seconds": 38885.0,
+    "delta_pdf_vs_fr_hours": 10.801388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T07:50:47.699000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:30:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:30:48+00:00",
+    "delta_primer_humano_vs_fr_h": 10.80638888888889,
+    "delta_ultimo_humano_vs_fr_h": 10.811944444444444,
+    "agente_utc": "2026-04-13T02:40:01+00:00",
+    "delta_agente_vs_fr_h": -0.034444444444444444,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "RONDO ARMAS daisy Ibonne FIR 42112119 sw 881463b6a72770eb22564f71fc33ce5602d30d7b",
+        "dni": "42112119",
+        "signing_time_utc": "2026-04-13T13:30:28+00:00",
+        "delta_vs_fr_h": 10.80638888888889
+      },
+      {
+        "name": "ROQUE CONTRERAS juan Luis FIR 07683316 sw 61fcd536d77725ac6d8a6b073ffa8bd5921b96d5",
+        "dni": "07683316",
+        "signing_time_utc": "2026-04-13T13:30:39+00:00",
+        "delta_vs_fr_h": 10.809444444444445
+      },
+      {
+        "name": "ROJAS VARGAS miguel Angel FIR 09960475 sw afa37856d98504d90e826293a4674fe822f30e9e",
+        "dni": "09960475",
+        "signing_time_utc": "2026-04-13T13:30:48+00:00",
+        "delta_vs_fr_h": 10.811944444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:42:05+00:00"
+    }
+  ]
+}

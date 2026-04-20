@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "042582",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.273574+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA VICTORIA",
+    "ubigeo": "140109",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1105 LA SAGRADA FAMILIA",
+    "codigo_local": "2882",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 78.93
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412204111-05'00'",
+    "mod_date_raw": "D:20260412204111-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e73aa7a3d8bc0830f6c03d8ea6357c0ba2c2b58393921fa63ac9e02e663c1f89",
+  "pdf_size_bytes": 856250,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:03:24+00:00",
+    "pdf_created_utc": "2026-04-13T01:41:11+00:00",
+    "delta_pdf_vs_fr_seconds": 2267.0,
+    "delta_pdf_vs_fr_hours": 0.6297222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:40:37.673000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T01:41:39+00:00",
+    "ultimo_humano_utc": "2026-04-13T01:42:36+00:00",
+    "delta_primer_humano_vs_fr_h": 0.6375,
+    "delta_ultimo_humano_vs_fr_h": 0.6533333333333333,
+    "agente_utc": "2026-04-13T01:03:23+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "HUAMANI BERROCAL humberto FIR 07399796 sw 8125e5f1407fd6d54046b6352b079641d2a47e62",
+        "dni": "07399796",
+        "signing_time_utc": "2026-04-13T01:41:39+00:00",
+        "delta_vs_fr_h": 0.6375
+      },
+      {
+        "name": "INFANTE MAZA jose Humberto FIR 46709527 sw 8c59364d713649e0b52ca02e9f636ef423b65c05",
+        "dni": "46709527",
+        "signing_time_utc": "2026-04-13T01:41:50+00:00",
+        "delta_vs_fr_h": 0.6405555555555555
+      },
+      {
+        "name": "HUINCHO CHILLCCE edith Yonayda FIR 42542163 sw 54530a908d4c16d91ae4a3d547475421829e118c",
+        "dni": "42542163",
+        "signing_time_utc": "2026-04-13T01:42:01+00:00",
+        "delta_vs_fr_h": 0.6436111111111111
+      },
+      {
+        "name": "HOLGUIN CHAVEZ carlos Enrique FIR 07302575 sw 5b4e16d7a3f0bc099f768a30ee2daa747f30e801",
+        "dni": "07302575",
+        "signing_time_utc": "2026-04-13T01:42:36+00:00",
+        "delta_vs_fr_h": 0.6533333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:03:24+00:00"
+    }
+  ]
+}

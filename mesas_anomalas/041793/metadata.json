@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "041793",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.168985+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7042 SANTA TERESA DE VILLA",
+    "codigo_local": "2866",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 241,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 80.602
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092722-05'00'",
+    "mod_date_raw": "D:20260413092722-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "83a2fc475b345d601818a91235ec7207e5c2df1be2f6dd833ada3f759f110976",
+  "pdf_size_bytes": 830677,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:01:34+00:00",
+    "pdf_created_utc": "2026-04-13T14:27:22+00:00",
+    "delta_pdf_vs_fr_seconds": 41148.0,
+    "delta_pdf_vs_fr_hours": 11.43,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:12:41.747000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:27:54+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:28:27+00:00",
+    "delta_primer_humano_vs_fr_h": 11.438888888888888,
+    "delta_ultimo_humano_vs_fr_h": 11.448055555555555,
+    "agente_utc": "2026-04-13T03:01:32+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "LEON GUEVARA maria Rosario FIR 07132038 sw d51c0cffd359950c5ab5f5f4885de1baaf5303b3",
+        "dni": "07132038",
+        "signing_time_utc": "2026-04-13T14:27:54+00:00",
+        "delta_vs_fr_h": 11.438888888888888
+      },
+      {
+        "name": "LEON TAPIA maria Del Rosario FIR 20438175 sw 0575d31cba338dbf1c46142a40c37ff4a445af37",
+        "dni": "20438175",
+        "signing_time_utc": "2026-04-13T14:28:14+00:00",
+        "delta_vs_fr_h": 11.444444444444445
+      },
+      {
+        "name": "IBARRA FRIAS roberto Andre FIR 73349472 sw 540a45f4de22f1f2d3c67d9e89d966e378804d3d",
+        "dni": "73349472",
+        "signing_time_utc": "2026-04-13T14:28:27+00:00",
+        "delta_vs_fr_h": 11.448055555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:01:34+00:00"
+    }
+  ]
+}

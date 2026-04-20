@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050246",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.917247+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INMACULADO CORAZON DE MARIA",
+    "codigo_local": "50538",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 237,
+    "total_votos_validos": 221,
+    "porcentaje_participacion": 79.264
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091647-05'00'",
+    "mod_date_raw": "D:20260413091647-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "db7043a9b1e29a16d6a6c31282618d72b6d5d6a7649e9f7f4af62e715e8a652d",
+  "pdf_size_bytes": 856954,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:39:01+00:00",
+    "pdf_created_utc": "2026-04-13T14:16:47+00:00",
+    "delta_pdf_vs_fr_seconds": 38266.0,
+    "delta_pdf_vs_fr_hours": 10.629444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T11:39:14.177000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T14:17:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:18:06+00:00",
+    "delta_primer_humano_vs_fr_h": 10.642222222222221,
+    "delta_ultimo_humano_vs_fr_h": 10.651388888888889,
+    "agente_utc": "2026-04-13T03:38:59+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PEREZ CHANDUVI paula Patricia FIR 40887140 sw d551ec88d5cca7a58f10feac77e99e13b56f5501",
+        "dni": "40887140",
+        "signing_time_utc": "2026-04-13T14:17:33+00:00",
+        "delta_vs_fr_h": 10.642222222222221
+      },
+      {
+        "name": "PAZ JARA martha Violeta FIR 09276568 sw 493353f5ed5641607ae6d0e7a3db1ad6dc31cebf",
+        "dni": "09276568",
+        "signing_time_utc": "2026-04-13T14:17:43+00:00",
+        "delta_vs_fr_h": 10.645
+      },
+      {
+        "name": "CESPEDES TELLO sorina Del Carmen FIR 08564227 sw 0e77f96da5e0db99ecbbbc993b4d4ce1154beb39",
+        "dni": "08564227",
+        "signing_time_utc": "2026-04-13T14:18:06+00:00",
+        "delta_vs_fr_h": 10.651388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:39:01+00:00"
+    }
+  ]
+}

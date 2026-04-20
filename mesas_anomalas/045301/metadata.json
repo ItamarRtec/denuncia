@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045301",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.814287+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ADVIENTO",
+    "codigo_local": "32594",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 196,
+    "total_votos_validos": 185,
+    "porcentaje_participacion": 65.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413021009-05'00'",
+    "mod_date_raw": "D:20260413021009-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "6bcdef92f499167d6bda9a57457056bf6b2b0a14f6091ffa93d1d4744ceb16b8",
+  "pdf_size_bytes": 830647,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:14:16+00:00",
+    "pdf_created_utc": "2026-04-13T07:10:09+00:00",
+    "delta_pdf_vs_fr_seconds": 17753.0,
+    "delta_pdf_vs_fr_hours": 4.931388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:27:25.774000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T07:10:26+00:00",
+    "ultimo_humano_utc": "2026-04-13T07:11:22+00:00",
+    "delta_primer_humano_vs_fr_h": 4.936111111111111,
+    "delta_ultimo_humano_vs_fr_h": 4.951666666666667,
+    "agente_utc": "2026-04-13T02:14:14+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MOREAU  samuel Hubert Charles FIR 49081503 sw 3c6746fa86c0677d5d7ae202c87e4187377f412e",
+        "dni": "49081503",
+        "signing_time_utc": "2026-04-13T07:10:26+00:00",
+        "delta_vs_fr_h": 4.936111111111111
+      },
+      {
+        "name": "NAVARRO VILLACORTA jose Percy FIR 06094101 sw 35bc9fff44975e74ac6902727027bb6787325cbf",
+        "dni": "06094101",
+        "signing_time_utc": "2026-04-13T07:10:53+00:00",
+        "delta_vs_fr_h": 4.943611111111111
+      },
+      {
+        "name": "NORABUENA PADILLA DE BENTFELD evelyn FIR 07773202 sw bb3e479462c0f547d1902592a3f9aae154dc5107",
+        "dni": "07773202",
+        "signing_time_utc": "2026-04-13T07:11:22+00:00",
+        "delta_vs_fr_h": 4.951666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:14:16+00:00"
+    }
+  ]
+}

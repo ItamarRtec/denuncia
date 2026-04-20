@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "051122",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:57.123912+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP CORAZON INMACULADO",
+    "codigo_local": "14139",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 162,
+    "total_votos_validos": 147,
+    "porcentaje_participacion": 70.435
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413022310-05'00'",
+    "mod_date_raw": "D:20260413022310-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3992f9aaf9740938967916fe9a66184b59dedb21e0c8cb547bbba48b5ab6dd4a",
+  "pdf_size_bytes": 881177,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:08:49+00:00",
+    "pdf_created_utc": "2026-04-13T07:23:10+00:00",
+    "delta_pdf_vs_fr_seconds": 18861.0,
+    "delta_pdf_vs_fr_hours": 5.239166666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:24:17.955000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T07:23:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T07:25:58+00:00",
+    "delta_primer_humano_vs_fr_h": 5.250555555555556,
+    "delta_ultimo_humano_vs_fr_h": 5.285833333333334,
+    "agente_utc": "2026-04-13T02:08:47+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ABAL GIRALDO olga FIR 08883863 sw 68b809140298a5b4361d832099c79014308afbb3",
+        "dni": "08883863",
+        "signing_time_utc": "2026-04-13T07:23:51+00:00",
+        "delta_vs_fr_h": 5.250555555555556
+      },
+      {
+        "name": "CARRASCO SOLORZANO virginia Magali FIR 09985662 sw 2a6b2cf8eddbc1bf9d8562c2003e8aecac53dca9",
+        "dni": "09985662",
+        "signing_time_utc": "2026-04-13T07:24:13+00:00",
+        "delta_vs_fr_h": 5.256666666666667
+      },
+      {
+        "name": "CASTILLO RODRIGUEZ darielita FIR 40416489 sw 3da87b3be348257676411c176a1a6b00c757d51f",
+        "dni": "40416489",
+        "signing_time_utc": "2026-04-13T07:24:33+00:00",
+        "delta_vs_fr_h": 5.262222222222222
+      },
+      {
+        "name": "ARONES CCAULLA carlos FIR 10552637 sw d491dd4c169ccd21442db6d0dce5e40903388b58",
+        "dni": "10552637",
+        "signing_time_utc": "2026-04-13T07:25:17+00:00",
+        "delta_vs_fr_h": 5.274444444444445
+      },
+      {
+        "name": "COAGUILA CORNEJO gilmer Victor FIR 09347595 sw 57337f6581d992b3993735379e9c9f08d5bcdcc7",
+        "dni": "09347595",
+        "signing_time_utc": "2026-04-13T07:25:58+00:00",
+        "delta_vs_fr_h": 5.285833333333334
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:08:49+00:00"
+    }
+  ]
+}

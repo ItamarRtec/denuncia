@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "050601",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.177086+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6047 JOSE MARIA ARGUEDAS",
+    "codigo_local": "3199",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 242,
+    "total_votos_validos": 223,
+    "porcentaje_participacion": 80.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222103-05'00'",
+    "mod_date_raw": "D:20260412222103-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "d3445fed8eb8655195473f6207216c8dd37604e8d2885e3514645c7cd963618c",
+  "pdf_size_bytes": 856062,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:07:50+00:00",
+    "pdf_created_utc": "2026-04-13T03:21:03+00:00",
+    "delta_pdf_vs_fr_seconds": 7993.0,
+    "delta_pdf_vs_fr_hours": 2.2202777777777776,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:38:14.338000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:21:30+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:22:56+00:00",
+    "delta_primer_humano_vs_fr_h": 2.227777777777778,
+    "delta_ultimo_humano_vs_fr_h": 2.2516666666666665,
+    "agente_utc": "2026-04-13T01:07:48+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DELGADO AVILA miguel Antonio FIR 46545595 sw a01a93db66423fddb70a6571b93076a6e36e10d3",
+        "dni": "46545595",
+        "signing_time_utc": "2026-04-13T03:21:30+00:00",
+        "delta_vs_fr_h": 2.227777777777778
+      },
+      {
+        "name": "COSSIO VEGA milagros FIR 09877687 sw a542ee1ba44240704126dd358a449690987b217f",
+        "dni": "09877687",
+        "signing_time_utc": "2026-04-13T03:21:48+00:00",
+        "delta_vs_fr_h": 2.2327777777777778
+      },
+      {
+        "name": "CORDOVA MONTALVAN ronald Yvan FIR 42566031 sw 874b48f2614200a3b2ae2cc52db0f4d40d13dd45",
+        "dni": "42566031",
+        "signing_time_utc": "2026-04-13T03:22:10+00:00",
+        "delta_vs_fr_h": 2.238888888888889
+      },
+      {
+        "name": "ESPIRITU BACA vilma Felomina FIR 10308823 sw ea710db460e2a345e526a74d91d22cf2cbfb72a3",
+        "dni": "10308823",
+        "signing_time_utc": "2026-04-13T03:22:56+00:00",
+        "delta_vs_fr_h": 2.2516666666666665
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:07:50+00:00"
+    }
+  ]
+}

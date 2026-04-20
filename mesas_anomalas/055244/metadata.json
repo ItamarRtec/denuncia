@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "055244",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.566271+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7207 MARISCAL RAMON CASTILLA",
+    "codigo_local": "3371",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 252,
+    "total_votos_validos": 223,
+    "porcentaje_participacion": 84.281
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085452-05'00'",
+    "mod_date_raw": "D:20260413085452-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4094100a6abcbcb6020a5933ea3b4b78e6b8ea05c618c81dd3a374a7935f3aee",
+  "pdf_size_bytes": 831573,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:19:14+00:00",
+    "pdf_created_utc": "2026-04-13T13:54:52+00:00",
+    "delta_pdf_vs_fr_seconds": 41738.0,
+    "delta_pdf_vs_fr_hours": 11.59388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:48:57.038000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:55:09+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:55:24+00:00",
+    "delta_primer_humano_vs_fr_h": 11.598611111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.602777777777778,
+    "agente_utc": "2026-04-13T02:19:11+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "QUISPE OSTOS melane Dapfne FIR 71258766 sw 574aeeaa0086c02c9ad21d673bc61e857f0f0d97",
+        "dni": "71258766",
+        "signing_time_utc": "2026-04-13T13:55:09+00:00",
+        "delta_vs_fr_h": 11.598611111111111
+      },
+      {
+        "name": "RAMOS OBLITAS miguel Ricardo FIR 72552611 sw b4cc4c43d0004b8d31922d682597d35f877a2bbc",
+        "dni": "72552611",
+        "signing_time_utc": "2026-04-13T13:55:24+00:00",
+        "delta_vs_fr_h": 11.602777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:19:14+00:00"
+    }
+  ]
+}

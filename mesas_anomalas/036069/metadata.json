@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "036069",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.908345+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1001 JOSE JIMENEZ BORJA",
+    "codigo_local": "2642",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 221,
+    "porcentaje_participacion": 81.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412221518-05'00'",
+    "mod_date_raw": "D:20260412221518-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "014da70fdcba54b0d197f84e3262086d2b0dd48329f71e001be8519958c0e24e",
+  "pdf_size_bytes": 831702,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:40:31+00:00",
+    "pdf_created_utc": "2026-04-13T03:15:18+00:00",
+    "delta_pdf_vs_fr_seconds": 5687.0,
+    "delta_pdf_vs_fr_hours": 1.5797222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:32:13.599000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:15:49+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:16:07+00:00",
+    "delta_primer_humano_vs_fr_h": 1.5883333333333334,
+    "delta_ultimo_humano_vs_fr_h": 1.5933333333333333,
+    "agente_utc": "2026-04-13T01:40:28+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DEL VALLE MENDOZA gonzalo Fernando FIR 08027400 sw 5fe45a07bebb3c6acd6c0096ecdca050b06d3712",
+        "dni": "08027400",
+        "signing_time_utc": "2026-04-13T03:15:49+00:00",
+        "delta_vs_fr_h": 1.5883333333333334
+      },
+      {
+        "name": "CORTEZ MEZA zaida Lisbeidy FIR 45759996 sw a6c2bda9e87a4c6674331d431394d07c322bff00",
+        "dni": "45759996",
+        "signing_time_utc": "2026-04-13T03:16:07+00:00",
+        "delta_vs_fr_h": 1.5933333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:40:31+00:00"
+    }
+  ]
+}

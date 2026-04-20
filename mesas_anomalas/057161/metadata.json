@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "057161",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.714579+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE NICOLAS COPERNICO",
+    "codigo_local": "3460",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 257,
+    "total_votos_validos": 210,
+    "porcentaje_participacion": 85.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413081745-05'00'",
+    "mod_date_raw": "D:20260413081745-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0457c3f00bdde6e4a159ca77e6041e6fbc70eef5e973d23b4e5ff9633d0abda1",
+  "pdf_size_bytes": 857101,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:37:07+00:00",
+    "pdf_created_utc": "2026-04-13T13:17:45+00:00",
+    "delta_pdf_vs_fr_seconds": 42038.0,
+    "delta_pdf_vs_fr_hours": 11.677222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T11:53:21.776000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:18:07+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:20:19+00:00",
+    "delta_primer_humano_vs_fr_h": 11.683333333333334,
+    "delta_ultimo_humano_vs_fr_h": 11.72,
+    "agente_utc": "2026-04-13T01:37:04+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FLORES VARGAS alfredo FIR 44617539 sw 80ac817949822fd5b688b20a20478e9b5d8e15bf",
+        "dni": "44617539",
+        "signing_time_utc": "2026-04-13T13:18:07+00:00",
+        "delta_vs_fr_h": 11.683333333333334
+      },
+      {
+        "name": "FERNANDEZ AUCCAPURI alexandra Diana FIR 75906106 sw 9286b52375d3c8f9022f7d2c4cec5b646dad2d15",
+        "dni": "75906106",
+        "signing_time_utc": "2026-04-13T13:18:30+00:00",
+        "delta_vs_fr_h": 11.689722222222223
+      },
+      {
+        "name": "PADILLA DE LA CRUZ monica Antonieta FIR 09270956 sw 163068508bbf1f929e30fb69ffcb02b3bcc015b4",
+        "dni": "09270956",
+        "signing_time_utc": "2026-04-13T13:20:19+00:00",
+        "delta_vs_fr_h": 11.72
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:37:07+00:00"
+    }
+  ]
+}

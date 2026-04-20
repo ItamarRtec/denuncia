@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051377",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.491466+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS SURCO - AMBROSIO",
+    "codigo_local": "52886",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 224,
+    "total_votos_validos": 212,
+    "porcentaje_participacion": 74.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413005649-05'00'",
+    "mod_date_raw": "D:20260413005649-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "dcb6001c7c70a860ddc70224ad0f0076a81cded33506d0d82b7bf33d37ae4231",
+  "pdf_size_bytes": 831964,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:54:13+00:00",
+    "pdf_created_utc": "2026-04-13T05:56:49+00:00",
+    "delta_pdf_vs_fr_seconds": 14556.0,
+    "delta_pdf_vs_fr_hours": 4.043333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:11:04.214000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:57:09+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:58:13+00:00",
+    "delta_primer_humano_vs_fr_h": 4.0488888888888885,
+    "delta_ultimo_humano_vs_fr_h": 4.066666666666666,
+    "agente_utc": "2026-04-13T01:54:11+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FIGUEROLA DUTHURBURU kenneth Lucius Marvin FIR 09541775 sw 6d7285c404e4b396d37ce103ae45fde6e5af033e",
+        "dni": "09541775",
+        "signing_time_utc": "2026-04-13T05:57:09+00:00",
+        "delta_vs_fr_h": 4.0488888888888885
+      },
+      {
+        "name": "FLORES HUAYNA patricia Marlene FIR 25701237 sw eebc5152e3a091f825933b820c8c42f3cd8e7813",
+        "dni": "25701237",
+        "signing_time_utc": "2026-04-13T05:57:47+00:00",
+        "delta_vs_fr_h": 4.059444444444445
+      },
+      {
+        "name": "FALCON DAMIANO alex Eduardo FIR 45313222 sw e79dd35ce57f2f8c16d17025e213e499bead1b61",
+        "dni": "45313222",
+        "signing_time_utc": "2026-04-13T05:58:13+00:00",
+        "delta_vs_fr_h": 4.066666666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:54:13+00:00"
+    }
+  ]
+}

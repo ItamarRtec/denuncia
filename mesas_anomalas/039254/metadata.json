@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "039254",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.263926+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2080 ANDRES BELLO",
+    "codigo_local": "2767",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 272,
+    "total_votos_validos": 240,
+    "porcentaje_participacion": 90.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091539-05'00'",
+    "mod_date_raw": "D:20260413091539-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "34fe08d97de9570392022b677c912fe8a77f239e981ff958aaa59cfae1a39f7c",
+  "pdf_size_bytes": 830479,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:28:19+00:00",
+    "pdf_created_utc": "2026-04-13T14:15:39+00:00",
+    "delta_pdf_vs_fr_seconds": 42440.0,
+    "delta_pdf_vs_fr_hours": 11.78888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:05:49.165000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:16:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:17:00+00:00",
+    "delta_primer_humano_vs_fr_h": 11.8025,
+    "delta_ultimo_humano_vs_fr_h": 11.811388888888889,
+    "agente_utc": "2026-04-13T02:28:04+00:00",
+    "delta_agente_vs_fr_h": -0.004166666666666667,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "OLLAGUE PAJUELO juan Francisco FIR 09545608 sw e4b8141d276bdea032e02b499f2a1d0f35bfdccc",
+        "dni": "09545608",
+        "signing_time_utc": "2026-04-13T14:16:28+00:00",
+        "delta_vs_fr_h": 11.8025
+      },
+      {
+        "name": "MARCELO MALLQUI marco Antonio FIR 10880148 sw c5d8c1692d84eaa694ec8d47953a0c5b66890874",
+        "dni": "10880148",
+        "signing_time_utc": "2026-04-13T14:16:45+00:00",
+        "delta_vs_fr_h": 11.807222222222222
+      },
+      {
+        "name": "NECIOSUP CHUMBES susana Elvira FIR 45977457 sw b81b5b1a620ed8ba2716d5d837da1d7dfb3c8c5d",
+        "dni": "45977457",
+        "signing_time_utc": "2026-04-13T14:17:00+00:00",
+        "delta_vs_fr_h": 11.811388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:28:19+00:00"
+    }
+  ]
+}

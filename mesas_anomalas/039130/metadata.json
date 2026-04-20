@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "039130",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.483827+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "BREÑA",
+    "ubigeo": "140104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD INTERAMERICANA DE DESARROLLO",
+    "codigo_local": "50360",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 230,
+    "total_votos_validos": 211,
+    "porcentaje_participacion": 76.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092525-05'00'",
+    "mod_date_raw": "D:20260413092525-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8680d0a61d08c9c585dd274ef0e6cb63983420b890d6cbfb78c8bc19d27598ed",
+  "pdf_size_bytes": 830688,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:56:12+00:00",
+    "pdf_created_utc": "2026-04-13T14:25:25+00:00",
+    "delta_pdf_vs_fr_seconds": 41353.0,
+    "delta_pdf_vs_fr_hours": 11.486944444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:01:10.818000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:25:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:26:22+00:00",
+    "delta_primer_humano_vs_fr_h": 11.491944444444444,
+    "delta_ultimo_humano_vs_fr_h": 11.502777777777778,
+    "agente_utc": "2026-04-13T02:56:09+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SAAVEDRA GUILLEN edita Emilia FIR 07912818 sw 3a9fa80c0b9205bff162876aa9b9b4656a3e51ab",
+        "dni": "07912818",
+        "signing_time_utc": "2026-04-13T14:25:43+00:00",
+        "delta_vs_fr_h": 11.491944444444444
+      },
+      {
+        "name": "SALAZAR LA TORRE cesar Armando FIR 78375991 sw c67892938c39930a30abf04408882510f9fa6b6c",
+        "dni": "78375991",
+        "signing_time_utc": "2026-04-13T14:26:06+00:00",
+        "delta_vs_fr_h": 11.498333333333333
+      },
+      {
+        "name": "RUFINO CASTILLO irvin Alexander FIR 74066706 sw 8d0802449a81e4bc68e87d11b06500586183bacf",
+        "dni": "74066706",
+        "signing_time_utc": "2026-04-13T14:26:22+00:00",
+        "delta_vs_fr_h": 11.502777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:56:12+00:00"
+    }
+  ]
+}

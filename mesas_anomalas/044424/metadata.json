@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "044424",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.386679+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LURIGANCHO",
+    "ubigeo": "140112",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP FRANCOIS VIETE",
+    "codigo_local": "13462",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 223,
+    "total_votos_validos": 192,
+    "porcentaje_participacion": 74.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215000-05'00'",
+    "mod_date_raw": "D:20260412215000-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "cc432220f1b5fd1f7cc58ceb19b4082df7dbfabba17c786e1056411fe3762507",
+  "pdf_size_bytes": 829824,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:57:35+00:00",
+    "pdf_created_utc": "2026-04-13T02:50:00+00:00",
+    "delta_pdf_vs_fr_seconds": 6745.0,
+    "delta_pdf_vs_fr_hours": 1.8736111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:42:52.714000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:50:10+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:50:31+00:00",
+    "delta_primer_humano_vs_fr_h": 1.8763888888888889,
+    "delta_ultimo_humano_vs_fr_h": 1.8822222222222222,
+    "agente_utc": "2026-04-13T00:57:33+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BARRANTES CABANILLAS gladys FIR 42410555 sw 6ef2f99226ed201729ba404334f9a23e68d9dcae",
+        "dni": "42410555",
+        "signing_time_utc": "2026-04-13T02:50:10+00:00",
+        "delta_vs_fr_h": 1.8763888888888889
+      },
+      {
+        "name": "CAJALEON CALHUA lady Cristina FIR 70626705 sw 8c68c8a5fcf426a7f5c737813942a39ce3568d34",
+        "dni": "70626705",
+        "signing_time_utc": "2026-04-13T02:50:21+00:00",
+        "delta_vs_fr_h": 1.8794444444444445
+      },
+      {
+        "name": "AREVALO RUBIO kiara Dayanna FIR 71173295 sw cefb4db143755f5ee606b9e24a21d7ddc1e31474",
+        "dni": "71173295",
+        "signing_time_utc": "2026-04-13T02:50:31+00:00",
+        "delta_vs_fr_h": 1.8822222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:57:35+00:00"
+    }
+  ]
+}

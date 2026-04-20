@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "061822",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.938562+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALFONSO UGARTE",
+    "codigo_local": "3592",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 260,
+    "total_votos_validos": 231,
+    "porcentaje_participacion": 86.957
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222753-05'00'",
+    "mod_date_raw": "D:20260412222753-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "88e06a122fec27cd86b4ed53c2808a51edf4fcd3636870f344f0d29fda04be19",
+  "pdf_size_bytes": 830920,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:17:18+00:00",
+    "pdf_created_utc": "2026-04-13T03:27:53+00:00",
+    "delta_pdf_vs_fr_seconds": 4235.0,
+    "delta_pdf_vs_fr_hours": 1.176388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:23:39.611000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:28:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:29:13+00:00",
+    "delta_primer_humano_vs_fr_h": 1.1833333333333333,
+    "delta_ultimo_humano_vs_fr_h": 1.198611111111111,
+    "agente_utc": "2026-04-13T02:17:15+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AMANCAY TORRES judith FIR 45314587 sw d32f46d5e8ac43e2248ff03c59070becfb30f11a",
+        "dni": "45314587",
+        "signing_time_utc": "2026-04-13T03:28:18+00:00",
+        "delta_vs_fr_h": 1.1833333333333333
+      },
+      {
+        "name": "AMBROCIO ROSALES sonia Maribel FIR 43375374 sw 6aaba54b65ccc02b40e52b69cc9b2c40290ec555",
+        "dni": "43375374",
+        "signing_time_utc": "2026-04-13T03:28:43+00:00",
+        "delta_vs_fr_h": 1.1902777777777778
+      },
+      {
+        "name": "ALVAREZ TACUCHE erickson FIR 46075650 sw c13bef0e9275fb49ebeba8b45eeb441681400f87",
+        "dni": "46075650",
+        "signing_time_utc": "2026-04-13T03:29:13+00:00",
+        "delta_vs_fr_h": 1.198611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:17:18+00:00"
+    }
+  ]
+}

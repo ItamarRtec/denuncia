@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "041166",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.839879+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP IVAN PAVLOV",
+    "codigo_local": "50489",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 233,
+    "total_votos_validos": 200,
+    "porcentaje_participacion": 77.926
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412212857-05'00'",
+    "mod_date_raw": "D:20260412212857-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "99291bc59b599518b2eda67ec1f0088f60b9ed8362777a01a340f22d42197ba1",
+  "pdf_size_bytes": 856474,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:03:33+00:00",
+    "pdf_created_utc": "2026-04-13T02:28:57+00:00",
+    "delta_pdf_vs_fr_seconds": 5124.0,
+    "delta_pdf_vs_fr_hours": 1.4233333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:43:39.933000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:29:13+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:30:04+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4277777777777778,
+    "delta_ultimo_humano_vs_fr_h": 1.4419444444444445,
+    "agente_utc": "2026-04-13T01:03:31+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MARTINEZ VERA yosimar Luis FIR 72255251 sw 7f96360cf652098ea0628824bb7e401f91b3320d",
+        "dni": "72255251",
+        "signing_time_utc": "2026-04-13T02:29:13+00:00",
+        "delta_vs_fr_h": 1.4277777777777778
+      },
+      {
+        "name": "MALLQUI QUISPE jesus David FIR 71937086 sw cd29eef1bcf0667427d64a9adf085056127d288c",
+        "dni": "71937086",
+        "signing_time_utc": "2026-04-13T02:29:31+00:00",
+        "delta_vs_fr_h": 1.4327777777777777
+      },
+      {
+        "name": "LEVANO PORRAS felix David FIR 73577252 sw 6435fc7bc135b1438ecf99acec8bbd7031be8ab7",
+        "dni": "73577252",
+        "signing_time_utc": "2026-04-13T02:29:44+00:00",
+        "delta_vs_fr_h": 1.436388888888889
+      },
+      {
+        "name": "ORRILLO ZEVALLOS willian Bylly Jesus FIR 73824414 sw 1426f2d3da53e767468b56cb717e3b68c80e0a33",
+        "dni": "73824414",
+        "signing_time_utc": "2026-04-13T02:30:04+00:00",
+        "delta_vs_fr_h": 1.4419444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:03:33+00:00"
+    }
+  ]
+}

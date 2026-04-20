@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "046489",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.033113+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUENTE PIEDRA",
+    "ubigeo": "140119",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALFRED NOBEL",
+    "codigo_local": "3045",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 81.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413094659-05'00'",
+    "mod_date_raw": "D:20260413094659-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "d0fc8cff7fea1bdffd9cb9877a3b7b7cb0ce9733e291626a5e48b3cece259bf6",
+  "pdf_size_bytes": 856509,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:04:59+00:00",
+    "pdf_created_utc": "2026-04-13T14:46:59+00:00",
+    "delta_pdf_vs_fr_seconds": 42120.0,
+    "delta_pdf_vs_fr_hours": 11.7,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:32:29.416000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:47:27+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:48:12+00:00",
+    "delta_primer_humano_vs_fr_h": 11.707777777777778,
+    "delta_ultimo_humano_vs_fr_h": 11.720277777777778,
+    "agente_utc": "2026-04-13T03:04:57+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BELTRAN CASTILLO edynson FIR 43066346 sw c7954ceffe4e6aa14d8814fb30dbc1a62374684e",
+        "dni": "43066346",
+        "signing_time_utc": "2026-04-13T14:47:27+00:00",
+        "delta_vs_fr_h": 11.707777777777778
+      },
+      {
+        "name": "BECERRA ERAZO claudia Beatriz FIR 47007603 sw 5e40e57c80c45f78b1668a8c5f05130bc9509404",
+        "dni": "47007603",
+        "signing_time_utc": "2026-04-13T14:47:39+00:00",
+        "delta_vs_fr_h": 11.71111111111111
+      },
+      {
+        "name": "CASTILLO CUEVA juan Roberto FIR 09943994 sw 7d15dfaa31a1734450fd32523318e671f814e3ae",
+        "dni": "09943994",
+        "signing_time_utc": "2026-04-13T14:47:52+00:00",
+        "delta_vs_fr_h": 11.714722222222223
+      },
+      {
+        "name": "SILUPU CALVO nataly Mercedes FIR 47296949 sw cffd9d107f3400153b9fdb6f6879b15ef318fa65",
+        "dni": "47296949",
+        "signing_time_utc": "2026-04-13T14:48:12+00:00",
+        "delta_vs_fr_h": 11.720277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:04:59+00:00"
+    }
+  ]
+}

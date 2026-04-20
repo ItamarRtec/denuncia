@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036165",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.092591+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1146 REPUBLICA DE PARAGUAY",
+    "codigo_local": "2651",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 225,
+    "total_votos_validos": 197,
+    "porcentaje_participacion": 75.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412230901-05'00'",
+    "mod_date_raw": "D:20260412230901-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "395196f4d5ee027e07e9a62400b09deea0078bd89f4e7ea142f24d6ccb524b1f",
+  "pdf_size_bytes": 831494,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:34+00:00",
+    "pdf_created_utc": "2026-04-13T04:09:01+00:00",
+    "delta_pdf_vs_fr_seconds": 9327.0,
+    "delta_pdf_vs_fr_hours": 2.5908333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:58:25.625000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:09:27+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:10:00+00:00",
+    "delta_primer_humano_vs_fr_h": 2.5980555555555553,
+    "delta_ultimo_humano_vs_fr_h": 2.607222222222222,
+    "agente_utc": "2026-04-13T01:33:32+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BRAVO RODRIGUEZ ingrid Raquel FIR 10661915 sw 83d04821d983fef0931e431f6893a4504a14ed4f",
+        "dni": "10661915",
+        "signing_time_utc": "2026-04-13T04:09:27+00:00",
+        "delta_vs_fr_h": 2.5980555555555553
+      },
+      {
+        "name": "CAMAYO APARCO brayan Augusto FIR 75142290 sw 85070d295f7de5b37f3debe8b6eaf8bd83461bd9",
+        "dni": "75142290",
+        "signing_time_utc": "2026-04-13T04:09:47+00:00",
+        "delta_vs_fr_h": 2.6036111111111113
+      },
+      {
+        "name": "CALERO RUIZ victor Manuel FIR 42942604 sw 18e7f75a85448f16f923232ab5c338c688f31eb1",
+        "dni": "42942604",
+        "signing_time_utc": "2026-04-13T04:10:00+00:00",
+        "delta_vs_fr_h": 2.607222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:34+00:00"
+    }
+  ]
+}

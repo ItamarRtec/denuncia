@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054858",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.620093+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 629 6034 CESAR CARBONELL RODRIGUEZ",
+    "codigo_local": "3347",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 229,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 76.589
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413050701-05'00'",
+    "mod_date_raw": "D:20260413050701-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "74514816d6bb36e71f4f34fa3b883687fb7fa7adc85a5b27f6a1bc6df1a1c86d",
+  "pdf_size_bytes": 831435,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:30:04+00:00",
+    "pdf_created_utc": "2026-04-13T10:07:01+00:00",
+    "delta_pdf_vs_fr_seconds": 27417.0,
+    "delta_pdf_vs_fr_hours": 7.615833333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:25:51.904000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T10:07:35+00:00",
+    "ultimo_humano_utc": "2026-04-13T10:08:12+00:00",
+    "delta_primer_humano_vs_fr_h": 7.625277777777778,
+    "delta_ultimo_humano_vs_fr_h": 7.635555555555555,
+    "agente_utc": "2026-04-13T02:30:02+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DEPAZ POMIANO lila Floribertha FIR 09989152 sw 4667e869b5a1ba056dfb1ab32c244ee6178793e6",
+        "dni": "09989152",
+        "signing_time_utc": "2026-04-13T10:07:35+00:00",
+        "delta_vs_fr_h": 7.625277777777778
+      },
+      {
+        "name": "DEZA GUERRERO maria Elizabeth FIR 09288282 sw 483c621d98a9ad570b45dbd2d8ad772e8872ed1d",
+        "dni": "09288282",
+        "signing_time_utc": "2026-04-13T10:07:53+00:00",
+        "delta_vs_fr_h": 7.630277777777778
+      },
+      {
+        "name": "DOMINGUEZ VALENCIA miriam Elena FIR 40870560 sw 21e95fab2215b96cc16c9b5377e40f1218f207b2",
+        "dni": "40870560",
+        "signing_time_utc": "2026-04-13T10:08:12+00:00",
+        "delta_vs_fr_h": 7.635555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:30:04+00:00"
+    }
+  ]
+}

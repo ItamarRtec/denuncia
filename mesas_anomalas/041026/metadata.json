@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "041026",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.472252+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP MARIA MONTESSORI STOPPIANI",
+    "codigo_local": "32951",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 218,
+    "total_votos_validos": 189,
+    "porcentaje_participacion": 72.91
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413082929-05'00'",
+    "mod_date_raw": "D:20260413082929-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7868e1d7880ffab001953a4975fb41eca7c86807f53b83f571e62fafaf9d2b68",
+  "pdf_size_bytes": 857110,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:00:25+00:00",
+    "pdf_created_utc": "2026-04-13T13:29:29+00:00",
+    "delta_pdf_vs_fr_seconds": 37744.0,
+    "delta_pdf_vs_fr_hours": 10.484444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:39:00.889000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:51:29+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:00:39+00:00",
+    "delta_primer_humano_vs_fr_h": 10.851111111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.00388888888889,
+    "agente_utc": "2026-04-13T03:00:23+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "GONZALES MARIN roxana FIR 43765550 sw 49882dd33a1725eb2a1545f2268dacff7ec20c02",
+        "dni": "43765550",
+        "signing_time_utc": "2026-04-13T13:51:29+00:00",
+        "delta_vs_fr_h": 10.851111111111111
+      },
+      {
+        "name": "HUARANGA BANDAN donatila Eulalia FIR 09017048 sw ac4a39bac73674c59539f6e607e43ae78d754093",
+        "dni": "09017048",
+        "signing_time_utc": "2026-04-13T13:56:56+00:00",
+        "delta_vs_fr_h": 10.941944444444445
+      },
+      {
+        "name": "HONORIO TIRADO juan Enrique FIR 06841503 sw 97d47e4c2626de8883ab8cc117ac4d73900c4226",
+        "dni": "06841503",
+        "signing_time_utc": "2026-04-13T14:00:39+00:00",
+        "delta_vs_fr_h": 11.00388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:00:25+00:00"
+    }
+  ]
+}

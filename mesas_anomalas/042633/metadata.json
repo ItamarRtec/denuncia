@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "042633",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.796437+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA VICTORIA",
+    "ubigeo": "140109",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1119 NUESTRA SEÑORA DEL ROSARIO DE FATIMA",
+    "codigo_local": "2886",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 237,
+    "total_votos_validos": 214,
+    "porcentaje_participacion": 79.264
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215053-05'00'",
+    "mod_date_raw": "D:20260412215053-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7ed70a525e3e0fa928cf7ac28ba76932b0d7b72da3257fc2ae6837dbcdb0354a",
+  "pdf_size_bytes": 831995,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:32:14+00:00",
+    "pdf_created_utc": "2026-04-13T02:50:53+00:00",
+    "delta_pdf_vs_fr_seconds": 4719.0,
+    "delta_pdf_vs_fr_hours": 1.3108333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:58:16.784000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:54:25+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:57:15+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3697222222222223,
+    "delta_ultimo_humano_vs_fr_h": 1.4169444444444443,
+    "agente_utc": "2026-04-13T01:32:12+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PARCO FERNANDEZ alexander Jaime FIR 72504177 sw 5ec080cbfd91d206c380fb8c5f1407157a9052fa",
+        "dni": "72504177",
+        "signing_time_utc": "2026-04-13T02:54:25+00:00",
+        "delta_vs_fr_h": 1.3697222222222223
+      },
+      {
+        "name": "PACHECO OBREGON DE PEREYRA yris FIR 09710989 sw 583cc983d95ebc528b9773d9949d6b9380ea0891",
+        "dni": "09710989",
+        "signing_time_utc": "2026-04-13T02:56:29+00:00",
+        "delta_vs_fr_h": 1.4041666666666666
+      },
+      {
+        "name": "MAZA MAMANI DE HIDALGO patricia Janet FIR 07469252 sw 33725dde196fe02005dc9d59788d26bc5803d0c8",
+        "dni": "07469252",
+        "signing_time_utc": "2026-04-13T02:57:15+00:00",
+        "delta_vs_fr_h": 1.4169444444444443
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:32:14+00:00"
+    }
+  ]
+}

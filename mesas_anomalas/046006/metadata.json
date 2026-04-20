@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "046006",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.826621+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUEBLO LIBRE",
+    "ubigeo": "140117",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 04 NIÑO JESUS DE PRAGA",
+    "codigo_local": "50932",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 234,
+    "total_votos_validos": 215,
+    "porcentaje_participacion": 78.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413072830-05'00'",
+    "mod_date_raw": "D:20260413072830-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "ef941f0710177f945bec8b31f1dbf18eeec14aae68f3908f1ff5ef87eb5363d7",
+  "pdf_size_bytes": 831752,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:13:07+00:00",
+    "pdf_created_utc": "2026-04-13T12:28:30+00:00",
+    "delta_pdf_vs_fr_seconds": 36923.0,
+    "delta_pdf_vs_fr_hours": 10.256388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:06:27.251000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T12:28:45+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:29:17+00:00",
+    "delta_primer_humano_vs_fr_h": 10.260555555555555,
+    "delta_ultimo_humano_vs_fr_h": 10.269444444444444,
+    "agente_utc": "2026-04-13T02:13:05+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DE LOS RIOS CASTRO jessica FIR 40416011 sw 89bf15fff28c70564280699cccc62bd680676240",
+        "dni": "40416011",
+        "signing_time_utc": "2026-04-13T12:28:45+00:00",
+        "delta_vs_fr_h": 10.260555555555555
+      },
+      {
+        "name": "HUAQUISTO JULCA DE NAVARRO giovanna FIR 40160215 sw 842176229b801dd3a5c5f33a6b9285f7ce765c89",
+        "dni": "40160215",
+        "signing_time_utc": "2026-04-13T12:29:17+00:00",
+        "delta_vs_fr_h": 10.269444444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:13:07+00:00"
+    }
+  ]
+}

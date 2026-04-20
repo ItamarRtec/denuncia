@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082633",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.000294+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "BELLAVISTA",
+    "ubigeo": "240102",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL DEL CALLAO",
+    "codigo_local": "17916",
+    "total_electores_habiles": 295,
+    "total_votos_emitidos": 218,
+    "total_votos_validos": 197,
+    "porcentaje_participacion": 73.898
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092125-05'00'",
+    "mod_date_raw": "D:20260413092125-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "483815719c9194ab859529fe32048be185a0e44e4c64494dea292fb12b24a14a",
+  "pdf_size_bytes": 829753,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:21:31+00:00",
+    "pdf_created_utc": "2026-04-13T14:21:25+00:00",
+    "delta_pdf_vs_fr_seconds": 35994.0,
+    "delta_pdf_vs_fr_hours": 9.998333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:56:19.426000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T15:29:44+00:00",
+    "ultimo_humano_utc": "2026-04-13T15:31:13+00:00",
+    "delta_primer_humano_vs_fr_h": 11.136944444444444,
+    "delta_ultimo_humano_vs_fr_h": 11.161666666666667,
+    "agente_utc": "2026-04-13T04:21:28+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VILCHEZ HARHUAS angie Esperanza FIR 72924111 sw c3180e5dc70f3e49fbf1c12b771129810b85b4f2",
+        "dni": "72924111",
+        "signing_time_utc": "2026-04-13T15:29:44+00:00",
+        "delta_vs_fr_h": 11.136944444444444
+      },
+      {
+        "name": "VILLAFUERTE PRIETO ruben FIR 09272619 sw 05c94b0b1970981d353935e879bc70a33137a02f",
+        "dni": "09272619",
+        "signing_time_utc": "2026-04-13T15:30:38+00:00",
+        "delta_vs_fr_h": 11.151944444444444
+      },
+      {
+        "name": "VILLAR AGUILAR enrique Arturo FIR 25744454 sw e89b4c3c5350695f78015d5f248e8ea8bed49769",
+        "dni": "25744454",
+        "signing_time_utc": "2026-04-13T15:31:13+00:00",
+        "delta_vs_fr_h": 11.161666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:21:31+00:00"
+    }
+  ]
+}

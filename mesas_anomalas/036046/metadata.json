@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036046",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.542754+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 0035 NUESTRA SEÑORA DE LA VISITACION",
+    "codigo_local": "2640",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 233,
+    "total_votos_validos": 217,
+    "porcentaje_participacion": 77.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413032442-05'00'",
+    "mod_date_raw": "D:20260413032442-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "590fbeba8cd09fe855469e1eadc40bf65e9c7adea122fd12536750c8461a9ad6",
+  "pdf_size_bytes": 829874,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:09:16+00:00",
+    "pdf_created_utc": "2026-04-13T08:24:42+00:00",
+    "delta_pdf_vs_fr_seconds": 26126.0,
+    "delta_pdf_vs_fr_hours": 7.2572222222222225,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:43:23.569000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T08:25:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T08:26:08+00:00",
+    "delta_primer_humano_vs_fr_h": 7.268055555555556,
+    "delta_ultimo_humano_vs_fr_h": 7.2811111111111115,
+    "agente_utc": "2026-04-13T01:09:14+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FLORES QUISPE edwin FIR 09795488 sw 38f83ebcb788867a9c11c27583529dc85c315225",
+        "dni": "09795488",
+        "signing_time_utc": "2026-04-13T08:25:21+00:00",
+        "delta_vs_fr_h": 7.268055555555556
+      },
+      {
+        "name": "ESPINO ROJAS luis Alberto FIR 06188677 sw 330dd95a125b52acfe5b22f3f9328496cb4c9b07",
+        "dni": "06188677",
+        "signing_time_utc": "2026-04-13T08:25:54+00:00",
+        "delta_vs_fr_h": 7.277222222222222
+      },
+      {
+        "name": "FARFAN COLOS franco Alfredo FIR 61294979 sw 4436833679fc6252d51f024de402f1a4e294fc85",
+        "dni": "61294979",
+        "signing_time_utc": "2026-04-13T08:26:08+00:00",
+        "delta_vs_fr_h": 7.2811111111111115
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:09:16+00:00"
+    }
+  ]
+}

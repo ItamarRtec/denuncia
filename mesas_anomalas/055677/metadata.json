@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "055677",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.034561+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP FERMIN TANGUIS",
+    "codigo_local": "13919",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 215,
+    "porcentaje_participacion": 78.93
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413101007-05'00'",
+    "mod_date_raw": "D:20260413101007-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7b3e8d242c15045f3a32289666dc7222bd77cc1cf804a7a1ccc8ba809ed4593b",
+  "pdf_size_bytes": 830891,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:43:49+00:00",
+    "pdf_created_utc": "2026-04-13T15:10:07+00:00",
+    "delta_pdf_vs_fr_seconds": 41178.0,
+    "delta_pdf_vs_fr_hours": 11.438333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:42:22.764000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T15:14:45+00:00",
+    "ultimo_humano_utc": "2026-04-13T15:18:39+00:00",
+    "delta_primer_humano_vs_fr_h": 11.515555555555556,
+    "delta_ultimo_humano_vs_fr_h": 11.580555555555556,
+    "agente_utc": "2026-04-13T03:40:13+00:00",
+    "delta_agente_vs_fr_h": -0.06,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "RIVAS LOPEZ cesar Augusto FIR 10707350 sw 56a4d92d9bda2ee1a2eeab22e9609c03bc4a8c3f",
+        "dni": "10707350",
+        "signing_time_utc": "2026-04-13T15:14:45+00:00",
+        "delta_vs_fr_h": 11.515555555555556
+      },
+      {
+        "name": "RODRIGUEZ BEDIA judith Rocio FIR 44755689 sw 3448df213584bc354574b56fc08955078477409c",
+        "dni": "44755689",
+        "signing_time_utc": "2026-04-13T15:17:03+00:00",
+        "delta_vs_fr_h": 11.553888888888888
+      },
+      {
+        "name": "ROBLES PEREZ silvia Yazu FIR 46098624 sw 9f9da7956fa2454d918a26f812b9edbdcf500f72",
+        "dni": "46098624",
+        "signing_time_utc": "2026-04-13T15:18:39+00:00",
+        "delta_vs_fr_h": 11.580555555555556
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:43:49+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:40:15+00:00"
+    }
+  ]
+}

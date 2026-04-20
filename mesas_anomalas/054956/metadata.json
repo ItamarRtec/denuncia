@@ -1,0 +1,91 @@
+{
+  "codigo_mesa": "054956",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.705816+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6089 JORGE BASADRE GROHMANN",
+    "codigo_local": "3354",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 228,
+    "total_votos_validos": 207,
+    "porcentaje_participacion": 76.254
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413082704-05'00'",
+    "mod_date_raw": "D:20260413082704-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2bedef2113be3bae158f5f968a1e5ddd47ddb5e826d1a3768af2bd580f9c6ccb",
+  "pdf_size_bytes": 856693,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:36:55+00:00",
+    "pdf_created_utc": "2026-04-13T13:27:04+00:00",
+    "delta_pdf_vs_fr_seconds": 39009.0,
+    "delta_pdf_vs_fr_hours": 10.835833333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:02:19.575000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:27:50+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:31:14+00:00",
+    "delta_primer_humano_vs_fr_h": 10.848611111111111,
+    "delta_ultimo_humano_vs_fr_h": 10.905277777777778,
+    "agente_utc": "2026-04-13T02:32:34+00:00",
+    "delta_agente_vs_fr_h": -0.0725,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "HIDALGO GALOC sergio Jamil FIR 75680699 sw 7417bc1a49d1230fcde4fb7ca20e61c225afe195",
+        "dni": "75680699",
+        "signing_time_utc": "2026-04-13T13:27:50+00:00",
+        "delta_vs_fr_h": 10.848611111111111
+      },
+      {
+        "name": "HUACHOS PAREDES sebastian Ricardo FIR 77069286 sw 81cfd16b36b0de517a480412ffd9960a395242ff",
+        "dni": "77069286",
+        "signing_time_utc": "2026-04-13T13:28:05+00:00",
+        "delta_vs_fr_h": 10.852777777777778
+      },
+      {
+        "name": "HERRERA MEDRANO enrique Martin FIR 10008802 sw fd87eb13c5508d94347ce4ff39602a211a24ed12",
+        "dni": "10008802",
+        "signing_time_utc": "2026-04-13T13:28:25+00:00",
+        "delta_vs_fr_h": 10.858333333333333
+      },
+      {
+        "name": "RUIZ SAAVEDRA roy Anthony FIR 71031711 sw 1d42a789b22778bed6437110d198e10d03f7051b",
+        "dni": "71031711",
+        "signing_time_utc": "2026-04-13T13:31:14+00:00",
+        "delta_vs_fr_h": 10.905277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:36:55+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:32:37+00:00"
+    }
+  ]
+}

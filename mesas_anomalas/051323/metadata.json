@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051323",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.187945+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD DE LIMA 2",
+    "codigo_local": "51521",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 185,
+    "total_votos_validos": 179,
+    "porcentaje_participacion": 61.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413120522-05'00'",
+    "mod_date_raw": "D:20260413120522-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c43889512ad0dcfd1f8a75cae300e02065f42f2dfac1071b96a487375294d8da",
+  "pdf_size_bytes": 830541,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:54:45+00:00",
+    "pdf_created_utc": "2026-04-13T17:05:22+00:00",
+    "delta_pdf_vs_fr_seconds": 51037.0,
+    "delta_pdf_vs_fr_hours": 14.176944444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T09:15:50.161000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T17:05:46+00:00",
+    "ultimo_humano_utc": "2026-04-13T17:06:23+00:00",
+    "delta_primer_humano_vs_fr_h": 14.18361111111111,
+    "delta_ultimo_humano_vs_fr_h": 14.193888888888889,
+    "agente_utc": "2026-04-13T02:50:39+00:00",
+    "delta_agente_vs_fr_h": -0.06833333333333333,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ZEVALLOS SALAZAR josias FIR 47280595 sw 6dea52316568aee3d91e4a7addf465317e459119",
+        "dni": "47280595",
+        "signing_time_utc": "2026-04-13T17:05:46+00:00",
+        "delta_vs_fr_h": 14.18361111111111
+      },
+      {
+        "name": "YATACO HOLGUIN yojana Yanet FIR 07877618 sw b35d4bebd5a4763556718eef7cfe62cc3899640f",
+        "dni": "07877618",
+        "signing_time_utc": "2026-04-13T17:06:10+00:00",
+        "delta_vs_fr_h": 14.190277777777778
+      },
+      {
+        "name": "YACTAYO FELIX percy Dennis FIR 46131844 sw 7f93da0665a30aec78cfcf9264070f0e8144cce2",
+        "dni": "46131844",
+        "signing_time_utc": "2026-04-13T17:06:23+00:00",
+        "delta_vs_fr_h": 14.193888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:54:45+00:00"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "codigo_mesa": "058635",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.968528+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS SJL ARABISCOS",
+    "codigo_local": "54810",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 267,
+    "total_votos_validos": 244,
+    "porcentaje_participacion": 89.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413082512-05'00'",
+    "mod_date_raw": "D:20260413082512-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "f101049ca416ddedc39a0c3d217e68eff852f04fa7f6e281efa723f0724ddbfb",
+  "pdf_size_bytes": 831668,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:18:56+00:00",
+    "pdf_created_utc": "2026-04-13T13:25:12+00:00",
+    "delta_pdf_vs_fr_seconds": 39976.0,
+    "delta_pdf_vs_fr_hours": 11.104444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:15:09.074000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 1,
+    "n_agentes": 3,
+    "primer_humano_utc": "2026-04-13T13:25:46+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:25:46+00:00",
+    "delta_primer_humano_vs_fr_h": 11.113888888888889,
+    "delta_ultimo_humano_vs_fr_h": 11.113888888888889,
+    "agente_utc": "2026-04-13T02:17:39+00:00",
+    "delta_agente_vs_fr_h": -0.021388888888888888,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MUNDACA FELIX mirko Mauricio FIR 77164276 sw d3bffe7a312874f9390c8d099cdb74a4d10eaef7",
+        "dni": "77164276",
+        "signing_time_utc": "2026-04-13T13:25:46+00:00",
+        "delta_vs_fr_h": 11.113888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:18:56+00:00"
+    }
+  ]
+}

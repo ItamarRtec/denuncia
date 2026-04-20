@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045682",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.188789+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PACHACÁMAC",
+    "ubigeo": "140116",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SEÑOR DE LA ASCENSION",
+    "codigo_local": "13538",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 81.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225102-05'00'",
+    "mod_date_raw": "D:20260412225102-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "af950e7e7bdf6fccd6537cf92f6c5d5fc342bc4da5da0c08cfe1e033c5ebf1b7",
+  "pdf_size_bytes": 830991,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:28:46+00:00",
+    "pdf_created_utc": "2026-04-13T03:51:02+00:00",
+    "delta_pdf_vs_fr_seconds": 8536.0,
+    "delta_pdf_vs_fr_hours": 2.371111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:02:41.200000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:51:32+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:52:06+00:00",
+    "delta_primer_humano_vs_fr_h": 2.3794444444444443,
+    "delta_ultimo_humano_vs_fr_h": 2.388888888888889,
+    "agente_utc": "2026-04-13T01:28:43+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CHIPANA BALDEON jaime FIR 10600897 sw 56913605e0a7ab72e77bdc385f1b7ba727b03446",
+        "dni": "10600897",
+        "signing_time_utc": "2026-04-13T03:51:32+00:00",
+        "delta_vs_fr_h": 2.3794444444444443
+      },
+      {
+        "name": "CONDORI QUISPE richard FIR 42062854 sw ede7e3bd664a552262499956887695487388fee2",
+        "dni": "42062854",
+        "signing_time_utc": "2026-04-13T03:51:49+00:00",
+        "delta_vs_fr_h": 2.3841666666666668
+      },
+      {
+        "name": "COTERA SEGURA vanessa Amelia FIR 46469989 sw 6b7a4d18eb989d32f16efaa62c50f6954d355385",
+        "dni": "46469989",
+        "signing_time_utc": "2026-04-13T03:52:06+00:00",
+        "delta_vs_fr_h": 2.388888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:28:46+00:00"
+    }
+  ]
+}

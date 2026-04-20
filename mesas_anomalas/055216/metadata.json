@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055216",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:57.866162+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7087 EL NAZARENO",
+    "codigo_local": "3369",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 249,
+    "total_votos_validos": 208,
+    "porcentaje_participacion": 83.278
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413000601-05'00'",
+    "mod_date_raw": "D:20260413000601-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "72fc1f9eea721a71040b27d204b029f658a291cd3c2924e8348745faf3809fd6",
+  "pdf_size_bytes": 830761,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:36:10+00:00",
+    "pdf_created_utc": "2026-04-13T05:06:01+00:00",
+    "delta_pdf_vs_fr_seconds": 12591.0,
+    "delta_pdf_vs_fr_hours": 3.4975,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:09:58.247000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:06:39+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:07:01+00:00",
+    "delta_primer_humano_vs_fr_h": 3.5080555555555555,
+    "delta_ultimo_humano_vs_fr_h": 3.5141666666666667,
+    "agente_utc": "2026-04-13T01:36:08+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TACAS TAZA shande Jhair Antonio FIR 75261759 sw 779fbc01749b4660a992fe6b2a19faacedf63b3f",
+        "dni": "75261759",
+        "signing_time_utc": "2026-04-13T05:06:39+00:00",
+        "delta_vs_fr_h": 3.5080555555555555
+      },
+      {
+        "name": "TINEO DURAND jacqueline Lisset FIR 44220941 sw f8836d1c969e4601e7556abb314c88559ff533ff",
+        "dni": "44220941",
+        "signing_time_utc": "2026-04-13T05:06:50+00:00",
+        "delta_vs_fr_h": 3.511111111111111
+      },
+      {
+        "name": "VARGAS SUAREZ DE AYALA carmen Patricia FIR 10481859 sw 18edaba68a9cebb090d7af3a1cef726017c40cd8",
+        "dni": "10481859",
+        "signing_time_utc": "2026-04-13T05:07:01+00:00",
+        "delta_vs_fr_h": 3.5141666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:36:10+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050946",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.494884+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD MARCELINO CHAMPAGNAT",
+    "codigo_local": "3220",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 287,
+    "total_votos_validos": 284,
+    "porcentaje_participacion": 95.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225056-05'00'",
+    "mod_date_raw": "D:20260412225056-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4ec869c299e597c9f393aebe135a0246016c6b2cbf79c4b1134ea8dff8f6b471",
+  "pdf_size_bytes": 830943,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:47:57+00:00",
+    "pdf_created_utc": "2026-04-13T03:50:56+00:00",
+    "delta_pdf_vs_fr_seconds": 7379.0,
+    "delta_pdf_vs_fr_hours": 2.049722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:32:55.744000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:59:41+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:00:23+00:00",
+    "delta_primer_humano_vs_fr_h": 2.1955555555555555,
+    "delta_ultimo_humano_vs_fr_h": 2.207222222222222,
+    "agente_utc": "2026-04-13T01:47:55+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CUADROS BOBADILLA cynthia Marleny FIR 42627351 sw ee489fb9dcd5a4504d2b228d33872d21095d10df",
+        "dni": "42627351",
+        "signing_time_utc": "2026-04-13T03:59:41+00:00",
+        "delta_vs_fr_h": 2.1955555555555555
+      },
+      {
+        "name": "DAVILA GALLO cecilia Katherine FIR 42868560 sw cd8e31096607f08c2b8391d2457ee5154fbed223",
+        "dni": "42868560",
+        "signing_time_utc": "2026-04-13T04:00:05+00:00",
+        "delta_vs_fr_h": 2.2022222222222223
+      },
+      {
+        "name": "DEL AGUILA RIOS jose Alfredo FIR 07252575 sw a94e8744e4a32637f1b313396b8c4118518b91e1",
+        "dni": "07252575",
+        "signing_time_utc": "2026-04-13T04:00:23+00:00",
+        "delta_vs_fr_h": 2.207222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:47:57+00:00"
+    }
+  ]
+}

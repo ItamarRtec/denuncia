@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "051521",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.115275+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESCUELA DE EDUCACION SUPERIOR PEDAGOGICA PUBLICA MONTERRICO",
+    "codigo_local": "54054",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 183,
+    "total_votos_validos": 175,
+    "porcentaje_participacion": 61.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413020756-05'00'",
+    "mod_date_raw": "D:20260413020756-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "1da67a2132cafcc874e4a3772018498e91894c73cb345c65495b1fa372fc742d",
+  "pdf_size_bytes": 855970,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:59:36+00:00",
+    "pdf_created_utc": "2026-04-13T07:07:56+00:00",
+    "delta_pdf_vs_fr_seconds": 14900.0,
+    "delta_pdf_vs_fr_hours": 4.138888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:50:58.915000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T07:08:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T07:09:44+00:00",
+    "delta_primer_humano_vs_fr_h": 4.145833333333333,
+    "delta_ultimo_humano_vs_fr_h": 4.168888888888889,
+    "agente_utc": "2026-04-13T02:59:33+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SUAREZ VELARDE carla Hortencia FIR 44388996 sw dad37a73906f910589470dd660e5bb1f0a72d8ee",
+        "dni": "44388996",
+        "signing_time_utc": "2026-04-13T07:08:21+00:00",
+        "delta_vs_fr_h": 4.145833333333333
+      },
+      {
+        "name": "SOTO CEBRIAN jorge Alejandro FIR 08808091 sw 54ecab83aaf1f7a378e59ebadfb3e1c166bdeec3",
+        "dni": "08808091",
+        "signing_time_utc": "2026-04-13T07:08:40+00:00",
+        "delta_vs_fr_h": 4.151111111111111
+      },
+      {
+        "name": "SUBAUSTE URIBE claudia Celia FIR 07904007 sw 7e41bbc1bfea4831a8580ad578aa11b905a2de4e",
+        "dni": "07904007",
+        "signing_time_utc": "2026-04-13T07:09:03+00:00",
+        "delta_vs_fr_h": 4.1575
+      },
+      {
+        "name": "AGURTO SCHROTH camila FIR 43399322 sw 42a98bc2a34f9a10f9b8e9a871c0092c3308ea13",
+        "dni": "43399322",
+        "signing_time_utc": "2026-04-13T07:09:44+00:00",
+        "delta_vs_fr_h": 4.168888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:59:36+00:00"
+    }
+  ]
+}

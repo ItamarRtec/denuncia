@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "050329",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.351633+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE LICEO NAVAL CONTALMIRANTE MONTERO",
+    "codigo_local": "54585",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 210,
+    "total_votos_validos": 194,
+    "porcentaje_participacion": 70.234
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004118-05'00'",
+    "mod_date_raw": "D:20260413004118-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "21ba5c8d50003e86e9ddaa2b8a6782cabb5edad15e396e827cdbe0a379319126",
+  "pdf_size_bytes": 856755,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:59:01+00:00",
+    "pdf_created_utc": "2026-04-13T05:41:18+00:00",
+    "delta_pdf_vs_fr_seconds": 13337.0,
+    "delta_pdf_vs_fr_hours": 3.7047222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:36:18.424000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:41:49+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:42:41+00:00",
+    "delta_primer_humano_vs_fr_h": 3.7133333333333334,
+    "delta_ultimo_humano_vs_fr_h": 3.727777777777778,
+    "agente_utc": "2026-04-13T01:58:58+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ALVARADO GUTIERREZ violeta Ginette FIR 09644089 sw af81e1f2b81f7eec10b6b13ba5c060288fae6680",
+        "dni": "09644089",
+        "signing_time_utc": "2026-04-13T05:41:49+00:00",
+        "delta_vs_fr_h": 3.7133333333333334
+      },
+      {
+        "name": "ALVARADO RENGIFO carlos FIR 70693782 sw 4c7f638653d205d9ea8e33370ee1d64284d8426f",
+        "dni": "70693782",
+        "signing_time_utc": "2026-04-13T05:42:01+00:00",
+        "delta_vs_fr_h": 3.716666666666667
+      },
+      {
+        "name": "ALDAVE AYALA jacqueline Milagros FIR 40392054 sw 3cdb5a3b0791413e23528ef33a48f79d4fc1b1ea",
+        "dni": "40392054",
+        "signing_time_utc": "2026-04-13T05:42:16+00:00",
+        "delta_vs_fr_h": 3.720833333333333
+      },
+      {
+        "name": "FREGEIRO MALCA maruccia Giuliana FIR 40860594 sw 53a3718d69b3ea95ebf3acfc30054c4d140d7f34",
+        "dni": "40860594",
+        "signing_time_utc": "2026-04-13T05:42:41+00:00",
+        "delta_vs_fr_h": 3.727777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:59:01+00:00"
+    }
+  ]
+}

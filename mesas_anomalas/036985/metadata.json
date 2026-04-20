@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "036985",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.873576+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS BERTELLO",
+    "codigo_local": "54803",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 220,
+    "total_votos_validos": 199,
+    "porcentaje_participacion": 73.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413093032-05'00'",
+    "mod_date_raw": "D:20260413093032-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b60fcdb4c05b8247e283cddd93a5949c12f5e1ab4209658390b011edc907ffe0",
+  "pdf_size_bytes": 831071,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:21:45+00:00",
+    "pdf_created_utc": "2026-04-13T14:30:32+00:00",
+    "delta_pdf_vs_fr_seconds": 40127.0,
+    "delta_pdf_vs_fr_hours": 11.14638888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T09:15:53.772000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:30:54+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:31:46+00:00",
+    "delta_primer_humano_vs_fr_h": 11.1525,
+    "delta_ultimo_humano_vs_fr_h": 11.166944444444445,
+    "agente_utc": "2026-04-13T03:18:02+00:00",
+    "delta_agente_vs_fr_h": -0.06194444444444445,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MARALLANO FERNANDEZ DAVILA fatima Mia FIR 47556356 sw 7c269c87c23c86d3051bc66b9460bd48560edb07",
+        "dni": "47556356",
+        "signing_time_utc": "2026-04-13T14:30:54+00:00",
+        "delta_vs_fr_h": 11.1525
+      },
+      {
+        "name": "MENDIOLAZA MOROTE marco Antonio FIR 09335968 sw 7032ef7b9124e37527f7ba92d3670c81bb089eb7",
+        "dni": "09335968",
+        "signing_time_utc": "2026-04-13T14:31:23+00:00",
+        "delta_vs_fr_h": 11.160555555555556
+      },
+      {
+        "name": "MARTINEZ PAZ elvira Monica FIR 09430351 sw 357d32b4d89478e07c46498c7bbffbc9afddbcb5",
+        "dni": "09430351",
+        "signing_time_utc": "2026-04-13T14:31:46+00:00",
+        "delta_vs_fr_h": 11.166944444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:21:45+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:18:03+00:00"
+    }
+  ]
+}

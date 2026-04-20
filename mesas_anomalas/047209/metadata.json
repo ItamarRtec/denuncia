@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "047209",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.763826+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "RÍMAC",
+    "ubigeo": "140122",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 3021 SAN JUAN MACIAS",
+    "codigo_local": "3061",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 242,
+    "total_votos_validos": 210,
+    "porcentaje_participacion": 80.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412231423-05'00'",
+    "mod_date_raw": "D:20260412231423-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "508e54ed6cf0d714f400e9adacf171f32dc8bd487bd1707683e4264309b736f4",
+  "pdf_size_bytes": 856365,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:11:45+00:00",
+    "pdf_created_utc": "2026-04-13T04:14:23+00:00",
+    "delta_pdf_vs_fr_seconds": 7358.0,
+    "delta_pdf_vs_fr_hours": 2.043888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:40:34.767000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:15:23+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:17:03+00:00",
+    "delta_primer_humano_vs_fr_h": 2.0605555555555557,
+    "delta_ultimo_humano_vs_fr_h": 2.0883333333333334,
+    "agente_utc": "2026-04-13T02:11:43+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "OSORIO CORDERO jose Alberto FIR 08122785 sw f9c077a2f193d1c3540026334488e2cad616e795",
+        "dni": "08122785",
+        "signing_time_utc": "2026-04-13T04:15:23+00:00",
+        "delta_vs_fr_h": 2.0605555555555557
+      },
+      {
+        "name": "MIRANDA SANCHEZ david Hector FIR 08143832 sw b850049dcec5d210ef73f5a658f0edc995ea0b74",
+        "dni": "08143832",
+        "signing_time_utc": "2026-04-13T04:15:41+00:00",
+        "delta_vs_fr_h": 2.0655555555555556
+      },
+      {
+        "name": "PALACIOS GARCIA miguel Angel FIR 00250294 sw 26a91d4653986cef0ce9fc52b87f4044c84705c9",
+        "dni": "00250294",
+        "signing_time_utc": "2026-04-13T04:16:01+00:00",
+        "delta_vs_fr_h": 2.071111111111111
+      },
+      {
+        "name": "CALDAS CHAHUAYA jharumy Lizbeth Karoline FIR 70545957 sw 23b161b5462566c68d0bc4c3ddf2cba29a878d49",
+        "dni": "70545957",
+        "signing_time_utc": "2026-04-13T04:17:03+00:00",
+        "delta_vs_fr_h": 2.0883333333333334
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:11:45+00:00"
+    }
+  ]
+}

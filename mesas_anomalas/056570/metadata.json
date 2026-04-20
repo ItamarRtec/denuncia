@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "056570",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.814469+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 119 CANTO BELLO",
+    "codigo_local": "3421",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 255,
+    "total_votos_validos": 225,
+    "porcentaje_participacion": 85.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083344-05'00'",
+    "mod_date_raw": "D:20260413083344-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "10abf1f4a84f6dd99cdce85cfea12cfc44191ed7c36007135830076dd8e7c3ea",
+  "pdf_size_bytes": 831078,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:08:20+00:00",
+    "pdf_created_utc": "2026-04-13T13:33:44+00:00",
+    "delta_pdf_vs_fr_seconds": 41124.0,
+    "delta_pdf_vs_fr_hours": 11.423333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:29:55.652000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:46:16+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:50:58+00:00",
+    "delta_primer_humano_vs_fr_h": 11.632222222222222,
+    "delta_ultimo_humano_vs_fr_h": 11.710555555555555,
+    "agente_utc": "2026-04-13T02:08:18+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AYMA CARRASCO guillermo Alejandro FIR 61251624 sw b8d6245dee06c43ed8714314ecf271f1a707ea77",
+        "dni": "61251624",
+        "signing_time_utc": "2026-04-13T13:46:16+00:00",
+        "delta_vs_fr_h": 11.632222222222222
+      },
+      {
+        "name": "ARI CONDORI valentin FIR 06189178 sw 5f8b62d2e3bf17cfb68549a5afcfbaea55c53d1f",
+        "dni": "06189178",
+        "signing_time_utc": "2026-04-13T13:49:03+00:00",
+        "delta_vs_fr_h": 11.678611111111111
+      },
+      {
+        "name": "ARTEAGA VASQUEZ jean Paul FIR 60768781 sw 2d415a3adfe12598147eed4128c98f4d25b7b13a",
+        "dni": "60768781",
+        "signing_time_utc": "2026-04-13T13:50:58+00:00",
+        "delta_vs_fr_h": 11.710555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:08:20+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054370",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.793182+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "EL AGUSTINO",
+    "ubigeo": "140135",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1045 NUESTRA SEÑORA DE FATIMA",
+    "codigo_local": "3329",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 171,
+    "total_votos_validos": 150,
+    "porcentaje_participacion": 74.348
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211024-05'00'",
+    "mod_date_raw": "D:20260412211024-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "fd030805c2439e44b72b577b990cfb916238adfac16961281b1c3ae6095aa37c",
+  "pdf_size_bytes": 830234,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:05:12+00:00",
+    "pdf_created_utc": "2026-04-13T02:10:24+00:00",
+    "delta_pdf_vs_fr_seconds": 3912.0,
+    "delta_pdf_vs_fr_hours": 1.0866666666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:47:55.865000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:11:52+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:12:46+00:00",
+    "delta_primer_humano_vs_fr_h": 1.1111111111111112,
+    "delta_ultimo_humano_vs_fr_h": 1.126111111111111,
+    "agente_utc": "2026-04-13T01:05:10+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AGUILAR CRUZATTI analucia Massiel FIR 76227805 sw a723955b03ef033f3589c5ba72fa1038d8ebfa5b",
+        "dni": "76227805",
+        "signing_time_utc": "2026-04-13T02:11:52+00:00",
+        "delta_vs_fr_h": 1.1111111111111112
+      },
+      {
+        "name": "AGUIRRE MONTORO marleni Judiht FIR 07079104 sw b52995df884319fa6f7ce77372d8cc6c824c064f",
+        "dni": "07079104",
+        "signing_time_utc": "2026-04-13T02:12:27+00:00",
+        "delta_vs_fr_h": 1.1208333333333333
+      },
+      {
+        "name": "ANAYA TIPE pool Henry FIR 41632216 sw 939dee7e8c03aa63b3d25a444cd69bdb37ddc1db",
+        "dni": "41632216",
+        "signing_time_utc": "2026-04-13T02:12:46+00:00",
+        "delta_vs_fr_h": 1.126111111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:05:12+00:00"
+    }
+  ]
+}

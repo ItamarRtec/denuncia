@@ -1,0 +1,63 @@
+{
+  "codigo_mesa": "039949",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.629624+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTO DOMINGO DE GUZMAN",
+    "codigo_local": "52749",
+    "total_electores_habiles": 297,
+    "total_votos_emitidos": 252,
+    "total_votos_validos": 221,
+    "porcentaje_participacion": 84.848
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225219-05'00'",
+    "mod_date_raw": "D:20260412225219-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c7f2c47c632c460aa862acb5c08b25f197abaef84031e3837f8d41606292fecd",
+  "pdf_size_bytes": 855945,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T03:49:13.826000+00:00",
+    "pdf_created_utc": "2026-04-13T03:52:19+00:00",
+    "delta_create_upload_seconds": -185.2,
+    "delta_create_upload_hours": -0.05144444444444444,
+    "delta_create_upload_days": -0.0021435185185185186
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 3,
+    "primer_humano_utc": "2026-04-13T03:52:50+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:53:31+00:00",
+    "delta_primer_humano_h": 0.060048333333333336,
+    "delta_ultimo_humano_h": 0.07143722222222222,
+    "delta_agente_h": 0.05588166666666667,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "ZAPATA VELASQUEZ miguel Angel FIR 15751451 sw ec7b6d24043a36c529e4f36c38cb4ce8f57542c5",
+        "dni": "15751451",
+        "signing_time_utc": "2026-04-13T03:52:50+00:00"
+      },
+      {
+        "name": "GONZALES RAMIREZ madeleyne Elcira FIR 22997160 sw 034b77b5e1775baab7bab4425a39be948c2ff86f",
+        "dni": "22997160",
+        "signing_time_utc": "2026-04-13T03:53:31+00:00"
+      }
+    ]
+  }
+}

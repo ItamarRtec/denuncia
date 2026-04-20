@@ -1,0 +1,73 @@
+{
+  "codigo_mesa": "040118",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.588720+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2077 SAN MARTIN DE PORRES",
+    "codigo_local": "2799",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 258,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 86.288
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412232729-05'00'",
+    "mod_date_raw": "D:20260412232729-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8be2f574db53084b7dba27a23df163f8a019ba3c85a4ded45cfb37dfb656323d",
+  "pdf_size_bytes": 857939,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T02:22:13.630000+00:00",
+    "pdf_created_utc": "2026-04-13T04:27:29+00:00",
+    "delta_create_upload_seconds": -7515.4,
+    "delta_create_upload_hours": -2.087611111111111,
+    "delta_create_upload_days": -0.0869837962962963
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:27:45+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:28:59+00:00",
+    "delta_primer_humano_h": 2.0920472222222224,
+    "delta_ultimo_humano_h": 2.1126027777777776,
+    "delta_agente_h": -0.8521194444444444,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "HUACAHUASI ACEVEDO jose Luis FIR 09973639 sw 62610ce5ef28c5c6c8a9c87a2cc97f42c2b001d6",
+        "dni": "09973639",
+        "signing_time_utc": "2026-04-13T04:27:45+00:00"
+      },
+      {
+        "name": "JANAMPA YNGUNZA maria De Los Angeles Elizabeth FIR 42526524 sw 433869466ae970197889eea29163c3fb4889c1bb",
+        "dni": "42526524",
+        "signing_time_utc": "2026-04-13T04:28:00+00:00"
+      },
+      {
+        "name": "HUAMAN POVIS carlos Alberto FIR 41612260 sw 119410ff7ba95a1b9bde35a2ffaa11a7a97c8a09",
+        "dni": "41612260",
+        "signing_time_utc": "2026-04-13T04:28:11+00:00"
+      },
+      {
+        "name": "BARBOZA HUAMAN melissa Eveling FIR 41739071 sw c79a39d5d07606f2afc655920744de0ceb4390ef",
+        "dni": "41739071",
+        "signing_time_utc": "2026-04-13T04:28:59+00:00"
+      }
+    ]
+  }
+}

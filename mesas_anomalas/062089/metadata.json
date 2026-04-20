@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "062089",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.258247+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SAN LUIS GONZAGA",
+    "codigo_local": "32227",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 255,
+    "total_votos_validos": 223,
+    "porcentaje_participacion": 85.284
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004121-05'00'",
+    "mod_date_raw": "D:20260413004121-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3f755c999c8a05bb608aa0f354d4c36e83b607e94e4641188600317ad62e7267",
+  "pdf_size_bytes": 832817,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:04:29+00:00",
+    "pdf_created_utc": "2026-04-13T05:41:21+00:00",
+    "delta_pdf_vs_fr_seconds": 13012.0,
+    "delta_pdf_vs_fr_hours": 3.6144444444444446,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:50:33.383000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:41:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:42:19+00:00",
+    "delta_primer_humano_vs_fr_h": 3.6219444444444444,
+    "delta_ultimo_humano_vs_fr_h": 3.6305555555555555,
+    "agente_utc": "2026-04-13T02:04:26+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VILLANUEVA SIMBRON DE BERRIOS cecilia Berloz FIR 07970657 sw 9a9eb69aa0671e5b5ef6bf1495c94390aa2abacd",
+        "dni": "07970657",
+        "signing_time_utc": "2026-04-13T05:41:48+00:00",
+        "delta_vs_fr_h": 3.6219444444444444
+      },
+      {
+        "name": "ZAPATA AREVALO digna Zobeida FIR 01161527 sw 14e9078ee79645f1505a07ba9f4397872e603a04",
+        "dni": "01161527",
+        "signing_time_utc": "2026-04-13T05:42:08+00:00",
+        "delta_vs_fr_h": 3.6275
+      },
+      {
+        "name": "VARGAS ACOSTA yoselyn Karen FIR 75330038 sw a9d66ff41ab947aa6bf85ee9fa57d9bcfc5b389c",
+        "dni": "75330038",
+        "signing_time_utc": "2026-04-13T05:42:19+00:00",
+        "delta_vs_fr_h": 3.6305555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:04:29+00:00"
+    }
+  ]
+}

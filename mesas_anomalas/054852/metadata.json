@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "054852",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.641187+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7211 VIRGEN INMACULADA",
+    "codigo_local": "3346",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 263,
+    "total_votos_validos": 229,
+    "porcentaje_participacion": 87.96
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413010532-05'00'",
+    "mod_date_raw": "D:20260413010532-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5c95c7143429ee181fbbed9568f3da53d20f17581165d8639102301503e043e7",
+  "pdf_size_bytes": 907862,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:44:15+00:00",
+    "pdf_created_utc": "2026-04-13T06:05:32+00:00",
+    "delta_pdf_vs_fr_seconds": 15677.0,
+    "delta_pdf_vs_fr_hours": 4.354722222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:29:51.161000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 7,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T06:05:47+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:07:06+00:00",
+    "delta_primer_humano_vs_fr_h": 4.358888888888889,
+    "delta_ultimo_humano_vs_fr_h": 4.380833333333333,
+    "agente_utc": "2026-04-13T01:44:12+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "YPANAQUE SANDOVAL karen Elizabeth FIR 72454320 sw 83d43a459784f07ab6ab633386a77c9590dabdd6",
+        "dni": "72454320",
+        "signing_time_utc": "2026-04-13T06:05:47+00:00",
+        "delta_vs_fr_h": 4.358888888888889
+      },
+      {
+        "name": "VASQUEZ CHUQUIMANTARI jackeline Tabata FIR 40004512 sw b1f0d47d32aa7e9886b341df5499b9391997c2f7",
+        "dni": "40004512",
+        "signing_time_utc": "2026-04-13T06:06:03+00:00",
+        "delta_vs_fr_h": 4.363333333333333
+      },
+      {
+        "name": "SOSA CUELLAR lucero Janeth FIR 72692456 sw 22695407aac12adea4266aa606c68b3322e6d855",
+        "dni": "72692456",
+        "signing_time_utc": "2026-04-13T06:06:21+00:00",
+        "delta_vs_fr_h": 4.368333333333333
+      },
+      {
+        "name": "EUSEBIO DANIEL margarita FIR 43387477 sw 3a879e994b27fab04b9180428b9c35fc7a1a5bd8",
+        "dni": "43387477",
+        "signing_time_utc": "2026-04-13T06:06:42+00:00",
+        "delta_vs_fr_h": 4.3741666666666665
+      },
+      {
+        "name": "HUARACA ESPINOZA justo Agapo FIR 08832431 sw 42f5665106fd6be3939cb30e403ef712ac144ba0",
+        "dni": "08832431",
+        "signing_time_utc": "2026-04-13T06:07:06+00:00",
+        "delta_vs_fr_h": 4.380833333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:44:15+00:00"
+    }
+  ]
+}

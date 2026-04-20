@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "061349",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.530298+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LOS OLIVOS",
+    "ubigeo": "140142",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALEXANDER VON HUMBOLDT",
+    "codigo_local": "31259",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 218,
+    "total_votos_validos": 190,
+    "porcentaje_participacion": 72.91
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224206-05'00'",
+    "mod_date_raw": "D:20260412224206-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "64db9d93bd21fe705c06789819245de009dc37153aeb77eabd2c9e011c2fbde9",
+  "pdf_size_bytes": 829571,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:12:50+00:00",
+    "pdf_created_utc": "2026-04-13T03:42:06+00:00",
+    "delta_pdf_vs_fr_seconds": 5356.0,
+    "delta_pdf_vs_fr_hours": 1.4877777777777779,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:30:28.261000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:42:29+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:42:52+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4941666666666666,
+    "delta_ultimo_humano_vs_fr_h": 1.5005555555555556,
+    "agente_utc": "2026-04-13T02:12:48+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARCE ATENCIO edgar FIR 08664168 sw 048e6b8ae5ad05343118d7720ae406e71ba98813",
+        "dni": "08664168",
+        "signing_time_utc": "2026-04-13T03:42:29+00:00",
+        "delta_vs_fr_h": 1.4941666666666666
+      },
+      {
+        "name": "ARELLANO CANTARO maria Soledad FIR 10710272 sw 0e105814f1e85b0a096aaad8e8942fee8b60c58e",
+        "dni": "10710272",
+        "signing_time_utc": "2026-04-13T03:42:41+00:00",
+        "delta_vs_fr_h": 1.4975
+      },
+      {
+        "name": "ANTENUCCI CAMAVILCA maria Esther FIR 22665430 sw cd1a200941dea2d79f9eea34c2ac3ca38bdb6c32",
+        "dni": "22665430",
+        "signing_time_utc": "2026-04-13T03:42:52+00:00",
+        "delta_vs_fr_h": 1.5005555555555556
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:12:50+00:00"
+    }
+  ]
+}

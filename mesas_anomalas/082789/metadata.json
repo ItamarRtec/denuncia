@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082789",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.795193+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CARMEN DE LA LEGUA - REYNOSO",
+    "ubigeo": "240104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE RAUL PORRAS BARRENECHEA",
+    "codigo_local": "4840",
+    "total_electores_habiles": 290,
+    "total_votos_emitidos": 240,
+    "total_votos_validos": 209,
+    "porcentaje_participacion": 82.759
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412234217-05'00'",
+    "mod_date_raw": "D:20260412234217-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8d6aebe42f87ef61f15331815809179262afbf63b2758b0562618795fe3f9a44",
+  "pdf_size_bytes": 831320,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:58:50+00:00",
+    "pdf_created_utc": "2026-04-13T04:42:17+00:00",
+    "delta_pdf_vs_fr_seconds": 6207.0,
+    "delta_pdf_vs_fr_hours": 1.7241666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:16:07.572000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:42:39+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:44:55+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7302777777777778,
+    "delta_ultimo_humano_vs_fr_h": 1.7680555555555555,
+    "agente_utc": "2026-04-13T02:58:49+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ MILLAN daron Jamin FIR 61106148 sw 8b8a43ce4b9caca5c3b6dd46f96b79886f96ab80",
+        "dni": "61106148",
+        "signing_time_utc": "2026-04-13T04:42:39+00:00",
+        "delta_vs_fr_h": 1.7302777777777778
+      },
+      {
+        "name": "VARGAS CASTRO jean Franco FIR 70965637 sw 6e1f5994d62b95e7fbd8ad7d11c34c1d13d65dd3",
+        "dni": "70965637",
+        "signing_time_utc": "2026-04-13T04:42:55+00:00",
+        "delta_vs_fr_h": 1.7347222222222223
+      },
+      {
+        "name": "VELAZCO HEREDIA david FIR 25649383 sw 1b0bbb1abc01affc4dacd65eaa37cc9406d48696",
+        "dni": "25649383",
+        "signing_time_utc": "2026-04-13T04:44:55+00:00",
+        "delta_vs_fr_h": 1.7680555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:58:50+00:00"
+    }
+  ]
+}

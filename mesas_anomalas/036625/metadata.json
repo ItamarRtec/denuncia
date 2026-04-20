@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036625",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.235705+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE NUESTRA SEÑORA DE GUADALUPE",
+    "codigo_local": "7380",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 204,
+    "total_votos_validos": 187,
+    "porcentaje_participacion": 68.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083028-05'00'",
+    "mod_date_raw": "D:20260413083028-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0a2796d3df32c3a28e06cb8a6822fa12ae6731f1739631b107502fefd75045bd",
+  "pdf_size_bytes": 832169,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:16:56+00:00",
+    "pdf_created_utc": "2026-04-13T13:30:28+00:00",
+    "delta_pdf_vs_fr_seconds": 36812.0,
+    "delta_pdf_vs_fr_hours": 10.225555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:06:49.644000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:34:13+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:35:55+00:00",
+    "delta_primer_humano_vs_fr_h": 10.288055555555555,
+    "delta_ultimo_humano_vs_fr_h": 10.31638888888889,
+    "agente_utc": "2026-04-13T03:16:55+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CASTILLO ROMERO jacqueline Cristina FIR 06268313 sw 63a9b91cfac7847ef5526081dcd5ceeffdfc7f47",
+        "dni": "06268313",
+        "signing_time_utc": "2026-04-13T13:34:13+00:00",
+        "delta_vs_fr_h": 10.288055555555555
+      },
+      {
+        "name": "CASTELLANOS FRITSCHI gladys Edith FIR 25475807 sw c2b4f2246d2acf66c21d7ad080705ea6ea3cabac",
+        "dni": "25475807",
+        "signing_time_utc": "2026-04-13T13:35:22+00:00",
+        "delta_vs_fr_h": 10.307222222222222
+      },
+      {
+        "name": "CARRASCO SALAZAR simone Luz FIR 74297593 sw 2e5d5a19532371b825664c27a6bd79ab4fb250a5",
+        "dni": "74297593",
+        "signing_time_utc": "2026-04-13T13:35:55+00:00",
+        "delta_vs_fr_h": 10.31638888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:16:56+00:00"
+    }
+  ]
+}

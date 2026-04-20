@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045430",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.130710+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO MEDICO DEL PERU",
+    "codigo_local": "54879",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 199,
+    "total_votos_validos": 191,
+    "porcentaje_participacion": 66.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225911-05'00'",
+    "mod_date_raw": "D:20260412225911-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5b11d6734ccfb6a2616473aadcb87bff5b142ebf2f7fff5feae735f496595471",
+  "pdf_size_bytes": 856834,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:34:07+00:00",
+    "pdf_created_utc": "2026-04-13T03:59:11+00:00",
+    "delta_pdf_vs_fr_seconds": 8704.0,
+    "delta_pdf_vs_fr_hours": 2.417777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:07:21.511000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:59:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:00:18+00:00",
+    "delta_primer_humano_vs_fr_h": 2.4225,
+    "delta_ultimo_humano_vs_fr_h": 2.4363888888888887,
+    "agente_utc": "2026-04-13T01:34:05+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BERROCAL MORENO DE KAHN sarita Del Pilar FIR 10545316 sw d0b8acc028810d068518780704db546f95eecb86",
+        "dni": "10545316",
+        "signing_time_utc": "2026-04-13T03:59:28+00:00",
+        "delta_vs_fr_h": 2.4225
+      },
+      {
+        "name": "BURGA RENGIFO elizabeth FIR 06249740 sw 742be552260c89a402f988683e69f2392dd8801a",
+        "dni": "06249740",
+        "signing_time_utc": "2026-04-13T03:59:40+00:00",
+        "delta_vs_fr_h": 2.4258333333333333
+      },
+      {
+        "name": "BRAITHWAITE PEREZ john FIR 07883119 sw 7b185679d4f33466969a836820b736a4d1bcd0d2",
+        "dni": "07883119",
+        "signing_time_utc": "2026-04-13T03:59:51+00:00",
+        "delta_vs_fr_h": 2.428888888888889
+      },
+      {
+        "name": "RIOS FERNANDEZ sharon Michelle FIR 70434251 sw d4a5b6d301c860b6bbae5e4372f03b5d71d8eba0",
+        "dni": "70434251",
+        "signing_time_utc": "2026-04-13T04:00:18+00:00",
+        "delta_vs_fr_h": 2.4363888888888887
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:34:07+00:00"
+    }
+  ]
+}

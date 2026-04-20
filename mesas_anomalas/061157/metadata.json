@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "061157",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.956463+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LOS OLIVOS",
+    "ubigeo": "140142",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2005 LOS OLIVOS",
+    "codigo_local": "13331",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 266,
+    "total_votos_validos": 248,
+    "porcentaje_participacion": 88.963
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412212621-05'00'",
+    "mod_date_raw": "D:20260412212621-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "ff2766afb2d2044250f5ac14a6de7bdadd9b3f323f5e5a2a0f3d032d3a4f11a8",
+  "pdf_size_bytes": 856606,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:19:54+00:00",
+    "pdf_created_utc": "2026-04-13T02:26:21+00:00",
+    "delta_pdf_vs_fr_seconds": 3987.0,
+    "delta_pdf_vs_fr_hours": 1.1075,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:04:42.889000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:26:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:27:51+00:00",
+    "delta_primer_humano_vs_fr_h": 1.115,
+    "delta_ultimo_humano_vs_fr_h": 1.1325,
+    "agente_utc": "2026-04-13T01:19:51+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DE LA CRUZ ACHULLA victoria Gregoria FIR 08677229 sw 64b64792e659fccb6d197900e8652cbfbdb0d134",
+        "dni": "08677229",
+        "signing_time_utc": "2026-04-13T02:26:48+00:00",
+        "delta_vs_fr_h": 1.115
+      },
+      {
+        "name": "CASTRO MENDOZA daira Ayelen FIR 73122184 sw cb4dfe0d2916296011bd05eb9a5f0837d59041b0",
+        "dni": "73122184",
+        "signing_time_utc": "2026-04-13T02:27:03+00:00",
+        "delta_vs_fr_h": 1.1191666666666666
+      },
+      {
+        "name": "CASTRO MAMANI claudia Anabel FIR 74719283 sw d129e5a1f2cedf8ca8ec58c52a292cff6217838e",
+        "dni": "74719283",
+        "signing_time_utc": "2026-04-13T02:27:15+00:00",
+        "delta_vs_fr_h": 1.1225
+      },
+      {
+        "name": "CASTRO CHUNGA DE CIEZA selene Elizabeth FIR 25683978 sw abf847749af9ed7a0256a1b617e3756466358b1c",
+        "dni": "25683978",
+        "signing_time_utc": "2026-04-13T02:27:51+00:00",
+        "delta_vs_fr_h": 1.1325
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:19:54+00:00"
+    }
+  ]
+}

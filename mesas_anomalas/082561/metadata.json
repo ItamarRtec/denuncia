@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082561",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.053646+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "BELLAVISTA",
+    "ubigeo": "240102",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP CALLAO",
+    "codigo_local": "5081",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 206,
+    "total_votos_validos": 175,
+    "porcentaje_participacion": 68.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413080621-05'00'",
+    "mod_date_raw": "D:20260413080621-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4edd1798153228cc6f45cf717c1c9e5a01f6e70b36a698bb84ad0e175d825c0b",
+  "pdf_size_bytes": 831832,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:42:57+00:00",
+    "pdf_created_utc": "2026-04-13T13:06:21+00:00",
+    "delta_pdf_vs_fr_seconds": 41004.0,
+    "delta_pdf_vs_fr_hours": 11.39,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:48:55.860000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:10:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:16:00+00:00",
+    "delta_primer_humano_vs_fr_h": 11.46,
+    "delta_ultimo_humano_vs_fr_h": 11.550833333333333,
+    "agente_utc": "2026-04-13T01:42:55+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MORAN CARHUATOCTO lourdes Elizabeth FIR 10628350 sw 45b3ae753b144c18d1331fcd22a9cf240057711d",
+        "dni": "10628350",
+        "signing_time_utc": "2026-04-13T13:10:33+00:00",
+        "delta_vs_fr_h": 11.46
+      },
+      {
+        "name": "MORALES SIPION tania Sharol FIR 09748825 sw 051ecf13923cff7bacdcedca1b22ad5957ae776c",
+        "dni": "09748825",
+        "signing_time_utc": "2026-04-13T13:13:12+00:00",
+        "delta_vs_fr_h": 11.504166666666666
+      },
+      {
+        "name": "MOLINA BENAVENTE banesa Elizabel FIR 43543354 sw e14a128ac4b4b3be7742d5a4129cd3f704bb7266",
+        "dni": "43543354",
+        "signing_time_utc": "2026-04-13T13:16:00+00:00",
+        "delta_vs_fr_h": 11.550833333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:42:57+00:00"
+    }
+  ]
+}

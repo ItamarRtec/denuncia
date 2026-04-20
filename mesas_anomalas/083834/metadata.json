@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "083834",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.713662+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 4021 DANIEL ALCIDES CARRION",
+    "codigo_local": "52705",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 209,
+    "total_votos_validos": 185,
+    "porcentaje_participacion": 69.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090813-05'00'",
+    "mod_date_raw": "D:20260413090813-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7f64dc135cac014aeae9ee4de12c8eb146e9587c057d88b97d03a96c07c93277",
+  "pdf_size_bytes": 857630,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:37:42+00:00",
+    "pdf_created_utc": "2026-04-13T14:08:13+00:00",
+    "delta_pdf_vs_fr_seconds": 41431.0,
+    "delta_pdf_vs_fr_hours": 11.508611111111112,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:01:40.213000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:14:36+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:18:59+00:00",
+    "delta_primer_humano_vs_fr_h": 11.615,
+    "delta_ultimo_humano_vs_fr_h": 11.688055555555556,
+    "agente_utc": "2026-04-13T02:37:40+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SANCHEZ VASQUEZ maria Consuelo FIR 47618690 sw 18578de8dbdf5f30cff8d13ef6ac1248f8b97b10",
+        "dni": "47618690",
+        "signing_time_utc": "2026-04-13T14:14:36+00:00",
+        "delta_vs_fr_h": 11.615
+      },
+      {
+        "name": "SAMANIEGO GISMONDI nallely Ana FIR 75222637 sw 3bdf6b06f7fdd22e2de36c3d2b65796e4771cef8",
+        "dni": "75222637",
+        "signing_time_utc": "2026-04-13T14:16:41+00:00",
+        "delta_vs_fr_h": 11.649722222222222
+      },
+      {
+        "name": "SANDOVAL FACHO andy Javier FIR 70443549 sw af9094b28c297707ea5b59e5bbe030c3d8306716",
+        "dni": "70443549",
+        "signing_time_utc": "2026-04-13T14:18:40+00:00",
+        "delta_vs_fr_h": 11.682777777777778
+      },
+      {
+        "name": "OSORIO ZAMBRANO gloria Margarita FIR 08684057 sw fed85b569876063d433d8f472cd7810f4dba67cd",
+        "dni": "08684057",
+        "signing_time_utc": "2026-04-13T14:18:59+00:00",
+        "delta_vs_fr_h": 11.688055555555556
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:37:42+00:00"
+    }
+  ]
+}

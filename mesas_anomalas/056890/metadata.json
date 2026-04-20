@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "056890",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.447249+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 149 CAPITAN PNP JORGE CIEZA LACHOS",
+    "codigo_local": "3441",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 250,
+    "total_votos_validos": 228,
+    "porcentaje_participacion": 83.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215551-05'00'",
+    "mod_date_raw": "D:20260412215551-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "9dd922adc307ececbc674a340631c9da9eab64e8a768c7f38aafbdf43b55ffd3",
+  "pdf_size_bytes": 831266,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:52:24+00:00",
+    "pdf_created_utc": "2026-04-13T02:55:51+00:00",
+    "delta_pdf_vs_fr_seconds": 3807.0,
+    "delta_pdf_vs_fr_hours": 1.0575,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:40:33.331000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:56:02+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:56:25+00:00",
+    "delta_primer_humano_vs_fr_h": 1.0605555555555555,
+    "delta_ultimo_humano_vs_fr_h": 1.0669444444444445,
+    "agente_utc": "2026-04-13T01:52:22+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ TAIPE ariana Milagros FIR 60978504 sw 695fe792d09cd618572b1efa092fa38f13e161e1",
+        "dni": "60978504",
+        "signing_time_utc": "2026-04-13T02:56:02+00:00",
+        "delta_vs_fr_h": 1.0605555555555555
+      },
+      {
+        "name": "VILCARROMERO DAVILA pedro Jesus Alexander FIR 75323657 sw 2dccac65eaf92209794b8e9290cf9e3b4ab6c6e3",
+        "dni": "75323657",
+        "signing_time_utc": "2026-04-13T02:56:14+00:00",
+        "delta_vs_fr_h": 1.0638888888888889
+      },
+      {
+        "name": "VALLE ECHEVERRIA alan Orlando FIR 42006336 sw 35ae0fea41dbbb04e4a17b55fe6512cb4621073c",
+        "dni": "42006336",
+        "signing_time_utc": "2026-04-13T02:56:25+00:00",
+        "delta_vs_fr_h": 1.0669444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:52:24+00:00"
+    }
+  ]
+}

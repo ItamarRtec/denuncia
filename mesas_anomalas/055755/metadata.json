@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "055755",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.004000+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IESTP FE Y ALEGRIA 75",
+    "codigo_local": "27204",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 216,
+    "total_votos_validos": 198,
+    "porcentaje_participacion": 72.241
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222401-05'00'",
+    "mod_date_raw": "D:20260412222401-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "827fe1d25cb10c3625c2498afb764421ae705df4d6fd94c0bdca333e92924680",
+  "pdf_size_bytes": 856012,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:50:32+00:00",
+    "pdf_created_utc": "2026-04-13T03:24:01+00:00",
+    "delta_pdf_vs_fr_seconds": 5609.0,
+    "delta_pdf_vs_fr_hours": 1.5580555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:45:10.074000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:24:26+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:25:15+00:00",
+    "delta_primer_humano_vs_fr_h": 1.565,
+    "delta_ultimo_humano_vs_fr_h": 1.5786111111111112,
+    "agente_utc": "2026-04-13T01:50:30+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "URCIA QUINTANILLA evelyn Jazmin FIR 74909684 sw 1c4c89ea87820ffb3fa1e0aba158087d94fb06ad",
+        "dni": "74909684",
+        "signing_time_utc": "2026-04-13T03:24:26+00:00",
+        "delta_vs_fr_h": 1.565
+      },
+      {
+        "name": "VERDE SALVATIERRA billy William FIR 75345409 sw 1eac1abd0eefebfc758551a88239856fbd66f453",
+        "dni": "75345409",
+        "signing_time_utc": "2026-04-13T03:24:38+00:00",
+        "delta_vs_fr_h": 1.5683333333333334
+      },
+      {
+        "name": "ZEGARRA PEREZ paola Esther FIR 44797789 sw 78eb88464a2f03974ace61bd250f72dd12992e51",
+        "dni": "44797789",
+        "signing_time_utc": "2026-04-13T03:24:49+00:00",
+        "delta_vs_fr_h": 1.571388888888889
+      },
+      {
+        "name": "CUCHO CARBAJAL manuel Jose FIR 45905744 sw 1710b8921cff6768429f06516cf1d375d03814cd",
+        "dni": "45905744",
+        "signing_time_utc": "2026-04-13T03:25:15+00:00",
+        "delta_vs_fr_h": 1.5786111111111112
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:50:32+00:00"
+    }
+  ]
+}

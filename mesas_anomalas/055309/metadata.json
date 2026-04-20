@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "055309",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.996326+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE FE Y ALEGRIA 3",
+    "codigo_local": "3376",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 222,
+    "total_votos_validos": 193,
+    "porcentaje_participacion": 74.247
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004840-05'00'",
+    "mod_date_raw": "D:20260413004840-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8c7336fd08cf8355aeb745195c318566106d7349972b12d4012a9d56a468bb10",
+  "pdf_size_bytes": 831399,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:29:27+00:00",
+    "pdf_created_utc": "2026-04-13T05:48:40+00:00",
+    "delta_pdf_vs_fr_seconds": 8353.0,
+    "delta_pdf_vs_fr_hours": 2.3202777777777777,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:41:12.962000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T05:48:58+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:49:14+00:00",
+    "delta_primer_humano_vs_fr_h": 2.325277777777778,
+    "delta_ultimo_humano_vs_fr_h": 2.3297222222222222,
+    "agente_utc": "2026-04-13T03:29:26+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ANDRES JUSTO gaspar Rene FIR 08398842 sw 82cf1fdb2bb3f3fcb30c3bc807790a63d65a7fc2",
+        "dni": "08398842",
+        "signing_time_utc": "2026-04-13T05:48:58+00:00",
+        "delta_vs_fr_h": 2.325277777777778
+      },
+      {
+        "name": "ARENAS CCORI carlos Alberto FIR 46600259 sw a82a2fa5db7490e71bfa49058ae36d37f1328086",
+        "dni": "46600259",
+        "signing_time_utc": "2026-04-13T05:49:14+00:00",
+        "delta_vs_fr_h": 2.3297222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:29:27+00:00"
+    }
+  ]
+}

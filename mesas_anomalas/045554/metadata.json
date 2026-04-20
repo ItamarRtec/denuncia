@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "045554",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.051681+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PACHACÁMAC",
+    "ubigeo": "140116",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE ISAIAS ARDILES",
+    "codigo_local": "3006",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 262,
+    "total_votos_validos": 221,
+    "porcentaje_participacion": 87.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413102650-05'00'",
+    "mod_date_raw": "D:20260413102650-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "82efea673d5d71795f4da865d604963cc4aa5d4bd3e718fefb37958257929c8e",
+  "pdf_size_bytes": 831229,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:12:18+00:00",
+    "pdf_created_utc": "2026-04-13T15:26:50+00:00",
+    "delta_pdf_vs_fr_seconds": 40472.0,
+    "delta_pdf_vs_fr_hours": 11.242222222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:28:50.001000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T15:31:52+00:00",
+    "ultimo_humano_utc": "2026-04-13T15:34:30+00:00",
+    "delta_primer_humano_vs_fr_h": 11.32611111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.37,
+    "agente_utc": "2026-04-13T03:58:23+00:00",
+    "delta_agente_vs_fr_h": -0.23194444444444445,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CUYA DIAZ felipe Emilio FIR 07893159 sw 6a7f96893a71babf8b839f708cbfe3365d665b65",
+        "dni": "07893159",
+        "signing_time_utc": "2026-04-13T15:31:52+00:00",
+        "delta_vs_fr_h": 11.32611111111111
+      },
+      {
+        "name": "CUARESMA VALVERDE maribel Felisa FIR 45059832 sw 6bd7b4d4068dcb753711edbcac773874c70a30aa",
+        "dni": "45059832",
+        "signing_time_utc": "2026-04-13T15:34:07+00:00",
+        "delta_vs_fr_h": 11.363611111111112
+      },
+      {
+        "name": "CHUMPITAZ MENDOZA edwin Alex FIR 07893978 sw 52b8211c76c49dab46ee171df5deeab2d3754ac7",
+        "dni": "07893978",
+        "signing_time_utc": "2026-04-13T15:34:30+00:00",
+        "delta_vs_fr_h": 11.37
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:12:18+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:58:25+00:00"
+    }
+  ]
+}

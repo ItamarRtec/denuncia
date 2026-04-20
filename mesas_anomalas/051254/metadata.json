@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "051254",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.748202+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTACIONAMIENTO 2 - UNIVERSIDAD DE LIMA",
+    "codigo_local": "35748",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 171,
+    "total_votos_validos": 158,
+    "porcentaje_participacion": 57.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413010641-05'00'",
+    "mod_date_raw": "D:20260413010641-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2b4003e624ae5ddc45baf68fa7b2fac2902e5f2d8d6e20f1ac7eda7cd3d05a17",
+  "pdf_size_bytes": 856838,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:31:59+00:00",
+    "pdf_created_utc": "2026-04-13T06:06:41+00:00",
+    "delta_pdf_vs_fr_seconds": 16482.0,
+    "delta_pdf_vs_fr_hours": 4.578333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:06:35.839000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 3,
+    "primer_humano_utc": "2026-04-13T06:08:03+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:08:48+00:00",
+    "delta_primer_humano_vs_fr_h": 4.601111111111111,
+    "delta_ultimo_humano_vs_fr_h": 4.613611111111111,
+    "agente_utc": "2026-04-13T01:31:57+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DEGGIMENA CRESPO jose Antonio FIR 46533107 sw 6547a0ca074f2e8e27a0687a58b9920b0611922a",
+        "dni": "46533107",
+        "signing_time_utc": "2026-04-13T06:08:03+00:00",
+        "delta_vs_fr_h": 4.601111111111111
+      },
+      {
+        "name": "DELGADO CASTRO cecilia Yngrid FIR 16466743 sw 7739a055def5e31ce1e7864b94f4fa90da2a4de8",
+        "dni": "16466743",
+        "signing_time_utc": "2026-04-13T06:08:48+00:00",
+        "delta_vs_fr_h": 4.613611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:31:59+00:00"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "045415",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.593122+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "PARQUE JOHN F KENNEDY",
+    "codigo_local": "54877",
+    "total_electores_habiles": 297,
+    "total_votos_emitidos": 206,
+    "total_votos_validos": 189,
+    "porcentaje_participacion": 69.36
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220408-05'00'",
+    "mod_date_raw": "D:20260412220408-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "285f014ccedd7d138e56d1cf6ca845cd145e0d96115de77921f81cde11b628b4",
+  "pdf_size_bytes": 880721,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:16:16+00:00",
+    "pdf_created_utc": "2026-04-13T03:04:08+00:00",
+    "delta_pdf_vs_fr_seconds": 10072.0,
+    "delta_pdf_vs_fr_hours": 2.7977777777777777,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T00:40:04.326000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:04:19+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:05:10+00:00",
+    "delta_primer_humano_vs_fr_h": 2.8008333333333333,
+    "delta_ultimo_humano_vs_fr_h": 2.815,
+    "agente_utc": "2026-04-13T00:16:14+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TATAJE ESCALANTE cesar Alberto FIR 09555226 sw 30e689ca2abdd2693fdeb15ab8d9cf3e6c62092a",
+        "dni": "09555226",
+        "signing_time_utc": "2026-04-13T03:04:19+00:00",
+        "delta_vs_fr_h": 2.8008333333333333
+      },
+      {
+        "name": "TAVARA MEDINA oscar Gabriel FIR 71145463 sw 2388bedb09f7d38c9b524a53016c3d8bbf2b13a8",
+        "dni": "71145463",
+        "signing_time_utc": "2026-04-13T03:04:31+00:00",
+        "delta_vs_fr_h": 2.8041666666666667
+      },
+      {
+        "name": "TIRADO RODRIGUEZ alexis Silvana FIR 07870173 sw 6e8d321e835d657f59238c6ce3856622b01e8fbf",
+        "dni": "07870173",
+        "signing_time_utc": "2026-04-13T03:04:44+00:00",
+        "delta_vs_fr_h": 2.807777777777778
+      },
+      {
+        "name": "SANCHEZ MAIZONDO eduardo Moises FIR 08762800 sw c841c55dc109d53e8d95a19777ee3b052e47b610",
+        "dni": "08762800",
+        "signing_time_utc": "2026-04-13T03:05:00+00:00",
+        "delta_vs_fr_h": 2.812222222222222
+      },
+      {
+        "name": "COYLA MORA adriana Nicole FIR 74774695 sw 32c2c654e3c13668faed37e6587724939fbdd348",
+        "dni": "74774695",
+        "signing_time_utc": "2026-04-13T03:05:10+00:00",
+        "delta_vs_fr_h": 2.815
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:16:16+00:00"
+    }
+  ]
+}

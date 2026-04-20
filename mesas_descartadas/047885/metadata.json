@@ -1,0 +1,63 @@
+{
+  "codigo_mesa": "047885",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.455732+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN ISIDRO",
+    "ubigeo": "140124",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE EMBLEMATICA ALFONSO UGARTE - ESTADIO",
+    "codigo_local": "53857",
+    "total_electores_habiles": 297,
+    "total_votos_emitidos": 194,
+    "total_votos_validos": 181,
+    "porcentaje_participacion": 65.32
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213744-05'00'",
+    "mod_date_raw": "D:20260412213744-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a433627a7672c1beb9d2c448a7e975f8d9255ab0ef00c755287176977d186423",
+  "pdf_size_bytes": 831504,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T01:37:08.435000+00:00",
+    "pdf_created_utc": "2026-04-13T02:37:44+00:00",
+    "delta_create_upload_seconds": -3635.6,
+    "delta_create_upload_hours": -1.0098888888888888,
+    "delta_create_upload_days": -0.0420787037037037
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T02:38:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:38:34+00:00",
+    "delta_primer_humano_h": 1.019323611111111,
+    "delta_ultimo_humano_h": 1.0237680555555555,
+    "delta_agente_h": 1.0296013888888889,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "PASCO LIZARRAGA mario FIR 07861562 sw 0b0444e082c2f2fac080c1e1a7ba0d68ccfb4c57",
+        "dni": "07861562",
+        "signing_time_utc": "2026-04-13T02:38:18+00:00"
+      },
+      {
+        "name": "PASAPERA PAREDES germain Leonardo FIR 46748350 sw 07fb0692abfb9717b83e05499d83074ab474c10c",
+        "dni": "46748350",
+        "signing_time_utc": "2026-04-13T02:38:34+00:00"
+      }
+    ]
+  }
+}

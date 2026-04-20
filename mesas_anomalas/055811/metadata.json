@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055811",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.271510+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTA URSULA",
+    "codigo_local": "51182",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 237,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 79.264
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224258-05'00'",
+    "mod_date_raw": "D:20260412224258-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "338ff2a8d68134208d850017c411e934ac6818a7591bcb5612f7bbbe5e213019",
+  "pdf_size_bytes": 831397,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:48:40+00:00",
+    "pdf_created_utc": "2026-04-13T03:42:58+00:00",
+    "delta_pdf_vs_fr_seconds": 6858.0,
+    "delta_pdf_vs_fr_hours": 1.905,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:21:23.671000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:47:16+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:47:48+00:00",
+    "delta_primer_humano_vs_fr_h": 1.9766666666666666,
+    "delta_ultimo_humano_vs_fr_h": 1.9855555555555555,
+    "agente_utc": "2026-04-13T01:48:37+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CHUQUIMANI ZEVALLOS antonio Manuel FIR 44986262 sw 7b8bbe11fac853ea9b67ae3d210a3636da941990",
+        "dni": "44986262",
+        "signing_time_utc": "2026-04-13T03:47:16+00:00",
+        "delta_vs_fr_h": 1.9766666666666666
+      },
+      {
+        "name": "CHARA CHOQUE juan Agripino FIR 09591541 sw a67c7ab399d28f4a7658596b082a420fc42c3691",
+        "dni": "09591541",
+        "signing_time_utc": "2026-04-13T03:47:31+00:00",
+        "delta_vs_fr_h": 1.9808333333333332
+      },
+      {
+        "name": "CHAVEZ CORAQUILLO lesly Sandy FIR 41795899 sw 37d572b4eb875be02c9d05e152e40f91644609db",
+        "dni": "41795899",
+        "signing_time_utc": "2026-04-13T03:47:48+00:00",
+        "delta_vs_fr_h": 1.9855555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:48:40+00:00"
+    }
+  ]
+}

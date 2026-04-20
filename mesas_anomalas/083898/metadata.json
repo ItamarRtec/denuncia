@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "083898",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.418128+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SAN JUAN DE DIOS TODOPODEROSO",
+    "codigo_local": "54284",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 220,
+    "porcentaje_participacion": 81.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090715-05'00'",
+    "mod_date_raw": "D:20260413090715-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "12fd4457db8301d7d5f5ef08f9d04fd0086e70d4dac169f15328ac8087b6b0ef",
+  "pdf_size_bytes": 831276,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:09:29+00:00",
+    "pdf_created_utc": "2026-04-13T14:07:15+00:00",
+    "delta_pdf_vs_fr_seconds": 39466.0,
+    "delta_pdf_vs_fr_hours": 10.962777777777777,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:23:00.087000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:07:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:07:52+00:00",
+    "delta_primer_humano_vs_fr_h": 10.966388888888888,
+    "delta_ultimo_humano_vs_fr_h": 10.973055555555556,
+    "agente_utc": "2026-04-13T03:09:28+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DIAPIZ CHUQUIZUTA gianella FIR 73434270 sw 81dfb4284453fb8190a6709d66a06e27bfc2c5b2",
+        "dni": "73434270",
+        "signing_time_utc": "2026-04-13T14:07:28+00:00",
+        "delta_vs_fr_h": 10.966388888888888
+      },
+      {
+        "name": "ERAZO BENITES DE LIMO flor Yolanda FIR 25691221 sw 8deb5a368251687ba4f7a96b5825757b6ec6302c",
+        "dni": "25691221",
+        "signing_time_utc": "2026-04-13T14:07:40+00:00",
+        "delta_vs_fr_h": 10.969722222222222
+      },
+      {
+        "name": "GAMARRA RAMIREZ roxana FIR 40909323 sw fc1aef9fcfe189acf58998552cc9a61e0cffa6b9",
+        "dni": "40909323",
+        "signing_time_utc": "2026-04-13T14:07:52+00:00",
+        "delta_vs_fr_h": 10.973055555555556
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:09:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "052449",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.481357+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7055 TUPAC AMARU II",
+    "codigo_local": "3262",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 248,
+    "total_votos_validos": 212,
+    "porcentaje_participacion": 82.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085255-05'00'",
+    "mod_date_raw": "D:20260413085255-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "9f945817d47018e728c09a3eebb13652191bf6ab8934e587a42173b57fcbaa3b",
+  "pdf_size_bytes": 831181,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:42:54+00:00",
+    "pdf_created_utc": "2026-04-13T13:52:55+00:00",
+    "delta_pdf_vs_fr_seconds": 40201.0,
+    "delta_pdf_vs_fr_hours": 11.166944444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T10:55:14.912000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:53:16+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:53:52+00:00",
+    "delta_primer_humano_vs_fr_h": 11.172777777777778,
+    "delta_ultimo_humano_vs_fr_h": 11.182777777777778,
+    "agente_utc": "2026-04-13T02:37:26+00:00",
+    "delta_agente_vs_fr_h": -0.09111111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VARGAS PAREDES sara Elizabeth FIR 10706415 sw 0c41bf67a19f7f42a8c566f20faeb3775573405a",
+        "dni": "10706415",
+        "signing_time_utc": "2026-04-13T13:53:16+00:00",
+        "delta_vs_fr_h": 11.172777777777778
+      },
+      {
+        "name": "VALLEJOS VASQUEZ pamela Katherine FIR 47835431 sw 7713a7a3cd8b15665fa60ad912dac9b5d8a85130",
+        "dni": "47835431",
+        "signing_time_utc": "2026-04-13T13:53:36+00:00",
+        "delta_vs_fr_h": 11.178333333333333
+      },
+      {
+        "name": "VASQUEZ HUAPAYA jose Orlando FIR 43471478 sw c5e61f5b5c4611e7e28044c3e95e5330e54d3e2f",
+        "dni": "43471478",
+        "signing_time_utc": "2026-04-13T13:53:52+00:00",
+        "delta_vs_fr_h": 11.182777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:42:54+00:00"
+    }
+  ]
+}

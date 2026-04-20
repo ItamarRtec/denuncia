@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "039958",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.304508+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP JUAN PABLO II",
+    "codigo_local": "52888",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 219,
+    "total_votos_validos": 191,
+    "porcentaje_participacion": 73.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413094609-05'00'",
+    "mod_date_raw": "D:20260413094609-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4652ceb507b5833395891a038889d57042d10cc63c32247d8a410eb764a92031",
+  "pdf_size_bytes": 831495,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:18:55+00:00",
+    "pdf_created_utc": "2026-04-13T14:46:09+00:00",
+    "delta_pdf_vs_fr_seconds": 41234.0,
+    "delta_pdf_vs_fr_hours": 11.453888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T07:00:49.812000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:47:05+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:47:32+00:00",
+    "delta_primer_humano_vs_fr_h": 11.469444444444445,
+    "delta_ultimo_humano_vs_fr_h": 11.476944444444445,
+    "agente_utc": "2026-04-13T03:18:52+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ILQUIN LOPEZ jefferson Jeanpierre FIR 73988626 sw 3715372fea256d59110560f84049510450aa6395",
+        "dni": "73988626",
+        "signing_time_utc": "2026-04-13T14:47:05+00:00",
+        "delta_vs_fr_h": 11.469444444444445
+      },
+      {
+        "name": "JUNCO PALOMINO anais Mariel FIR 73747067 sw 7e996854329b748d7c3447f0999a2edb7a84b51d",
+        "dni": "73747067",
+        "signing_time_utc": "2026-04-13T14:47:17+00:00",
+        "delta_vs_fr_h": 11.472777777777777
+      },
+      {
+        "name": "LAZO PAREDES giancarlo Junior FIR 70157560 sw 2a2249a56dc25709c1ec4df0ddcdf585c61b432c",
+        "dni": "70157560",
+        "signing_time_utc": "2026-04-13T14:47:32+00:00",
+        "delta_vs_fr_h": 11.476944444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:18:55+00:00"
+    }
+  ]
+}

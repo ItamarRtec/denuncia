@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "039155",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.860591+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "BREÑA",
+    "ubigeo": "140104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALBERT EINSTEIN  I",
+    "codigo_local": "52922",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 232,
+    "total_votos_validos": 212,
+    "porcentaje_participacion": 77.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213603-05'00'",
+    "mod_date_raw": "D:20260412213603-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c9bd23ed6b84a2979d0462309ecbacc0737fa745f9c57f3b3488c06af70e0d44",
+  "pdf_size_bytes": 830277,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:19+00:00",
+    "pdf_created_utc": "2026-04-13T02:36:03+00:00",
+    "delta_pdf_vs_fr_seconds": 3764.0,
+    "delta_pdf_vs_fr_hours": 1.0455555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:20:00.968000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:36:17+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:36:41+00:00",
+    "delta_primer_humano_vs_fr_h": 1.0494444444444444,
+    "delta_ultimo_humano_vs_fr_h": 1.056111111111111,
+    "agente_utc": "2026-04-13T01:33:17+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CUEVA PEREZ monick D'alexis FIR 77351103 sw bfef85af1f1635b2afe3648dc547c4a2abcbbde7",
+        "dni": "77351103",
+        "signing_time_utc": "2026-04-13T02:36:17+00:00",
+        "delta_vs_fr_h": 1.0494444444444444
+      },
+      {
+        "name": "FASABI TAPULLIMA mariela FIR 45559625 sw f4d1d15f672bdefee62ba5831293bf7869ff58ce",
+        "dni": "45559625",
+        "signing_time_utc": "2026-04-13T02:36:30+00:00",
+        "delta_vs_fr_h": 1.0530555555555556
+      },
+      {
+        "name": "GODOY ZEGARRA luis Miguel FIR 70206379 sw 093f59324a66598e7533dd3a4c32fa63b5bd8121",
+        "dni": "70206379",
+        "signing_time_utc": "2026-04-13T02:36:41+00:00",
+        "delta_vs_fr_h": 1.056111111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:19+00:00"
+    }
+  ]
+}

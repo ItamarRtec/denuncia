@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055164",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.521164+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7079 RAMIRO PRIALE PRIALE",
+    "codigo_local": "3367",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 209,
+    "porcentaje_participacion": 81.271
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413083048-05'00'",
+    "mod_date_raw": "D:20260413083048-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "dda65648dfc37a4fd31074a9c282574f24c28b3c1cf1d2d3cd16384ec8f4efa2",
+  "pdf_size_bytes": 831134,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:52:26+00:00",
+    "pdf_created_utc": "2026-04-13T13:30:48+00:00",
+    "delta_pdf_vs_fr_seconds": 41902.0,
+    "delta_pdf_vs_fr_hours": 11.639444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:20:10.651000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:31:10+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:31:38+00:00",
+    "delta_primer_humano_vs_fr_h": 11.645555555555555,
+    "delta_ultimo_humano_vs_fr_h": 11.653333333333334,
+    "agente_utc": "2026-04-13T01:52:23+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ANTAURCO INTI sergio Bryan FIR 74092274 sw 71864b18b022059a0997157472ae978c5d890f5a",
+        "dni": "74092274",
+        "signing_time_utc": "2026-04-13T13:31:10+00:00",
+        "delta_vs_fr_h": 11.645555555555555
+      },
+      {
+        "name": "AQUINO VELASQUEZ lizbeth Paola FIR 60759816 sw 51a2d97b4c2e889efaaa5106129830d88a5464c4",
+        "dni": "60759816",
+        "signing_time_utc": "2026-04-13T13:31:25+00:00",
+        "delta_vs_fr_h": 11.649722222222222
+      },
+      {
+        "name": "AMARU HUAMANI jose David FIR 74178072 sw 9161356df0a73c69761c39755cf0ecee22873436",
+        "dni": "74178072",
+        "signing_time_utc": "2026-04-13T13:31:38+00:00",
+        "delta_vs_fr_h": 11.653333333333334
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:52:26+00:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045122",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.720790+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6050 EMBLEMATICA JUANA ALARCO DE DAMMERT",
+    "codigo_local": "2988",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 198,
+    "total_votos_validos": 186,
+    "porcentaje_participacion": 66.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413105535-05'00'",
+    "mod_date_raw": "D:20260413105535-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "34ea6119743382bead46c5e5780065e4900d3b206c9b34f1b49bb08feb8b72fa",
+  "pdf_size_bytes": 856393,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:46:27+00:00",
+    "pdf_created_utc": "2026-04-13T15:55:35+00:00",
+    "delta_pdf_vs_fr_seconds": 40148.0,
+    "delta_pdf_vs_fr_hours": 11.152222222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:25:19.714000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T15:55:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T15:57:08+00:00",
+    "delta_primer_humano_vs_fr_h": 11.156666666666666,
+    "delta_ultimo_humano_vs_fr_h": 11.178055555555556,
+    "agente_utc": "2026-04-13T04:46:26+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DIAZ VASQUEZ ulises Joel FIR 40267033 sw c7e24be0f1c6812da7fe62bd44d0ae159893d89e",
+        "dni": "40267033",
+        "signing_time_utc": "2026-04-13T15:55:51+00:00",
+        "delta_vs_fr_h": 11.156666666666666
+      },
+      {
+        "name": "ESPINOZA TOLEDO brayan Michael FIR 61833138 sw d6624df1cbeec1a0f934cfd3a4790340b62041c3",
+        "dni": "61833138",
+        "signing_time_utc": "2026-04-13T15:56:12+00:00",
+        "delta_vs_fr_h": 11.1625
+      },
+      {
+        "name": "DONAYRE CHANG marcela Emma FIR 09648836 sw 03ae31b4de73d50839b65b126d52ae27d1891489",
+        "dni": "09648836",
+        "signing_time_utc": "2026-04-13T15:56:34+00:00",
+        "delta_vs_fr_h": 11.168611111111112
+      },
+      {
+        "name": "PORTILLA CASTELLANO fiorella FIR 44011107 sw c6f58c9f21c325a17f5ef807c493225861ee62df",
+        "dni": "44011107",
+        "signing_time_utc": "2026-04-13T15:57:08+00:00",
+        "delta_vs_fr_h": 11.178055555555556
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:46:27+00:00"
+    }
+  ]
+}

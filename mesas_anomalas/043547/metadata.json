@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "043547",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.417333+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LA MOLINA",
+    "ubigeo": "140110",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP COLEGIO BRUNING",
+    "codigo_local": "50925",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 212,
+    "total_votos_validos": 190,
+    "porcentaje_participacion": 70.903
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091625-05'00'",
+    "mod_date_raw": "D:20260413091625-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "447af203817b2ee7b4bf6d686259d4c014edb9d8de83701ce0a4a4e0a39100f4",
+  "pdf_size_bytes": 857492,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:36:56+00:00",
+    "pdf_created_utc": "2026-04-13T14:16:25+00:00",
+    "delta_pdf_vs_fr_seconds": 41969.0,
+    "delta_pdf_vs_fr_hours": 11.658055555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:31:39.586000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T14:16:56+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:19:49+00:00",
+    "delta_primer_humano_vs_fr_h": 11.666666666666666,
+    "delta_ultimo_humano_vs_fr_h": 11.714722222222223,
+    "agente_utc": "2026-04-13T02:32:15+00:00",
+    "delta_agente_vs_fr_h": -0.07805555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "LOPEZ BENATE augusto Rodrigo FIR 74863218 sw e6d3886c8b3a9bff7bfe53fa37365e53c9aeccaa",
+        "dni": "74863218",
+        "signing_time_utc": "2026-04-13T14:16:56+00:00",
+        "delta_vs_fr_h": 11.666666666666666
+      },
+      {
+        "name": "MALDONADO HINOSTROZA gloria Nery FIR 19976872 sw fdef9c2b669965eb134126daef81f426a7c395c9",
+        "dni": "19976872",
+        "signing_time_utc": "2026-04-13T14:18:44+00:00",
+        "delta_vs_fr_h": 11.696666666666667
+      },
+      {
+        "name": "MEGO CHIRINOS aldo FIR 41919005 sw 87b47cb6a9b53341819ce3e9e46dbbabccd3a61f",
+        "dni": "41919005",
+        "signing_time_utc": "2026-04-13T14:19:49+00:00",
+        "delta_vs_fr_h": 11.714722222222223
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:36:56+00:00"
+    }
+  ]
+}

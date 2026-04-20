@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045239",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.828704+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTA RITA DE CASIA",
+    "codigo_local": "2996",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 218,
+    "total_votos_validos": 210,
+    "porcentaje_participacion": 72.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412234927-05'00'",
+    "mod_date_raw": "D:20260412234927-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2ada175bfa81fc10114d560da6ab5aafd880b29e0e2ae0912f8503563a129769",
+  "pdf_size_bytes": 856291,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:56:55+00:00",
+    "pdf_created_utc": "2026-04-13T04:49:27+00:00",
+    "delta_pdf_vs_fr_seconds": 13952.0,
+    "delta_pdf_vs_fr_hours": 3.8755555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:37:16.077000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:49:44+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:50:56+00:00",
+    "delta_primer_humano_vs_fr_h": 3.8802777777777777,
+    "delta_ultimo_humano_vs_fr_h": 3.9002777777777777,
+    "agente_utc": "2026-04-13T00:56:53+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FIGARI BELLO patricia FIR 07882523 sw 684cd9aec0e0793d237d1d8b504e89934cd6fa87",
+        "dni": "07882523",
+        "signing_time_utc": "2026-04-13T04:49:44+00:00",
+        "delta_vs_fr_h": 3.8802777777777777
+      },
+      {
+        "name": "DUNCKER BELEVAN eduardo Luis FIR 07756336 sw be53ed6e583848132209a2cb4eb8af4dbaa79d7f",
+        "dni": "07756336",
+        "signing_time_utc": "2026-04-13T04:50:04+00:00",
+        "delta_vs_fr_h": 3.8858333333333333
+      },
+      {
+        "name": "GARCIA TORRES fabiola Marlene FIR 46038309 sw 4b6b3c992081a6967b12afacce7798ee0f68b662",
+        "dni": "46038309",
+        "signing_time_utc": "2026-04-13T04:50:19+00:00",
+        "delta_vs_fr_h": 3.89
+      },
+      {
+        "name": "JULCA VELAZCO violeta Viviana FIR 07726062 sw 288127234cbd0209f66138768676b6da22edfa6a",
+        "dni": "07726062",
+        "signing_time_utc": "2026-04-13T04:50:56+00:00",
+        "delta_vs_fr_h": 3.9002777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:56:55+00:00"
+    }
+  ]
+}

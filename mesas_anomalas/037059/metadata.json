@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "037059",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.135294+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "ANCÓN",
+    "ubigeo": "140102",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE CARLOS GUTIERREZ MERINO",
+    "codigo_local": "2680",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 203,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413010806-05'00'",
+    "mod_date_raw": "D:20260413010806-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2926552e1e8d3fb0dc1c2ca9a351337b0e090ceb18572ec2a2e792b7b50a3515",
+  "pdf_size_bytes": 831456,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:45:49+00:00",
+    "pdf_created_utc": "2026-04-13T06:08:06+00:00",
+    "delta_pdf_vs_fr_seconds": 4937.0,
+    "delta_pdf_vs_fr_hours": 1.371388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:12:14.906000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T06:08:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:08:53+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3755555555555556,
+    "delta_ultimo_humano_vs_fr_h": 1.3844444444444444,
+    "agente_utc": "2026-04-13T03:58:57+00:00",
+    "delta_agente_vs_fr_h": -0.7811111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VIVANCO CHIPANA julio Cesar FIR 10345981 sw 14c2ec5109eb47fa6a9a0e243265bfa18738e80d",
+        "dni": "10345981",
+        "signing_time_utc": "2026-04-13T06:08:21+00:00",
+        "delta_vs_fr_h": 1.3755555555555556
+      },
+      {
+        "name": "YENQUE PIMENTEL paula Rosa FIR 06542235 sw a36a9bde26614402b7e30fd2a1fef2bbf39c9dba",
+        "dni": "06542235",
+        "signing_time_utc": "2026-04-13T06:08:39+00:00",
+        "delta_vs_fr_h": 1.3805555555555555
+      },
+      {
+        "name": "VICTORIA BONILLA isabel Josefina FIR 20405441 sw 51a465187d9db37b7135f4bc2b5b9ed86df7a768",
+        "dni": "20405441",
+        "signing_time_utc": "2026-04-13T06:08:53+00:00",
+        "delta_vs_fr_h": 1.3844444444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:45:49+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:59:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "082916",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.829419+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE JOSE OLAYA BALANDRA",
+    "codigo_local": "4853",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 221,
+    "total_votos_validos": 201,
+    "porcentaje_participacion": 73.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413081147-05'00'",
+    "mod_date_raw": "D:20260413081147-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "18ca2989312389fa8931d7c4a4b36076dea6671e97750e2300d43cbf0473839d",
+  "pdf_size_bytes": 856902,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:00:44+00:00",
+    "pdf_created_utc": "2026-04-13T13:11:47+00:00",
+    "delta_pdf_vs_fr_seconds": 40263.0,
+    "delta_pdf_vs_fr_hours": 11.184166666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:08:15.081000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:12:14+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:13:22+00:00",
+    "delta_primer_humano_vs_fr_h": 11.191666666666666,
+    "delta_ultimo_humano_vs_fr_h": 11.210555555555555,
+    "agente_utc": "2026-04-13T02:00:41+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SALVADOR CORREA cesar Enrique FIR 41238248 sw 16f6bbf2880a020407dbc7b7a9a64903d0300fd6",
+        "dni": "41238248",
+        "signing_time_utc": "2026-04-13T13:12:14+00:00",
+        "delta_vs_fr_h": 11.191666666666666
+      },
+      {
+        "name": "SALAZAR LLAQUE diana Janet FIR 25770851 sw d46f79a01c63d5a67af42939c58696ae117761cd",
+        "dni": "25770851",
+        "signing_time_utc": "2026-04-13T13:12:32+00:00",
+        "delta_vs_fr_h": 11.196666666666667
+      },
+      {
+        "name": "SALHUANA CARBONERO pedro Alfonso FIR 25773474 sw a195f06391329f4ada6549101bc20cfeae649aaf",
+        "dni": "25773474",
+        "signing_time_utc": "2026-04-13T13:12:45+00:00",
+        "delta_vs_fr_h": 11.200277777777778
+      },
+      {
+        "name": "RODRIGUEZ ROJAS alexis Santos FIR 25792768 sw 8158bac579ef7f96a9b277b8ef39ae15044b5986",
+        "dni": "25792768",
+        "signing_time_utc": "2026-04-13T13:13:22+00:00",
+        "delta_vs_fr_h": 11.210555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:00:44+00:00"
+    }
+  ]
+}

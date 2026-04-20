@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051909",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.976232+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTADIO MUNICIPAL CARLOS A. MOSCOSO 2",
+    "codigo_local": "40995",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 200,
+    "total_votos_validos": 191,
+    "porcentaje_participacion": 66.89
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090654-05'00'",
+    "mod_date_raw": "D:20260413090654-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8bbe3c2a2765fe544cf49d2349173550af52d1991d5a8daa029c894dc217ad47",
+  "pdf_size_bytes": 856800,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:50:00+00:00",
+    "pdf_created_utc": "2026-04-13T14:06:54+00:00",
+    "delta_pdf_vs_fr_seconds": 40614.0,
+    "delta_pdf_vs_fr_hours": 11.281666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:57:20.403000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T14:07:35+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:09:02+00:00",
+    "delta_primer_humano_vs_fr_h": 11.293055555555556,
+    "delta_ultimo_humano_vs_fr_h": 11.317222222222222,
+    "agente_utc": "2026-04-13T02:44:12+00:00",
+    "delta_agente_vs_fr_h": -0.09666666666666666,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MUNAYCO PEREZ mariela Aurelia FIR 08885295 sw f9eaa9c4a2162a9c3de3a65c91a5ee3b4211938b",
+        "dni": "08885295",
+        "signing_time_utc": "2026-04-13T14:07:35+00:00",
+        "delta_vs_fr_h": 11.293055555555556
+      },
+      {
+        "name": "NAMUCHE REYES walter Jorge FIR 08817866 sw a26e8070ed4cfac73ef7e7b1d2825fabbbac58b2",
+        "dni": "08817866",
+        "signing_time_utc": "2026-04-13T14:07:51+00:00",
+        "delta_vs_fr_h": 11.2975
+      },
+      {
+        "name": "DELGADO HERNANDEZ DE SARMIENTO matilde FIR 42242659 sw ef06da4b4ec4a905f20405789245c3dcde4a0dfe",
+        "dni": "42242659",
+        "signing_time_utc": "2026-04-13T14:09:02+00:00",
+        "delta_vs_fr_h": 11.317222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:50:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054846",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.932000+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7211 VIRGEN INMACULADA",
+    "codigo_local": "3346",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 260,
+    "total_votos_validos": 219,
+    "porcentaje_participacion": 86.957
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213101-05'00'",
+    "mod_date_raw": "D:20260412213101-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4253504b6e89327276a74327e0a5f70b24d7a67713bdbfe06dc595937398d789",
+  "pdf_size_bytes": 830851,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:32:56+00:00",
+    "pdf_created_utc": "2026-04-13T02:31:01+00:00",
+    "delta_pdf_vs_fr_seconds": 3485.0,
+    "delta_pdf_vs_fr_hours": 0.9680555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:12:40.628000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:31:27+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:32:04+00:00",
+    "delta_primer_humano_vs_fr_h": 0.9752777777777778,
+    "delta_ultimo_humano_vs_fr_h": 0.9855555555555555,
+    "agente_utc": "2026-04-13T01:32:54+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CHAVEZ GUEVARA marco Antonio FIR 10472302 sw f4265914d6fc0c91ec97df19958da601ed24ce2b",
+        "dni": "10472302",
+        "signing_time_utc": "2026-04-13T02:31:27+00:00",
+        "delta_vs_fr_h": 0.9752777777777778
+      },
+      {
+        "name": "CONDORI HUAYHUA magdalena Maria FIR 09587390 sw 66ff91fe4b8c494a5b49a741f9545a5c534bc5d8",
+        "dni": "09587390",
+        "signing_time_utc": "2026-04-13T02:31:48+00:00",
+        "delta_vs_fr_h": 0.9811111111111112
+      },
+      {
+        "name": "CASTRO QUINTANILLA vladimir Bona FIR 42772117 sw 159d835ca07a41ce7d1266793c4f31c27b680e0c",
+        "dni": "42772117",
+        "signing_time_utc": "2026-04-13T02:32:04+00:00",
+        "delta_vs_fr_h": 0.9855555555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:32:56+00:00"
+    }
+  ]
+}

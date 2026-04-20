@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "083565",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.099466+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5130  3 VICTOR RAUL HAYA DE LA TORRE",
+    "codigo_local": "10024",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 242,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 80.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413010021-05'00'",
+    "mod_date_raw": "D:20260413010021-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5cca4d798f4da40f6bf118dc9893b3e4bd906e3ffeb5f83cde5a2b2089466e45",
+  "pdf_size_bytes": 856812,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:24:50+00:00",
+    "pdf_created_utc": "2026-04-13T06:00:21+00:00",
+    "delta_pdf_vs_fr_seconds": 9331.0,
+    "delta_pdf_vs_fr_hours": 2.5919444444444446,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:01:38.481000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T06:00:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:01:30+00:00",
+    "delta_primer_humano_vs_fr_h": 2.5952777777777776,
+    "delta_ultimo_humano_vs_fr_h": 2.611111111111111,
+    "agente_utc": "2026-04-13T03:24:47+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CHAVEZ TITO jorge Edgar FIR 08665856 sw 153a88e48e9f50b0115ae32ef342826b891e8eba",
+        "dni": "08665856",
+        "signing_time_utc": "2026-04-13T06:00:33+00:00",
+        "delta_vs_fr_h": 2.5952777777777776
+      },
+      {
+        "name": "CHAMBI QUISPE gualberto FIR 07432589 sw 096bf86766816250dae2092cd461f006c2195e3e",
+        "dni": "07432589",
+        "signing_time_utc": "2026-04-13T06:01:06+00:00",
+        "delta_vs_fr_h": 2.6044444444444443
+      },
+      {
+        "name": "CONDORI MACHACA giovana Isabel FIR 42429247 sw 59f49ceec5f70fb74c3be308169705f2af22ee23",
+        "dni": "42429247",
+        "signing_time_utc": "2026-04-13T06:01:17+00:00",
+        "delta_vs_fr_h": 2.6075
+      },
+      {
+        "name": "MARTEL LOZANO candy Mayra FIR 45277965 sw 89ff18fcd4b5e86529e52d26075be0ca39828025",
+        "dni": "45277965",
+        "signing_time_utc": "2026-04-13T06:01:30+00:00",
+        "delta_vs_fr_h": 2.611111111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:24:50+00:00"
+    }
+  ]
+}

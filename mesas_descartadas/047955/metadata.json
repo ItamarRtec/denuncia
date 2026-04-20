@@ -1,0 +1,73 @@
+{
+  "codigo_mesa": "047955",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.368745+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN ISIDRO",
+    "ubigeo": "140124",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTACIONAMIENTO PETROPERU",
+    "codigo_local": "54844",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 206,
+    "total_votos_validos": 200,
+    "porcentaje_participacion": 68.896
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413003630-05'00'",
+    "mod_date_raw": "D:20260413003630-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "af24d5f011f07c5c68eba2be9c19ce37a04c8388763bb1a89d48cf02ad2cbcdd",
+  "pdf_size_bytes": 856170,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T04:33:04.044000+00:00",
+    "pdf_created_utc": "2026-04-13T05:36:30+00:00",
+    "delta_create_upload_seconds": -3806.0,
+    "delta_create_upload_hours": -1.0572222222222223,
+    "delta_create_upload_days": -0.044050925925925924
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:36:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:37:41+00:00",
+    "delta_primer_humano_h": 1.06221,
+    "delta_ultimo_humano_h": 1.0769322222222222,
+    "delta_agente_h": -1.4616788888888887,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "TAMAYO LECCA hernan Reynaldo FIR 07928984 sw 1b6de0467314f4a39708985045b0c7052c6a84ac",
+        "dni": "07928984",
+        "signing_time_utc": "2026-04-13T05:36:48+00:00"
+      },
+      {
+        "name": "TARAZONA PECHE roberto Christian FIR 41354552 sw b8b669e34761ec8e253446a9b4df36485e3777f3",
+        "dni": "41354552",
+        "signing_time_utc": "2026-04-13T05:37:06+00:00"
+      },
+      {
+        "name": "TELLO PORTILLA eduardo Nicolas FIR 10221562 sw ee24761b7b26537af73d8156ca3fc77590fa4f10",
+        "dni": "10221562",
+        "signing_time_utc": "2026-04-13T05:37:22+00:00"
+      },
+      {
+        "name": "TALAVERA ZEGARRA DE OTERO ana Olga Artemia FIR 06460015 sw 04221bb150d57a90a8145fbd7aae911b12327630",
+        "dni": "06460015",
+        "signing_time_utc": "2026-04-13T05:37:41+00:00"
+      }
+    ]
+  }
+}

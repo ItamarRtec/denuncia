@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "050019",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.801159+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1086 JESUS REDENTOR",
+    "codigo_local": "3172",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 239,
+    "total_votos_validos": 231,
+    "porcentaje_participacion": 79.933
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223406-05'00'",
+    "mod_date_raw": "D:20260412223406-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "927167ad1113717b0439e6245f61e42dc457e2bd2378446adac3885853df2798",
+  "pdf_size_bytes": 831173,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:48:56+00:00",
+    "pdf_created_utc": "2026-04-13T03:34:06+00:00",
+    "delta_pdf_vs_fr_seconds": 6310.0,
+    "delta_pdf_vs_fr_hours": 1.7527777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:26:12.184000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:34:29+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:34:39+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7591666666666668,
+    "delta_ultimo_humano_vs_fr_h": 1.7619444444444445,
+    "agente_utc": "2026-04-13T01:48:54+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CALERO TUESTA jaime Javier FIR 46606138 sw ace792a2945427be81ac38318e60b29a40ba33c3",
+        "dni": "46606138",
+        "signing_time_utc": "2026-04-13T03:34:29+00:00",
+        "delta_vs_fr_h": 1.7591666666666668
+      },
+      {
+        "name": "CASAVERDE LULLI lucia Patricia FIR 09279765 sw ed07dd000093b6e46ea09551dd643deed7d35078",
+        "dni": "09279765",
+        "signing_time_utc": "2026-04-13T03:34:39+00:00",
+        "delta_vs_fr_h": 1.7619444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:48:56+00:00"
+    }
+  ]
+}

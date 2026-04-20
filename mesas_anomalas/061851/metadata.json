@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "061851",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.870418+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALFONSO UGARTE",
+    "codigo_local": "3592",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 241,
+    "total_votos_validos": 224,
+    "porcentaje_participacion": 80.602
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223613-05'00'",
+    "mod_date_raw": "D:20260412223613-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c10285618693766122dfe4073ed990b85fc8f92feb3fb7d6ab8498cd63d38100",
+  "pdf_size_bytes": 830851,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:13:24+00:00",
+    "pdf_created_utc": "2026-04-13T03:36:13+00:00",
+    "delta_pdf_vs_fr_seconds": 4969.0,
+    "delta_pdf_vs_fr_hours": 1.3802777777777777,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:13:41.975000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:36:42+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:37:23+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3883333333333334,
+    "delta_ultimo_humano_vs_fr_h": 1.3997222222222223,
+    "agente_utc": "2026-04-13T02:12:26+00:00",
+    "delta_agente_vs_fr_h": -0.01611111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ROMERO BRUNO veronica Alejandrina FIR 44006922 sw fb939e4591e6090500936287c07e5c2296944b30",
+        "dni": "44006922",
+        "signing_time_utc": "2026-04-13T03:36:42+00:00",
+        "delta_vs_fr_h": 1.3883333333333334
+      },
+      {
+        "name": "ROMERO NAJARRO wilber FIR 44903788 sw 53333f9098e157cff5a135e498aeffc54220b460",
+        "dni": "44903788",
+        "signing_time_utc": "2026-04-13T03:36:59+00:00",
+        "delta_vs_fr_h": 1.3930555555555555
+      },
+      {
+        "name": "SALAS MALPARTIDA alex Joel FIR 07045203 sw 00508d3b526747fa97a85579fd710a38c13a6484",
+        "dni": "07045203",
+        "signing_time_utc": "2026-04-13T03:37:23+00:00",
+        "delta_vs_fr_h": 1.3997222222222223
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:13:24+00:00"
+    }
+  ]
+}

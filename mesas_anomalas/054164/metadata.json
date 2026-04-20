@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "054164",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.811494+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "INDEPENDENCIA",
+    "ubigeo": "140134",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEI 0386 VICTOR RAUL HAYA DE LA TORRE",
+    "codigo_local": "51331",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 240,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 80.268
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092028-05'00'",
+    "mod_date_raw": "D:20260413092028-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "ef5b6dcfd247cd234bcfcaef6706db0a11e6140706431dda0aab0f629303c0ca",
+  "pdf_size_bytes": 855691,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:49:16+00:00",
+    "pdf_created_utc": "2026-04-13T14:20:28+00:00",
+    "delta_pdf_vs_fr_seconds": 41472.0,
+    "delta_pdf_vs_fr_hours": 11.52,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:26:02.340000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:26:26+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:31:21+00:00",
+    "delta_primer_humano_vs_fr_h": 11.619444444444444,
+    "delta_ultimo_humano_vs_fr_h": 11.70138888888889,
+    "agente_utc": "2026-04-13T02:49:13+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SANCHEZ DIESTRA maryuri FIR 73495166 sw 6585657167fa7d4aec52f2f9bd32f196152595f6",
+        "dni": "73495166",
+        "signing_time_utc": "2026-04-13T14:26:26+00:00",
+        "delta_vs_fr_h": 11.619444444444444
+      },
+      {
+        "name": "SANCHEZ MEZA antoni Piero FIR 72788661 sw 3692692bb2d164f549c03d92581ebd5b2f83502a",
+        "dni": "72788661",
+        "signing_time_utc": "2026-04-13T14:28:48+00:00",
+        "delta_vs_fr_h": 11.658888888888889
+      },
+      {
+        "name": "RAMIREZ VALIENTE jose Luis FIR 75255749 sw 253bc223aeee50dd9edeb98c9226535fc5c7e231",
+        "dni": "75255749",
+        "signing_time_utc": "2026-04-13T14:30:22+00:00",
+        "delta_vs_fr_h": 11.685
+      },
+      {
+        "name": "MENDOZA COLAN miguel Angel FIR 42240514 sw f60e62ae5f14729c74fc7e334d6cdc53b1492952",
+        "dni": "42240514",
+        "signing_time_utc": "2026-04-13T14:31:21+00:00",
+        "delta_vs_fr_h": 11.70138888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:49:16+00:00"
+    }
+  ]
+}

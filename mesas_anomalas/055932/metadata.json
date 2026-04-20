@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "055932",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.503700+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS - SAN JUAN DE MIRAFLORES",
+    "codigo_local": "54797",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 231,
+    "total_votos_validos": 208,
+    "porcentaje_participacion": 77.258
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223506-05'00'",
+    "mod_date_raw": "D:20260412223506-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5ce0e2371714b5c3722cc23781137726f640bd02659dbd73dfa0f65c1b66671c",
+  "pdf_size_bytes": 906539,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:10:22+00:00",
+    "pdf_created_utc": "2026-04-13T03:35:06+00:00",
+    "delta_pdf_vs_fr_seconds": 5084.0,
+    "delta_pdf_vs_fr_hours": 1.4122222222222223,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:10:51.817000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 7,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:35:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:37:41+00:00",
+    "delta_primer_humano_vs_fr_h": 1.4197222222222223,
+    "delta_ultimo_humano_vs_fr_h": 1.4552777777777777,
+    "agente_utc": "2026-04-13T02:10:19+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AYALA MALHABER felix Anderson FIR 75678519 sw b4dbf202a78f9f686f11c1d334921a83ec67c0df",
+        "dni": "75678519",
+        "signing_time_utc": "2026-04-13T03:35:33+00:00",
+        "delta_vs_fr_h": 1.4197222222222223
+      },
+      {
+        "name": "BARRIAL HUAMAN aracely Anyeli FIR 73800700 sw a97377f03de9d5ef2809f7d9071c5eb816880dcf",
+        "dni": "73800700",
+        "signing_time_utc": "2026-04-13T03:35:56+00:00",
+        "delta_vs_fr_h": 1.426111111111111
+      },
+      {
+        "name": "BALBIN ENRIQUE marcos Valentin FIR 78829279 sw 75a7d227a50438e8f8eedae166cd5eac9b16a63a",
+        "dni": "78829279",
+        "signing_time_utc": "2026-04-13T03:36:33+00:00",
+        "delta_vs_fr_h": 1.436388888888889
+      },
+      {
+        "name": "FABIAN REYES melania Guadalupe FIR 43466485 sw 1ec0c905a7f761c4f5eb35eadb06eefa0160d44b",
+        "dni": "43466485",
+        "signing_time_utc": "2026-04-13T03:37:02+00:00",
+        "delta_vs_fr_h": 1.4444444444444444
+      },
+      {
+        "name": "ROJAS PEREZ anamaria Julia FIR 09582605 sw 04786c0b47f80c5c26bdad9b31f6d9bc6b66f8d6",
+        "dni": "09582605",
+        "signing_time_utc": "2026-04-13T03:37:41+00:00",
+        "delta_vs_fr_h": 1.4552777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:10:22+00:00"
+    }
+  ]
+}

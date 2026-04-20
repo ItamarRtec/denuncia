@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "036881",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.618822+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL SEDE LOCAL 07",
+    "codigo_local": "34867",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 242,
+    "total_votos_validos": 223,
+    "porcentaje_participacion": 80.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413095251-05'00'",
+    "mod_date_raw": "D:20260413095251-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3e235790e34f2d83662c8bbe238ed50065046d674f0643e453ae82886c6cbb95",
+  "pdf_size_bytes": 831423,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:23:04+00:00",
+    "pdf_created_utc": "2026-04-13T14:52:51+00:00",
+    "delta_pdf_vs_fr_seconds": 41387.0,
+    "delta_pdf_vs_fr_hours": 11.49638888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:46:03.291000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:53:09+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:53:34+00:00",
+    "delta_primer_humano_vs_fr_h": 11.501388888888888,
+    "delta_ultimo_humano_vs_fr_h": 11.508333333333333,
+    "agente_utc": "2026-04-13T03:22:08+00:00",
+    "delta_agente_vs_fr_h": -0.015555555555555555,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ FERNANDEZ markos FIR 40688753 sw ea9ac8af260731c6bbaa65c56fb9d2b0d908aee5",
+        "dni": "40688753",
+        "signing_time_utc": "2026-04-13T14:53:09+00:00",
+        "delta_vs_fr_h": 11.501388888888888
+      },
+      {
+        "name": "VARGAS CARPIO edgar Martin FIR 43226734 sw e7a1064ae0602e0b6f71509f128efd1880b44fc2",
+        "dni": "43226734",
+        "signing_time_utc": "2026-04-13T14:53:22+00:00",
+        "delta_vs_fr_h": 11.505
+      },
+      {
+        "name": "ULLOA CRUZADO consuelo Rosa FIR 43670401 sw 69e3fabae4b8a6710df2ca01bad4f97688f3c5c9",
+        "dni": "43670401",
+        "signing_time_utc": "2026-04-13T14:53:34+00:00",
+        "delta_vs_fr_h": 11.508333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:23:04+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:22:11+00:00"
+    }
+  ]
+}

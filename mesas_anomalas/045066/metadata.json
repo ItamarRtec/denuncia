@@ -1,0 +1,91 @@
+{
+  "codigo_mesa": "045066",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.035229+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO ADVENTISTA MIRAFLORES",
+    "codigo_local": "2984",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 225,
+    "total_votos_validos": 209,
+    "porcentaje_participacion": 75.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412230549-05'00'",
+    "mod_date_raw": "D:20260412230549-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "03560538d34cab0e907aedd413f0ee6630c4913ca57a15f7d5ac0019813ce4e2",
+  "pdf_size_bytes": 857396,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:05:06+00:00",
+    "pdf_created_utc": "2026-04-13T04:05:49+00:00",
+    "delta_pdf_vs_fr_seconds": 7243.0,
+    "delta_pdf_vs_fr_hours": 2.0119444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:33:22.881000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:06:25+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:09:05+00:00",
+    "delta_primer_humano_vs_fr_h": 2.0219444444444443,
+    "delta_ultimo_humano_vs_fr_h": 2.066388888888889,
+    "agente_utc": "2026-04-13T01:40:19+00:00",
+    "delta_agente_vs_fr_h": -0.41305555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DEL ROSARIO ALIAGA lorena Elizabeth FIR 10278643 sw a10c5f49178fa036ccef60862750ea07b26de687",
+        "dni": "10278643",
+        "signing_time_utc": "2026-04-13T04:06:25+00:00",
+        "delta_vs_fr_h": 2.0219444444444443
+      },
+      {
+        "name": "D'ARRIGO MACAVILCA victor Guillermo FIR 25699596 sw 5eb37fe1c00b01eef058f10c795f6052b3c510e1",
+        "dni": "25699596",
+        "signing_time_utc": "2026-04-13T04:06:57+00:00",
+        "delta_vs_fr_h": 2.0308333333333333
+      },
+      {
+        "name": "FERNANDEZ HUERTA aracelli FIR 07823996 sw a5ff7ef5d4dd96ede2f707b658af35cf9449773f",
+        "dni": "07823996",
+        "signing_time_utc": "2026-04-13T04:07:22+00:00",
+        "delta_vs_fr_h": 2.037777777777778
+      },
+      {
+        "name": "SOTELO VASQUEZ marco Antonio Francisco FIR 43351252 sw 0eaf480023b3a8df8b0521a0cd1023b9e1d069c6",
+        "dni": "43351252",
+        "signing_time_utc": "2026-04-13T04:09:05+00:00",
+        "delta_vs_fr_h": 2.066388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:05:06+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:40:21+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054516",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.381297+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "EL AGUSTINO",
+    "ubigeo": "140135",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTADIO MUNICIPAL MARCELINO CCAICO ARONE",
+    "codigo_local": "13105",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 260,
+    "total_votos_validos": 229,
+    "porcentaje_participacion": 86.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215336-05'00'",
+    "mod_date_raw": "D:20260412215336-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "108b819b878068b741b6aac3503889f791f971223f257fd5d837ef3c090f99df",
+  "pdf_size_bytes": 830186,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:09:05+00:00",
+    "pdf_created_utc": "2026-04-13T02:53:36+00:00",
+    "delta_pdf_vs_fr_seconds": 6271.0,
+    "delta_pdf_vs_fr_hours": 1.7419444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:37:36.615000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:53:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:54:18+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7461111111111112,
+    "delta_ultimo_humano_vs_fr_h": 1.753611111111111,
+    "agente_utc": "2026-04-13T01:09:03+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "QUISPE CHAVEZ bety FIR 09939505 sw 47fed7b83524707615d2b869480b75620561d2f0",
+        "dni": "09939505",
+        "signing_time_utc": "2026-04-13T02:53:51+00:00",
+        "delta_vs_fr_h": 1.7461111111111112
+      },
+      {
+        "name": "QUISPE CUBA paulino Julio FIR 09424491 sw bc387fceb56b02bbc826a5aab4a2343cd46804af",
+        "dni": "09424491",
+        "signing_time_utc": "2026-04-13T02:54:07+00:00",
+        "delta_vs_fr_h": 1.7505555555555556
+      },
+      {
+        "name": "QUIQUIA LIVIA santos Nelson FIR 10469287 sw 470aca989b7f1edd87bf385e6a242cea7e1ad5c7",
+        "dni": "10469287",
+        "signing_time_utc": "2026-04-13T02:54:18+00:00",
+        "delta_vs_fr_h": 1.753611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:09:05+00:00"
+    }
+  ]
+}

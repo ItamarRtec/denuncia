@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "053041",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.040167+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP REINA CARMELITA",
+    "codigo_local": "14417",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 151,
+    "total_votos_validos": 121,
+    "porcentaje_participacion": 65.652
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090250-05'00'",
+    "mod_date_raw": "D:20260413090250-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "278f0f3e281bca7345bacf949ba7aa6c40570cf77d11604f60ea33d6e4405d36",
+  "pdf_size_bytes": 831261,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:55:39+00:00",
+    "pdf_created_utc": "2026-04-13T14:02:50+00:00",
+    "delta_pdf_vs_fr_seconds": 40031.0,
+    "delta_pdf_vs_fr_hours": 11.119722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T08:00:05.733000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:03:13+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:03:50+00:00",
+    "delta_primer_humano_vs_fr_h": 11.126111111111111,
+    "delta_ultimo_humano_vs_fr_h": 11.136388888888888,
+    "agente_utc": "2026-04-13T02:55:37+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ALBINO CONTRERAS mathias Esteban FIR 61293947 sw 670bfc7103790b8c95a3a04f4f55793c7c7ad30f",
+        "dni": "61293947",
+        "signing_time_utc": "2026-04-13T14:03:13+00:00",
+        "delta_vs_fr_h": 11.126111111111111
+      },
+      {
+        "name": "ARTEAGA BOHORQUEZ sebastian Jesus FIR 60977466 sw 95c0905de3d037e65e90c38a25960ed8b5c4baa6",
+        "dni": "60977466",
+        "signing_time_utc": "2026-04-13T14:03:31+00:00",
+        "delta_vs_fr_h": 11.13111111111111
+      },
+      {
+        "name": "ATAUCUSI HUAMANI natali Victoria FIR 60990600 sw 69e56264a2a13235be30cf54c03a799f8bc02243",
+        "dni": "60990600",
+        "signing_time_utc": "2026-04-13T14:03:50+00:00",
+        "delta_vs_fr_h": 11.136388888888888
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:55:39+00:00"
+    }
+  ]
+}

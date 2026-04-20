@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082326",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.777980+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CALLAO",
+    "ubigeo": "240101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "LOSA DEPORTIVA JUAN VELASCO ALVARADO",
+    "codigo_local": "54580",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 213,
+    "total_votos_validos": 187,
+    "porcentaje_participacion": 71.237
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413074246-05'00'",
+    "mod_date_raw": "D:20260413074246-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "83f838e295c46f5a1c81fd7495558098fac5f667ec41cd2458e2aea73805f3e4",
+  "pdf_size_bytes": 830326,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:28:45+00:00",
+    "pdf_created_utc": "2026-04-13T12:42:46+00:00",
+    "delta_pdf_vs_fr_seconds": 36841.0,
+    "delta_pdf_vs_fr_hours": 10.233611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T06:07:25.218000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:58:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:02:40+00:00",
+    "delta_primer_humano_vs_fr_h": 10.493333333333334,
+    "delta_ultimo_humano_vs_fr_h": 10.565277777777778,
+    "agente_utc": "2026-04-13T02:27:24+00:00",
+    "delta_agente_vs_fr_h": -0.0225,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CODARLUPO ALEJOS jose Luis FIR 25525763 sw 54148710982a0d781fa8879ef0628648807ff122",
+        "dni": "25525763",
+        "signing_time_utc": "2026-04-13T12:58:21+00:00",
+        "delta_vs_fr_h": 10.493333333333334
+      },
+      {
+        "name": "CANO ESTRADA cielo Cristina FIR 73263973 sw 5def83f115b4d7e973ba9863c06201c17c9ad4f1",
+        "dni": "73263973",
+        "signing_time_utc": "2026-04-13T13:00:45+00:00",
+        "delta_vs_fr_h": 10.533333333333333
+      },
+      {
+        "name": "CHAVEZ RAMIREZ ana Paula FIR 72578003 sw b83a320dac44f9d46bcaa27c6eb7de5167f3c055",
+        "dni": "72578003",
+        "signing_time_utc": "2026-04-13T13:02:40+00:00",
+        "delta_vs_fr_h": 10.565277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:28:45+00:00"
+    }
+  ]
+}

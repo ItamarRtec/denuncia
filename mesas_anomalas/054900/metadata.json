@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054900",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.726500+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6037 INCA PACHACUTEC - SECUNDARIA",
+    "codigo_local": "3349",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 230,
+    "total_votos_validos": 206,
+    "porcentaje_participacion": 76.923
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413065016-05'00'",
+    "mod_date_raw": "D:20260413065016-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "2e0799cf0448f5363390a894dec1bb2c5b26501fd897d54bec171400a71aa0d7",
+  "pdf_size_bytes": 831317,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:55:16+00:00",
+    "pdf_created_utc": "2026-04-13T11:50:16+00:00",
+    "delta_pdf_vs_fr_seconds": 35700.0,
+    "delta_pdf_vs_fr_hours": 9.916666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:28:27.519000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T11:51:00+00:00",
+    "ultimo_humano_utc": "2026-04-13T11:51:23+00:00",
+    "delta_primer_humano_vs_fr_h": 9.928888888888888,
+    "delta_ultimo_humano_vs_fr_h": 9.935277777777777,
+    "agente_utc": "2026-04-13T01:55:14+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PARRAGUEZ MERCADO diana Elizabeth FIR 72506010 sw 09b97d749e14b2ced5784f7af2fb4e883115edf2",
+        "dni": "72506010",
+        "signing_time_utc": "2026-04-13T11:51:00+00:00",
+        "delta_vs_fr_h": 9.928888888888888
+      },
+      {
+        "name": "PEREZ NOLORBE juan Pablo FIR 47935019 sw 1346c1fd39c1dcd4112d7cb1f6d661b094b3b019",
+        "dni": "47935019",
+        "signing_time_utc": "2026-04-13T11:51:12+00:00",
+        "delta_vs_fr_h": 9.932222222222222
+      },
+      {
+        "name": "PRADO CABRERA lucyen Marye FIR 48297938 sw 1857cb70df50f38fa73a8a992ff19323e30c1ec7",
+        "dni": "48297938",
+        "signing_time_utc": "2026-04-13T11:51:23+00:00",
+        "delta_vs_fr_h": 9.935277777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:55:16+00:00"
+    }
+  ]
+}

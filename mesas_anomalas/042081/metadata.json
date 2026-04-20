@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "042081",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.010040+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7077 LOS REYES ROJOS",
+    "codigo_local": "12980",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 250,
+    "total_votos_validos": 212,
+    "porcentaje_participacion": 83.612
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412214758-05'00'",
+    "mod_date_raw": "D:20260412214758-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "efda7504e052d465499dc4aa4aad4184ced8574756de0bc07cf62d8f77c27e9b",
+  "pdf_size_bytes": 831666,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:29:04+00:00",
+    "pdf_created_utc": "2026-04-13T02:47:58+00:00",
+    "delta_pdf_vs_fr_seconds": 4734.0,
+    "delta_pdf_vs_fr_hours": 1.315,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:19:45.391000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T02:48:44+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:48:57+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3277777777777777,
+    "delta_ultimo_humano_vs_fr_h": 1.331388888888889,
+    "agente_utc": "2026-04-13T01:29:02+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BRAVO QUISPE feliciano FIR 41699123 sw 45ac81704166d9a9fbb304a4b9afb535d513fd7b",
+        "dni": "41699123",
+        "signing_time_utc": "2026-04-13T02:48:44+00:00",
+        "delta_vs_fr_h": 1.3277777777777777
+      },
+      {
+        "name": "BLAS SUAREZ aileen Xiomara FIR 61217168 sw 0d33d41adcb4af21c03bc71ee82c30c06e3b0810",
+        "dni": "61217168",
+        "signing_time_utc": "2026-04-13T02:48:57+00:00",
+        "delta_vs_fr_h": 1.331388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:29:04+00:00"
+    }
+  ]
+}

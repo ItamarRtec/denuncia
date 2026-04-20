@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045697",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.576109+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PACHACÁMAC",
+    "ubigeo": "140116",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SEÑOR DE LA ASCENSION",
+    "codigo_local": "13538",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 201,
+    "porcentaje_participacion": 81.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413002048-05'00'",
+    "mod_date_raw": "D:20260413002048-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "75a2d25f239e0ba75cbcea5e5164efc69d9edb9e21952deba02ebb5660f95ddb",
+  "pdf_size_bytes": 831525,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:04:19+00:00",
+    "pdf_created_utc": "2026-04-13T05:20:48+00:00",
+    "delta_pdf_vs_fr_seconds": 11789.0,
+    "delta_pdf_vs_fr_hours": 3.274722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:43:16.960000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:21:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:21:46+00:00",
+    "delta_primer_humano_vs_fr_h": 3.2830555555555554,
+    "delta_ultimo_humano_vs_fr_h": 3.2908333333333335,
+    "agente_utc": "2026-04-13T02:03:44+00:00",
+    "delta_agente_vs_fr_h": -0.009722222222222222,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VILCA BAUTISTA diego D'alessandro FIR 61148542 sw 9adde0d373953103fa2addb93fea3d608e674963",
+        "dni": "61148542",
+        "signing_time_utc": "2026-04-13T05:21:18+00:00",
+        "delta_vs_fr_h": 3.2830555555555554
+      },
+      {
+        "name": "ZEVALLOS CALDERON edgar Demetrio FIR 10595998 sw 4987499fb27fc0f4349a26403304221fe7517bf3",
+        "dni": "10595998",
+        "signing_time_utc": "2026-04-13T05:21:30+00:00",
+        "delta_vs_fr_h": 3.286388888888889
+      },
+      {
+        "name": "ZEGOVIA ROJAS gladis Angelica FIR 09744904 sw c51090e5e27a88f444967797185ff3a03aade1ae",
+        "dni": "09744904",
+        "signing_time_utc": "2026-04-13T05:21:46+00:00",
+        "delta_vs_fr_h": 3.2908333333333335
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:04:19+00:00"
+    }
+  ]
+}

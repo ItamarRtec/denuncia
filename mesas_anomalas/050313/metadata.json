@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050313",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.846570+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO SACO OLIVEROS DE SAN MIGUEL",
+    "codigo_local": "52595",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 222,
+    "total_votos_validos": 201,
+    "porcentaje_participacion": 74.247
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413081954-05'00'",
+    "mod_date_raw": "D:20260413081954-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4c735bed3926eef1ee5d04a827478f32e4a01b08d3481a3a7416b6c3ce34b279",
+  "pdf_size_bytes": 855962,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:36:16+00:00",
+    "pdf_created_utc": "2026-04-13T13:19:54+00:00",
+    "delta_pdf_vs_fr_seconds": 38618.0,
+    "delta_pdf_vs_fr_hours": 10.727222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T07:47:30.238000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:20:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:21:30+00:00",
+    "delta_primer_humano_vs_fr_h": 10.736666666666666,
+    "delta_ultimo_humano_vs_fr_h": 10.75388888888889,
+    "agente_utc": "2026-04-13T02:36:13+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "UZURIAGA JARA monica Isabel FIR 46302019 sw a4adae84503b7b6d6531b3e6a92cfae5e52931db",
+        "dni": "46302019",
+        "signing_time_utc": "2026-04-13T13:20:28+00:00",
+        "delta_vs_fr_h": 10.736666666666666
+      },
+      {
+        "name": "TUESTA RIVASPLATA karin FIR 09915527 sw 4c12c9be9dcf44c1601afb1aa305f022e8464152",
+        "dni": "09915527",
+        "signing_time_utc": "2026-04-13T13:20:46+00:00",
+        "delta_vs_fr_h": 10.741666666666667
+      },
+      {
+        "name": "MENDOZA HIDALGO karina Silvanette FIR 10146196 sw f57b9a1df586d33071451a69b7fd83699439adbb",
+        "dni": "10146196",
+        "signing_time_utc": "2026-04-13T13:21:30+00:00",
+        "delta_vs_fr_h": 10.75388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:36:16+00:00"
+    }
+  ]
+}

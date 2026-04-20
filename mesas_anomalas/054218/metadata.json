@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054218",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.424206+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "INDEPENDENCIA",
+    "ubigeo": "140134",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP CESAR VALLEJO DE PAYET",
+    "codigo_local": "54297",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 215,
+    "total_votos_validos": 169,
+    "porcentaje_participacion": 71.906
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412205615-05'00'",
+    "mod_date_raw": "D:20260412205615-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "36787f704b5122f69d439934168bb8b9667fba0e4535e102d2c684880745fd9a",
+  "pdf_size_bytes": 830800,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:45:24+00:00",
+    "pdf_created_utc": "2026-04-13T01:56:15+00:00",
+    "delta_pdf_vs_fr_seconds": 4251.0,
+    "delta_pdf_vs_fr_hours": 1.1808333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T00:55:43.524000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T01:56:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T01:57:00+00:00",
+    "delta_primer_humano_vs_fr_h": 1.1844444444444444,
+    "delta_ultimo_humano_vs_fr_h": 1.1933333333333334,
+    "agente_utc": "2026-04-13T00:45:22+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AKAMINE OCHOA jorge Esteban FIR 74978837 sw c37a15274fccf2275b863928f9b374f012f80f3b",
+        "dni": "74978837",
+        "signing_time_utc": "2026-04-13T01:56:28+00:00",
+        "delta_vs_fr_h": 1.1844444444444444
+      },
+      {
+        "name": "ALCANTARA PORTILLO ariana Araceli FIR 74853811 sw 44a773a6b64e105b77f8e87294a08cf48bdb1932",
+        "dni": "74853811",
+        "signing_time_utc": "2026-04-13T01:56:44+00:00",
+        "delta_vs_fr_h": 1.1888888888888889
+      },
+      {
+        "name": "BAYLON CAMPOJO luis Fabrizzio FIR 75679184 sw e8c74030bbf9d07c0b03d8f44e41de435b70f5c6",
+        "dni": "75679184",
+        "signing_time_utc": "2026-04-13T01:57:00+00:00",
+        "delta_vs_fr_h": 1.1933333333333334
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:45:24+00:00"
+    }
+  ]
+}

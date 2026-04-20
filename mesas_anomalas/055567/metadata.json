@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055567",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.417959+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6045 DOLORES CAVERO DE GRAU",
+    "codigo_local": "7437",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 223,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 74.582
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004026-05'00'",
+    "mod_date_raw": "D:20260413004026-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3465df27787c8e504d2ecdc70bf2e1c20c04f6f94f8cfeabb2b2c608854c9ae2",
+  "pdf_size_bytes": 829718,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:11:05+00:00",
+    "pdf_created_utc": "2026-04-13T05:40:26+00:00",
+    "delta_pdf_vs_fr_seconds": 8961.0,
+    "delta_pdf_vs_fr_hours": 2.4891666666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:17:37.213000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:40:46+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:41:23+00:00",
+    "delta_primer_humano_vs_fr_h": 2.4947222222222223,
+    "delta_ultimo_humano_vs_fr_h": 2.505,
+    "agente_utc": "2026-04-13T03:11:04+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ESTRADA CLEMENTE melissa Zulema FIR 42953268 sw 2464e4140fa7b93bf364052f5f3a4cd89e9360b0",
+        "dni": "42953268",
+        "signing_time_utc": "2026-04-13T05:40:46+00:00",
+        "delta_vs_fr_h": 2.4947222222222223
+      },
+      {
+        "name": "DIAZ OROS marco FIR 42449591 sw 2ae19fd07950f25f1d468ea9ac448cb2c15d3504",
+        "dni": "42449591",
+        "signing_time_utc": "2026-04-13T05:41:07+00:00",
+        "delta_vs_fr_h": 2.5005555555555556
+      },
+      {
+        "name": "FERNANDEZ PAMPA jose Antonio FIR 42825429 sw 6c29d9672d63a9c837f74d316ba76a7698f3c480",
+        "dni": "42825429",
+        "signing_time_utc": "2026-04-13T05:41:23+00:00",
+        "delta_vs_fr_h": 2.505
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:11:05+00:00"
+    }
+  ]
+}

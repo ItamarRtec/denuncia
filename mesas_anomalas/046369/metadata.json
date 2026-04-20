@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "046369",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.545169+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUENTE PIEDRA",
+    "ubigeo": "140119",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5168 ROSA LUZ",
+    "codigo_local": "3036",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 262,
+    "total_votos_validos": 227,
+    "porcentaje_participacion": 87.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413084030-05'00'",
+    "mod_date_raw": "D:20260413084030-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "285934e852e8730bd07a550537d56a9cf99b66f919af621c97a04fc07032915e",
+  "pdf_size_bytes": 830830,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:04:07+00:00",
+    "pdf_created_utc": "2026-04-13T13:40:30+00:00",
+    "delta_pdf_vs_fr_seconds": 38183.0,
+    "delta_pdf_vs_fr_hours": 10.606388888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:52:04.281000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:45:12+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:51:27+00:00",
+    "delta_primer_humano_vs_fr_h": 10.684722222222222,
+    "delta_ultimo_humano_vs_fr_h": 10.78888888888889,
+    "agente_utc": "2026-04-13T03:04:05+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PORLLES TAPULLIMA daniela Patricia FIR 75284999 sw baaf2c60d12ea7b6f4da5abcd4d6fe718d49cea8",
+        "dni": "75284999",
+        "signing_time_utc": "2026-04-13T13:45:12+00:00",
+        "delta_vs_fr_h": 10.684722222222222
+      },
+      {
+        "name": "QUISPE CORONEL lizet Dolores FIR 41398029 sw 2027c0250222c0282a353ee91f87e608086d808d",
+        "dni": "41398029",
+        "signing_time_utc": "2026-04-13T13:49:16+00:00",
+        "delta_vs_fr_h": 10.7525
+      },
+      {
+        "name": "QUISPE RAMIREZ marco FIR 09605694 sw c1ec3f8fa09d1485be3d98d41bf1f7f6cd775b21",
+        "dni": "09605694",
+        "signing_time_utc": "2026-04-13T13:51:27+00:00",
+        "delta_vs_fr_h": 10.78888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:04:07+00:00"
+    }
+  ]
+}

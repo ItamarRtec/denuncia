@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "050826",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.240847+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "MONTERRICO IE APLICACION",
+    "codigo_local": "3209",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 238,
+    "porcentaje_participacion": 81.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412231958-05'00'",
+    "mod_date_raw": "D:20260412231958-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "1f25da37b710cc7c733189ba790bd2f6670f9797fd54c9dc168e7105c8e395fe",
+  "pdf_size_bytes": 856089,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:53:58+00:00",
+    "pdf_created_utc": "2026-04-13T04:19:58+00:00",
+    "delta_pdf_vs_fr_seconds": 12360.0,
+    "delta_pdf_vs_fr_hours": 3.433333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:32:48.767000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:20:52+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:21:51+00:00",
+    "delta_primer_humano_vs_fr_h": 3.4483333333333333,
+    "delta_ultimo_humano_vs_fr_h": 3.464722222222222,
+    "agente_utc": "2026-04-13T00:53:56+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "LEEY CASELLA luis Alberto FIR 15857806 sw 249e6ac01e32525ee5da8bb80f3f9affe423bb8c",
+        "dni": "15857806",
+        "signing_time_utc": "2026-04-13T04:20:52+00:00",
+        "delta_vs_fr_h": 3.4483333333333333
+      },
+      {
+        "name": "HARTLEY SOTOMAYOR alex Christian FIR 10287477 sw 0143bd08a37d4e3bdee259aea0e0dc39f8cce3d9",
+        "dni": "10287477",
+        "signing_time_utc": "2026-04-13T04:21:06+00:00",
+        "delta_vs_fr_h": 3.4522222222222223
+      },
+      {
+        "name": "HERRERA MINAYA rodrigo Ernesto FIR 75189679 sw 2fdbbace22adae825bf8c74017b8d706c8060b2b",
+        "dni": "75189679",
+        "signing_time_utc": "2026-04-13T04:21:20+00:00",
+        "delta_vs_fr_h": 3.456111111111111
+      },
+      {
+        "name": "GONZALEZ CALDERON eduardo Octavio FIR 17917690 sw a8350d15a34b33068daeb8899b74b0e112363af1",
+        "dni": "17917690",
+        "signing_time_utc": "2026-04-13T04:21:51+00:00",
+        "delta_vs_fr_h": 3.464722222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:53:58+00:00"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "040268",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.737432+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 3060 ALFONSO UGARTE VERNAL",
+    "codigo_local": "2808",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 226,
+    "porcentaje_participacion": 81.94
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211849-05'00'",
+    "mod_date_raw": "D:20260412211849-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0b09b0cef8a7a263f201afb863d45497f6957009644f65fd82e9bc6567ec35dc",
+  "pdf_size_bytes": 831602,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:55:30+00:00",
+    "pdf_created_utc": "2026-04-13T02:18:49+00:00",
+    "delta_pdf_vs_fr_seconds": 4999.0,
+    "delta_pdf_vs_fr_hours": 1.388611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:32:34.585000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:19:06+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:19:53+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3933333333333333,
+    "delta_ultimo_humano_vs_fr_h": 1.406388888888889,
+    "agente_utc": "2026-04-13T00:54:05+00:00",
+    "delta_agente_vs_fr_h": -0.02361111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "LUCERO FLORES victor Felipe FIR 46021259 sw be8fbf3642dccb994a905ffd8be1a11ee1bc7ae5",
+        "dni": "46021259",
+        "signing_time_utc": "2026-04-13T02:19:06+00:00",
+        "delta_vs_fr_h": 1.3933333333333333
+      },
+      {
+        "name": "MALDONADO CAICEDO jorge Joston FIR 06012372 sw 815eca5a587f302a64df299b0f39eec31b7debee",
+        "dni": "06012372",
+        "signing_time_utc": "2026-04-13T02:19:37+00:00",
+        "delta_vs_fr_h": 1.4019444444444444
+      },
+      {
+        "name": "LEZAMETA MALPARTIDA florenzo FIR 06927517 sw 55039073e6e4ee577f9b116350c38d16b8033b1a",
+        "dni": "06927517",
+        "signing_time_utc": "2026-04-13T02:19:53+00:00",
+        "delta_vs_fr_h": 1.406388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:55:30+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:54:07+00:00"
+    }
+  ]
+}

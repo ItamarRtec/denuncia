@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "038911",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.949520+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "BREÑA",
+    "ubigeo": "140104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE EMBLEMATICA MARIANO MELGAR",
+    "codigo_local": "2752",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 251,
+    "total_votos_validos": 225,
+    "porcentaje_participacion": 83.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413081732-05'00'",
+    "mod_date_raw": "D:20260413081732-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "220615b32fd5679b3b12622393bf063dc43df06500b29d9c5943e34d3c0ad2f2",
+  "pdf_size_bytes": 831372,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:52:36+00:00",
+    "pdf_created_utc": "2026-04-13T13:17:32+00:00",
+    "delta_pdf_vs_fr_seconds": 41096.0,
+    "delta_pdf_vs_fr_hours": 11.415555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:46:18.585000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:18:09+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:18:38+00:00",
+    "delta_primer_humano_vs_fr_h": 11.425833333333333,
+    "delta_ultimo_humano_vs_fr_h": 11.43388888888889,
+    "agente_utc": "2026-04-13T01:52:34+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "OLIVARES ROJAS roberto Carlos FIR 44892645 sw 77a7c6b422b8815b44586946d72671a161184bb7",
+        "dni": "44892645",
+        "signing_time_utc": "2026-04-13T13:18:09+00:00",
+        "delta_vs_fr_h": 11.425833333333333
+      },
+      {
+        "name": "NAVARRO CUETO cesar Jesus FIR 06686234 sw 2ed7a920eddd8502cd7f3af8d93af47dcd64e996",
+        "dni": "06686234",
+        "signing_time_utc": "2026-04-13T13:18:27+00:00",
+        "delta_vs_fr_h": 11.430833333333334
+      },
+      {
+        "name": "OLIVAS VERGARA maria Guadalupe FIR 44890129 sw 452b42eb615b56c63ae9e8e24221cea7a563d415",
+        "dni": "44890129",
+        "signing_time_utc": "2026-04-13T13:18:38+00:00",
+        "delta_vs_fr_h": 11.43388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:52:36+00:00"
+    }
+  ]
+}

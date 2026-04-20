@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051785",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.426403+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE NUESTRA SEÑORA DE LOURDES",
+    "codigo_local": "3233",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 219,
+    "total_votos_validos": 201,
+    "porcentaje_participacion": 73.244
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220022-05'00'",
+    "mod_date_raw": "D:20260412220022-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "021ddda8e5567ae37166bac4ca5ff1edf96558c1a8f87516d826a978f00a1133",
+  "pdf_size_bytes": 829821,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:57:20+00:00",
+    "pdf_created_utc": "2026-04-13T03:00:22+00:00",
+    "delta_pdf_vs_fr_seconds": 7382.0,
+    "delta_pdf_vs_fr_hours": 2.0505555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:36:01.298000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:00:52+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:01:10+00:00",
+    "delta_primer_humano_vs_fr_h": 2.0588888888888888,
+    "delta_ultimo_humano_vs_fr_h": 2.063888888888889,
+    "agente_utc": "2026-04-13T00:57:18+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CASTRO CHUNGA joshua Emanuel FIR 61106969 sw 5fe230a4114eb9219d36be1a5e9134a61b442cf5",
+        "dni": "61106969",
+        "signing_time_utc": "2026-04-13T03:00:52+00:00",
+        "delta_vs_fr_h": 2.0588888888888888
+      },
+      {
+        "name": "CHURATA PAUCAR marcelino FIR 21866774 sw 8ac49f127c5d4d364b514b93ff0555e0e631ad35",
+        "dni": "21866774",
+        "signing_time_utc": "2026-04-13T03:01:01+00:00",
+        "delta_vs_fr_h": 2.0613888888888887
+      },
+      {
+        "name": "CHIPAO PUMACAYO kelvin Felix FIR 43053383 sw 57976731c004c7c77402d52e2020fb620f588d42",
+        "dni": "43053383",
+        "signing_time_utc": "2026-04-13T03:01:10+00:00",
+        "delta_vs_fr_h": 2.063888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:57:20+00:00"
+    }
+  ]
+}

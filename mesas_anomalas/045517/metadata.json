@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045517",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.399859+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PACHACÁMAC",
+    "ubigeo": "140116",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6007",
+    "codigo_local": "3001",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 215,
+    "porcentaje_participacion": 81.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413011141-05'00'",
+    "mod_date_raw": "D:20260413011141-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "046b50a2151a7a3227c293c77c2302f168cbf801eaa7e27890478f7f37130e06",
+  "pdf_size_bytes": 831854,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:08:35+00:00",
+    "pdf_created_utc": "2026-04-13T06:11:41+00:00",
+    "delta_pdf_vs_fr_seconds": 14586.0,
+    "delta_pdf_vs_fr_hours": 4.051666666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:59:29.026000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T06:12:33+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:13:02+00:00",
+    "delta_primer_humano_vs_fr_h": 4.066111111111111,
+    "delta_ultimo_humano_vs_fr_h": 4.074166666666667,
+    "agente_utc": "2026-04-13T02:08:31+00:00",
+    "delta_agente_vs_fr_h": -0.0011111111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MENDOZA BULEJE wilfredo Valentin FIR 42183919 sw c0a89197d8a5750772cc865623e3815f423ca181",
+        "dni": "42183919",
+        "signing_time_utc": "2026-04-13T06:12:33+00:00",
+        "delta_vs_fr_h": 4.066111111111111
+      },
+      {
+        "name": "PALOMINO BERROSPI lucia Natividad FIR 07386387 sw ab7ad6a3d16789d08fc84a091d551f5ad2b0eb50",
+        "dni": "07386387",
+        "signing_time_utc": "2026-04-13T06:12:49+00:00",
+        "delta_vs_fr_h": 4.070555555555556
+      },
+      {
+        "name": "PALOMINO CARHUAPUMA grimanex Donato FIR 70441728 sw f95b1556c2cdead676b8d2f6f72757dce97be683",
+        "dni": "70441728",
+        "signing_time_utc": "2026-04-13T06:13:02+00:00",
+        "delta_vs_fr_h": 4.074166666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:08:35+00:00"
+    }
+  ]
+}

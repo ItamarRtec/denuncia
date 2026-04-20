@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "052667",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.574246+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE TUPAC AMARU",
+    "codigo_local": "3275",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 81.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225037-05'00'",
+    "mod_date_raw": "D:20260412225037-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5b4a0274c3eb6d3cb159a4aa7b36e194351b50890fe344e20c918639bd1ba331",
+  "pdf_size_bytes": 830545,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:37:31+00:00",
+    "pdf_created_utc": "2026-04-13T03:50:37+00:00",
+    "delta_pdf_vs_fr_seconds": 7986.0,
+    "delta_pdf_vs_fr_hours": 2.2183333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:12:55.340000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:51:22+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:51:53+00:00",
+    "delta_primer_humano_vs_fr_h": 2.2308333333333334,
+    "delta_ultimo_humano_vs_fr_h": 2.2394444444444446,
+    "agente_utc": "2026-04-13T01:37:29+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MARTINEZ MEDRANO vladimir Joel FIR 42875899 sw 6c5cfb6c41df58579855146950d0674f70af98f5",
+        "dni": "42875899",
+        "signing_time_utc": "2026-04-13T03:51:22+00:00",
+        "delta_vs_fr_h": 2.2308333333333334
+      },
+      {
+        "name": "MAMANI CANGRE rocio Danicsa FIR 43985773 sw 8b0118d46bd86f32f51d8b5b0a8f636f535b8bc5",
+        "dni": "43985773",
+        "signing_time_utc": "2026-04-13T03:51:38+00:00",
+        "delta_vs_fr_h": 2.2352777777777777
+      },
+      {
+        "name": "MACHA MASLUCAN maricielo FIR 73239818 sw 53d9badff99631a8e7b0078f28fa11d4d37f4568",
+        "dni": "73239818",
+        "signing_time_utc": "2026-04-13T03:51:53+00:00",
+        "delta_vs_fr_h": 2.2394444444444446
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:37:31+00:00"
+    }
+  ]
+}

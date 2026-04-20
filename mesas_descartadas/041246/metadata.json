@@ -1,0 +1,68 @@
+{
+  "codigo_mesa": "041246",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:00.107009+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP MI BUEN JESUS",
+    "codigo_local": "50988",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 194,
+    "porcentaje_participacion": 81.94
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223818-05'00'",
+    "mod_date_raw": "D:20260412223818-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "73c1719b2e681b1dd095e604ec5f8a79a9b611eb1d03b7cdf8d2d382b7b439ac",
+  "pdf_size_bytes": 831645,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T02:30:01.383000+00:00",
+    "pdf_created_utc": "2026-04-13T03:38:18+00:00",
+    "delta_create_upload_seconds": -4096.6,
+    "delta_create_upload_hours": -1.1379444444444446,
+    "delta_create_upload_days": -0.04741435185185185
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:39:00+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:39:26+00:00",
+    "delta_primer_humano_h": 1.1496158333333333,
+    "delta_ultimo_humano_h": 1.1568380555555555,
+    "delta_agente_h": -0.5417730555555555,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "QUEZADA CUBA luis Alberto FIR 09473817 sw 0ef2d13bd507871d75fae2bb961f1e44f1c9b05b",
+        "dni": "09473817",
+        "signing_time_utc": "2026-04-13T03:39:00+00:00"
+      },
+      {
+        "name": "ROCCA COLLANTES hugo Miguel FIR 06949754 sw 69cd7d20f55c37bb98fd02154430a5b198295b90",
+        "dni": "06949754",
+        "signing_time_utc": "2026-04-13T03:39:15+00:00"
+      },
+      {
+        "name": "ROMERO CASTILLO maria Esperanza FIR 06875237 sw cd1f7552496cad2ed0df08de167714080beef731",
+        "dni": "06875237",
+        "signing_time_utc": "2026-04-13T03:39:26+00:00"
+      }
+    ]
+  }
+}

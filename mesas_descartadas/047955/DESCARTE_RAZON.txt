@@ -1,0 +1,10 @@
+{
+  "mesa": "047955",
+  "razon": "no todas las firmas humanas son post-fechaRegistro",
+  "deltas_humanos_h": [
+    -1.09,
+    -1.08,
+    -1.08,
+    -1.07
+  ]
+}

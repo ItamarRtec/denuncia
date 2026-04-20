@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045169",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.175072+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO INMACULADO CORAZON",
+    "codigo_local": "2991",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 217,
+    "total_votos_validos": 208,
+    "porcentaje_participacion": 72.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413001352-05'00'",
+    "mod_date_raw": "D:20260413001352-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "63edd930130109cb22789af21987a78c7163ab2ad7a654c50bc184cc9e3484d5",
+  "pdf_size_bytes": 830640,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:41:48+00:00",
+    "pdf_created_utc": "2026-04-13T05:13:52+00:00",
+    "delta_pdf_vs_fr_seconds": 12724.0,
+    "delta_pdf_vs_fr_hours": 3.5344444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:32:02.859000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:15:04+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:15:29+00:00",
+    "delta_primer_humano_vs_fr_h": 3.5544444444444445,
+    "delta_ultimo_humano_vs_fr_h": 3.5613888888888887,
+    "agente_utc": "2026-04-13T01:41:46+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BARAZORDA URRUTIA DE RUIZ maria Luisa FIR 07333490 sw 4ac340550daac2724a11ad47cf75d96dfa37f4c6",
+        "dni": "07333490",
+        "signing_time_utc": "2026-04-13T05:15:04+00:00",
+        "delta_vs_fr_h": 3.5544444444444445
+      },
+      {
+        "name": "ARRASCUE BACA antonio Fermin FIR 40615112 sw b766b1553c76f0b21901644c65af3706f114a303",
+        "dni": "40615112",
+        "signing_time_utc": "2026-04-13T05:15:17+00:00",
+        "delta_vs_fr_h": 3.5580555555555557
+      },
+      {
+        "name": "BACA MONGE giselle Graciela FIR 44085134 sw 6b2a1b1056cd7d14585c3e6f1099df0343a5ee70",
+        "dni": "44085134",
+        "signing_time_utc": "2026-04-13T05:15:29+00:00",
+        "delta_vs_fr_h": 3.5613888888888887
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:41:48+00:00"
+    }
+  ]
+}

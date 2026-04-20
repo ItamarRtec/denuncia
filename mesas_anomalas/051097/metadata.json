@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051097",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:10.970414+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "PONTIFICIA UNIVERSIDAD CATOLICA DEL PERU - ESCUELA DE NEGOCIOS CENTRUM PUCP",
+    "codigo_local": "14133",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 279,
+    "total_votos_validos": 273,
+    "porcentaje_participacion": 93.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413001515-05'00'",
+    "mod_date_raw": "D:20260413001515-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b9990182a3e972b5b377c55fe857d7dadee56b4785a2fbe3e240b904f23587ce",
+  "pdf_size_bytes": 831210,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:27:59+00:00",
+    "pdf_created_utc": "2026-04-13T05:15:15+00:00",
+    "delta_pdf_vs_fr_seconds": 13636.0,
+    "delta_pdf_vs_fr_hours": 3.787777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:17:57.351000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:15:32+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:16:19+00:00",
+    "delta_primer_humano_vs_fr_h": 3.7925,
+    "delta_ultimo_humano_vs_fr_h": 3.8055555555555554,
+    "agente_utc": "2026-04-13T01:27:57+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MARQUEZ MARTINEZ valerie Antuane Giovanna FIR 45402274 sw d18374df20a2a4fb0df02081f65888a944b0a9db",
+        "dni": "45402274",
+        "signing_time_utc": "2026-04-13T05:15:32+00:00",
+        "delta_vs_fr_h": 3.7925
+      },
+      {
+        "name": "LOZANO MEZA yanira Margarita FIR 10651050 sw 32eb7278591eb5fc494617f8eeffbfdabda32f84",
+        "dni": "10651050",
+        "signing_time_utc": "2026-04-13T05:15:51+00:00",
+        "delta_vs_fr_h": 3.7977777777777777
+      },
+      {
+        "name": "MACHER ARAGUNDE rodolfo Jose FIR 08772734 sw 043ed5f8efe9203428f86afcafbcb674c0964d8c",
+        "dni": "08772734",
+        "signing_time_utc": "2026-04-13T05:16:19+00:00",
+        "delta_vs_fr_h": 3.8055555555555554
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:27:59+00:00"
+    }
+  ]
+}

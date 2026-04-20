@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "048073",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.684430+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "BARRANCO",
+    "ubigeo": "140125",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6051 MERCEDES INDACOCHEA",
+    "codigo_local": "12821",
+    "total_electores_habiles": 224,
+    "total_votos_emitidos": 162,
+    "total_votos_validos": 152,
+    "porcentaje_participacion": 72.321
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412225629-05'00'",
+    "mod_date_raw": "D:20260412225629-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e55d142641f925778ab02c089e13eb19e333575f97f04214393b3d2ddcdf1465",
+  "pdf_size_bytes": 831588,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:45:13+00:00",
+    "pdf_created_utc": "2026-04-13T03:56:29+00:00",
+    "delta_pdf_vs_fr_seconds": 7876.0,
+    "delta_pdf_vs_fr_hours": 2.187777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:36:42.192000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:57:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:57:54+00:00",
+    "delta_primer_humano_vs_fr_h": 2.201388888888889,
+    "delta_ultimo_humano_vs_fr_h": 2.211388888888889,
+    "agente_utc": "2026-04-13T01:45:11+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ACEVEDO GARCIA maria De Los Angeles FIR 70923621 sw 044d527f89e2f6d7dd27cf29697a9c7e0cc30348",
+        "dni": "70923621",
+        "signing_time_utc": "2026-04-13T03:57:18+00:00",
+        "delta_vs_fr_h": 2.201388888888889
+      },
+      {
+        "name": "ACOSTA VILLAVICENCIO katherine FIR 09729439 sw 42b17bbc492181b821cb91bb717a2e371229580b",
+        "dni": "09729439",
+        "signing_time_utc": "2026-04-13T03:57:41+00:00",
+        "delta_vs_fr_h": 2.207777777777778
+      },
+      {
+        "name": "AGUINAGA HEREDIA kelly Maribel FIR 48951430 sw 979b22f664ff8e234cc7a1ef4f90e14086a07ad6",
+        "dni": "48951430",
+        "signing_time_utc": "2026-04-13T03:57:54+00:00",
+        "delta_vs_fr_h": 2.211388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:45:13+00:00"
+    }
+  ]
+}

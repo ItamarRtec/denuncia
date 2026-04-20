@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "083035",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.511916+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEPM COLEGIO MILITAR LEONCIO PRADO",
+    "codigo_local": "40913",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 222,
+    "total_votos_validos": 204,
+    "porcentaje_participacion": 74.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092010-05'00'",
+    "mod_date_raw": "D:20260413092010-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3966ec048272cae4af0bf85749ec6fe0c1e11b59bac655ab8a4783be9891b029",
+  "pdf_size_bytes": 857375,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:59:27+00:00",
+    "pdf_created_utc": "2026-04-13T14:20:10+00:00",
+    "delta_pdf_vs_fr_seconds": 40843.0,
+    "delta_pdf_vs_fr_hours": 11.345277777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:34:34.667000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T14:20:27+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:21:35+00:00",
+    "delta_primer_humano_vs_fr_h": 11.35,
+    "delta_ultimo_humano_vs_fr_h": 11.36888888888889,
+    "agente_utc": "2026-04-13T02:59:24+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VALENCIA GOMEZ VELASQUEZ nelda Angelica FIR 70808577 sw bac034b308e52fe734a29b1e0d68340eab686e7f",
+        "dni": "70808577",
+        "signing_time_utc": "2026-04-13T14:20:27+00:00",
+        "delta_vs_fr_h": 11.35
+      },
+      {
+        "name": "VASQUEZ BOBADILLA adrian Alonso FIR 74208012 sw c4721bf3f3708cb99d1735e0c9d1083aee6116bd",
+        "dni": "74208012",
+        "signing_time_utc": "2026-04-13T14:20:55+00:00",
+        "delta_vs_fr_h": 11.357777777777779
+      },
+      {
+        "name": "ESPINOZA SALINAS sugei Katrina FIR 75254607 sw aa3bea84dc4ef0744605a50c275c0de614125346",
+        "dni": "75254607",
+        "signing_time_utc": "2026-04-13T14:21:35+00:00",
+        "delta_vs_fr_h": 11.36888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:59:27+00:00"
+    }
+  ]
+}

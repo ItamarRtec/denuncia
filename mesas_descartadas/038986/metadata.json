@@ -1,0 +1,68 @@
+{
+  "codigo_mesa": "038986",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.864545+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "BREÑA",
+    "ubigeo": "140104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 0005 ROSA DE SANTA MARIA",
+    "codigo_local": "2755",
+    "total_electores_habiles": 296,
+    "total_votos_emitidos": 237,
+    "total_votos_validos": 217,
+    "porcentaje_participacion": 80.068
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220406-05'00'",
+    "mod_date_raw": "D:20260412220406-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c723f57923eb1725eb8db52a7e1ae813907e78c85d1223354697a588b54af393",
+  "pdf_size_bytes": 830061,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T02:34:48.949000+00:00",
+    "pdf_created_utc": "2026-04-13T03:04:06+00:00",
+    "delta_create_upload_seconds": -1757.1,
+    "delta_create_upload_hours": -0.4880833333333333,
+    "delta_create_upload_days": -0.020336805555555556
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:04:24+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:04:55+00:00",
+    "delta_primer_humano_h": 0.49306972222222223,
+    "delta_ultimo_humano_h": 0.5016808333333334,
+    "delta_agente_h": -0.898041388888889,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "HURTADO SALAZAR ana Susana FIR 06772585 sw 71db9d71de68fd620913a2e23446e9e066fb5be5",
+        "dni": "06772585",
+        "signing_time_utc": "2026-04-13T03:04:24+00:00"
+      },
+      {
+        "name": "HUANHUAYO MACHUCA marisol FIR 40361136 sw 86f2c5102cfe13e9f19a1cc39ff5a1fa0a57451e",
+        "dni": "40361136",
+        "signing_time_utc": "2026-04-13T03:04:41+00:00"
+      },
+      {
+        "name": "HURTADO EGOAVIL luis Alvaro FIR 73352183 sw ff63a86481e7a1d0c8993de8330a99380bc6b98d",
+        "dni": "73352183",
+        "signing_time_utc": "2026-04-13T03:04:55+00:00"
+      }
+    ]
+  }
+}

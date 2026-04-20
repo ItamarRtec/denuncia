@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "057542",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.232772+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP HEROES DEL PACIFICO",
+    "codigo_local": "13799",
+    "total_electores_habiles": 280,
+    "total_votos_emitidos": 259,
+    "total_votos_validos": 222,
+    "porcentaje_participacion": 92.5
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085152-05'00'",
+    "mod_date_raw": "D:20260413085152-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "cec13793366b15bf744413848f639a813942c13a2b9368197dbd10568c353a8c",
+  "pdf_size_bytes": 830758,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:17:36+00:00",
+    "pdf_created_utc": "2026-04-13T13:51:52+00:00",
+    "delta_pdf_vs_fr_seconds": 41656.0,
+    "delta_pdf_vs_fr_hours": 11.571111111111112,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:07:46.688000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:52:54+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:53:06+00:00",
+    "delta_primer_humano_vs_fr_h": 11.588333333333333,
+    "delta_ultimo_humano_vs_fr_h": 11.591666666666667,
+    "agente_utc": "2026-04-13T02:17:33+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ALONZO SOTO abimael Vladimir FIR 43189502 sw 5e94ade90ef234e3e23a5138863cea62edbd3560",
+        "dni": "43189502",
+        "signing_time_utc": "2026-04-13T13:52:54+00:00",
+        "delta_vs_fr_h": 11.588333333333333
+      },
+      {
+        "name": "CHIPANA VELILLE rony Leoncio FIR 70184933 sw 3518b0c761b13f0cba428ea8cd223f7f3669edc6",
+        "dni": "70184933",
+        "signing_time_utc": "2026-04-13T13:53:06+00:00",
+        "delta_vs_fr_h": 11.591666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:17:36+00:00"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "041030",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.378795+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP MARIA MONTESSORI STOPPIANI",
+    "codigo_local": "32951",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 201,
+    "total_votos_validos": 172,
+    "porcentaje_participacion": 67.224
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413071251-05'00'",
+    "mod_date_raw": "D:20260413071251-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c4d80abfa944abbd2146ceb54947aca816d4244d31021d25036cb53eee7fb4e3",
+  "pdf_size_bytes": 881848,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:48:50+00:00",
+    "pdf_created_utc": "2026-04-13T12:12:51+00:00",
+    "delta_pdf_vs_fr_seconds": 37441.0,
+    "delta_pdf_vs_fr_hours": 10.400277777777777,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:16:17.652000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:24:29+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:30:31+00:00",
+    "delta_primer_humano_vs_fr_h": 10.594166666666666,
+    "delta_ultimo_humano_vs_fr_h": 10.694722222222222,
+    "agente_utc": "2026-04-13T01:48:47+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PECHE MACHAY DE RIOS judith Margarita FIR 48203125 sw 077282cc74135506952fd1752f8ae18cb048c5e6",
+        "dni": "48203125",
+        "signing_time_utc": "2026-04-13T12:24:29+00:00",
+        "delta_vs_fr_h": 10.594166666666666
+      },
+      {
+        "name": "PONCE DE LA CRUZ jose Antonio FIR 80419476 sw 285e1c0651867de7cc2d7111b5029512763877de",
+        "dni": "80419476",
+        "signing_time_utc": "2026-04-13T12:27:58+00:00",
+        "delta_vs_fr_h": 10.652222222222223
+      },
+      {
+        "name": "PIMENTEL RUIZ edson FIR 45820080 sw bcd5ee33bd62d8f6c9b7752d83c147437b9b9c7b",
+        "dni": "45820080",
+        "signing_time_utc": "2026-04-13T12:29:12+00:00",
+        "delta_vs_fr_h": 10.672777777777778
+      },
+      {
+        "name": "PEREZ RUIZ farid Anselmi FIR 71146360 sw ff510e60af580ad8de49325727b6b3386e6c77d7",
+        "dni": "71146360",
+        "signing_time_utc": "2026-04-13T12:30:09+00:00",
+        "delta_vs_fr_h": 10.688611111111111
+      },
+      {
+        "name": "PORRAS TORRES carmen Rosa FIR 06743004 sw b61c7c1d01974f5438060c59dda6a6194987e42d",
+        "dni": "06743004",
+        "signing_time_utc": "2026-04-13T12:30:31+00:00",
+        "delta_vs_fr_h": 10.694722222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:48:50+00:00"
+    }
+  ]
+}

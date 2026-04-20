@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "061551",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.680631+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LOS OLIVOS",
+    "ubigeo": "140142",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS SEDE VILLA SOL",
+    "codigo_local": "54809",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 226,
+    "total_votos_validos": 203,
+    "porcentaje_participacion": 75.585
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223128-05'00'",
+    "mod_date_raw": "D:20260412223128-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e8b3270578224f6407cce6b06edea7b4d773e13dc5645384a3d689412d9d6aa9",
+  "pdf_size_bytes": 830681,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:28:29+00:00",
+    "pdf_created_utc": "2026-04-13T03:31:28+00:00",
+    "delta_pdf_vs_fr_seconds": 7379.0,
+    "delta_pdf_vs_fr_hours": 2.049722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:14:10.113000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:32:13+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:32:59+00:00",
+    "delta_primer_humano_vs_fr_h": 2.062222222222222,
+    "delta_ultimo_humano_vs_fr_h": 2.075,
+    "agente_utc": "2026-04-13T01:28:27+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "COLONIA JAUREGUI jean Carlo Gerardo FIR 45876406 sw fdacad88f2dbc535bd74594246e6c529ec00bed2",
+        "dni": "45876406",
+        "signing_time_utc": "2026-04-13T03:32:13+00:00",
+        "delta_vs_fr_h": 2.062222222222222
+      },
+      {
+        "name": "DAVILA CAHUANA cesar Agustin FIR 45627197 sw b7eac7de331e61dea8897b009cc8f3435d13d796",
+        "dni": "45627197",
+        "signing_time_utc": "2026-04-13T03:32:25+00:00",
+        "delta_vs_fr_h": 2.0655555555555556
+      },
+      {
+        "name": "CORONEL PAREDES maribel FIR 09622748 sw 02d0516cb686afcdf9146f670f43efa16d1ecd90",
+        "dni": "09622748",
+        "signing_time_utc": "2026-04-13T03:32:59+00:00",
+        "delta_vs_fr_h": 2.075
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:28:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "codigo_mesa": "039641",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:57.716657+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALBERT EINSTEIN",
+    "codigo_local": "12883",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413090210-05'00'",
+    "mod_date_raw": "D:20260413090210-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c8cd023b3c192dc4cc2db5270f84411d1de871f21b3b8ba017b37c716399c9aa",
+  "pdf_size_bytes": 906686,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T09:35:26.214000+00:00",
+    "pdf_created_utc": "2026-04-13T14:02:10+00:00",
+    "delta_create_upload_seconds": -16003.8,
+    "delta_create_upload_hours": -4.4455,
+    "delta_create_upload_days": -0.18522916666666667
+  },
+  "n_firmas_digitales": 7,
+  "firmas_summary": {
+    "n_humanos": 6,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:02:56+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:05:00+00:00",
+    "delta_primer_humano_h": 4.458273888888889,
+    "delta_ultimo_humano_h": 4.492718333333333,
+    "delta_agente_h": -6.708392777777778,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "OLIVEROS CHAUPIS briguitt Estefani FIR 61966404 sw ff0ff67be899e366c5bf053d47a805b8d073bdc6",
+        "dni": "61966404",
+        "signing_time_utc": "2026-04-13T14:02:56+00:00"
+      },
+      {
+        "name": "PEREZ PEREZ maria Aydee FIR 47005166 sw fe5833b7f1d0de6bf5682f1ff6865f54a44cdff2",
+        "dni": "47005166",
+        "signing_time_utc": "2026-04-13T14:03:08+00:00"
+      },
+      {
+        "name": "NEYRA OSCCO carola FIR 47361781 sw f398e8450aaf0fa75d010de5a7490af99ccb7c97",
+        "dni": "47361781",
+        "signing_time_utc": "2026-04-13T14:03:18+00:00"
+      },
+      {
+        "name": "RISCO JUAREZ luz Esmelda FIR 03689628 sw dfd7caef0fb6663389df45d6bc916b1ff12601a6",
+        "dni": "03689628",
+        "signing_time_utc": "2026-04-13T14:04:03+00:00"
+      },
+      {
+        "name": "SALINAS VASQUEZ lidia FIR 06820277 sw 2d77844a1441c98a7eeb28bb659d05f6b0c0f9cf",
+        "dni": "06820277",
+        "signing_time_utc": "2026-04-13T14:04:34+00:00"
+      },
+      {
+        "name": "MENDIZABAL VASQUEZ renzo Jhusty FIR 74077231 sw a35b537a6aba9fc4753da8a8ce6ad9bf4e9a42f0",
+        "dni": "74077231",
+        "signing_time_utc": "2026-04-13T14:05:00+00:00"
+      }
+    ]
+  }
+}

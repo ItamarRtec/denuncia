@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "081742",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.230323+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CALLAO",
+    "ubigeo": "240101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COMPLEJO DEPORTIVO RAMÓN CASTILLA",
+    "codigo_local": "17604",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 221,
+    "total_votos_validos": 193,
+    "porcentaje_participacion": 73.913
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412220310-05'00'",
+    "mod_date_raw": "D:20260412220310-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0c58ab8ac23c30feecb8ba165de429b036bd7b95dbaf0ba07ed79bcc11b2a28f",
+  "pdf_size_bytes": 856941,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:48:14+00:00",
+    "pdf_created_utc": "2026-04-13T03:03:10+00:00",
+    "delta_pdf_vs_fr_seconds": 4496.0,
+    "delta_pdf_vs_fr_hours": 1.248888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:40:49.849000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:03:27+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:04:29+00:00",
+    "delta_primer_humano_vs_fr_h": 1.253611111111111,
+    "delta_ultimo_humano_vs_fr_h": 1.2708333333333333,
+    "agente_utc": "2026-04-13T01:48:12+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BUSTAMANTE PEREZ jose Luis FIR 25788493 sw 90efdfa2de8b12ba1d2d34594d646cf8d0a6cabf",
+        "dni": "25788493",
+        "signing_time_utc": "2026-04-13T03:03:27+00:00",
+        "delta_vs_fr_h": 1.253611111111111
+      },
+      {
+        "name": "BOLIVAR ESCUDERO victor Julio FIR 25782080 sw 4885f91e6ca172f289479b57a056bf97762fbb39",
+        "dni": "25782080",
+        "signing_time_utc": "2026-04-13T03:03:51+00:00",
+        "delta_vs_fr_h": 1.2602777777777778
+      },
+      {
+        "name": "VALLE GONZALES andrea Consuelo FIR 25842026 sw d9576a1e8738b83f9486fd493e819d65ddd4811f",
+        "dni": "25842026",
+        "signing_time_utc": "2026-04-13T03:04:29+00:00",
+        "delta_vs_fr_h": 1.2708333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:48:14+00:00"
+    }
+  ]
+}

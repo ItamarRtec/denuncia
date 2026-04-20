@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055482",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.559597+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SACO OLIVEROS",
+    "codigo_local": "3384",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 255,
+    "total_votos_validos": 229,
+    "porcentaje_participacion": 85.284
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413000533-05'00'",
+    "mod_date_raw": "D:20260413000533-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5a4fbfbd676820f0317cab2a1a9d705239c5f894186ff654d156e2606976ee80",
+  "pdf_size_bytes": 830720,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:19:14+00:00",
+    "pdf_created_utc": "2026-04-13T05:05:33+00:00",
+    "delta_pdf_vs_fr_seconds": 9979.0,
+    "delta_pdf_vs_fr_hours": 2.7719444444444443,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:11:58.848000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:07:09+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:07:32+00:00",
+    "delta_primer_humano_vs_fr_h": 2.798611111111111,
+    "delta_ultimo_humano_vs_fr_h": 2.805,
+    "agente_utc": "2026-04-13T02:18:02+00:00",
+    "delta_agente_vs_fr_h": -0.02,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TITO OLANO barbara Raquel FIR 47704771 sw ee6ad77d2e26f41760aacca26857f58c4f511747",
+        "dni": "47704771",
+        "signing_time_utc": "2026-04-13T05:07:09+00:00",
+        "delta_vs_fr_h": 2.798611111111111
+      },
+      {
+        "name": "VELASQUEZ GARCIA richard Johnny FIR 09584084 sw ff6e29b2dc9253f824a8513233a244720fe9777a",
+        "dni": "09584084",
+        "signing_time_utc": "2026-04-13T05:07:23+00:00",
+        "delta_vs_fr_h": 2.8025
+      },
+      {
+        "name": "UBILLUS QUISPE jose Ricardo FIR 43892083 sw 10165953d11eebeff9e2d534c825481772ea636f",
+        "dni": "43892083",
+        "signing_time_utc": "2026-04-13T05:07:32+00:00",
+        "delta_vs_fr_h": 2.805
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:19:14+00:00"
+    }
+  ]
+}

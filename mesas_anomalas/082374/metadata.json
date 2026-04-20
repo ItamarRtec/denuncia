@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082374",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.542074+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CALLAO",
+    "ubigeo": "240101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COMPLEJO DEPORTIVO VALERIANO LÓPEZ",
+    "codigo_local": "54706",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 192,
+    "total_votos_validos": 167,
+    "porcentaje_participacion": 64.214
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412212158-05'00'",
+    "mod_date_raw": "D:20260412212158-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c36db686f664eb7008f9a700968bfdf2a476eed789f4c6460805933348bb418f",
+  "pdf_size_bytes": 831512,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:48:24+00:00",
+    "pdf_created_utc": "2026-04-13T02:21:58+00:00",
+    "delta_pdf_vs_fr_seconds": 5614.0,
+    "delta_pdf_vs_fr_hours": 1.5594444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T00:56:41.860000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:26:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:27:13+00:00",
+    "delta_primer_humano_vs_fr_h": 1.638611111111111,
+    "delta_ultimo_humano_vs_fr_h": 1.6469444444444445,
+    "agente_utc": "2026-04-13T00:48:22+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "GUANILO VARGAS DE TELLO carolina Isabel FIR 16734258 sw b332f114cd7f32a62b2f13c1651e5c32c346747d",
+        "dni": "16734258",
+        "signing_time_utc": "2026-04-13T02:26:43+00:00",
+        "delta_vs_fr_h": 1.638611111111111
+      },
+      {
+        "name": "GARCIA ROJAS luis Alberto FIR 25765417 sw d57f16b95e61d28bd11990f30023d17e3655bed1",
+        "dni": "25765417",
+        "signing_time_utc": "2026-04-13T02:26:56+00:00",
+        "delta_vs_fr_h": 1.6422222222222222
+      },
+      {
+        "name": "GOMEZ SANTAMARIA linet Marlene FIR 76477491 sw 358103713d99c186d1d4ae66434fdb89f78612e5",
+        "dni": "76477491",
+        "signing_time_utc": "2026-04-13T02:27:13+00:00",
+        "delta_vs_fr_h": 1.6469444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:48:24+00:00"
+    }
+  ]
+}

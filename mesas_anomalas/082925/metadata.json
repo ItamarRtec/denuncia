@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "082925",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:15.630678+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE PARROQUIAL SAN JOSE",
+    "codigo_local": "4854",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 283,
+    "total_votos_validos": 262,
+    "porcentaje_participacion": 94.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413100200-05'00'",
+    "mod_date_raw": "D:20260413100200-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "fc544fc1569e23862f0f7821a6048fc9e8f11df4efaeaf4e5c0344043ec68d4e",
+  "pdf_size_bytes": 881650,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:37:43+00:00",
+    "pdf_created_utc": "2026-04-13T15:02:00+00:00",
+    "delta_pdf_vs_fr_seconds": 41057.0,
+    "delta_pdf_vs_fr_hours": 11.404722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:00:06.048000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T15:02:16+00:00",
+    "ultimo_humano_utc": "2026-04-13T15:04:20+00:00",
+    "delta_primer_humano_vs_fr_h": 11.409166666666666,
+    "delta_ultimo_humano_vs_fr_h": 11.44361111111111,
+    "agente_utc": "2026-04-13T03:37:42+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DIAZ PUCCIO carmen Juana FIR 25779483 sw 809c6428e370db95d82448261a9451627acb82a3",
+        "dni": "25779483",
+        "signing_time_utc": "2026-04-13T15:02:16+00:00",
+        "delta_vs_fr_h": 11.409166666666666
+      },
+      {
+        "name": "ESQUERRE GUEVARA maria Cristina FIR 02778735 sw 4bb176f5e9de3f9a47c8b1cc0e2300dd57be4240",
+        "dni": "02778735",
+        "signing_time_utc": "2026-04-13T15:02:55+00:00",
+        "delta_vs_fr_h": 11.42
+      },
+      {
+        "name": "COMPALLE ALVITES flor De Maria FIR 06101955 sw e74742fb1b4dd901f55e1628c80d9cf287e186d3",
+        "dni": "06101955",
+        "signing_time_utc": "2026-04-13T15:03:12+00:00",
+        "delta_vs_fr_h": 11.424722222222222
+      },
+      {
+        "name": "AVILA PAREDES gino Alberto FIR 25766544 sw b832c5559475dca1b9ca6a4904a38af9180cdb8e",
+        "dni": "25766544",
+        "signing_time_utc": "2026-04-13T15:03:49+00:00",
+        "delta_vs_fr_h": 11.435
+      },
+      {
+        "name": "LOPEZ RAMOS maria Antonieta FIR 70833432 sw 9bffcc8d41d017598c75a69e113e65188a51d8bf",
+        "dni": "70833432",
+        "signing_time_utc": "2026-04-13T15:04:20+00:00",
+        "delta_vs_fr_h": 11.44361111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:37:43+00:00"
+    }
+  ]
+}

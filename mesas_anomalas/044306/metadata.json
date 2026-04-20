@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "044306",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.559157+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LURIGANCHO",
+    "ubigeo": "140112",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1224",
+    "codigo_local": "13431",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 217,
+    "total_votos_validos": 189,
+    "porcentaje_participacion": 72.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413081830-05'00'",
+    "mod_date_raw": "D:20260413081830-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3a016e940c216aca631e5dc14d8fd385d8b6d398e35233c7b197db7d52e329a7",
+  "pdf_size_bytes": 882387,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:45:00+00:00",
+    "pdf_created_utc": "2026-04-13T13:18:30+00:00",
+    "delta_pdf_vs_fr_seconds": 41610.0,
+    "delta_pdf_vs_fr_hours": 11.558333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:29:46.814000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:19:14+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:21:11+00:00",
+    "delta_primer_humano_vs_fr_h": 11.570555555555556,
+    "delta_ultimo_humano_vs_fr_h": 11.603055555555555,
+    "agente_utc": "2026-04-13T01:44:58+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CANCHANYA TACAS luis Miguel FIR 80070869 sw 82c8f944aaa8d17d5206616cfaaf91865796697c",
+        "dni": "80070869",
+        "signing_time_utc": "2026-04-13T13:19:14+00:00",
+        "delta_vs_fr_h": 11.570555555555556
+      },
+      {
+        "name": "CONTRERAS PALOMINO yenny FIR 43421153 sw 92a58182e05477a51f8a5649a3d870ffe678f8dc",
+        "dni": "43421153",
+        "signing_time_utc": "2026-04-13T13:19:33+00:00",
+        "delta_vs_fr_h": 11.575833333333334
+      },
+      {
+        "name": "CHAVEZ MOLEROS gladys FIR 10297328 sw 3b261a869a2b0f2e73958f8eb1de81eb35706482",
+        "dni": "10297328",
+        "signing_time_utc": "2026-04-13T13:19:49+00:00",
+        "delta_vs_fr_h": 11.580277777777777
+      },
+      {
+        "name": "CARHUA JULCA humberto Magno FIR 71303942 sw 48b50bee6b045d4beb86b8207549de308b50406c",
+        "dni": "71303942",
+        "signing_time_utc": "2026-04-13T13:20:48+00:00",
+        "delta_vs_fr_h": 11.596666666666666
+      },
+      {
+        "name": "VALDIVIA VILCA santa Eulalia FIR 41757562 sw fb1f3d0d8314849c92ca5b37b9b9e31a735d6e32",
+        "dni": "41757562",
+        "signing_time_utc": "2026-04-13T13:21:11+00:00",
+        "delta_vs_fr_h": 11.603055555555555
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:45:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "047863",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.190824+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN ISIDRO",
+    "ubigeo": "140124",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE EMBLEMATICA ALFONSO UGARTE - ESTADIO",
+    "codigo_local": "53857",
+    "total_electores_habiles": 297,
+    "total_votos_emitidos": 202,
+    "total_votos_validos": 192,
+    "porcentaje_participacion": 68.013
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412221343-05'00'",
+    "mod_date_raw": "D:20260412221343-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "aaa05ce44a23a68253bd9ef96d2e09c69c893f92ee078e60dcad9654d73b377c",
+  "pdf_size_bytes": 882667,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:36:47+00:00",
+    "pdf_created_utc": "2026-04-13T03:13:43+00:00",
+    "delta_pdf_vs_fr_seconds": 5816.0,
+    "delta_pdf_vs_fr_hours": 1.6155555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:02:37.287000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:13:59+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:15:01+00:00",
+    "delta_primer_humano_vs_fr_h": 1.62,
+    "delta_ultimo_humano_vs_fr_h": 1.6372222222222221,
+    "agente_utc": "2026-04-13T01:36:45+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FLORES MARTICORENA amanda Belinda FIR 10542179 sw 83a1341805cc7997091809fc36642b5a8946d2c4",
+        "dni": "10542179",
+        "signing_time_utc": "2026-04-13T03:13:59+00:00",
+        "delta_vs_fr_h": 1.62
+      },
+      {
+        "name": "FERNANDEZ JERI oscar Edgard FIR 08261756 sw febe60738e1a4d12a501e3a1b0c9e47e98a376ee",
+        "dni": "08261756",
+        "signing_time_utc": "2026-04-13T03:14:11+00:00",
+        "delta_vs_fr_h": 1.6233333333333333
+      },
+      {
+        "name": "FERNANDEZ REYES francis Angel De Jesus FIR 60825342 sw ddaba41a9dd84751b84581deab7e6233ed3b3729",
+        "dni": "60825342",
+        "signing_time_utc": "2026-04-13T03:14:23+00:00",
+        "delta_vs_fr_h": 1.6266666666666667
+      },
+      {
+        "name": "AYLLON BRAVO dylan Frank Cesar FIR 70620832 sw 5d96858a4fb8b682528037953d5ab7e9fc5b6ea3",
+        "dni": "70620832",
+        "signing_time_utc": "2026-04-13T03:14:49+00:00",
+        "delta_vs_fr_h": 1.633888888888889
+      },
+      {
+        "name": "FLORES CORTEZ juan Armando FIR 08261823 sw 0e6033f806cb749d6fc61cf47dd264235218423a",
+        "dni": "08261823",
+        "signing_time_utc": "2026-04-13T03:15:01+00:00",
+        "delta_vs_fr_h": 1.6372222222222221
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:36:47+00:00"
+    }
+  ]
+}

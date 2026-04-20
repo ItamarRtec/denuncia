@@ -1,0 +1,68 @@
+{
+  "codigo_mesa": "039135",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:57.383443+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "BREÑA",
+    "ubigeo": "140104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ALBERT EINSTEIN",
+    "codigo_local": "52873",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 160,
+    "total_votos_validos": 148,
+    "porcentaje_participacion": 69.565
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211008-05'00'",
+    "mod_date_raw": "D:20260412211008-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "966de5460c3cb57e2a9cf22f1800e27797ebb299abbaa4f4fe6659479d6ff76e",
+  "pdf_size_bytes": 830275,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T00:55:39.158000+00:00",
+    "pdf_created_utc": "2026-04-13T02:10:08+00:00",
+    "delta_create_upload_seconds": -4468.8,
+    "delta_create_upload_hours": -1.2413333333333334,
+    "delta_create_upload_days": -0.051722222222222225
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:10:26+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:11:15+00:00",
+    "delta_primer_humano_h": 1.2463449999999998,
+    "delta_ultimo_humano_h": 1.259956111111111,
+    "delta_agente_h": -0.12809944444444446,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "AGUILAR ALVARADO carmela Natalia FIR 06763722 sw 48512c08aa740aa4f10332090b85f0296edf291a",
+        "dni": "06763722",
+        "signing_time_utc": "2026-04-13T02:10:26+00:00"
+      },
+      {
+        "name": "AGUILAR CUEVA bertha Vigilia FIR 06686368 sw 6b599f386e84a6fd95be91110a015a702b7a6a2f",
+        "dni": "06686368",
+        "signing_time_utc": "2026-04-13T02:10:57+00:00"
+      },
+      {
+        "name": "ALTAMIRANO LEON oscar Alberto FIR 09448589 sw e1726dcbc905af04c968be99d48bd0e09390b13c",
+        "dni": "09448589",
+        "signing_time_utc": "2026-04-13T02:11:15+00:00"
+      }
+    ]
+  }
+}

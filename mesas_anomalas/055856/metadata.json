@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055856",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.860861+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SACO OLIVEROS SEDE JULIO BELLIDO",
+    "codigo_local": "52453",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 221,
+    "total_votos_validos": 198,
+    "porcentaje_participacion": 73.913
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413091835-05'00'",
+    "mod_date_raw": "D:20260413091835-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "d8d864f133ccec0ae1f88ca67349f967febcdc8c406d1943eb2956bfd5c40f70",
+  "pdf_size_bytes": 830312,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:41:38+00:00",
+    "pdf_created_utc": "2026-04-13T14:18:35+00:00",
+    "delta_pdf_vs_fr_seconds": 41817.0,
+    "delta_pdf_vs_fr_hours": 11.615833333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T07:16:45.443000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:19:03+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:19:27+00:00",
+    "delta_primer_humano_vs_fr_h": 11.623611111111112,
+    "delta_ultimo_humano_vs_fr_h": 11.630277777777778,
+    "agente_utc": "2026-04-13T02:41:36+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ORE LIPE maria Lucia FIR 61173380 sw 3fbffaa66f3a3346ac6dbf831374ba858daf0015",
+        "dni": "61173380",
+        "signing_time_utc": "2026-04-13T14:19:03+00:00",
+        "delta_vs_fr_h": 11.623611111111112
+      },
+      {
+        "name": "ORTEGA HURTADO michael Teodosio FIR 71910950 sw 330c7f6930c1b20020645c10830a6ff917b38a87",
+        "dni": "71910950",
+        "signing_time_utc": "2026-04-13T14:19:15+00:00",
+        "delta_vs_fr_h": 11.626944444444444
+      },
+      {
+        "name": "MIRANDA SILVESTRE estefani Carolina FIR 72299506 sw f768da1281997051e3a6d768e3487a7bf303deb1",
+        "dni": "72299506",
+        "signing_time_utc": "2026-04-13T14:19:27+00:00",
+        "delta_vs_fr_h": 11.630277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:41:38+00:00"
+    }
+  ]
+}

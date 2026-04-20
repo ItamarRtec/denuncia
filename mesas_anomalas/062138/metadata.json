@@ -1,0 +1,104 @@
+{
+  "codigo_mesa": "062138",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.299899+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP UNIVERSITY SANTA ANITA",
+    "codigo_local": "50548",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 235,
+    "total_votos_validos": 201,
+    "porcentaje_participacion": 78.595
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213540-05'00'",
+    "mod_date_raw": "D:20260412213540-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "07625eae7a261f02babd291859a692e60bf9186a921e01717e7a0714e7868fa5",
+  "pdf_size_bytes": 931758,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:53:23+00:00",
+    "pdf_created_utc": "2026-04-13T02:35:40+00:00",
+    "delta_pdf_vs_fr_seconds": 2537.0,
+    "delta_pdf_vs_fr_hours": 0.7047222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:26:45.005000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 8,
+  "firmas_summary": {
+    "n_humanos": 7,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:36:00+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:39:24+00:00",
+    "delta_primer_humano_vs_fr_h": 0.7102777777777778,
+    "delta_ultimo_humano_vs_fr_h": 0.7669444444444444,
+    "agente_utc": "2026-04-13T01:53:20+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AYALA JIMENEZ romulo Eduardo FIR 41015871 sw 74ae0fe6afcbb1259368459a152cc5c362fe0c5e",
+        "dni": "41015871",
+        "signing_time_utc": "2026-04-13T02:36:00+00:00",
+        "delta_vs_fr_h": 0.7102777777777778
+      },
+      {
+        "name": "ARENAS PINTO edwin Antonio FIR 40829770 sw 07ad7ac8da0f346fceaff5c087f3e44f58623f35",
+        "dni": "40829770",
+        "signing_time_utc": "2026-04-13T02:36:20+00:00",
+        "delta_vs_fr_h": 0.7158333333333333
+      },
+      {
+        "name": "CABEZAS BOLEJE isabel FIR 07089166 sw 566b9731429463ad249be199815cc8905f08130e",
+        "dni": "07089166",
+        "signing_time_utc": "2026-04-13T02:36:59+00:00",
+        "delta_vs_fr_h": 0.7266666666666667
+      },
+      {
+        "name": "ROJAS HUAMAN paolo Jesus FIR 48456871 sw af291d24097375277d4bc6800a167c47a7b54ddb",
+        "dni": "48456871",
+        "signing_time_utc": "2026-04-13T02:37:42+00:00",
+        "delta_vs_fr_h": 0.7386111111111111
+      },
+      {
+        "name": "SANCHEZ PALOMINO nicolas FIR 21809917 sw 57bd89d1661ba676def00a0c9f85f24fab01041c",
+        "dni": "21809917",
+        "signing_time_utc": "2026-04-13T02:38:37+00:00",
+        "delta_vs_fr_h": 0.7538888888888889
+      },
+      {
+        "name": "RIVERA RAMIREZ jaime Elipio FIR 10418445 sw 864a277d050fd51d571f490b4dcf1da3a74a083b",
+        "dni": "10418445",
+        "signing_time_utc": "2026-04-13T02:38:58+00:00",
+        "delta_vs_fr_h": 0.7597222222222222
+      },
+      {
+        "name": "CAHUANA CACERES ursula Maribel FIR 40799471 sw 8ebff4da69bf14f4b16c19f453441ac534c2678d",
+        "dni": "40799471",
+        "signing_time_utc": "2026-04-13T02:39:24+00:00",
+        "delta_vs_fr_h": 0.7669444444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:53:23+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "055293",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.954426+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE DE ACCION CONJUNTA PADRE ILUMINATO",
+    "codigo_local": "3375",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 238,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 79.599
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413093319-05'00'",
+    "mod_date_raw": "D:20260413093319-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8b81ed448b52c21aa45be7be1e2b9e5119917882014cc5d9ac38a8f35eb56cac",
+  "pdf_size_bytes": 830938,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:11:12+00:00",
+    "pdf_created_utc": "2026-04-13T14:33:19+00:00",
+    "delta_pdf_vs_fr_seconds": 40927.0,
+    "delta_pdf_vs_fr_hours": 11.368611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:11:31.903000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:33:59+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:34:48+00:00",
+    "delta_primer_humano_vs_fr_h": 11.379722222222222,
+    "delta_ultimo_humano_vs_fr_h": 11.393333333333333,
+    "agente_utc": "2026-04-13T03:11:11+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "HUACHACA LAPA aereopajita FIR 41984350 sw f1c4d24242e2d4f36316a18b44285122aa979b23",
+        "dni": "41984350",
+        "signing_time_utc": "2026-04-13T14:33:59+00:00",
+        "delta_vs_fr_h": 11.379722222222222
+      },
+      {
+        "name": "HUAMAN CCOICCA marco Antonio FIR 10483732 sw 4228497faa19d6e829146187d90a345c18d3b7b3",
+        "dni": "10483732",
+        "signing_time_utc": "2026-04-13T14:34:30+00:00",
+        "delta_vs_fr_h": 11.388333333333334
+      },
+      {
+        "name": "HUANACO PALOMINO flor Constantina FIR 10643971 sw 0672270959db53518bb974988ac85cda2705e138",
+        "dni": "10643971",
+        "signing_time_utc": "2026-04-13T14:34:48+00:00",
+        "delta_vs_fr_h": 11.393333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:11:12+00:00"
+    }
+  ]
+}

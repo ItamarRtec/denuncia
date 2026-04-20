@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "046306",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.333924+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUENTE PIEDRA",
+    "ubigeo": "140119",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 3088 VISTA ALEGRE",
+    "codigo_local": "3031",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 246,
+    "total_votos_validos": 193,
+    "porcentaje_participacion": 82.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413084705-05'00'",
+    "mod_date_raw": "D:20260413084705-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c9eef93ac98a41b6486fa58e36f8cdb1d7677bd60b4afe796c484bc2c43f8111",
+  "pdf_size_bytes": 830920,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:42:38+00:00",
+    "pdf_created_utc": "2026-04-13T13:47:05+00:00",
+    "delta_pdf_vs_fr_seconds": 36267.0,
+    "delta_pdf_vs_fr_hours": 10.074166666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T12:44:17.503000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:48:45+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:49:08+00:00",
+    "delta_primer_humano_vs_fr_h": 10.101944444444445,
+    "delta_ultimo_humano_vs_fr_h": 10.108333333333333,
+    "agente_utc": "2026-04-13T03:42:37+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PALOMINO ARBIETO ana Paula FIR 73503718 sw 5bb52a5a368635f798045726dcb1e7b107bc33c1",
+        "dni": "73503718",
+        "signing_time_utc": "2026-04-13T13:48:45+00:00",
+        "delta_vs_fr_h": 10.101944444444445
+      },
+      {
+        "name": "PALOMINO LAURENTE carlos Erasmo FIR 10776787 sw 5dbcd0e161eeecf44b88d81f42ed31c8fbe61925",
+        "dni": "10776787",
+        "signing_time_utc": "2026-04-13T13:48:58+00:00",
+        "delta_vs_fr_h": 10.105555555555556
+      },
+      {
+        "name": "PAREDES JULCA catherine Rocio FIR 70513519 sw fd87759f6910b04ea08f48712e551b9f9ce2cd39",
+        "dni": "70513519",
+        "signing_time_utc": "2026-04-13T13:49:08+00:00",
+        "delta_vs_fr_h": 10.108333333333333
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:42:38+00:00"
+    }
+  ]
+}

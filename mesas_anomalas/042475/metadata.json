@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "042475",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.970132+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS - CHORRILLOS LOS FAISANES",
+    "codigo_local": "54780",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 239,
+    "total_votos_validos": 223,
+    "porcentaje_participacion": 79.933
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413075228-05'00'",
+    "mod_date_raw": "D:20260413075228-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7a377f481f82d5db18d4153c28c4e96accb64badf13ba244c31d39e2cf30b387",
+  "pdf_size_bytes": 856360,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:46:33+00:00",
+    "pdf_created_utc": "2026-04-13T12:52:28+00:00",
+    "delta_pdf_vs_fr_seconds": 39955.0,
+    "delta_pdf_vs_fr_hours": 11.098611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T07:59:48.261000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:53:03+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:54:30+00:00",
+    "delta_primer_humano_vs_fr_h": 11.108333333333333,
+    "delta_ultimo_humano_vs_fr_h": 11.1325,
+    "agente_utc": "2026-04-13T01:46:30+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VALENCIA GUTIERREZ miguel Angel FIR 42035551 sw 635527c934079fcdf1730af6488b47c1f0c6298d",
+        "dni": "42035551",
+        "signing_time_utc": "2026-04-13T12:53:03+00:00",
+        "delta_vs_fr_h": 11.108333333333333
+      },
+      {
+        "name": "VELARDE ESPINOZA luis Alberto FIR 06290683 sw f666e8f63d580a193dcadeeeec80ff7aae0b9f85",
+        "dni": "06290683",
+        "signing_time_utc": "2026-04-13T12:53:55+00:00",
+        "delta_vs_fr_h": 11.122777777777777
+      },
+      {
+        "name": "VEGA GARCIA odaliz Milagros FIR 10325736 sw 053bb0bb3c6c45596d076e56ef48551c739de488",
+        "dni": "10325736",
+        "signing_time_utc": "2026-04-13T12:54:06+00:00",
+        "delta_vs_fr_h": 11.125833333333333
+      },
+      {
+        "name": "CISNEROS RUIZ alfredo FIR 40907719 sw 6ad1029e3ca8e35f57ef1188987681e7c33f5bdc",
+        "dni": "40907719",
+        "signing_time_utc": "2026-04-13T12:54:30+00:00",
+        "delta_vs_fr_h": 11.1325
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:46:33+00:00"
+    }
+  ]
+}

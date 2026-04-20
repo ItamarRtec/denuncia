@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "046604",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:13.669610+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "PUENTE PIEDRA",
+    "ubigeo": "140119",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP DIVINO CORAZÓN DE JESUS",
+    "codigo_local": "7655",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 244,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 81.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412221211-05'00'",
+    "mod_date_raw": "D:20260412221211-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "bc4a0dfc27cc2b19817ec0ef63acb2ea129eac5dbf6b2c16a9546b4318d0d624",
+  "pdf_size_bytes": 830885,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:31:42+00:00",
+    "pdf_created_utc": "2026-04-13T03:12:11+00:00",
+    "delta_pdf_vs_fr_seconds": 6029.0,
+    "delta_pdf_vs_fr_hours": 1.6747222222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:09:53.793000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:12:42+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:13:15+00:00",
+    "delta_primer_humano_vs_fr_h": 1.6833333333333333,
+    "delta_ultimo_humano_vs_fr_h": 1.6925,
+    "agente_utc": "2026-04-13T01:31:39+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "QUISPE CUY xiomara Maritza FIR 60762809 sw 5a3258a4bc907693fa3130c317c719e1666ae2b3",
+        "dni": "60762809",
+        "signing_time_utc": "2026-04-13T03:12:42+00:00",
+        "delta_vs_fr_h": 1.6833333333333333
+      },
+      {
+        "name": "ORTEGA BOYER ricardo Emanuel FIR 60977531 sw 3070835146cefe97839f8014daec0e4b9beee31f",
+        "dni": "60977531",
+        "signing_time_utc": "2026-04-13T03:12:58+00:00",
+        "delta_vs_fr_h": 1.6877777777777778
+      },
+      {
+        "name": "PINEDO APARICIO fernando Jose FIR 60762777 sw cc2a2148c36fd28161e6fb82d9640c427c40254c",
+        "dni": "60762777",
+        "signing_time_utc": "2026-04-13T03:13:15+00:00",
+        "delta_vs_fr_h": 1.6925
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:31:42+00:00"
+    }
+  ]
+}

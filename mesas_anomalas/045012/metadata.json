@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045012",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.387963+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "CEBE 4 MIRAFLORES",
+    "codigo_local": "2979",
+    "total_electores_habiles": 256,
+    "total_votos_emitidos": 176,
+    "total_votos_validos": 167,
+    "porcentaje_participacion": 68.75
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412230507-05'00'",
+    "mod_date_raw": "D:20260412230507-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "0c20fa18be26b54d4c708dea4e9476bdddc6fe8a2fa1b3a846c3276d24b2a7c4",
+  "pdf_size_bytes": 856981,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:01:10+00:00",
+    "pdf_created_utc": "2026-04-13T04:05:07+00:00",
+    "delta_pdf_vs_fr_seconds": 7437.0,
+    "delta_pdf_vs_fr_hours": 2.0658333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:27:00.502000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:05:28+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:06:47+00:00",
+    "delta_primer_humano_vs_fr_h": 2.0716666666666668,
+    "delta_ultimo_humano_vs_fr_h": 2.093611111111111,
+    "agente_utc": "2026-04-13T02:00:33+00:00",
+    "delta_agente_vs_fr_h": -0.010277777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AGUILAR VASQUEZ melina Paola FIR 45197327 sw 53fa61b0c58f4b811e6c837df49953a004ce775c",
+        "dni": "45197327",
+        "signing_time_utc": "2026-04-13T04:05:28+00:00",
+        "delta_vs_fr_h": 2.0716666666666668
+      },
+      {
+        "name": "ARANA REYES GARCIA marianella Ana FIR 10277959 sw 27b5734588fecba55fff5c72f455dbfcb2ff2483",
+        "dni": "10277959",
+        "signing_time_utc": "2026-04-13T04:05:48+00:00",
+        "delta_vs_fr_h": 2.0772222222222223
+      },
+      {
+        "name": "ALBINAGORTA GUERRERO roberto FIR 71274938 sw ed25fe7bd58e92f71058dec8a58c8662f7666a0e",
+        "dni": "71274938",
+        "signing_time_utc": "2026-04-13T04:06:10+00:00",
+        "delta_vs_fr_h": 2.0833333333333335
+      },
+      {
+        "name": "GALVEZ GUEVARA gisella Maria Del Carmen FIR 42632506 sw c07102a8e1dd00757d0702e83b5321c1fc79dee4",
+        "dni": "42632506",
+        "signing_time_utc": "2026-04-13T04:06:47+00:00",
+        "delta_vs_fr_h": 2.093611111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:01:10+00:00"
+    }
+  ]
+}

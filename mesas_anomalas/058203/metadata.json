@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "058203",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.903466+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SAN FELIPE",
+    "codigo_local": "51854",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 151,
+    "total_votos_validos": 118,
+    "porcentaje_participacion": 65.652
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211254-05'00'",
+    "mod_date_raw": "D:20260412211254-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "57833a5441c65db60d59046d7d0b37e7bc98729d19755c92457e3ae1cc2389e2",
+  "pdf_size_bytes": 855433,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:59+00:00",
+    "pdf_created_utc": "2026-04-13T02:12:54+00:00",
+    "delta_pdf_vs_fr_seconds": 2335.0,
+    "delta_pdf_vs_fr_hours": 0.6486111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:56:49.203000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T02:13:23+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:16:19+00:00",
+    "delta_primer_humano_vs_fr_h": 0.6566666666666666,
+    "delta_ultimo_humano_vs_fr_h": 0.7055555555555556,
+    "agente_utc": "2026-04-13T01:33:57+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARIZAGA HUAMAN javier Eduardo FIR 10673566 sw 7aee38f258ee9828935f08205bcea071b8f0bd11",
+        "dni": "10673566",
+        "signing_time_utc": "2026-04-13T02:13:23+00:00",
+        "delta_vs_fr_h": 0.6566666666666666
+      },
+      {
+        "name": "APAZA HUANCA martin FIR 10352724 sw 33f7ab60ffaae1c2749d14c2bafe7d1dbe767944",
+        "dni": "10352724",
+        "signing_time_utc": "2026-04-13T02:13:35+00:00",
+        "delta_vs_fr_h": 0.66
+      },
+      {
+        "name": "ALTAMIRANO ROCA yadira Yasei FIR 71285097 sw a0a8d9c72b406731edf365fe67cc37367b134c95",
+        "dni": "71285097",
+        "signing_time_utc": "2026-04-13T02:16:19+00:00",
+        "delta_vs_fr_h": 0.7055555555555556
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:59+00:00"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "062143",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.085941+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTA ANITA",
+    "ubigeo": "140143",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP UNIVERSITY SANTA ANITA",
+    "codigo_local": "50548",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 241,
+    "total_votos_validos": 205,
+    "porcentaje_participacion": 80.602
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211008-05'00'",
+    "mod_date_raw": "D:20260412211008-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "dd91ad82ff0f88265dc046a22450ecf27310545dfb37e853d62c88ba54cee414",
+  "pdf_size_bytes": 880945,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:07+00:00",
+    "pdf_created_utc": "2026-04-13T02:10:08+00:00",
+    "delta_pdf_vs_fr_seconds": 2221.0,
+    "delta_pdf_vs_fr_hours": 0.6169444444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:59:16.184000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:10:25+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:12:07+00:00",
+    "delta_primer_humano_vs_fr_h": 0.6216666666666667,
+    "delta_ultimo_humano_vs_fr_h": 0.65,
+    "agente_utc": "2026-04-13T01:33:04+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "POZO RIVERA jose Florentino FIR 10699106 sw 99ea39ef45edf5c1194dbe51fae2de3be4ac5c48",
+        "dni": "10699106",
+        "signing_time_utc": "2026-04-13T02:10:25+00:00",
+        "delta_vs_fr_h": 0.6216666666666667
+      },
+      {
+        "name": "PEREZ AGREDA felicita Melissa FIR 09497992 sw 59b204f30d845f7f882f7b6516f939006f1dae33",
+        "dni": "09497992",
+        "signing_time_utc": "2026-04-13T02:11:07+00:00",
+        "delta_vs_fr_h": 0.6333333333333333
+      },
+      {
+        "name": "QUISPE TAQUIRE nayelis Abigail FIR 61042869 sw ca85b6eb4e029412f97139a1e8597285b8b6e633",
+        "dni": "61042869",
+        "signing_time_utc": "2026-04-13T02:11:23+00:00",
+        "delta_vs_fr_h": 0.6377777777777778
+      },
+      {
+        "name": "QUILCA REYES frida Martha FIR 09386537 sw b403cfb99553610285350cf7b7e95717c16bb33c",
+        "dni": "09386537",
+        "signing_time_utc": "2026-04-13T02:11:51+00:00",
+        "delta_vs_fr_h": 0.6455555555555555
+      },
+      {
+        "name": "HUETE GARCIA haydee Hermelinda FIR 06107936 sw 9fe3c7c26d26793bcbbabb536f7f3e8a4723a095",
+        "dni": "06107936",
+        "signing_time_utc": "2026-04-13T02:12:07+00:00",
+        "delta_vs_fr_h": 0.65
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:07+00:00"
+    }
+  ]
+}

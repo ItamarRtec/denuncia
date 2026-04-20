@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036254",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.436264+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1168 HEROES DEL CENEPA",
+    "codigo_local": "2658",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 235,
+    "total_votos_validos": 211,
+    "porcentaje_participacion": 78.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413051542-05'00'",
+    "mod_date_raw": "D:20260413051542-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "189b5874360646827bd741b4b6d4d5fac0507c27628bd8e147cf3e853ed8f222",
+  "pdf_size_bytes": 830533,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:17:07+00:00",
+    "pdf_created_utc": "2026-04-13T10:15:42+00:00",
+    "delta_pdf_vs_fr_seconds": 32315.0,
+    "delta_pdf_vs_fr_hours": 8.97638888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:16:05.515000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T10:15:56+00:00",
+    "ultimo_humano_utc": "2026-04-13T10:16:22+00:00",
+    "delta_primer_humano_vs_fr_h": 8.980277777777777,
+    "delta_ultimo_humano_vs_fr_h": 8.9875,
+    "agente_utc": "2026-04-13T01:17:05+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VERDE SANTIAGO olenka Lisset FIR 75050251 sw 7a332349d121eda1751d4792fe7011ee4cfa38c5",
+        "dni": "75050251",
+        "signing_time_utc": "2026-04-13T10:15:56+00:00",
+        "delta_vs_fr_h": 8.980277777777777
+      },
+      {
+        "name": "YARLEQUE ARTEAGA oscar Jose FIR 06276632 sw bb142904b6f0b0d7b5c40d24912f4bf7d707fbab",
+        "dni": "06276632",
+        "signing_time_utc": "2026-04-13T10:16:09+00:00",
+        "delta_vs_fr_h": 8.983888888888888
+      },
+      {
+        "name": "YUEN CASHU yanet Elizabeth FIR 09427303 sw ab59d4c84f64b8cffcf9d175f173f148f58b6f32",
+        "dni": "09427303",
+        "signing_time_utc": "2026-04-13T10:16:22+00:00",
+        "delta_vs_fr_h": 8.9875
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:17:07+00:00"
+    }
+  ]
+}

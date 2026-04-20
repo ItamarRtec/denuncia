@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "041682",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.678858+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6090 JOSE OLAYA BALANDRA",
+    "codigo_local": "2858",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 248,
+    "total_votos_validos": 226,
+    "porcentaje_participacion": 82.943
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413095219-05'00'",
+    "mod_date_raw": "D:20260413095219-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "96e4453772ea85ec522b775bb2057143d0e8790d1eca7cbef4d360e60ded0c4b",
+  "pdf_size_bytes": 832073,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:10:53+00:00",
+    "pdf_created_utc": "2026-04-13T14:52:19+00:00",
+    "delta_pdf_vs_fr_seconds": 38486.0,
+    "delta_pdf_vs_fr_hours": 10.690555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T09:33:55.048000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:53:06+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:53:29+00:00",
+    "delta_primer_humano_vs_fr_h": 10.703611111111112,
+    "delta_ultimo_humano_vs_fr_h": 10.71,
+    "agente_utc": "2026-04-13T04:10:51+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MENDOZA VIGO edson Wagner FIR 47299545 sw 1557f1bd2271429152a83ea0306f9fa5c2aa9a5b",
+        "dni": "47299545",
+        "signing_time_utc": "2026-04-13T14:53:06+00:00",
+        "delta_vs_fr_h": 10.703611111111112
+      },
+      {
+        "name": "MEDINA SOTO judith FIR 09486743 sw 9c1bb9cd4729b5a5b0cf76b4247b80b0da4f6c8a",
+        "dni": "09486743",
+        "signing_time_utc": "2026-04-13T14:53:18+00:00",
+        "delta_vs_fr_h": 10.706944444444444
+      },
+      {
+        "name": "MARTINEZ PORRAS roland Rafael FIR 41257917 sw 93812bb29fcc8ea557c1b2da9e1fd5f7aa9cc214",
+        "dni": "41257917",
+        "signing_time_utc": "2026-04-13T14:53:29+00:00",
+        "delta_vs_fr_h": 10.71
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:10:53+00:00"
+    }
+  ]
+}

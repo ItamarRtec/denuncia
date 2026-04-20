@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "083047",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.654303+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "LOCAL DE EDUCACION CULTURA Y DEPORTE",
+    "codigo_local": "54269",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 232,
+    "total_votos_validos": 211,
+    "porcentaje_participacion": 77.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412231418-05'00'",
+    "mod_date_raw": "D:20260412231418-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "600c18945d61f03b788b4ef3a1d1b6b95611aba48addf3f229084a9f3edc5a9c",
+  "pdf_size_bytes": 830073,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:45:43+00:00",
+    "pdf_created_utc": "2026-04-13T04:14:18+00:00",
+    "delta_pdf_vs_fr_seconds": 8915.0,
+    "delta_pdf_vs_fr_hours": 2.4763888888888888,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:25:46.194000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:14:31+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:15:04+00:00",
+    "delta_primer_humano_vs_fr_h": 2.48,
+    "delta_ultimo_humano_vs_fr_h": 2.4891666666666667,
+    "agente_utc": "2026-04-13T01:45:41+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "GUTIERREZ INGA vanessa FIR 47468834 sw daca0a5099bb4d620cbf020796c6ca494dbaf27c",
+        "dni": "47468834",
+        "signing_time_utc": "2026-04-13T04:14:31+00:00",
+        "delta_vs_fr_h": 2.48
+      },
+      {
+        "name": "GUTIERREZ SAENZ carlos Antonio FIR 09255936 sw 5fdb3b5019215259118fb41509839d1d0b09feb2",
+        "dni": "09255936",
+        "signing_time_utc": "2026-04-13T04:14:51+00:00",
+        "delta_vs_fr_h": 2.4855555555555555
+      },
+      {
+        "name": "GUERRA GOMEZ rosana Milagros FIR 08718354 sw 8b9b612ac2ddfd5aaac68f3e6a3177d1cd18f444",
+        "dni": "08718354",
+        "signing_time_utc": "2026-04-13T04:15:04+00:00",
+        "delta_vs_fr_h": 2.4891666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:45:43+00:00"
+    }
+  ]
+}

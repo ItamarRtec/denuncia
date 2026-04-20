@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050850",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.444502+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP COLEGIO MIXTO SANTA TERESITA",
+    "codigo_local": "3213",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 249,
+    "total_votos_validos": 241,
+    "porcentaje_participacion": 83.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222812-05'00'",
+    "mod_date_raw": "D:20260412222812-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "31f1138d83656d6319841aa5499531d5b1ad7fa1bf2126e2453b1d5330f4c289",
+  "pdf_size_bytes": 831145,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:14:07+00:00",
+    "pdf_created_utc": "2026-04-13T03:28:12+00:00",
+    "delta_pdf_vs_fr_seconds": 8045.0,
+    "delta_pdf_vs_fr_hours": 2.234722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:00:12.830000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:29:32+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:29:58+00:00",
+    "delta_primer_humano_vs_fr_h": 2.2569444444444446,
+    "delta_ultimo_humano_vs_fr_h": 2.2641666666666667,
+    "agente_utc": "2026-04-13T01:14:05+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARBURUA SALGADO orieta Rosario FIR 08626956 sw 0ba7a3dffdd76e3c3e578c601be771eeb6e4c616",
+        "dni": "08626956",
+        "signing_time_utc": "2026-04-13T03:29:32+00:00",
+        "delta_vs_fr_h": 2.2569444444444446
+      },
+      {
+        "name": "ARANA MORALES ellioth Damian FIR 44815147 sw 49d7f64eea392df2734045ced4a1b3660c839591",
+        "dni": "44815147",
+        "signing_time_utc": "2026-04-13T03:29:46+00:00",
+        "delta_vs_fr_h": 2.2608333333333333
+      },
+      {
+        "name": "ARANDA GIRALDO juan Carlos FIR 08834083 sw 65a6b9ed247edd4a8bef98d112487c52605d6b43",
+        "dni": "08834083",
+        "signing_time_utc": "2026-04-13T03:29:58+00:00",
+        "delta_vs_fr_h": 2.2641666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:14:07+00:00"
+    }
+  ]
+}

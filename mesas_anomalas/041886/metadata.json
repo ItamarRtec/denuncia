@@ -1,0 +1,74 @@
+{
+  "codigo_mesa": "041886",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.238917+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7076 BRISAS DE VILLA",
+    "codigo_local": "2871",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 228,
+    "total_votos_validos": 195,
+    "porcentaje_participacion": 76.254
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085159-05'00'",
+    "mod_date_raw": "D:20260413085159-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "a719fdddad60989e2c8932232ce8633e38dff246152f84148d4cd3eb96edffd1",
+  "pdf_size_bytes": 831690,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:23:02+00:00",
+    "pdf_created_utc": "2026-04-13T13:51:59+00:00",
+    "delta_pdf_vs_fr_seconds": 41337.0,
+    "delta_pdf_vs_fr_hours": 11.4825,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:27:56.303000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 2,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T13:53:01+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:53:17+00:00",
+    "delta_primer_humano_vs_fr_h": 11.499722222222223,
+    "delta_ultimo_humano_vs_fr_h": 11.504166666666666,
+    "agente_utc": "2026-04-13T02:22:59+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CESAR RAMOS david Augusto FIR 41348350 sw 27954627ee1cad8b29bdaab9c7ed22a1a7684e1c",
+        "dni": "41348350",
+        "signing_time_utc": "2026-04-13T13:53:01+00:00",
+        "delta_vs_fr_h": 11.499722222222223
+      },
+      {
+        "name": "CASTRO CORCUERA loretta Liliana Ynes FIR 07028153 sw da0f378c6a98fa576d948ff3c2cc3df8d7a0ea92",
+        "dni": "07028153",
+        "signing_time_utc": "2026-04-13T13:53:17+00:00",
+        "delta_vs_fr_h": 11.504166666666666
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:23:02+00:00"
+    }
+  ]
+}

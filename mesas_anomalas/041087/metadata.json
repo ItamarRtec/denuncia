@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "041087",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.300066+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 2026 SIMON BOLIVAR",
+    "codigo_local": "50371",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 271,
+    "total_votos_validos": 246,
+    "porcentaje_participacion": 90.635
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413032747-05'00'",
+    "mod_date_raw": "D:20260413032747-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "41ade26118e9c9d8820bb6ec41cb2da4d325d4301057efeaf8337acc74c63b14",
+  "pdf_size_bytes": 830454,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:30:34+00:00",
+    "pdf_created_utc": "2026-04-13T08:27:47+00:00",
+    "delta_pdf_vs_fr_seconds": 21433.0,
+    "delta_pdf_vs_fr_hours": 5.953611111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:20:04.493000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T08:28:07+00:00",
+    "ultimo_humano_utc": "2026-04-13T08:28:36+00:00",
+    "delta_primer_humano_vs_fr_h": 5.9591666666666665,
+    "delta_ultimo_humano_vs_fr_h": 5.967222222222222,
+    "agente_utc": "2026-04-13T02:14:08+00:00",
+    "delta_agente_vs_fr_h": -0.2738888888888889,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "IPENZA VERA david Francisco FIR 09031701 sw 5e1ba5229ba368fd9802802be24cc990f0f81997",
+        "dni": "09031701",
+        "signing_time_utc": "2026-04-13T08:28:07+00:00",
+        "delta_vs_fr_h": 5.9591666666666665
+      },
+      {
+        "name": "HERNANDEZ AQUIJE alex Martin FIR 21575356 sw c6e67c1380d0195ecf7edc5e1dd1afb22e6abded",
+        "dni": "21575356",
+        "signing_time_utc": "2026-04-13T08:28:23+00:00",
+        "delta_vs_fr_h": 5.963611111111111
+      },
+      {
+        "name": "INCIO VILLEGAS maria Elena FIR 45478042 sw 552feb0b1ae06f567f35947a326bd117f48b19ea",
+        "dni": "45478042",
+        "signing_time_utc": "2026-04-13T08:28:36+00:00",
+        "delta_vs_fr_h": 5.967222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:30:34+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:14:11+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "039747",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.356742+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CARABAYLLO",
+    "ubigeo": "140105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTIAGO ANTUNEZ DE MAYOLO",
+    "codigo_local": "12913",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 245,
+    "total_votos_validos": 224,
+    "porcentaje_participacion": 81.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224202-05'00'",
+    "mod_date_raw": "D:20260412224202-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "6c8420319bf8fb617e89b971f73aae90c964a3914b5d05bef64fa58cfb644a2d",
+  "pdf_size_bytes": 830906,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:39:56+00:00",
+    "pdf_created_utc": "2026-04-13T03:42:02+00:00",
+    "delta_pdf_vs_fr_seconds": 7326.0,
+    "delta_pdf_vs_fr_hours": 2.035,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:37:14.578000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:43:55+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:44:46+00:00",
+    "delta_primer_humano_vs_fr_h": 2.066388888888889,
+    "delta_ultimo_humano_vs_fr_h": 2.0805555555555557,
+    "agente_utc": "2026-04-13T01:39:54+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ZABALETA YOPLAC noelita FIR 48105717 sw 03d25dd9ccdac75eb37ce351ff6c147872ca00c2",
+        "dni": "48105717",
+        "signing_time_utc": "2026-04-13T03:43:55+00:00",
+        "delta_vs_fr_h": 2.066388888888889
+      },
+      {
+        "name": "VARGAS SOTELO barbara Luzgarda FIR 06256928 sw 5ed565f100b467d214aad46b86baba175091eda0",
+        "dni": "06256928",
+        "signing_time_utc": "2026-04-13T03:44:17+00:00",
+        "delta_vs_fr_h": 2.0725
+      },
+      {
+        "name": "VILLAFUERTE VENTURA macarena Samantha FIR 70954232 sw 603e2864bb6765580c2b70278499b7388ad126be",
+        "dni": "70954232",
+        "signing_time_utc": "2026-04-13T03:44:46+00:00",
+        "delta_vs_fr_h": 2.0805555555555557
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:39:56+00:00"
+    }
+  ]
+}

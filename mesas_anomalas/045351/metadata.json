@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045351",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.781237+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL SEDE LOCAL 05",
+    "codigo_local": "54289",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 279,
+    "total_votos_validos": 272,
+    "porcentaje_participacion": 93.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412210818-05'00'",
+    "mod_date_raw": "D:20260412210818-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c7add2acd86941fed0532a6ff10c0bfb2fde925f5afb2397767a0d5ed3995172",
+  "pdf_size_bytes": 855680,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:51:36+00:00",
+    "pdf_created_utc": "2026-04-13T02:08:18+00:00",
+    "delta_pdf_vs_fr_seconds": 4602.0,
+    "delta_pdf_vs_fr_hours": 1.2783333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:31:18.253000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:08:40+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:09:31+00:00",
+    "delta_primer_humano_vs_fr_h": 1.2844444444444445,
+    "delta_ultimo_humano_vs_fr_h": 1.2986111111111112,
+    "agente_utc": "2026-04-13T00:51:34+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PINEDA ARBULU maria Del Pilar Lydia FIR 25717076 sw 24e6a5c2a429766821a684f5bc16281e17caffd1",
+        "dni": "25717076",
+        "signing_time_utc": "2026-04-13T02:08:40+00:00",
+        "delta_vs_fr_h": 1.2844444444444445
+      },
+      {
+        "name": "RIVEROS TEJADA alain Gonzalo FIR 41535976 sw a9ee29d448257ee769356bf13a8636693529f340",
+        "dni": "41535976",
+        "signing_time_utc": "2026-04-13T02:08:57+00:00",
+        "delta_vs_fr_h": 1.2891666666666666
+      },
+      {
+        "name": "SANCHEZ ALVAREZ melissa FIR 42165242 sw a36aa1c03ff5327d54c6af4ccd3e734d3e6bfd0b",
+        "dni": "42165242",
+        "signing_time_utc": "2026-04-13T02:09:09+00:00",
+        "delta_vs_fr_h": 1.2925
+      },
+      {
+        "name": "CAIRO URBINA rosa Sarahi FIR 71693457 sw 5c86c1e910d31014f2c9135182fee4b53305df62",
+        "dni": "71693457",
+        "signing_time_utc": "2026-04-13T02:09:31+00:00",
+        "delta_vs_fr_h": 1.2986111111111112
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:51:36+00:00"
+    }
+  ]
+}

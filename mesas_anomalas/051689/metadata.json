@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051689",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.403623+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "CEBE ESPECIAL SURQUILLO",
+    "codigo_local": "3224",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 255,
+    "total_votos_validos": 246,
+    "porcentaje_participacion": 85.284
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413004624-05'00'",
+    "mod_date_raw": "D:20260413004624-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b8a66ee76a17c9978503506c1999a71651565832a9cd0b7fb56b603de4dffd10",
+  "pdf_size_bytes": 830234,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:22:32+00:00",
+    "pdf_created_utc": "2026-04-13T05:46:24+00:00",
+    "delta_pdf_vs_fr_seconds": 15832.0,
+    "delta_pdf_vs_fr_hours": 4.397777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:02:49.575000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:46:52+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:47:24+00:00",
+    "delta_primer_humano_vs_fr_h": 4.405555555555556,
+    "delta_ultimo_humano_vs_fr_h": 4.414444444444444,
+    "agente_utc": "2026-04-13T01:22:30+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "LAMA SALOMON selim Adel FIR 10267160 sw 6fc1dfceb09c45b0fa983d2ba9fbfbae5def5f2f",
+        "dni": "10267160",
+        "signing_time_utc": "2026-04-13T05:46:52+00:00",
+        "delta_vs_fr_h": 4.405555555555556
+      },
+      {
+        "name": "LLONTOP MOYA jorge Luis FIR 06990225 sw 0da09490e44f45ae074773754c6fa99b58a741a2",
+        "dni": "06990225",
+        "signing_time_utc": "2026-04-13T05:47:08+00:00",
+        "delta_vs_fr_h": 4.41
+      },
+      {
+        "name": "LEUNG GRANADOS kai Jong FIR 44120847 sw ca05f8d67919c638dcfcdd223df6cbb2850155d5",
+        "dni": "44120847",
+        "signing_time_utc": "2026-04-13T05:47:24+00:00",
+        "delta_vs_fr_h": 4.414444444444444
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:22:32+00:00"
+    }
+  ]
+}

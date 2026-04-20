@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "056887",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.823741+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 149 CAPITAN PNP JORGE CIEZA LACHOS",
+    "codigo_local": "3441",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 261,
+    "total_votos_validos": 235,
+    "porcentaje_participacion": 87.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222036-05'00'",
+    "mod_date_raw": "D:20260412222036-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "8138f16f8757c86e487ae0b1334019353926acaf28e5a18ba3e62bf53a337ad3",
+  "pdf_size_bytes": 830288,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:40:39+00:00",
+    "pdf_created_utc": "2026-04-13T03:20:36+00:00",
+    "delta_pdf_vs_fr_seconds": 5997.0,
+    "delta_pdf_vs_fr_hours": 1.6658333333333333,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:39:25.712000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:20:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:21:15+00:00",
+    "delta_primer_humano_vs_fr_h": 1.67,
+    "delta_ultimo_humano_vs_fr_h": 1.6766666666666667,
+    "agente_utc": "2026-04-13T01:40:37+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MEDINA NAVARRO felipe Augusto FIR 09328399 sw cbc0a87f83f5e91b6e592d95e9ffa0fa8b64246d",
+        "dni": "09328399",
+        "signing_time_utc": "2026-04-13T03:20:51+00:00",
+        "delta_vs_fr_h": 1.67
+      },
+      {
+        "name": "LOPEZ NAUPAY fabrizzio FIR 60942219 sw 1f1d8bc721dfa038a20c94dd1c5345b62b7feb63",
+        "dni": "60942219",
+        "signing_time_utc": "2026-04-13T03:21:04+00:00",
+        "delta_vs_fr_h": 1.6736111111111112
+      },
+      {
+        "name": "LUCANA QUISPE bridney FIR 60722271 sw d770df9571e4bd808881c7dfcde43dc75b4727fd",
+        "dni": "60722271",
+        "signing_time_utc": "2026-04-13T03:21:15+00:00",
+        "delta_vs_fr_h": 1.6766666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:40:39+00:00"
+    }
+  ]
+}

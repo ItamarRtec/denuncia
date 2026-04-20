@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "052902",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.743279+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "VILLA MARÍA DEL TRIUNFO",
+    "ubigeo": "140132",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP FRIEDRICH WOHLER",
+    "codigo_local": "14350",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 234,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 78.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213439-05'00'",
+    "mod_date_raw": "D:20260412213439-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "b88a96cdc300a633bf6f9b452ea48804f61af0837d9f07c2422b24d2fbd907d8",
+  "pdf_size_bytes": 830538,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:08:12+00:00",
+    "pdf_created_utc": "2026-04-13T02:34:39+00:00",
+    "delta_pdf_vs_fr_seconds": 5187.0,
+    "delta_pdf_vs_fr_hours": 1.4408333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:44:38.054000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:35:30+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:35:58+00:00",
+    "delta_primer_humano_vs_fr_h": 1.455,
+    "delta_ultimo_humano_vs_fr_h": 1.4627777777777777,
+    "agente_utc": "2026-04-13T01:08:10+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARATOMA DIAZ veronica Tola FIR 41908610 sw 1ad4ac3b794ce8b9e709fad7cc48ad4c976cb274",
+        "dni": "41908610",
+        "signing_time_utc": "2026-04-13T02:35:30+00:00",
+        "delta_vs_fr_h": 1.455
+      },
+      {
+        "name": "BUTILIER CELESTINO jairo Junior FIR 76673011 sw fb42cb790d454eac853b97e6dec2c51db8931fcb",
+        "dni": "76673011",
+        "signing_time_utc": "2026-04-13T02:35:45+00:00",
+        "delta_vs_fr_h": 1.4591666666666667
+      },
+      {
+        "name": "BAZAN MALDONADO luis Yordan FIR 42225472 sw e86f2803187d8c553aaf603a4b155eaa1db61cfa",
+        "dni": "42225472",
+        "signing_time_utc": "2026-04-13T02:35:58+00:00",
+        "delta_vs_fr_h": 1.4627777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:08:12+00:00"
+    }
+  ]
+}

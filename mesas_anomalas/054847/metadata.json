@@ -1,0 +1,98 @@
+{
+  "codigo_mesa": "054847",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.404601+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7211 VIRGEN INMACULADA",
+    "codigo_local": "3346",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 270,
+    "total_votos_validos": 233,
+    "porcentaje_participacion": 90.301
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412232655-05'00'",
+    "mod_date_raw": "D:20260412232655-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "6274245532a561d9affdd2ef2b1ad84af7b8b91c90ddf8b320003d0f012e7cae",
+  "pdf_size_bytes": 906875,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:56:10+00:00",
+    "pdf_created_utc": "2026-04-13T04:26:55+00:00",
+    "delta_pdf_vs_fr_seconds": 9045.0,
+    "delta_pdf_vs_fr_hours": 2.5125,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:49:06.062000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 7,
+  "firmas_summary": {
+    "n_humanos": 6,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:27:13+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:28:26+00:00",
+    "delta_primer_humano_vs_fr_h": 2.5175,
+    "delta_ultimo_humano_vs_fr_h": 2.537777777777778,
+    "agente_utc": "2026-04-13T01:56:07+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DIAZ ULLOA walter Hermenegildo FIR 17859885 sw f99377e2c1d4a2ca9ce65dfe96998c20d5740267",
+        "dni": "17859885",
+        "signing_time_utc": "2026-04-13T04:27:13+00:00",
+        "delta_vs_fr_h": 2.5175
+      },
+      {
+        "name": "FLORES ARIAS edmer Robinson FIR 09651732 sw a7a1ae36c63a34c0f0f061a3c21b57b69f73e81f",
+        "dni": "09651732",
+        "signing_time_utc": "2026-04-13T04:27:27+00:00",
+        "delta_vs_fr_h": 2.5213888888888887
+      },
+      {
+        "name": "GARCIA LEDESMA felipe FIR 07951987 sw 9ff23f0ee67d6f11f047c81d4e071a8b0367dd7b",
+        "dni": "07951987",
+        "signing_time_utc": "2026-04-13T04:27:38+00:00",
+        "delta_vs_fr_h": 2.5244444444444443
+      },
+      {
+        "name": "ALDORADIN TOMAYQUISPE maria Esther FIR 09143855 sw 28f3ae9e874e36feb56e0004e282dfcab61cc7f5",
+        "dni": "09143855",
+        "signing_time_utc": "2026-04-13T04:28:04+00:00",
+        "delta_vs_fr_h": 2.5316666666666667
+      },
+      {
+        "name": "LAZARO QUISPE herlinda FIR 07421394 sw 00537ac8f9914286087ace81f49e9803517f91d9",
+        "dni": "07421394",
+        "signing_time_utc": "2026-04-13T04:28:16+00:00",
+        "delta_vs_fr_h": 2.535
+      },
+      {
+        "name": "PUMA VALERIANO DE YTO carmen FIR 06930106 sw 74f13cbe4079b826dff83990f11111fa8edcc6e4",
+        "dni": "06930106",
+        "signing_time_utc": "2026-04-13T04:28:26+00:00",
+        "delta_vs_fr_h": 2.537777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:56:10+00:00"
+    }
+  ]
+}

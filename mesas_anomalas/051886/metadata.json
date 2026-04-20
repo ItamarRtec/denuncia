@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051886",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:03.440256+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COMPLEJO DEPORTIVO PAUL HARRIS - MOROCOCHA",
+    "codigo_local": "14161",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 219,
+    "total_votos_validos": 195,
+    "porcentaje_participacion": 73.244
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412223057-05'00'",
+    "mod_date_raw": "D:20260412223057-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "997e136554ab8c58beaca5e547e04c157ae49dcb81b1b9f1492de882320690ee",
+  "pdf_size_bytes": 830957,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:29:29+00:00",
+    "pdf_created_utc": "2026-04-13T03:30:57+00:00",
+    "delta_pdf_vs_fr_seconds": 7288.0,
+    "delta_pdf_vs_fr_hours": 2.0244444444444443,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:04:38.325000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:31:26+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:32:45+00:00",
+    "delta_primer_humano_vs_fr_h": 2.0325,
+    "delta_ultimo_humano_vs_fr_h": 2.0544444444444445,
+    "agente_utc": "2026-04-13T01:29:28+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SEMINARIO SOSA hernan Alberto FIR 08825125 sw 47ca2de448f37f4653c119a21b47b741e3c9f6dd",
+        "dni": "08825125",
+        "signing_time_utc": "2026-04-13T03:31:26+00:00",
+        "delta_vs_fr_h": 2.0325
+      },
+      {
+        "name": "SERPA MACCHIAVELLO alex Augusto FIR 07547342 sw 47e632d7e23900f9fec333b74d6eec302eabb17e",
+        "dni": "07547342",
+        "signing_time_utc": "2026-04-13T03:32:15+00:00",
+        "delta_vs_fr_h": 2.046111111111111
+      },
+      {
+        "name": "SORIA LOPEZ pedro Eduardo Sebastian FIR 42223337 sw f025d7f73f452a72c6da13b339f7ee233a9cd8ba",
+        "dni": "42223337",
+        "signing_time_utc": "2026-04-13T03:32:45+00:00",
+        "delta_vs_fr_h": 2.0544444444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:29:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036889",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.042305+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SACO OLIVEROS - CIPRESES ELIO",
+    "codigo_local": "52460",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 226,
+    "total_votos_validos": 203,
+    "porcentaje_participacion": 75.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413073529-05'00'",
+    "mod_date_raw": "D:20260413073529-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "3edc03920e7181b3a6a75d3835a3bacc79661f49b510de1879149a345789288f",
+  "pdf_size_bytes": 830478,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:59:48+00:00",
+    "pdf_created_utc": "2026-04-13T12:35:29+00:00",
+    "delta_pdf_vs_fr_seconds": 27341.0,
+    "delta_pdf_vs_fr_hours": 7.594722222222222,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T09:09:54.323000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:35:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:36:47+00:00",
+    "delta_primer_humano_vs_fr_h": 7.6,
+    "delta_ultimo_humano_vs_fr_h": 7.616388888888889,
+    "agente_utc": "2026-04-13T04:59:47+00:00",
+    "delta_agente_vs_fr_h": -0.0002777777777777778,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CANTORAL AMAU fabrizio Rafael FIR 71466671 sw cfc583dea29cfce0925edd02908a6a18cf8900ff",
+        "dni": "71466671",
+        "signing_time_utc": "2026-04-13T12:35:48+00:00",
+        "delta_vs_fr_h": 7.6
+      },
+      {
+        "name": "CASTRO ACUNA jean Pierre FIR 71732886 sw a2ba9767036a70663cd0e5e748738cc142bea0b1",
+        "dni": "71732886",
+        "signing_time_utc": "2026-04-13T12:36:12+00:00",
+        "delta_vs_fr_h": 7.6066666666666665
+      },
+      {
+        "name": "CASTILLO VARGAS julissa Jannet FIR 09957591 sw 1c8c5949d057eeb6140351d1c95a61d30f51c1d3",
+        "dni": "09957591",
+        "signing_time_utc": "2026-04-13T12:36:47+00:00",
+        "delta_vs_fr_h": 7.616388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:59:48+00:00"
+    }
+  ]
+}

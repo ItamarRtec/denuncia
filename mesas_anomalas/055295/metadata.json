@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "055295",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.802973+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE DE ACCION CONJUNTA PADRE ILUMINATO",
+    "codigo_local": "3375",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 240,
+    "total_votos_validos": 212,
+    "porcentaje_participacion": 80.268
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413010138-05'00'",
+    "mod_date_raw": "D:20260413010138-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "05b24a8ee83699b6ead0a29dbadfc5b83243b8f224111d198c45552b55b80bf6",
+  "pdf_size_bytes": 880354,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:05:21+00:00",
+    "pdf_created_utc": "2026-04-13T06:01:38+00:00",
+    "delta_pdf_vs_fr_seconds": 14177.0,
+    "delta_pdf_vs_fr_hours": 3.9380555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:34:44.543000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T06:01:55+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:03:51+00:00",
+    "delta_primer_humano_vs_fr_h": 3.9427777777777777,
+    "delta_ultimo_humano_vs_fr_h": 3.975,
+    "agente_utc": "2026-04-13T02:05:18+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "LOPEZ CARRASCO celia FIR 43152614 sw c19bef110c4b1ad22e18c6ffd722f9e9cfa492fb",
+        "dni": "43152614",
+        "signing_time_utc": "2026-04-13T06:01:55+00:00",
+        "delta_vs_fr_h": 3.9427777777777777
+      },
+      {
+        "name": "LOPEZ LINO pedro Luis FIR 09589071 sw db6500b3ff77143f68ef280c54212bbcd7c75898",
+        "dni": "09589071",
+        "signing_time_utc": "2026-04-13T06:02:06+00:00",
+        "delta_vs_fr_h": 3.9458333333333333
+      },
+      {
+        "name": "LEGUIA MAITAN alejandro FIR 31182149 sw 16602637ea8e638d7c70c52a9e0a25a884ef79d5",
+        "dni": "31182149",
+        "signing_time_utc": "2026-04-13T06:02:17+00:00",
+        "delta_vs_fr_h": 3.948888888888889
+      },
+      {
+        "name": "NOVELLA DUCOS manuel FIR 07460575 sw b651a5e13b89276aec1075a0f78d2fd68a6aedf4",
+        "dni": "07460575",
+        "signing_time_utc": "2026-04-13T06:02:59+00:00",
+        "delta_vs_fr_h": 3.9605555555555556
+      },
+      {
+        "name": "MIRANDA HUAMAN rafael FIR 10567928 sw 84e379400837b20fcfe010f5d998342b53c2802e",
+        "dni": "10567928",
+        "signing_time_utc": "2026-04-13T06:03:51+00:00",
+        "delta_vs_fr_h": 3.975
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:05:21+00:00"
+    }
+  ]
+}

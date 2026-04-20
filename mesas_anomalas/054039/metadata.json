@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "054039",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:17.488984+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "INDEPENDENCIA",
+    "ubigeo": "140134",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 3056 GRAN BRETAÑA",
+    "codigo_local": "13120",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 252,
+    "total_votos_validos": 223,
+    "porcentaje_participacion": 84.281
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412235921-05'00'",
+    "mod_date_raw": "D:20260412235921-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e19bc073578298a9b6f09c6f439606a8c77691e70b732f1bda291e0f2cce09c1",
+  "pdf_size_bytes": 831002,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:14:08+00:00",
+    "pdf_created_utc": "2026-04-13T04:59:21+00:00",
+    "delta_pdf_vs_fr_seconds": 9913.0,
+    "delta_pdf_vs_fr_hours": 2.7536111111111112,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:02:26.560000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:03:21+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:04:46+00:00",
+    "delta_primer_humano_vs_fr_h": 2.8202777777777777,
+    "delta_ultimo_humano_vs_fr_h": 2.843888888888889,
+    "agente_utc": "2026-04-13T02:14:04+00:00",
+    "delta_agente_vs_fr_h": -0.0011111111111111111,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BENAVIDES AMPUERO christian Paul FIR 07536101 sw f47aaca2fbe23490fc15a6e8e6ceebfadba7921e",
+        "dni": "07536101",
+        "signing_time_utc": "2026-04-13T05:03:21+00:00",
+        "delta_vs_fr_h": 2.8202777777777777
+      },
+      {
+        "name": "CARBAJAL CRISOSTOMO cirila FIR 09521396 sw 0bb196487f9a26e02ce7bf62ca9f5f8e3d5044ac",
+        "dni": "09521396",
+        "signing_time_utc": "2026-04-13T05:04:32+00:00",
+        "delta_vs_fr_h": 2.84
+      },
+      {
+        "name": "CAPILLO HANCCO jorge Armando FIR 43309311 sw 4fb89fade1960e4cf329becc19fe79b7fbbac864",
+        "dni": "43309311",
+        "signing_time_utc": "2026-04-13T05:04:46+00:00",
+        "delta_vs_fr_h": 2.843888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:14:08+00:00"
+    }
+  ]
+}

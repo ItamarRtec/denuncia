@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "045350",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:05.290911+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL FEDERICO VILLARREAL SEDE LOCAL 05",
+    "codigo_local": "54289",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 276,
+    "total_votos_validos": 271,
+    "porcentaje_participacion": 92.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412221124-05'00'",
+    "mod_date_raw": "D:20260412221124-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "db08ee470d9a54579d8d85222fe7344c571c98835b1c0a753d3f84607b4e2cc9",
+  "pdf_size_bytes": 881520,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:55:00+00:00",
+    "pdf_created_utc": "2026-04-13T03:11:24+00:00",
+    "delta_pdf_vs_fr_seconds": 8184.0,
+    "delta_pdf_vs_fr_hours": 2.2733333333333334,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:47:02.643000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:12:06+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:13:38+00:00",
+    "delta_primer_humano_vs_fr_h": 2.285,
+    "delta_ultimo_humano_vs_fr_h": 2.3105555555555557,
+    "agente_utc": "2026-04-13T00:54:58+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "OLAECHEA PEREA ursula Maria FIR 07869641 sw e116952fb83ca75c735d9d860b9eec07bcd77356",
+        "dni": "07869641",
+        "signing_time_utc": "2026-04-13T03:12:06+00:00",
+        "delta_vs_fr_h": 2.285
+      },
+      {
+        "name": "MORON DE LA TORRE gustavo Jorge Luis FIR 22093320 sw 1a33a1de1c8a28eac24d34205f2a09a2c94d7ae0",
+        "dni": "22093320",
+        "signing_time_utc": "2026-04-13T03:12:22+00:00",
+        "delta_vs_fr_h": 2.2894444444444444
+      },
+      {
+        "name": "MESIA SANCHEZ selva Del Rocio FIR 18085194 sw 5ae4604597033e2d75d3b37a3c945afcca7819c6",
+        "dni": "18085194",
+        "signing_time_utc": "2026-04-13T03:12:34+00:00",
+        "delta_vs_fr_h": 2.292777777777778
+      },
+      {
+        "name": "MARROQUIN CALDERON DE SMITH patricia FIR 07773837 sw 8e6dd14d89092434356ae9860496a201bb820c90",
+        "dni": "07773837",
+        "signing_time_utc": "2026-04-13T03:13:02+00:00",
+        "delta_vs_fr_h": 2.3005555555555555
+      },
+      {
+        "name": "ALIAGA VIDAL julio Ernesto FIR 06394553 sw 740bc526a7caaa1a8cf95eed474933b160a5b68b",
+        "dni": "06394553",
+        "signing_time_utc": "2026-04-13T03:13:38+00:00",
+        "delta_vs_fr_h": 2.3105555555555557
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:55:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "057742",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.592676+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE LURIGANCHO",
+    "ubigeo": "140137",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP BENJAMIN FRANKLIN",
+    "codigo_local": "18499",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 239,
+    "total_votos_validos": 218,
+    "porcentaje_participacion": 79.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413065543-05'00'",
+    "mod_date_raw": "D:20260413065543-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "05767799127959cb6f7000c85a7392f457734bcdc337f69e9658bc60da2648e7",
+  "pdf_size_bytes": 830440,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T04:12:45+00:00",
+    "pdf_created_utc": "2026-04-13T11:55:43+00:00",
+    "delta_pdf_vs_fr_seconds": 27778.0,
+    "delta_pdf_vs_fr_hours": 7.716111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:40:36.835000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T11:56:35+00:00",
+    "ultimo_humano_utc": "2026-04-13T11:56:59+00:00",
+    "delta_primer_humano_vs_fr_h": 7.730555555555555,
+    "delta_ultimo_humano_vs_fr_h": 7.737222222222222,
+    "agente_utc": "2026-04-13T04:12:42+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "GONZALEZ CASACHAGUA maricielo FIR 70726660 sw 694460e5353f127ad49c95863eaa4894018507ad",
+        "dni": "70726660",
+        "signing_time_utc": "2026-04-13T11:56:35+00:00",
+        "delta_vs_fr_h": 7.730555555555555
+      },
+      {
+        "name": "HORNA HUARCAYA leonardo FIR 48398698 sw 4d42dffd6ebcc24dea3c330f495f0c4a0dd510df",
+        "dni": "48398698",
+        "signing_time_utc": "2026-04-13T11:56:48+00:00",
+        "delta_vs_fr_h": 7.734166666666667
+      },
+      {
+        "name": "HUACHO CUEVA tracy Francis FIR 60773047 sw 5618ed232e009508a9e4367a97c6f677da871b8a",
+        "dni": "60773047",
+        "signing_time_utc": "2026-04-13T11:56:59+00:00",
+        "delta_vs_fr_h": 7.737222222222222
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T04:12:45+00:00"
+    }
+  ]
+}

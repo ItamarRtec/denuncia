@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "055308",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.034343+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE FE Y ALEGRIA 3",
+    "codigo_local": "3376",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 233,
+    "total_votos_validos": 209,
+    "porcentaje_participacion": 77.926
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413005319-05'00'",
+    "mod_date_raw": "D:20260413005319-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5ef03acfd33058c8018de27e560b4e96c1d5b69f476d47da37ae0a0d21643107",
+  "pdf_size_bytes": 856478,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:28:14+00:00",
+    "pdf_created_utc": "2026-04-13T05:53:19+00:00",
+    "delta_pdf_vs_fr_seconds": 8705.0,
+    "delta_pdf_vs_fr_hours": 2.4180555555555556,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:32:45.591000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T05:53:37+00:00",
+    "ultimo_humano_utc": "2026-04-13T05:54:53+00:00",
+    "delta_primer_humano_vs_fr_h": 2.4230555555555555,
+    "delta_ultimo_humano_vs_fr_h": 2.444166666666667,
+    "agente_utc": "2026-04-13T03:28:12+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "AGUILAR BARRENECHEA hibeth Yovana FIR 09573717 sw 4d42830fdde8c106a3bb41ac6a32a237a0f8a028",
+        "dni": "09573717",
+        "signing_time_utc": "2026-04-13T05:53:37+00:00",
+        "delta_vs_fr_h": 2.4230555555555555
+      },
+      {
+        "name": "ALEJO GALLEGOS carmen Rosa FIR 09410542 sw 4f17837130e6b37c3ca022056f3355003f27b7e2",
+        "dni": "09410542",
+        "signing_time_utc": "2026-04-13T05:53:51+00:00",
+        "delta_vs_fr_h": 2.4269444444444446
+      },
+      {
+        "name": "AGUIRRE CARMONA darwin FIR 45267895 sw 63d7a09bd068d8a9ea4c4576b5d645858a784601",
+        "dni": "45267895",
+        "signing_time_utc": "2026-04-13T05:54:01+00:00",
+        "delta_vs_fr_h": 2.4297222222222223
+      },
+      {
+        "name": "HUAMANI FLORES amilcar FIR 10034665 sw d4e2760994939a4301ac0a2bd51cd5353dd0fd53",
+        "dni": "10034665",
+        "signing_time_utc": "2026-04-13T05:54:53+00:00",
+        "delta_vs_fr_h": 2.444166666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:28:14+00:00"
+    }
+  ]
+}

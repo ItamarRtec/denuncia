@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "044433",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.184221+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LURIGANCHO",
+    "ubigeo": "140112",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP FRANCOIS VIETE",
+    "codigo_local": "13462",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 231,
+    "total_votos_validos": 192,
+    "porcentaje_participacion": 77.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412205555-05'00'",
+    "mod_date_raw": "D:20260412205555-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "7429f76d5c46af0159cada5caf8381cb990aa6bfd5cb7dde45421b7b23158602",
+  "pdf_size_bytes": 829871,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:59:20+00:00",
+    "pdf_created_utc": "2026-04-13T01:55:55+00:00",
+    "delta_pdf_vs_fr_seconds": 3395.0,
+    "delta_pdf_vs_fr_hours": 0.9430555555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:40:16.367000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T01:56:32+00:00",
+    "ultimo_humano_utc": "2026-04-13T01:57:06+00:00",
+    "delta_primer_humano_vs_fr_h": 0.9533333333333334,
+    "delta_ultimo_humano_vs_fr_h": 0.9627777777777777,
+    "agente_utc": "2026-04-13T00:59:18+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "YUPANQUI SINCHE raul FIR 42280656 sw ef1f7a2f023a23aca913917848faf2c9d4f9b632",
+        "dni": "42280656",
+        "signing_time_utc": "2026-04-13T01:56:32+00:00",
+        "delta_vs_fr_h": 0.9533333333333334
+      },
+      {
+        "name": "VALER HUARANGA ariana Amy FIR 61342618 sw 2acc463de0179301b48eb3ba9086cdb96e93097e",
+        "dni": "61342618",
+        "signing_time_utc": "2026-04-13T01:56:51+00:00",
+        "delta_vs_fr_h": 0.9586111111111111
+      },
+      {
+        "name": "VILLALVA MORENO flavio FIR 74241840 sw 7a3591875ff6965f1b8cfe3581f199affe26c8e6",
+        "dni": "74241840",
+        "signing_time_utc": "2026-04-13T01:57:06+00:00",
+        "delta_vs_fr_h": 0.9627777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:59:20+00:00"
+    }
+  ]
+}

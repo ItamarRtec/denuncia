@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "042117",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.354285+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "CHORRILLOS",
+    "ubigeo": "140108",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEI PARROQUIAL JESUS MAESTRO",
+    "codigo_local": "12988",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 267,
+    "total_votos_validos": 239,
+    "porcentaje_participacion": 89.298
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412213316-05'00'",
+    "mod_date_raw": "D:20260412213316-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e9e3756077a8e7b4905c218d262754e4bcb17dc15235b93ab364a8f73d503d6d",
+  "pdf_size_bytes": 830523,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:43:54+00:00",
+    "pdf_created_utc": "2026-04-13T02:33:16+00:00",
+    "delta_pdf_vs_fr_seconds": 2962.0,
+    "delta_pdf_vs_fr_hours": 0.8227777777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:26:33.657000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:33:48+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:34:09+00:00",
+    "delta_primer_humano_vs_fr_h": 0.8316666666666667,
+    "delta_ultimo_humano_vs_fr_h": 0.8375,
+    "agente_utc": "2026-04-13T01:43:52+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BULNES PEREZ carlos Alberto FIR 73023741 sw 261f467509b2667955b1f00d91a568a0004903a6",
+        "dni": "73023741",
+        "signing_time_utc": "2026-04-13T02:33:48+00:00",
+        "delta_vs_fr_h": 0.8316666666666667
+      },
+      {
+        "name": "ALBUJAR SAAVEDRA jose Luis FIR 40404286 sw c298f8498bb8322d26a120f916214d1c1898aadf",
+        "dni": "40404286",
+        "signing_time_utc": "2026-04-13T02:33:58+00:00",
+        "delta_vs_fr_h": 0.8344444444444444
+      },
+      {
+        "name": "ARIAS GONZALES franklin Christian FIR 42194447 sw eeeeaeedd786c89bc8640650005480521ad2cdcb",
+        "dni": "42194447",
+        "signing_time_utc": "2026-04-13T02:34:09+00:00",
+        "delta_vs_fr_h": 0.8375
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:43:54+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045036",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:16.717275+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7003 MANUEL FERNANDO BONILLA",
+    "codigo_local": "2982",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 218,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412234219-05'00'",
+    "mod_date_raw": "D:20260412234219-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "eba371b3dfbe636fe1548c75bcaf25e05b3ab75ffa5d2ac37ec1084b5e796b01",
+  "pdf_size_bytes": 856583,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:57:59+00:00",
+    "pdf_created_utc": "2026-04-13T04:42:19+00:00",
+    "delta_pdf_vs_fr_seconds": 9860.0,
+    "delta_pdf_vs_fr_hours": 2.738888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:38:27.355000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T04:42:40+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:43:06+00:00",
+    "delta_primer_humano_vs_fr_h": 2.7447222222222223,
+    "delta_ultimo_humano_vs_fr_h": 2.7519444444444443,
+    "agente_utc": "2026-04-13T01:57:57+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "DELLEPIANI MENDOZA italo Fabrizio FIR 76880348 sw 01eb0b71f98edabb716732beedc63ca340cadeeb",
+        "dni": "76880348",
+        "signing_time_utc": "2026-04-13T04:42:40+00:00",
+        "delta_vs_fr_h": 2.7447222222222223
+      },
+      {
+        "name": "ESPANTOSO NEYRA DE FITTS maria Linda FIR 08256486 sw db59c26f88142c476841480cf8b15e2a40ae1311",
+        "dni": "08256486",
+        "signing_time_utc": "2026-04-13T04:42:54+00:00",
+        "delta_vs_fr_h": 2.748611111111111
+      },
+      {
+        "name": "DAVILA PALACIOS carlos Oswaldo FIR 41810982 sw 7452b1636bbdf51b8b286554108ef6e32573ebdc",
+        "dni": "41810982",
+        "signing_time_utc": "2026-04-13T04:43:06+00:00",
+        "delta_vs_fr_h": 2.7519444444444443
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:57:59+00:00"
+    }
+  ]
+}

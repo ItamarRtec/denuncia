@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "040976",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.302613+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "COMAS",
+    "ubigeo": "140106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP AL GORE",
+    "codigo_local": "17984",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 235,
+    "total_votos_validos": 209,
+    "porcentaje_participacion": 78.595
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412224849-05'00'",
+    "mod_date_raw": "D:20260412224849-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "40a699d52d059d1349cbb3cb2545521b6a7eb2dd57f6e90077f8916c59d435ab",
+  "pdf_size_bytes": 856394,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:23:10+00:00",
+    "pdf_created_utc": "2026-04-13T03:48:49+00:00",
+    "delta_pdf_vs_fr_seconds": 1539.0,
+    "delta_pdf_vs_fr_hours": 0.4275,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T03:22:27.406000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T03:49:19+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:49:57+00:00",
+    "delta_primer_humano_vs_fr_h": 0.43583333333333335,
+    "delta_ultimo_humano_vs_fr_h": 0.4463888888888889,
+    "agente_utc": "2026-04-13T01:54:03+00:00",
+    "delta_agente_vs_fr_h": -1.4852777777777777,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BELTRAN ALBERCA jose Alfredo FIR 06885253 sw 27f6a70cb7416cc72040657da7cfba8a411c34fc",
+        "dni": "06885253",
+        "signing_time_utc": "2026-04-13T03:49:19+00:00",
+        "delta_vs_fr_h": 0.43583333333333335
+      },
+      {
+        "name": "ALVILDO PACHECO marco Antonio FIR 42396925 sw 530fd625cfb0b7f573112e5de8fe67b043ba8d4e",
+        "dni": "42396925",
+        "signing_time_utc": "2026-04-13T03:49:37+00:00",
+        "delta_vs_fr_h": 0.44083333333333335
+      },
+      {
+        "name": "GUERRERO VIDAL clara Zenaida FIR 06106532 sw ff30e70933d0e9261e72828a0646435f9e231349",
+        "dni": "06106532",
+        "signing_time_utc": "2026-04-13T03:49:57+00:00",
+        "delta_vs_fr_h": 0.4463888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:23:10+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:54:05+00:00"
+    }
+  ]
+}

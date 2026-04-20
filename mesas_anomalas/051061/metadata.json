@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051061",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:59.196130+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 6097 MATEO PUMACAHUA",
+    "codigo_local": "5120",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 224,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412234105-05'00'",
+    "mod_date_raw": "D:20260412234105-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "71bb4616a4e16e0f879085dae3188f12b7f0115f54defaf006c2799c298a4eb6",
+  "pdf_size_bytes": 832944,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:10:22+00:00",
+    "pdf_created_utc": "2026-04-13T04:41:05+00:00",
+    "delta_pdf_vs_fr_seconds": 12643.0,
+    "delta_pdf_vs_fr_hours": 3.5119444444444445,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:22:12.719000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:42:08+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:42:28+00:00",
+    "delta_primer_humano_vs_fr_h": 3.5294444444444446,
+    "delta_ultimo_humano_vs_fr_h": 3.535,
+    "agente_utc": "2026-04-13T01:10:20+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CONDE PUCHURI donny Alexis FIR 74860735 sw b22d3ac5947ba1fcf5894ed602a9d847c8483e3a",
+        "dni": "74860735",
+        "signing_time_utc": "2026-04-13T04:42:08+00:00",
+        "delta_vs_fr_h": 3.5294444444444446
+      },
+      {
+        "name": "CONTRERAS PACOSONCCO leidy Brigitte FIR 61212931 sw 51d5dce36d5d0228232bc4c6541d647d303f15ea",
+        "dni": "61212931",
+        "signing_time_utc": "2026-04-13T04:42:19+00:00",
+        "delta_vs_fr_h": 3.5325
+      },
+      {
+        "name": "CRUCES FERNANDEZ diego Enrique FIR 70612267 sw 1a58be2f5ced799bd016e9c39df3d193c01ceaf6",
+        "dni": "70612267",
+        "signing_time_utc": "2026-04-13T04:42:28+00:00",
+        "delta_vs_fr_h": 3.535
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:10:22+00:00"
+    }
+  ]
+}

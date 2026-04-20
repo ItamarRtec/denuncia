@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "045236",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:14.303912+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTA RITA DE CASIA",
+    "codigo_local": "2996",
+    "total_electores_habiles": 230,
+    "total_votos_emitidos": 174,
+    "total_votos_validos": 163,
+    "porcentaje_participacion": 75.652
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413073842-05'00'",
+    "mod_date_raw": "D:20260413073842-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "c548b0a8552fb35d95f443ab7cc6cddfac0a7414e404785b896ad6963fc7f565",
+  "pdf_size_bytes": 857160,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:45:48+00:00",
+    "pdf_created_utc": "2026-04-13T12:38:42+00:00",
+    "delta_pdf_vs_fr_seconds": 39174.0,
+    "delta_pdf_vs_fr_hours": 10.881666666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:38:05.823000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 2,
+    "primer_humano_utc": "2026-04-13T12:39:18+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:40:13+00:00",
+    "delta_primer_humano_vs_fr_h": 10.891666666666667,
+    "delta_ultimo_humano_vs_fr_h": 10.906944444444445,
+    "agente_utc": "2026-04-13T01:45:46+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "APARICIO SALCEDO bruno Sebastian FIR 71245010 sw 0d6af066b3a70c2ce0e7a1781f29af0f39dbbffe",
+        "dni": "71245010",
+        "signing_time_utc": "2026-04-13T12:39:18+00:00",
+        "delta_vs_fr_h": 10.891666666666667
+      },
+      {
+        "name": "ALEJOS MORALES viviana Guadalupe FIR 09339509 sw 2ecc207427ede5ca0f3e099bb18880c9a99b880b",
+        "dni": "09339509",
+        "signing_time_utc": "2026-04-13T12:39:47+00:00",
+        "delta_vs_fr_h": 10.899722222222222
+      },
+      {
+        "name": "GAGO CARTULIN guillermo Rafael FIR 10553916 sw d833beff152affb27a4687b79e68831c120dd136",
+        "dni": "10553916",
+        "signing_time_utc": "2026-04-13T12:40:13+00:00",
+        "delta_vs_fr_h": 10.906944444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:45:48+00:00"
+    }
+  ]
+}

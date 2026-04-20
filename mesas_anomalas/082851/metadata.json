@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "082851",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:12.876093+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "CARMEN DE LA LEGUA - REYNOSO",
+    "ubigeo": "240104",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ANTON COLLEGE",
+    "codigo_local": "50399",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 228,
+    "total_votos_validos": 195,
+    "porcentaje_participacion": 76.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412233840-05'00'",
+    "mod_date_raw": "D:20260412233840-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "99e424f9bd5e03ac23b3fa20fa61426beea8f5ca4dbe9c4f88cbb22a5082091b",
+  "pdf_size_bytes": 881699,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:54:55+00:00",
+    "pdf_created_utc": "2026-04-13T04:38:40+00:00",
+    "delta_pdf_vs_fr_seconds": 6225.0,
+    "delta_pdf_vs_fr_hours": 1.7291666666666667,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:15:15.590000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T04:38:53+00:00",
+    "ultimo_humano_utc": "2026-04-13T04:40:50+00:00",
+    "delta_primer_humano_vs_fr_h": 1.7327777777777778,
+    "delta_ultimo_humano_vs_fr_h": 1.7652777777777777,
+    "agente_utc": "2026-04-13T02:54:52+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ZAPATA RIVASPLATA hanssen David FIR 72884949 sw 6f7089163359b98aa2df4a8ab1b9e5e07b5eb306",
+        "dni": "72884949",
+        "signing_time_utc": "2026-04-13T04:38:53+00:00",
+        "delta_vs_fr_h": 1.7327777777777778
+      },
+      {
+        "name": "ZEVALLOS VINATEA giuliano Paul FIR 25775012 sw a0eb25568cbc23797caeddeb9fcb756f3a78453c",
+        "dni": "25775012",
+        "signing_time_utc": "2026-04-13T04:39:04+00:00",
+        "delta_vs_fr_h": 1.7358333333333333
+      },
+      {
+        "name": "ZARATE CANELAO janck Carlos FIR 47731644 sw ac98d9521efff2062e0a6ac8eadabd01b9402382",
+        "dni": "47731644",
+        "signing_time_utc": "2026-04-13T04:39:14+00:00",
+        "delta_vs_fr_h": 1.738611111111111
+      },
+      {
+        "name": "VASQUEZ POVEA diana Carolina FIR 47885446 sw feb2cdd733936eba57b042838c8f830502afda4f",
+        "dni": "47885446",
+        "signing_time_utc": "2026-04-13T04:39:59+00:00",
+        "delta_vs_fr_h": 1.751111111111111
+      },
+      {
+        "name": "MONTEDORO BERNAOLA alfredo Manuel FIR 25700700 sw fe4f7aeea3c75d32fc423c7e3b5794cd40e9e553",
+        "dni": "25700700",
+        "signing_time_utc": "2026-04-13T04:40:50+00:00",
+        "delta_vs_fr_h": 1.7652777777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:54:55+00:00"
+    }
+  ]
+}

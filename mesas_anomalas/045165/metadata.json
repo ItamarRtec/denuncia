@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "045165",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:56.934709+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "MIRAFLORES",
+    "ubigeo": "140115",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE FEDERICO VILLARREAL",
+    "codigo_local": "2989",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 208,
+    "total_votos_validos": 197,
+    "porcentaje_participacion": 69.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413014100-05'00'",
+    "mod_date_raw": "D:20260413014100-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "62dc378f1f51a50c813b4d9fec9bca53931ec3b3fbdd06c0bd202e2e2cf8d071",
+  "pdf_size_bytes": 856409,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:55:02+00:00",
+    "pdf_created_utc": "2026-04-13T06:41:00+00:00",
+    "delta_pdf_vs_fr_seconds": 17158.0,
+    "delta_pdf_vs_fr_hours": 4.766111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:38:39.025000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T06:41:23+00:00",
+    "ultimo_humano_utc": "2026-04-13T06:42:22+00:00",
+    "delta_primer_humano_vs_fr_h": 4.7725,
+    "delta_ultimo_humano_vs_fr_h": 4.788888888888889,
+    "agente_utc": "2026-04-13T01:54:57+00:00",
+    "delta_agente_vs_fr_h": -0.001388888888888889,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "VASQUEZ MAYTA carmen Lucia FIR 74225854 sw 3b2c19fa94afd17f3b1ed2a41c7eae364fd36f49",
+        "dni": "74225854",
+        "signing_time_utc": "2026-04-13T06:41:23+00:00",
+        "delta_vs_fr_h": 4.7725
+      },
+      {
+        "name": "VALDIVIESO VIDARTE haydee Grace FIR 06790169 sw 460af453d6f2e24b85d2824df53f9ff23b05490f",
+        "dni": "06790169",
+        "signing_time_utc": "2026-04-13T06:41:42+00:00",
+        "delta_vs_fr_h": 4.777777777777778
+      },
+      {
+        "name": "VASQUEZ ALVAREZ luis Anthony FIR 48710273 sw b5a9f98592a329dd381362feae7ed77f23394121",
+        "dni": "48710273",
+        "signing_time_utc": "2026-04-13T06:41:58+00:00",
+        "delta_vs_fr_h": 4.782222222222222
+      },
+      {
+        "name": "PERALTA QUISPE arthur Rene FIR 43307045 sw 5fb309810ded4725fd031607b57d51cf791995e4",
+        "dni": "43307045",
+        "signing_time_utc": "2026-04-13T06:42:22+00:00",
+        "delta_vs_fr_h": 4.788888888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:55:02+00:00"
+    }
+  ]
+}

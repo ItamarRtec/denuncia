@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "047952",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:01.103493+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN ISIDRO",
+    "ubigeo": "140124",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "ESTACIONAMIENTO PETROPERU",
+    "codigo_local": "54844",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 199,
+    "total_votos_validos": 182,
+    "porcentaje_participacion": 66.555
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413080128-05'00'",
+    "mod_date_raw": "D:20260413080128-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "be1b908b1aa48b11afeb08a09ff392b1b492e7a85819b8664398fe28a6bb8c34",
+  "pdf_size_bytes": 831638,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:31:57+00:00",
+    "pdf_created_utc": "2026-04-13T13:01:28+00:00",
+    "delta_pdf_vs_fr_seconds": 41371.0,
+    "delta_pdf_vs_fr_hours": 11.491944444444444,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:59:56.865000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:15:08+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:22:40+00:00",
+    "delta_primer_humano_vs_fr_h": 11.719722222222222,
+    "delta_ultimo_humano_vs_fr_h": 11.845277777777778,
+    "agente_utc": "2026-04-13T01:31:55+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "SANCHEZ ZAVALETA carlos Alberto FIR 08274394 sw 4faec688c149fa8f6a2ac91752c7d3f63ab30128",
+        "dni": "08274394",
+        "signing_time_utc": "2026-04-13T13:15:08+00:00",
+        "delta_vs_fr_h": 11.719722222222222
+      },
+      {
+        "name": "SANTOS VILLALOBOS gloria FIR 27434447 sw 1c6b801d638699d8303fd70f57fa241f6bc6ac83",
+        "dni": "27434447",
+        "signing_time_utc": "2026-04-13T13:21:26+00:00",
+        "delta_vs_fr_h": 11.824722222222222
+      },
+      {
+        "name": "SCHEUERMANN VELARDE connie Alexandra FIR 72698386 sw 00fa8152e43f2b40fc6b4d294a69b2dd70c30928",
+        "dni": "72698386",
+        "signing_time_utc": "2026-04-13T13:22:40+00:00",
+        "delta_vs_fr_h": 11.845277777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:31:57+00:00"
+    }
+  ]
+}

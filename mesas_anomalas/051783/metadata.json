@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051783",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.548159+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SURQUILLO",
+    "ubigeo": "140131",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE NUESTRA SEÑORA DE LOURDES",
+    "codigo_local": "3233",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 238,
+    "total_votos_validos": 214,
+    "porcentaje_participacion": 79.599
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412215654-05'00'",
+    "mod_date_raw": "D:20260412215654-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "bfe6e93690c4936aab965ca26577fc8b250f47addb9d73fc89cfc308d9752485",
+  "pdf_size_bytes": 831161,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:26+00:00",
+    "pdf_created_utc": "2026-04-13T02:56:54+00:00",
+    "delta_pdf_vs_fr_seconds": 5008.0,
+    "delta_pdf_vs_fr_hours": 1.3911111111111112,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:06:41.999000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:57:10+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:57:35+00:00",
+    "delta_primer_humano_vs_fr_h": 1.3955555555555557,
+    "delta_ultimo_humano_vs_fr_h": 1.4025,
+    "agente_utc": "2026-04-13T01:33:23+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARELLANO ROMERO seth Isaac FIR 81695236 sw 5dfeb2edd29f142a234b942974e6ce4bb23d0d82",
+        "dni": "81695236",
+        "signing_time_utc": "2026-04-13T02:57:10+00:00",
+        "delta_vs_fr_h": 1.3955555555555557
+      },
+      {
+        "name": "ALVAREZ CARREON itala Elizabeth FIR 71500103 sw 99ff28d68225bc534588d9fe6b66c210d1aa99b5",
+        "dni": "71500103",
+        "signing_time_utc": "2026-04-13T02:57:23+00:00",
+        "delta_vs_fr_h": 1.3991666666666667
+      },
+      {
+        "name": "ASCOY VELASQUEZ alex Jorge FIR 44898384 sw 7aa0ed731ff3d98c0e537c13d20158919fd1c3ce",
+        "dni": "44898384",
+        "signing_time_utc": "2026-04-13T02:57:35+00:00",
+        "delta_vs_fr_h": 1.4025
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:26+00:00"
+    }
+  ]
+}

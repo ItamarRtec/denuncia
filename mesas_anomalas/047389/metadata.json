@@ -1,0 +1,92 @@
+{
+  "codigo_mesa": "047389",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.448107+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "RÍMAC",
+    "ubigeo": "140122",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+    "codigo_local": "3068",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 209,
+    "total_votos_validos": 180,
+    "porcentaje_participacion": 69.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412211030-05'00'",
+    "mod_date_raw": "D:20260412211030-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "68b8403bdb87dcfad2010c029013de4f816c99c109097377250f76e857c0ddfe",
+  "pdf_size_bytes": 880456,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:32:20+00:00",
+    "pdf_created_utc": "2026-04-13T02:10:30+00:00",
+    "delta_pdf_vs_fr_seconds": 2290.0,
+    "delta_pdf_vs_fr_hours": 0.6361111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:04:13.481000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 6,
+  "firmas_summary": {
+    "n_humanos": 5,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:11:20+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:13:03+00:00",
+    "delta_primer_humano_vs_fr_h": 0.65,
+    "delta_ultimo_humano_vs_fr_h": 0.6786111111111112,
+    "agente_utc": "2026-04-13T01:32:17+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARRIETA SALAS manuel Jesus FIR 71427247 sw ce23a4f146725dc48b3eb8bf2cf73d43d91566f4",
+        "dni": "71427247",
+        "signing_time_utc": "2026-04-13T02:11:20+00:00",
+        "delta_vs_fr_h": 0.65
+      },
+      {
+        "name": "ARIAS VIGILIO percy David FIR 80116171 sw cb169887f8c43a4642cb10c6c0a1fce641134901",
+        "dni": "80116171",
+        "signing_time_utc": "2026-04-13T02:11:46+00:00",
+        "delta_vs_fr_h": 0.6572222222222223
+      },
+      {
+        "name": "ASTETE CORDOVA mario FIR 08155959 sw 447668b430acca986dcb7913b41c66e0a47067df",
+        "dni": "08155959",
+        "signing_time_utc": "2026-04-13T02:12:03+00:00",
+        "delta_vs_fr_h": 0.6619444444444444
+      },
+      {
+        "name": "HUANCA PAASACA nancy Veronica FIR 44946596 sw 4eadeb8d6d192215232e97a6fe4d3cae0270e551",
+        "dni": "44946596",
+        "signing_time_utc": "2026-04-13T02:12:40+00:00",
+        "delta_vs_fr_h": 0.6722222222222223
+      },
+      {
+        "name": "CANALES FLORES DE BRETONECHE nadia Elizabeth FIR 08172402 sw aa64f088c98e1bd307f31bc05cc237a288079b40",
+        "dni": "08172402",
+        "signing_time_utc": "2026-04-13T02:13:03+00:00",
+        "delta_vs_fr_h": 0.6786111111111112
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:32:20+00:00"
+    }
+  ]
+}

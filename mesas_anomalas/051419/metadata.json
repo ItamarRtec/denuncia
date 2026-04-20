@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "051419",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:11.671855+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SANTIAGO DE SURCO",
+    "ubigeo": "140130",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP ST GOSPA SCHOOL",
+    "codigo_local": "52942",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 250,
+    "total_votos_validos": 234,
+    "porcentaje_participacion": 83.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413092943-05'00'",
+    "mod_date_raw": "D:20260413092943-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e071111e21146de12a9e1cc5c4666b2b2087e94401268ba36db12d3522fb3fb3",
+  "pdf_size_bytes": 832058,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:59:34+00:00",
+    "pdf_created_utc": "2026-04-13T14:29:43+00:00",
+    "delta_pdf_vs_fr_seconds": 41409.0,
+    "delta_pdf_vs_fr_hours": 11.5025,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T04:54:00.375000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:34:14+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:39:33+00:00",
+    "delta_primer_humano_vs_fr_h": 11.577777777777778,
+    "delta_ultimo_humano_vs_fr_h": 11.66638888888889,
+    "agente_utc": "2026-04-13T02:59:32+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "KLEEBERG SALAZAR gerardo Enrique FIR 40750590 sw 5b94f682dbae8d30a0b4f53628a9f79f397af2ca",
+        "dni": "40750590",
+        "signing_time_utc": "2026-04-13T14:34:14+00:00",
+        "delta_vs_fr_h": 11.577777777777778
+      },
+      {
+        "name": "GUZMAN CASTILLO oscar Alfonso FIR 08759116 sw 9505b0b55dfeb4cb2719a3096fc2270d3ca77c42",
+        "dni": "08759116",
+        "signing_time_utc": "2026-04-13T14:36:45+00:00",
+        "delta_vs_fr_h": 11.619722222222222
+      },
+      {
+        "name": "HUAPAYA LOAYZA jessica Margarita FIR 44976440 sw c9f5119f3e2f77198331bcb078dc8f81364fccab",
+        "dni": "44976440",
+        "signing_time_utc": "2026-04-13T14:39:33+00:00",
+        "delta_vs_fr_h": 11.66638888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:59:34+00:00"
+    }
+  ]
+}

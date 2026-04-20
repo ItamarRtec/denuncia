@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036508",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:04.959267+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE SIMON BOLIVAR",
+    "codigo_local": "4944",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 254,
+    "total_votos_validos": 236,
+    "porcentaje_participacion": 84.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413080430-05'00'",
+    "mod_date_raw": "D:20260413080430-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "e669a9b78fc12adac2ef9614f8095f3c29945739ec8be24549af70d86210376b",
+  "pdf_size_bytes": 832273,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:48:03+00:00",
+    "pdf_created_utc": "2026-04-13T13:04:30+00:00",
+    "delta_pdf_vs_fr_seconds": 36987.0,
+    "delta_pdf_vs_fr_hours": 10.274166666666666,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T07:59:29.737000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:04:51+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:05:55+00:00",
+    "delta_primer_humano_vs_fr_h": 10.28,
+    "delta_ultimo_humano_vs_fr_h": 10.297777777777778,
+    "agente_utc": "2026-04-13T02:47:36+00:00",
+    "delta_agente_vs_fr_h": -0.0075,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "MALLA GUTIERREZ aldo Dante FIR 06281855 sw e825df7de72c077d0db7b903b1472c8382600ad8",
+        "dni": "06281855",
+        "signing_time_utc": "2026-04-13T13:04:51+00:00",
+        "delta_vs_fr_h": 10.28
+      },
+      {
+        "name": "LLANQUE SANCHO hector Manuel FIR 09431859 sw c0d330f368c93f80e8180ebd767191ea8d2dcde7",
+        "dni": "09431859",
+        "signing_time_utc": "2026-04-13T13:05:21+00:00",
+        "delta_vs_fr_h": 10.288333333333334
+      },
+      {
+        "name": "MEDINA FIGUEREDO DE ABANTO blanca Karina FIR 09927654 sw cc9b929a100599a16d45163c74868b2f1c6cd8b9",
+        "dni": "09927654",
+        "signing_time_utc": "2026-04-13T13:05:55+00:00",
+        "delta_vs_fr_h": 10.297777777777778
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:48:03+00:00"
+    }
+  ]
+}

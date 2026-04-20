@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "083700",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.865045+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "VENTANILLA",
+    "ubigeo": "240106",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 5149",
+    "codigo_local": "23241",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 198,
+    "total_votos_validos": 165,
+    "porcentaje_participacion": 66.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412214454-05'00'",
+    "mod_date_raw": "D:20260412214454-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "ca32ea07f8eebd1d4a7632744018496e1ca24716b4ae2d0ccdc6df3786a996f0",
+  "pdf_size_bytes": 855926,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:41:04+00:00",
+    "pdf_created_utc": "2026-04-13T02:44:54+00:00",
+    "delta_pdf_vs_fr_seconds": 3830.0,
+    "delta_pdf_vs_fr_hours": 1.0638888888888889,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:39:01.935000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:45:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:46:52+00:00",
+    "delta_primer_humano_vs_fr_h": 1.0775,
+    "delta_ultimo_humano_vs_fr_h": 1.0966666666666667,
+    "agente_utc": "2026-04-13T01:41:02+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "FIGUEROA CURO josefina FIR 09753252 sw 8ce3d68c16172489fcb58c9f80e7ee4c00aa967e",
+        "dni": "09753252",
+        "signing_time_utc": "2026-04-13T02:45:43+00:00",
+        "delta_vs_fr_h": 1.0775
+      },
+      {
+        "name": "CUSTODIO JAVIER eliar Eli FIR 72377836 sw 7082dc1fc6c968ff0375b7f83dcf8c81e179b719",
+        "dni": "72377836",
+        "signing_time_utc": "2026-04-13T02:46:00+00:00",
+        "delta_vs_fr_h": 1.0822222222222222
+      },
+      {
+        "name": "CRUZ CAMONES javier Frank FIR 70512546 sw c2010ff2e12c8efd0e46c0569ee0270096509d56",
+        "dni": "70512546",
+        "signing_time_utc": "2026-04-13T02:46:23+00:00",
+        "delta_vs_fr_h": 1.0886111111111112
+      },
+      {
+        "name": "QUISPE GABRIEL segundo Oswaldo FIR 08860596 sw fd880b16580d15762d526c732ea82181277520f9",
+        "dni": "08860596",
+        "signing_time_utc": "2026-04-13T02:46:52+00:00",
+        "delta_vs_fr_h": 1.0966666666666667
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:41:04+00:00"
+    }
+  ]
+}

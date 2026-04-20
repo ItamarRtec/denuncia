@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "047227",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:07.739455+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "RÍMAC",
+    "ubigeo": "140122",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE LUCIE RYNNING DE ANTUNEZ DE MAYOLO",
+    "codigo_local": "3063",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 215,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413093439-05'00'",
+    "mod_date_raw": "D:20260413093439-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "611fb8862a384531fab1fc222b71a7ffb50cdbc6c82e69127824f80acef89435",
+  "pdf_size_bytes": 831315,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T02:56:32+00:00",
+    "pdf_created_utc": "2026-04-13T14:34:39+00:00",
+    "delta_pdf_vs_fr_seconds": 41887.0,
+    "delta_pdf_vs_fr_hours": 11.635277777777778,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T12:58:10.190000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T14:34:55+00:00",
+    "ultimo_humano_utc": "2026-04-13T14:35:21+00:00",
+    "delta_primer_humano_vs_fr_h": 11.639722222222222,
+    "delta_ultimo_humano_vs_fr_h": 11.646944444444445,
+    "agente_utc": "2026-04-13T02:56:15+00:00",
+    "delta_agente_vs_fr_h": -0.004722222222222222,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "GAMARRA VELEZ mariana Gissilla FIR 41955264 sw b2b6388bf7929f7dbfa101af831ee5f08fdd77d0",
+        "dni": "41955264",
+        "signing_time_utc": "2026-04-13T14:34:55+00:00",
+        "delta_vs_fr_h": 11.639722222222222
+      },
+      {
+        "name": "FAJARDO CELIS victor Hugo FIR 08057294 sw 79c5ad8ca0a827af6e3a2c0def80cd79cf98c76f",
+        "dni": "08057294",
+        "signing_time_utc": "2026-04-13T14:35:08+00:00",
+        "delta_vs_fr_h": 11.643333333333333
+      },
+      {
+        "name": "ESPINOZA LOZA cesar Anthony FIR 40594032 sw 5d3d7830e3a3b61aee96ff948148aa16d99ef305",
+        "dni": "40594032",
+        "signing_time_utc": "2026-04-13T14:35:21+00:00",
+        "delta_vs_fr_h": 11.646944444444445
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T02:56:32+00:00"
+    }
+  ]
+}

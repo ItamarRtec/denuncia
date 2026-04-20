@@ -1,0 +1,68 @@
+{
+  "codigo_mesa": "055887",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:53:58.165888+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN JUAN DE MIRAFLORES",
+    "ubigeo": "140136",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 7070 DRA MARIA REICHE GROSSE NEUMAN",
+    "codigo_local": "53231",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 231,
+    "total_votos_validos": 220,
+    "porcentaje_participacion": 77.258
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412214117-05'00'",
+    "mod_date_raw": "D:20260412214117-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "658e1d549d45d4f3ea601d02fbd27439711c802f46e08e8440d102fbf8379477",
+  "pdf_size_bytes": 830507,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T01:33:06.746000+00:00",
+    "pdf_created_utc": "2026-04-13T02:41:17+00:00",
+    "delta_create_upload_seconds": -4090.3,
+    "delta_create_upload_hours": -1.1361944444444445,
+    "delta_create_upload_days": -0.04734143518518519
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T02:41:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T02:42:18+00:00",
+    "delta_primer_humano_h": 1.1434038888888889,
+    "delta_ultimo_humano_h": 1.153126111111111,
+    "delta_agente_h": -0.641873888888889,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "GONZALES PAUCAR wendell Saul FIR 77415693 sw 5d9b832b462786edf1fff0d638b135bd8822043e",
+        "dni": "77415693",
+        "signing_time_utc": "2026-04-13T02:41:43+00:00"
+      },
+      {
+        "name": "GUTIERREZ CIEZA edinzon FIR 46366848 sw 5601a7aaa5c160cbd9c8a34b7bff09dbdca14eac",
+        "dni": "46366848",
+        "signing_time_utc": "2026-04-13T02:42:03+00:00"
+      },
+      {
+        "name": "GUZMAN ANTUNEZ camila Alejandra FIR 73426302 sw 3601d4cb34abcd7c2658fea13e367216c6f8eb90",
+        "dni": "73426302",
+        "signing_time_utc": "2026-04-13T02:42:18+00:00"
+      }
+    ]
+  }
+}

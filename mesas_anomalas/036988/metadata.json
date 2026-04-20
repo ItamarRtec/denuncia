@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "036988",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.145171+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP INNOVA SCHOOLS BERTELLO",
+    "codigo_local": "54803",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 223,
+    "total_votos_validos": 188,
+    "porcentaje_participacion": 74.333
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413020630-05'00'",
+    "mod_date_raw": "D:20260413020630-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5113a136e4bea13269608d05bf77b6347faaedd8bb5bb65418795c32771f0e7c",
+  "pdf_size_bytes": 830449,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T03:12:54+00:00",
+    "pdf_created_utc": "2026-04-13T07:06:30+00:00",
+    "delta_pdf_vs_fr_seconds": 14016.0,
+    "delta_pdf_vs_fr_hours": 3.8933333333333335,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T05:54:08.952000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T07:07:52+00:00",
+    "ultimo_humano_utc": "2026-04-13T07:09:03+00:00",
+    "delta_primer_humano_vs_fr_h": 3.9161111111111113,
+    "delta_ultimo_humano_vs_fr_h": 3.9358333333333335,
+    "agente_utc": "2026-04-13T03:12:51+00:00",
+    "delta_agente_vs_fr_h": -0.0008333333333333334,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "PAREDES AGUILAR maria Del Rosario FIR 29673997 sw 10c06ab7f3714129dd4b03232f0e4ebdc4e9dc78",
+        "dni": "29673997",
+        "signing_time_utc": "2026-04-13T07:07:52+00:00",
+        "delta_vs_fr_h": 3.9161111111111113
+      },
+      {
+        "name": "PANIHUARA CAPCHA luz Maria FIR 09960442 sw 65bd99ddfd7d067d5ba5f20f946e0f13c8afde0b",
+        "dni": "09960442",
+        "signing_time_utc": "2026-04-13T07:08:22+00:00",
+        "delta_vs_fr_h": 3.9244444444444446
+      },
+      {
+        "name": "PAREDES SANCHEZ bartolome FIR 06138231 sw 9c66c5c2124e8ba3cb5cb760d24a8fadec88cdf3",
+        "dni": "06138231",
+        "signing_time_utc": "2026-04-13T07:09:03+00:00",
+        "delta_vs_fr_h": 3.9358333333333335
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T03:12:54+00:00"
+    }
+  ]
+}

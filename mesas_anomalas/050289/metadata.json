@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "050289",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:08.097344+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "COLEGIO SACO OLIVEROS DE SAN MIGUEL",
+    "codigo_local": "52595",
+    "total_electores_habiles": 299,
+    "total_votos_emitidos": 243,
+    "total_votos_validos": 231,
+    "porcentaje_participacion": 81.271
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413063355-05'00'",
+    "mod_date_raw": "D:20260413063355-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "f3723ddf8daf17c140fc58a10c3d2c8e2e071813d0ad31f5b1271a9dcc8a2455",
+  "pdf_size_bytes": 831622,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:31:38+00:00",
+    "pdf_created_utc": "2026-04-13T11:33:55+00:00",
+    "delta_pdf_vs_fr_seconds": 36137.0,
+    "delta_pdf_vs_fr_hours": 10.038055555555555,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:02:25.465000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T11:34:20+00:00",
+    "ultimo_humano_utc": "2026-04-13T11:35:19+00:00",
+    "delta_primer_humano_vs_fr_h": 10.045,
+    "delta_ultimo_humano_vs_fr_h": 10.061388888888889,
+    "agente_utc": "2026-04-13T01:31:36+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "BUSTAMANTE POEMAPE thalia Alessandra FIR 70173867 sw c8d9263a00f320f9b43755b94c44167ed8ae7181",
+        "dni": "70173867",
+        "signing_time_utc": "2026-04-13T11:34:20+00:00",
+        "delta_vs_fr_h": 10.045
+      },
+      {
+        "name": "BURGOS CASTRO henrry Ronal FIR 07398912 sw 241c3dfd76e9c075f7887403356575e99a17554a",
+        "dni": "07398912",
+        "signing_time_utc": "2026-04-13T11:34:53+00:00",
+        "delta_vs_fr_h": 10.054166666666667
+      },
+      {
+        "name": "BONILLA RUJEL bryditt Del Pilar FIR 00241673 sw ed244f3a7753debd3fd417a583edb448b110fc55",
+        "dni": "00241673",
+        "signing_time_utc": "2026-04-13T11:35:19+00:00",
+        "delta_vs_fr_h": 10.061388888888889
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:31:38+00:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "codigo_mesa": "036068",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.096681+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "LIMA",
+    "ubigeo": "140101",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE 1001 JOSE JIMENEZ BORJA",
+    "codigo_local": "2642",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 236,
+    "total_votos_validos": 213,
+    "porcentaje_participacion": 78.667
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413075353-05'00'",
+    "mod_date_raw": "D:20260413075353-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "17a6c5134881515c30f52249f3295438aa264a3cf9d6be613af463c273bf9e1e",
+  "pdf_size_bytes": 856952,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:33:47+00:00",
+    "pdf_created_utc": "2026-04-13T12:53:53+00:00",
+    "delta_pdf_vs_fr_seconds": 40806.0,
+    "delta_pdf_vs_fr_hours": 11.335,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T02:21:19.066000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 5,
+  "firmas_summary": {
+    "n_humanos": 4,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T12:54:08+00:00",
+    "ultimo_humano_utc": "2026-04-13T12:55:06+00:00",
+    "delta_primer_humano_vs_fr_h": 11.339166666666667,
+    "delta_ultimo_humano_vs_fr_h": 11.355277777777777,
+    "agente_utc": "2026-04-13T01:33:45+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "CHIRINOS MOGROVEJO maria Azucena FIR 70117700 sw e5809b8c4af5802930bbdb8af9df81b2d42a81e0",
+        "dni": "70117700",
+        "signing_time_utc": "2026-04-13T12:54:08+00:00",
+        "delta_vs_fr_h": 11.339166666666667
+      },
+      {
+        "name": "CASTILLA KROSS karina Monica FIR 09837570 sw 2998f4fc6654a47b3e3b13c1bcf522b1de5c615d",
+        "dni": "09837570",
+        "signing_time_utc": "2026-04-13T12:54:32+00:00",
+        "delta_vs_fr_h": 11.345833333333333
+      },
+      {
+        "name": "CHAMPI SERNADES jhon Lenon FIR 71752697 sw cd83717d68e6cf8730bc0c21d36a0f586170b951",
+        "dni": "71752697",
+        "signing_time_utc": "2026-04-13T12:54:52+00:00",
+        "delta_vs_fr_h": 11.35138888888889
+      },
+      {
+        "name": "HUAMAN HUAMAN anthony Williams FIR 47342233 sw 2736dff992f4bc7079871b02b79b9c5de0b6ac7c",
+        "dni": "47342233",
+        "signing_time_utc": "2026-04-13T12:55:06+00:00",
+        "delta_vs_fr_h": 11.355277777777777
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:33:47+00:00"
+    }
+  ]
+}

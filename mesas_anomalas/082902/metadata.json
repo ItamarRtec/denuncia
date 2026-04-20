@@ -1,0 +1,80 @@
+{
+  "codigo_mesa": "082902",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:02.128985+00:00",
+  "ubicacion": {
+    "departamento": "CALLAO",
+    "provincia": "CALLAO",
+    "distrito": "LA PERLA",
+    "ubigeo": "240105",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE JOSE OLAYA BALANDRA",
+    "codigo_local": "4853",
+    "total_electores_habiles": 256,
+    "total_votos_emitidos": 189,
+    "total_votos_validos": 163,
+    "porcentaje_participacion": 73.828
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222854-05'00'",
+    "mod_date_raw": "D:20260412222854-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "11dca254b0920836fa68c29b779ee842c078a768edb97eea4eda00a59e8779bc",
+  "pdf_size_bytes": 830996,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T01:00:31+00:00",
+    "pdf_created_utc": "2026-04-13T03:28:54+00:00",
+    "delta_pdf_vs_fr_seconds": 8903.0,
+    "delta_pdf_vs_fr_hours": 2.4730555555555553,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:46:31.592000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:29:10+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:29:41+00:00",
+    "delta_primer_humano_vs_fr_h": 2.4775,
+    "delta_ultimo_humano_vs_fr_h": 2.486111111111111,
+    "agente_utc": "2026-04-13T01:00:29+00:00",
+    "delta_agente_vs_fr_h": -0.0005555555555555556,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "ARTEAGA AGUIRRE nicol Darlyn FIR 75152360 sw b1b9a671e249cf3f14b909bbd324a4afac9c54b6",
+        "dni": "75152360",
+        "signing_time_utc": "2026-04-13T03:29:10+00:00",
+        "delta_vs_fr_h": 2.4775
+      },
+      {
+        "name": "ANDRADE POLAR johvany Narciso FIR 25660990 sw cb424b91514fb3863eab28423f89b9195262256f",
+        "dni": "25660990",
+        "signing_time_utc": "2026-04-13T03:29:32+00:00",
+        "delta_vs_fr_h": 2.483611111111111
+      },
+      {
+        "name": "ALBURQUEQUE LADINES raul Humberto FIR 25704808 sw 6e8e20e8c1e389ab33678ebad93db3ea1d6b5242",
+        "dni": "25704808",
+        "signing_time_utc": "2026-04-13T03:29:41+00:00",
+        "delta_vs_fr_h": 2.486111111111111
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T01:00:31+00:00"
+    }
+  ]
+}

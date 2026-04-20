@@ -1,0 +1,85 @@
+{
+  "codigo_mesa": "049997",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:06.290780+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "SAN MIGUEL",
+    "ubigeo": "140127",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IEP SANTO DOMINGO EL APOSTOL",
+    "codigo_local": "3168",
+    "total_electores_habiles": 298,
+    "total_votos_emitidos": 223,
+    "total_votos_validos": 202,
+    "porcentaje_participacion": 74.832
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260412222842-05'00'",
+    "mod_date_raw": "D:20260412222842-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "5fbd7facf7b934f5c3141bb77e25348fe3ed58da8d8ed43b62a87b970e93dccd",
+  "pdf_size_bytes": 830739,
+  "timestamps": {
+    "fecha_registro_utc": "2026-04-13T00:58:02+00:00",
+    "pdf_created_utc": "2026-04-13T03:28:42+00:00",
+    "delta_pdf_vs_fr_seconds": 9040.0,
+    "delta_pdf_vs_fr_hours": 2.511111111111111,
+    "_legacy_onpe_uploaded_utc": "2026-04-13T01:30:55.112000+00:00",
+    "_legacy_note": "El campo onpe_uploaded_utc venía de daudFechaCreacion del archivo, que es un timestamp administrativo del adjunto digital. El momento real de publicación es fecha_registro_utc (de lineaTiempo)."
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T03:28:58+00:00",
+    "ultimo_humano_utc": "2026-04-13T03:29:26+00:00",
+    "delta_primer_humano_vs_fr_h": 2.5155555555555558,
+    "delta_ultimo_humano_vs_fr_h": 2.5233333333333334,
+    "agente_utc": "2026-04-13T00:54:21+00:00",
+    "delta_agente_vs_fr_h": -0.06138888888888889,
+    "humanos_post_publicacion": true,
+    "humanos": [
+      {
+        "name": "TAMARIZ MALLQUI luis Enrique FIR 43596246 sw 44c26816a908d80482d2dbed26f19a2bbe87c643",
+        "dni": "43596246",
+        "signing_time_utc": "2026-04-13T03:28:58+00:00",
+        "delta_vs_fr_h": 2.5155555555555558
+      },
+      {
+        "name": "SORIA ROMERO evelyn Vanessa FIR 41909081 sw bee5dae43d3138f28c4ad31e9d39e97dd2bb56d8",
+        "dni": "41909081",
+        "signing_time_utc": "2026-04-13T03:29:12+00:00",
+        "delta_vs_fr_h": 2.5194444444444444
+      },
+      {
+        "name": "TANGHERLINI GALLO dora Manuela Adelina FIR 09859185 sw 2fd701ff31a9c5b29a61c4b87be8fcea9b9f30dd",
+        "dni": "09859185",
+        "signing_time_utc": "2026-04-13T03:29:26+00:00",
+        "delta_vs_fr_h": 2.5233333333333334
+      }
+    ]
+  },
+  "linea_tiempo": [
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:58:02+00:00"
+    },
+    {
+      "estado": "C",
+      "descripcion": "Contabilizada",
+      "fecha_utc": "2026-04-13T00:54:23+00:00"
+    }
+  ]
+}

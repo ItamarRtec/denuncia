@@ -1,0 +1,68 @@
+{
+  "codigo_mesa": "047329",
+  "level": "nivel_2",
+  "captured_at_utc": "2026-04-19T22:54:09.433115+00:00",
+  "ubicacion": {
+    "departamento": "LIMA",
+    "provincia": "LIMA",
+    "distrito": "RÍMAC",
+    "ubigeo": "140122",
+    "codigo_estado_acta_indice": "C"
+  },
+  "votos_api_onpe": {
+    "estado_acta": "Contabilizada",
+    "codigo_estado_acta": "C",
+    "local_votacion": "IE NACIONAL RIMAC",
+    "codigo_local": "3066",
+    "total_electores_habiles": 300,
+    "total_votos_emitidos": 228,
+    "total_votos_validos": 203,
+    "porcentaje_participacion": 76.0
+  },
+  "pdf_internal": {
+    "creation_date_raw": "D:20260413085426-05'00'",
+    "mod_date_raw": "D:20260413085426-05'00'",
+    "producer": "iText® 5.5.13.3 ©2000-2022 iText Group NV (AGPL-version)",
+    "creator": "",
+    "format": "PDF 1.4",
+    "encrypted": false,
+    "num_pages": 2
+  },
+  "pdf_sha256": "4843aebccbc46fb0f15e6f8d0a75bdefb941bb58d1837fdddf9369e62e4539dd",
+  "pdf_size_bytes": 832215,
+  "timestamps": {
+    "onpe_uploaded_utc": "2026-04-13T06:58:36.871000+00:00",
+    "pdf_created_utc": "2026-04-13T13:54:26+00:00",
+    "delta_create_upload_seconds": -24949.1,
+    "delta_create_upload_hours": -6.930305555555555,
+    "delta_create_upload_days": -0.28876273148148146
+  },
+  "n_firmas_digitales": 4,
+  "firmas_summary": {
+    "n_humanos": 3,
+    "n_agentes": 1,
+    "primer_humano_utc": "2026-04-13T13:56:43+00:00",
+    "ultimo_humano_utc": "2026-04-13T13:57:33+00:00",
+    "delta_primer_humano_h": 6.968369166666667,
+    "delta_ultimo_humano_h": 6.982258055555556,
+    "delta_agente_h": -4.5416308333333335,
+    "humanos_post_upload": true,
+    "humanos": [
+      {
+        "name": "CAHUANA GONZALES naara Gabriel FIR 70708991 sw f98351642aba21d8ba5adce8058a54c4f7e78b73",
+        "dni": "70708991",
+        "signing_time_utc": "2026-04-13T13:56:43+00:00"
+      },
+      {
+        "name": "CALIXTO ESPIRITU fabian Francisco FIR 75035364 sw cd6858f5d101d9a1a4ac6960b9b4844420ef48c2",
+        "dni": "75035364",
+        "signing_time_utc": "2026-04-13T13:57:07+00:00"
+      },
+      {
+        "name": "CABRERA MENDOZA maricielo Abigail FIR 77020239 sw d842698eca05c1f3ded3d0db0c96d54cb073b0cc",
+        "dni": "77020239",
+        "signing_time_utc": "2026-04-13T13:57:33+00:00"
+      }
+    ]
+  }
+}
